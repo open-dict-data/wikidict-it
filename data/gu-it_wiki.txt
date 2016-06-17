@@ -1,0 +1,4144 @@
+આફ્રિકા	Africa
+જાપાન	Giappone
+દક્ષિણ અમેરિકા	America Meridionale
+નોર્વે	Norvegia
+વેલ્સ	Galles
+નોર્ધન આયર્લેન્ડ	Irlanda del Nord
+હંગેરી	Ungheria
+સ્પેન	Spagna
+સંયુક્ત રાજ્ય અમેરિકા	Stati Uniti d'America
+બેલ્જિયમ	Belgio
+લક્ઝેમ્બર્ગ	Lussemburgo
+બ્રહ્માંડ	Universo
+પૃથ્વી	Terra
+મનુષ્ય	Homo sapiens
+ફીનલેંડ	Finlandia
+સ્વિડન	Svezia
+પોલેંડ	Polonia
+લિથુઆનિયા	Lituania
+ઈટલી	Italia
+સ્વિત્ઝરલેન્ડ	Svizzera
+ઑસ્ટ્રિયા	Austria
+ગ્રીસ	Grecia
+તુર્કસ્તાન	Turchia
+પોર્ટુગલ	Portogallo
+યુરોપ	Europa
+એશિયા	Asia
+ઉત્તર અમેરિકા	America del Nord
+ઍન્ટાર્કટિકા	Antartide
+વિકિપીડિયા	Wikipedia
+નેધરલેંડ	Paesi Bassi
+PHP (પ્રોગ્રામિંગ ભાષા)	PHP
+એર બસ	Airbus
+સંગણક	Computer
+ઇન્ટરનેટ	Internet
+ઉરુગ્વે	Uruguay
+કમ્પ્યુટર પ્રિન્ટર	Stampante
+લંડન	Londra
+એલેક્ઝાન્ડ્રિયા	Alessandria d'Egitto
+સફરજન	Mela
+પૅરિસ	Parigi
+ગૂગલ	Google Inc.
+મેક્સિકો	Messico
+સોમવાર	Lunedì
+જાન્યુઆરી	Gennaio
+ફેબ્રુઆરી	Febbraio
+માર્ચ	Marzo
+મંગળ (ગ્રહ)	Marte (astronomia)
+કેન્યા	Kenya
+ઇથિયોપિયા	Etiopia
+ઘાના	Ghana
+એપ્રિલ	Aprile
+મે	Maggio
+જૂન	Giugno
+જુલાઇ	Luglio
+ઓગસ્ટ	Agosto
+સપ્ટેમ્બર	Settembre
+ઓક્ટોબર	Ottobre
+નવેમ્બર	Novembre
+ડિસેમ્બર	Dicembre
+મંગળવાર	Martedì
+બુધવાર	Mercoledì
+ગુરુવાર	Giovedì
+શુક્રવાર	Venerdì
+શનિવાર	Sabato
+રવિવાર	Domenica
+એશિયાઇ સિંહ	Panthera leo
+ફ્રાન્સ	Francia
+યુનાઇટેડ કિંગડમ	Regno Unito
+ચીન	Cina
+માછલી	Pesce
+ઇથેનોલ	Etanolo
+મદ્યાર્ક યુક્ત પીણું	Bevanda alcolica
+બ્રાઝિલ	Brasile
+રશિયા	Russia
+કાળો સમુદ્ર	Mar Nero
+અલાબામા	Alabama
+ક્વિબેક	Québec (provincia)
+વિકિમીડિયા ફાઉન્ડેશન	Wikimedia Foundation
+જીમ્મી વેલ્સ	Jimmy Wales
+જર્મની	Germania
+બેલારુસ	Bielorussia
+જર્મન ભાષા	Lingua tedesca
+આઈસલેંડ	Islanda
+ઈશ્વર	Dio
+ઈસ્ટોનિયા	Estonia
+શનિ (ગ્રહ)	Saturno (astronomia)
+ચેરી	Ciliegia
+૧	1 (numero)
+૦ (શૂન્ય)	0 (numero)
+લાટવિયા	Lettonia
+યુક્રેન	Ucraina
+સ્લોવાકિયા	Slovacchia
+સ્લોવેનિયા	Slovenia
+મોલ્દોવા	Moldavia
+રોમાનિયા	Romania
+બલ્ગેરિયા	Bulgaria
+મેસેડોનિયા	Repubblica di Macedonia
+આલ્બેનિયા	Albania
+ક્રોએશિયા	Croazia
+અઝેરબીજાન	Azerbaigian
+સાયપ્રસ	Cipro
+જ્યોર્જીયા (દેશ)	Georgia
+કઝાકિસ્તાન	Kazakistan
+માલ્ટા	Malta
+મોનૅકો	Principato di Monaco
+મોન્ટેનીગ્રો	Montenegro
+સાન મૅરિનો	San Marino
+ઍફીલ ટાવર	Torre Eiffel
+ઇન્ટેલ કોર્પોરેશન	Intel
+કોમ્પ્યુટર કીબોર્ડ	Tastiera (informatica)
+જાવા (પ્રોગ્રામિંગ ભાષા)	Java (linguaggio di programmazione)
+ઈંડોનેશિયા	Indonesia
+મોઝાર્ટ	Wolfgang Amadeus Mozart
+દક્ષિણ આફ્રિકા	Sudafrica
+વિકિસ્રોત	Wikisource
+ઉઝબેકિસ્તાન	Uzbekistan
+પાણી	Acqua
+ચીલી	Cile
+ઇસુ	Gesù
+ગૅલિલિયો ગૅલિલિ	Galileo Galilei
+બુધ (ગ્રહ)	Mercurio (astronomia)
+ઇતિહાસ	Storia
+શુક્ર (ગ્રહ)	Venere (astronomia)
+ભાષા	Linguaggio
+પ્રેમ	Amore
+આકાશગંગા	Galassia
+ગુરુ (ગ્રહ)	Giove (astronomia)
+યુરેનસ (ગ્રહ)	Urano (astronomia)
+નૅપ્ચ્યુન (ગ્રહ)	Nettuno (astronomia)
+ખગોળશાસ્ત્ર	Astronomia
+સિંગાપુર	Singapore
+વિજ્ઞાન	Scienza
+પ્લૂટો	Plutone (astronomia)
+ફ્રી સૉફ્ટવૅર	Software libero
+લીચેસ્ટેઈન	Liechtenstein
+રમત-ગમત	Sport
+ફેસબુક	Facebook
+જુલિયન અસાંજે	Julian Assange
+બીજું વિશ્વ યુદ્ધ	Seconda guerra mondiale
+ભ્રષ્ટાચાર	Corruzione
+વોડકા	Vodka
+ઉબુન્ટુ (ઓપરેટિંગ સિસ્ટમ)	Ubuntu
+ગણિત	Matematica
+બહેરીન	Bahrein
+આર્મેનિયા	Armenia
+ચંદ્ર	Luna
+ઑસ્ટ્રેલિયા	Australia
+ભૌતિકશાસ્ત્ર	Fisica
+આર્જેન્ટીના	Argentina
+પેરુ (દેશ)	Perù
+જીવવિજ્ઞાન	Biologia
+અજાણી ઊડતી વસ્તુ	UFO
+ઉત્તર કોરિયા	Corea del Nord
+કમ્બોડીયા	Cambogia
+કુરાન	Corano
+ડાયનાસોર	Dinosauria
+પ્રાણીશાસ્ત્ર	Zoologia
+ઇસ્લામ	Islam
+વર્લ્ડ વાઈડ વેબ	World Wide Web
+સ્ત્રી	Donna
+કોમ્પ્યુટર વાયરસ	Virus (informatica)
+હિરોશિમા અને નાગાસાકી પરનો અણુ હુમલો	Bombardamenti atomici di Hiroshima e Nagasaki
+મિલાન	Milano
+લીંબુ	Citrus × limon
+કેળાં	Banana
+ફૂલ	Fiore
+માઉન્ટ એવરેસ્ટ	Everest
+શહેર	Città
+નેપોલિયન બોનાપાર્ટ	Napoleone Bonaparte
+સૂર્ય	Sole
+લૂઈ પાશ્ચર	Louis Pasteur
+પ્રકાશવર્ષ	Anno luce
+ગામ	Villaggio
+સૂર્યમંડળ	Sistema solare
+ચેમ્પ્સ-એલીસીસ (પેરિસ)	Avenue des Champs-Élysées
+ઉદકજન	Idrogeno
+હીલિયમ	Elio
+નર્ક	Inferno
+વિકિમીડિયા કૉમન્સ	Wikimedia Commons
+લિથિયમ	Litio
+બેરિલિયમ	Berillio
+દિવસ	Giorno
+પૂર્વ તિમોર	Timor Est
+વર્ષ	Anno
+ઓસ્લો	Oslo
+કૃષ્ણ વિવર	Buco nero
+સિરસ (વામન ગ્રહ)	Cerere (astronomia)
+હૌમેયા (વામન ગ્રહ)	Haumea (astronomia)
+મેકમેક (વામન ગ્રહ)	Makemake (astronomia)
+બોરોન	Boro
+કાર્બન	Carbonio
+નત્રલવાયુ	Azoto
+પ્રાણવાયુ (ઑક્સીજન)	Ossigeno
+ગ્રહ	Pianeta
+સંગીત	Musica
+ઉષ્ણતામાપક	Termometro
+ફ્લોરિન	Fluoro
+નિયોન	Neon
+ચૅડ	Ciad
+ક્ષારાતુ	Sodio
+ઉત્તર	Nord
+મેગ્નેશિયમ	Magnesio
+સ્ફટયાતુ	Alluminio
+દક્ષિણ	Sud
+ભારત	India
+સિલિકોન	Silicio
+ફ્રાંસીયમ	Francio
+ફોસ્ફરસ	Fosforo
+લોખંડ	Ferro
+પશ્ચિમ	Ovest
+ગંધક	Zolfo
+સમોઆ	Samoa
+નીરજી	Cloro
+વિલિયમ શેક્સપીયર	William Shakespeare
+આર્ગોન	Argon
+નૌરુ	Nauru
+પોટેશિયમ	Potassio
+કેલ્શિયમ	Calcio (elemento chimico)
+સીસું	Piombo
+મંગોલિયા	Mongolia
+સ્કેન્ડિયમ	Scandio
+ટાઇટેનિયમ	Titanio
+વેનેઝુએલા	Venezuela
+ચેસ	Scacchi
+વેનેડિયમ	Vanadio
+વર્ણાતુ	Cromo
+ઘોડો	Equus caballus
+હથિયારો	Arma
+પ્રાણી	Animalia
+સુરીનામ	Suriname
+મેંગેનિઝ	Manganese
+ગુયાના	Guyana
+કલા	Arte
+ઈક્વેડોર	Ecuador
+રિનીયમ	Renio
+કોલમ્બિયા	Colombia
+કોબાલ્ટ	Cobalto
+ટંગસ્ટન	Tungsteno
+નિકલ	Nichel
+બૌદ્ધ ધર્મ	Buddhismo
+બોલીવિયા	Bolivia
+ઓસ્મીયમ	Osmio
+તાંબુ	Rame
+ટ્રિનિદાદ અને ટોબેગો	Trinidad e Tobago
+જસત	Zinco
+ન્યૂ હેમ્પશાયર	New Hampshire
+લિઓનાર્ડો દ વિન્ચી	Leonardo da Vinci
+ગૂગલ ક્રોમ	Google Chrome
+હોન્ડુરાસ	Honduras
+હૈતી	Haiti
+ઈરાન	Iran
+ઈરાક	Iraq
+શાણપણ	Saggezza
+ઈઝરાયલ	Israele
+પનામા	Panamá
+યેમેન	Yemen
+જૉર્ડન	Giordania
+કિર્ગિસ્તાન	Kirghizistan
+કુવૈત	Kuwait
+લાઓસ	Laos
+લેબેનાન	Libano
+માલદીવ્સ	Maldive
+અમેરિકા	America
+મલેશિયા	Malesia
+બર્મા	Birmania
+નેપાળ	Nepal
+ઓમાન	Oman
+પાકિસ્તાન	Pakistan
+જેમ્સ બોન્ડ	James Bond
+કતાર (અરબસ્તાન)	Qatar
+સાઉદી અરેબિયા	Arabia Saudita
+શ્રીલંકા	Sri Lanka
+સ્ટાલિન	Iosif Stalin
+સિરિયા	Siria
+પ્લેટો	Platone
+ગેલિયમ	Gallio (elemento chimico)
+તાજિકિસ્તાન	Tagikistan
+ચીની ગણતંત્ર	Taiwan
+યુ ટ્યુબ	YouTube
+જર્મેનિયમ	Germanio
+એરિસ્ટોટલ	Aristotele
+થાઇલેન્ડ	Thailandia
+સોમલ	Arsenico
+તુર્કમેનિસ્તાન	Turkmenistan
+સેલિનીયમ	Selenio
+ઈરિડીયમ	Iridio
+બ્રોમિન	Bromo
+પ્લેટિનમ	Platino
+વિયેતનામ	Vietnam
+ચાર્લી ચૅપ્લિન	Charlie Chaplin
+દક્ષિણ કોરિયા	Corea del Sud
+ક્રિપ્ટોન	Kripton
+અફઘાનિસ્તાન	Afghanistan
+રુબિડીયમ	Rubidio
+સોનું	Oro
+સુએઝ નહેર	Canale di Suez
+બાંગ્લાદેશ	Bangladesh
+સોક્રેટિસ	Socrate
+ભૂતાન	Bhutan
+બ્રુનેઈ	Brunei
+ટાન્ઝાનિયા	Tanzania
+પારો	Mercurio (elemento chimico)
+ફીલીપાઈન્સ	Filippine
+થેલીયમ	Tallio
+આઇઝેક ન્યુટન	Isaac Newton
+આલ્બર્ટ આઇન્સ્ટાઇન	Albert Einstein
+સ્ટ્રોન્શિયમ	Stronzio
+ઈટ્રીયમ	Ittrio
+બિસ્મથ	Bismuto
+ટોગો	Togo
+ટ્યુનિશિયા	Tunisia
+બેઇજિંગ	Pechino
+બેનિન	Benin
+પોલોનીયમ	Polonio
+એસ્ટાટીન	Astato
+મહાત્મા ગાંધી	Mahatma Gandhi
+મડાગાસ્કર	Madagascar
+સ્ટુટગાર્ટ	Stoccarda
+નાઈજર	Niger
+નાઈજેરિયા	Nigeria
+ચાર્લ્સ ડાર્વિન	Charles Darwin
+ઝિર્કોનિયમ	Zirconio
+નાયોબિયમ	Niobio
+જવાહરલાલ નેહરુ	Jawaharlal Nehru
+જુલિયસ સીઝર	Gaio Giulio Cesare
+સુદાન	Sudan
+સ્વાઝીલેન્ડ	Swaziland
+મેઘધનુષ	Arcobaleno
+મોલિબ્ડેનમ	Molibdeno
+ટેક્નેશિયમ	Tecnezio
+ચયાપચય	Metabolismo
+નરેન્દ્ર મોદી	Narendra Modi
+ગુજરાત	Gujarat
+ઉત્ક્રાંતિ	Evoluzione
+સંયુક્ત રાષ્ટ્રસંઘ	Organizzazione delle Nazioni Unite
+અમદાવાદ	Ahmedabad
+ભૂગોળ	Geografia
+મગજ	Cervello
+સંજ્ઞા	Sostantivo
+રુથેનિયમ	Rutenio
+રોડિયમ	Rodio
+પલેડિયમ	Palladio (elemento chimico)
+ચાંદી	Argento
+કેડમિયમ	Cadmio
+ઈંડિયમ	Indio
+ટીન	Stagno (elemento chimico)
+યુરેનિયમ	Uranio
+એંટિમની	Antimonio
+ટેલુરિયમ	Tellurio
+પ્લુટોનીયમ	Plutonio
+આયોડિન	Iodio
+નેપ્ચ્યુનીયમ	Nettunio
+ઝેનોન	Xeno
+સીસીયમ	Cesio (elemento chimico)
+પ્રોટેક્ટિનીયમ	Protoattinio
+બેરિયમ	Bario
+થોરીયમ	Torio
+હાફનીયમ	Afnio
+એક્ટિનીયમ	Attinio
+ટેન્ટેલમ	Tantalio
+રેડિયમ	Radio (elemento chimico)
+રેડૉન	Radon
+ઈન્દિરા ગાંધી	Indira Gandhi
+જામનગર	Jamnagar
+મુંબઈ	Mumbai
+આંધ્ર પ્રદેશ	Andhra Pradesh
+અરુણાચલ પ્રદેશ	Arunachal Pradesh
+આસામ	Assam
+બિહાર	Bihar
+છત્તીસગઢ	Chhattisgarh
+ગોઆ	Goa
+હરિયાણા	Haryana
+હિમાચલ પ્રદેશ	Himachal Pradesh
+જમ્મુ અને કાશ્મીર	Jammu e Kashmir
+ઝારખંડ	Jharkhand
+કર્ણાટક	Karnataka
+કેરળ	Kerala
+મધ્ય પ્રદેશ	Madhya Pradesh
+યુસૈન બોલ્ટ	Usain Bolt
+મહારાષ્ટ્ર	Maharashtra
+મણિપુર	Manipur
+મેઘાલય	Meghalaya
+બ્રુસ સ્પ્રિન્ગસ્ટીન	Bruce Springsteen
+રુથરફોર્ડીયમ	Rutherfordio
+ડૂબનીયમ	Dubnio
+સીબોર્ગીયમ	Seaborgio
+હિંદ મહાસાગર	Oceano Indiano
+કેરેબિયન સાગર	Mare Caraibico
+બોહ્રીયમ	Bohrio
+હેસીયમ	Hassio
+માઈટનિરીયમ	Meitnerio
+ડાર્મસ્ટેડીયમ	Darmstadtio
+રેન્ટજિનીયમ	Roentgenio
+કોપરનિસીયમ	Copernicio
+ધ બિટલ્સ	The Beatles
+શિયાળો	Inverno
+ઉનાળો	Estate
+સમપ્રકાશીય ઘટના કે વિષુવકાલ	Equinozio
+ફિલાડેલ્ફિયા, પેન્સિલવેનિયા	Filadelfia (Stati Uniti d'America)
+કોલકાતા	Calcutta
+ચેન્નઈ	Chennai
+દિલ્હી	Delhi
+ઢાકા	Dacca
+બેંગલોર	Bangalore
+પશ્ચિમ બંગાળ	Bengala occidentale
+હૈદરાબાદ	Hyderabad
+ઇસ્લામાબાદ	Islamabad
+ત્રિપુરા	Tripura
+સિરીયમ	Cerio
+પ્રેસિયોડિમિયમ	Praseodimio
+નિયોડીમીયમ	Neodimio
+લેનિન	Lenin
+યુરોપિયમ	Europio
+ઊએતેર્સેન્	Uetersen
+ઇન્ડિયાના	Indiana
+નોકિયા	Nokia
+મોટરગાડી	Autovettura
+ટ્રાજન	Traiano
+રોજર ફેડરર	Roger Federer
+રાજસ્થાન	Rajasthan
+તમિલનાડુ	Tamil Nadu
+હોકી	Hockey su prato
+ક્રોહનનો રોગ	Malattia di Crohn
+ઉત્તર પ્રદેશ	Uttar Pradesh
+ઉત્તરાખંડ	Uttarakhand
+મિઝોરમ	Mizoram
+સિક્કિમ	Sikkim
+ટેનેસી	Tennessee
+નાગપુર	Nagpur
+કારાકાસ	Caracas
+પુના	Pune
+આયોવા	Iowa
+નેબ્રાસ્કા	Nebraska
+કેન્સાસ	Kansas
+હિંદી ભાષા	Lingua hindi
+મરાઠી ભાષા	Lingua marathi
+ગણેશ	Ganesha
+મિઝોરી	Missouri
+લ્યુઇસિયાના	Louisiana
+નાગાલેંડ	Nagaland
+અરકાનસાસ	Arkansas
+નીલ આર્મસ્ટ્રૉંગ	Neil Armstrong
+ઉર્દુ ભાષા	Lingua urdu
+ઓક્લાહોમા	Oklahoma
+બુડાપેસ્ટ	Budapest
+લેન્થેનમ	Lantanio
+પ્રોમેથિયમ	Promezio
+સમેરિયમ	Samario
+ગેડોલિનીયમ	Gadolinio
+ટર્બિયમ	Terbio
+ડીસ્પ્રોસીયમ	Disprosio
+બાઇબલ	Bibbia
+હોલ્મીયમ	Olmio
+અર્બિયમ	Erbio
+થુલિયમ	Tulio
+ઈટરબિયમ	Itterbio
+લ્યુટેશિયમ	Lutezio
+સત્ય ઇસુ દેવળ	Vera Chiesa di Gesù
+અંગ્રેજી ભાષા	Lingua inglese
+અમેરિસીયમ	Americio
+ક્યુરીયમ	Curio
+બર્કેલીયમ	Berkelio
+કેલિફોર્નીયમ	Californio
+આઇન્સ્ટેનીયમ	Einsteinio
+ફર્મીયમ	Fermio
+મેન્ડેલિવીયમ	Mendelevio
+નોબેલીયમ	Nobelio
+લોરેન્સીયમ	Laurenzio
+ગુરુના ચંદ્રો	Satelliti naturali di Giove
+કઞ્સ્કવલા	Końskowola
+૨૦૦૧	2001
+વિકિટ્રાવેલ	Wikitravel
+૧૯૯૩	1993
+૧૯૧૦	1910
+સાપ	Serpentes
+મુખ મૈથુન	Sesso orale
+જાન્યુઆરી ૧	1º gennaio
+જાન્યુઆરી ૨	2 gennaio
+સુભાષચંદ્ર બોઝ	Subhas Chandra Bose
+જાન્યુઆરી ૩	3 gennaio
+જાન્યુઆરી ૪	4 gennaio
+જાન્યુઆરી ૫	5 gennaio
+જાન્યુઆરી ૬	6 gennaio
+જાન્યુઆરી ૭	7 gennaio
+જાન્યુઆરી ૮	8 gennaio
+જાન્યુઆરી ૯	9 gennaio
+જાન્યુઆરી ૧૦	10 gennaio
+જાન્યુઆરી ૧૧	11 gennaio
+જાન્યુઆરી ૧૨	12 gennaio
+જાન્યુઆરી ૧૩	13 gennaio
+બર્મિંગહામ	Birmingham
+જાન્યુઆરી ૧૪	14 gennaio
+જાન્યુઆરી ૧૫	15 gennaio
+જાન્યુઆરી ૧૬	16 gennaio
+જાન્યુઆરી ૧૭	17 gennaio
+જાન્યુઆરી ૧૮	18 gennaio
+જાન્યુઆરી ૧૯	19 gennaio
+જાન્યુઆરી ૨૦	20 gennaio
+જાન્યુઆરી ૨૧	21 gennaio
+જાન્યુઆરી ૨૨	22 gennaio
+જાન્યુઆરી ૨૩	23 gennaio
+જાન્યુઆરી ૨૪	24 gennaio
+જાન્યુઆરી ૨૫	25 gennaio
+જાન્યુઆરી ૨૬	26 gennaio
+માઇક્રોસોફ્ટ	Microsoft
+જાન્યુઆરી ૨૭	27 gennaio
+જાન્યુઆરી ૨૮	28 gennaio
+જાન્યુઆરી ૨૯	29 gennaio
+જાન્યુઆરી ૩૦	30 gennaio
+જાન્યુઆરી ૩૧	31 gennaio
+ડિસેમ્બર ૨	2 dicembre
+ડિસેમ્બર ૧	1º dicembre
+ડિસેમ્બર ૩	3 dicembre
+ડિસેમ્બર ૭	7 dicembre
+ડિસેમ્બર ૫	5 dicembre
+ડિસેમ્બર ૮	8 dicembre
+ડિસેમ્બર ૧૦	10 dicembre
+ડિસેમ્બર ૬	6 dicembre
+ડિસેમ્બર ૯	9 dicembre
+પિંક ફ્લોઇડ	Pink Floyd
+ડિસેમ્બર ૪	4 dicembre
+ફેબ્રુઆરી ૧	1º febbraio
+ફેબ્રુઆરી ૨	2 febbraio
+ફેબ્રુઆરી ૩	3 febbraio
+કુરોવ	Kurów
+ફેબ્રુઆરી ૪	4 febbraio
+ફેબ્રુઆરી ૫	5 febbraio
+ફેબ્રુઆરી ૬	6 febbraio
+ફેબ્રુઆરી ૭	7 febbraio
+ફેબ્રુઆરી ૮	8 febbraio
+ફેબ્રુઆરી ૯	9 febbraio
+ફેબ્રુઆરી ૧૦	10 febbraio
+રસાયણ શાસ્ત્ર	Chimica
+ફેબ્રુઆરી ૧૪	14 febbraio
+ફેબ્રુઆરી ૧૩	13 febbraio
+ફેબ્રુઆરી ૧૫	15 febbraio
+ફેબ્રુઆરી ૧૧	11 febbraio
+ફેબ્રુઆરી ૧૨	12 febbraio
+ફેબ્રુઆરી ૧૯	19 febbraio
+ફેબ્રુઆરી ૧૭	17 febbraio
+ફેબ્રુઆરી ૧૬	16 febbraio
+ફેબ્રુઆરી ૧૮	18 febbraio
+ફેબ્રુઆરી ૨૦	20 febbraio
+ફેબ્રુઆરી ૨૧	21 febbraio
+ફેબ્રુઆરી ૨૨	22 febbraio
+ફેબ્રુઆરી ૨૩	23 febbraio
+ફેબ્રુઆરી ૨૪	24 febbraio
+ફેબ્રુઆરી ૨૫	25 febbraio
+ફેબ્રુઆરી ૨૬	26 febbraio
+ફેબ્રુઆરી ૨૭	27 febbraio
+ફેબ્રુઆરી ૨૮	28 febbraio
+ડિસેમ્બર ૧૧	11 dicembre
+ફેબ્રુઆરી ૨૯	29 febbraio
+ડિસેમ્બર ૧૨	12 dicembre
+C શાર્પ (પ્રોગ્રામિંગ ભાષા)	C sharp
+ડિસેમ્બર ૧૩	13 dicembre
+ડિસેમ્બર ૧૪	14 dicembre
+ડિસેમ્બર ૧૫	15 dicembre
+માર્ચ ૨	2 marzo
+માર્ચ ૩	3 marzo
+માર્ચ ૫	5 marzo
+માર્ચ ૧	1º marzo
+માર્ચ ૭	7 marzo
+માર્ચ ૮	8 marzo
+માર્ચ ૪	4 marzo
+માર્ચ ૧૦	10 marzo
+માર્ચ ૧૧	11 marzo
+માર્ચ ૬	6 marzo
+માર્ચ ૧૩	13 marzo
+માર્ચ ૯	9 marzo
+માર્ચ ૧૨	12 marzo
+માર્ચ ૧૫	15 marzo
+માર્ચ ૧૪	14 marzo
+C++(પ્રોગ્રામિંગ ભાષા)	C++
+ડિસેમ્બર ૧૬	16 dicembre
+ડિસેમ્બર ૧૭	17 dicembre
+માર્ચ ૧૬	16 marzo
+માર્ચ ૧૭	17 marzo
+માર્ચ ૧૮	18 marzo
+માર્ચ ૧૯	19 marzo
+માર્ચ ૨૦	20 marzo
+માર્ચ ૨૧	21 marzo
+માર્ચ ૨૨	22 marzo
+ડિસેમ્બર ૧૮	18 dicembre
+માર્ચ ૨૩	23 marzo
+ડિસેમ્બર ૧૯	19 dicembre
+માર્ચ ૨૪	24 marzo
+માર્ચ ૨૫	25 marzo
+ડિસેમ્બર ૨૦	20 dicembre
+માર્ચ ૨૬	26 marzo
+માર્ચ ૨૭	27 marzo
+માર્ચ ૨૮	28 marzo
+માર્ચ ૨૯	29 marzo
+માર્ચ ૩૦	30 marzo
+માર્ચ ૩૧	31 marzo
+એપ્રિલ ૧૫	15 aprile
+એપ્રિલ ૧૩	13 aprile
+એપ્રિલ ૧૨	12 aprile
+એપ્રિલ ૧૪	14 aprile
+એપ્રિલ ૧૧	11 aprile
+એપ્રિલ ૧૦	10 aprile
+એપ્રિલ ૮	8 aprile
+એપ્રિલ ૯	9 aprile
+એપ્રિલ ૭	7 aprile
+એપ્રિલ ૬	6 aprile
+એપ્રિલ ૫	5 aprile
+એપ્રિલ ૪	4 aprile
+એપ્રિલ ૩	3 aprile
+એપ્રિલ ૧	1º aprile
+એપ્રિલ ૨	2 aprile
+એપ્રિલ ૧૬	16 aprile
+એપ્રિલ ૧૭	17 aprile
+એપ્રિલ ૧૮	18 aprile
+એપ્રિલ ૧૯	19 aprile
+એપ્રિલ ૨૦	20 aprile
+એપ્રિલ ૨૧	21 aprile
+એપ્રિલ ૨૨	22 aprile
+એપ્રિલ ૨૩	23 aprile
+એપ્રિલ ૨૪	24 aprile
+એપ્રિલ ૨૫	25 aprile
+એપ્રિલ ૨૬	26 aprile
+એપ્રિલ ૨૭	27 aprile
+એપ્રિલ ૨૮	28 aprile
+એપ્રિલ ૨૯	29 aprile
+એપ્રિલ ૩૦	30 aprile
+મે ૧	1º maggio
+મે ૨	2 maggio
+મે ૩	3 maggio
+મે ૪	4 maggio
+મે ૫	5 maggio
+મે ૬	6 maggio
+મે ૭	7 maggio
+મે ૮	8 maggio
+મે ૯	9 maggio
+મે ૧૦	10 maggio
+મે ૧૧	11 maggio
+મે ૧૨	12 maggio
+મે ૧૩	13 maggio
+મે ૧૪	14 maggio
+મે ૧૫	15 maggio
+મે ૧૬	16 maggio
+મે ૧૭	17 maggio
+મે ૧૮	18 maggio
+મે ૧૯	19 maggio
+મે ૨૦	20 maggio
+મે ૨૧	21 maggio
+મે ૨૨	22 maggio
+મે ૨૩	23 maggio
+મે ૨૪	24 maggio
+મે ૨૫	25 maggio
+મે ૨૬	26 maggio
+મે ૨૭	27 maggio
+મે ૨૮	28 maggio
+મે ૨૯	29 maggio
+મે ૩૦	30 maggio
+મે ૩૧	31 maggio
+ડિસેમ્બર ૨૧	21 dicembre
+જૂન ૧૪	14 giugno
+જૂન ૧૫	15 giugno
+જૂન ૧૩	13 giugno
+જૂન ૧૦	10 giugno
+જૂન ૭	7 giugno
+જૂન ૧૧	11 giugno
+જૂન ૯	9 giugno
+જૂન ૧૨	12 giugno
+જૂન ૬	6 giugno
+જૂન ૮	8 giugno
+જૂન ૫	5 giugno
+જૂન ૩	3 giugno
+જૂન ૨	2 giugno
+જૂન ૧	1º giugno
+જૂન ૪	4 giugno
+ડિસેમ્બર ૨૨	22 dicembre
+જૂન ૧૬	16 giugno
+જૂન ૩૦	30 giugno
+જૂન ૨૯	29 giugno
+જૂન ૨૮	28 giugno
+જૂન ૨૬	26 giugno
+જૂન ૨૫	25 giugno
+જૂન ૨૨	22 giugno
+જૂન ૨૭	27 giugno
+જૂન ૨૪	24 giugno
+જૂન ૨૦	20 giugno
+જૂન ૨૩	23 giugno
+જૂન ૧૯	19 giugno
+જૂન ૧૮	18 giugno
+જૂન ૨૧	21 giugno
+જૂન ૧૭	17 giugno
+ડિસેમ્બર ૨૩	23 dicembre
+આર્નોલ્ડ શ્વાર્ઝેનેગર	Arnold Schwarzenegger
+જુલાઇ ૧૫	15 luglio
+જુલાઇ ૧૩	13 luglio
+જુલાઇ ૧૨	12 luglio
+જુલાઇ ૧૦	10 luglio
+જુલાઇ ૯	9 luglio
+જુલાઇ ૧૪	14 luglio
+જુલાઇ ૮	8 luglio
+જુલાઇ ૭	7 luglio
+જુલાઇ ૬	6 luglio
+જુલાઇ ૫	5 luglio
+જુલાઇ ૨	2 luglio
+જુલાઇ ૪	4 luglio
+જુલાઇ ૩	3 luglio
+જુલાઇ ૧	1º luglio
+જુલાઇ ૧૧	11 luglio
+ડિસેમ્બર ૨૪	24 dicembre
+જુલાઇ ૩૧	31 luglio
+જુલાઇ ૩૦	30 luglio
+જુલાઇ ૨૯	29 luglio
+જુલાઇ ૨૮	28 luglio
+જુલાઇ ૨૭	27 luglio
+જુલાઇ ૨૫	25 luglio
+જુલાઇ ૨૪	24 luglio
+જુલાઇ ૨૩	23 luglio
+જુલાઇ ૨૬	26 luglio
+જુલાઇ ૨૨	22 luglio
+જુલાઇ ૧૯	19 luglio
+જુલાઇ ૨૧	21 luglio
+જુલાઇ ૨૦	20 luglio
+જુલાઇ ૧૭	17 luglio
+જુલાઇ ૧૮	18 luglio
+જુલાઇ ૧૬	16 luglio
+અસોસિએશન ફુટબોલ	Calcio (sport)
+ડિસેમ્બર ૨૫	25 dicembre
+ડિસેમ્બર ૨૬	26 dicembre
+ઓગસ્ટ ૧૪	14 agosto
+ઓગસ્ટ ૧૫	15 agosto
+ઓગસ્ટ ૧૩	13 agosto
+ઓગસ્ટ ૧૨	12 agosto
+ઓગસ્ટ ૧૧	11 agosto
+ઓગસ્ટ ૧૦	10 agosto
+ઓગસ્ટ ૮	8 agosto
+ઓગસ્ટ ૭	7 agosto
+ઓગસ્ટ ૯	9 agosto
+ઓગસ્ટ ૫	5 agosto
+ઓગસ્ટ ૪	4 agosto
+ઓગસ્ટ ૨	2 agosto
+ઓગસ્ટ ૩	3 agosto
+ઓગસ્ટ ૬	6 agosto
+ઓગસ્ટ ૧	1º agosto
+આઇપેડ (iPad)	IPad
+ડિસેમ્બર ૨૭	27 dicembre
+સબમરીન	Sottomarino
+ઓગસ્ટ ૧૬	16 agosto
+ઓગસ્ટ ૨૯	29 agosto
+ઓગસ્ટ ૨૮	28 agosto
+ઓગસ્ટ ૩૦	30 agosto
+ઓગસ્ટ ૨૫	25 agosto
+ઓગસ્ટ ૨૬	26 agosto
+ઓગસ્ટ ૨૩	23 agosto
+ઓગસ્ટ ૨૭	27 agosto
+ઓગસ્ટ ૨૧	21 agosto
+ઓગસ્ટ ૨૦	20 agosto
+ઓગસ્ટ ૨૪	24 agosto
+ઓગસ્ટ ૧૮	18 agosto
+ઓગસ્ટ ૧૭	17 agosto
+ઓગસ્ટ ૨૨	22 agosto
+ઓગસ્ટ ૧૯	19 agosto
+ઓગસ્ટ ૩૧	31 agosto
+માઇકલ જેકસન	Michael Jackson
+ડિસેમ્બર ૨૮	28 dicembre
+સપ્ટેમ્બર ૧૫	15 settembre
+સપ્ટેમ્બર ૧૪	14 settembre
+સપ્ટેમ્બર ૧૩	13 settembre
+સપ્ટેમ્બર ૧૨	12 settembre
+સપ્ટેમ્બર ૮	8 settembre
+સપ્ટેમ્બર ૧૧	11 settembre
+સપ્ટેમ્બર ૭	7 settembre
+સપ્ટેમ્બર ૧૦	10 settembre
+સપ્ટેમ્બર ૫	5 settembre
+સપ્ટેમ્બર ૪	4 settembre
+સપ્ટેમ્બર ૯	9 settembre
+સપ્ટેમ્બર ૨	2 settembre
+સપ્ટેમ્બર ૬	6 settembre
+સપ્ટેમ્બર ૧	1º settembre
+સપ્ટેમ્બર ૩	3 settembre
+ડિસેમ્બર ૨૯	29 dicembre
+સપ્ટેમ્બર ૩૦	30 settembre
+સપ્ટેમ્બર ૨૯	29 settembre
+સપ્ટેમ્બર ૨૮	28 settembre
+સપ્ટેમ્બર ૨૭	27 settembre
+સપ્ટેમ્બર ૨૬	26 settembre
+સપ્ટેમ્બર ૨૫	25 settembre
+સપ્ટેમ્બર ૨૩	23 settembre
+સપ્ટેમ્બર ૨૨	22 settembre
+સપ્ટેમ્બર ૨૪	24 settembre
+સપ્ટેમ્બર ૨૧	21 settembre
+સપ્ટેમ્બર ૨૦	20 settembre
+સપ્ટેમ્બર ૧૮	18 settembre
+સપ્ટેમ્બર ૧૭	17 settembre
+સપ્ટેમ્બર ૧૯	19 settembre
+સપ્ટેમ્બર ૧૬	16 settembre
+ડિસેમ્બર ૩૦	30 dicembre
+ડિસેમ્બર ૩૧	31 dicembre
+ઓક્ટોબર ૧	1º ottobre
+ઓક્ટોબર ૧૫	15 ottobre
+ઓક્ટોબર ૧૨	12 ottobre
+ઓક્ટોબર ૧૦	10 ottobre
+ઓક્ટોબર ૧૪	14 ottobre
+ઓક્ટોબર ૯	9 ottobre
+ઓક્ટોબર ૮	8 ottobre
+ઓક્ટોબર ૧૩	13 ottobre
+ઓક્ટોબર ૭	7 ottobre
+ઓક્ટોબર ૧૧	11 ottobre
+ઓક્ટોબર ૬	6 ottobre
+ઓક્ટોબર ૪	4 ottobre
+ઓક્ટોબર ૫	5 ottobre
+ઓક્ટોબર ૩	3 ottobre
+ઓક્ટોબર ૨	2 ottobre
+બકરી	Capra hircus
+ઓક્ટોબર ૩૧	31 ottobre
+ઓક્ટોબર ૩૦	30 ottobre
+ઓક્ટોબર ૨૯	29 ottobre
+ઓક્ટોબર ૨૮	28 ottobre
+ઓક્ટોબર ૨૬	26 ottobre
+ઓક્ટોબર ૨૫	25 ottobre
+ઓક્ટોબર ૨૪	24 ottobre
+ઓક્ટોબર ૨૭	27 ottobre
+ઓક્ટોબર ૨૨	22 ottobre
+ઓક્ટોબર ૨૩	23 ottobre
+ઓક્ટોબર ૨૦	20 ottobre
+ઓક્ટોબર ૨૧	21 ottobre
+ઓક્ટોબર ૧૯	19 ottobre
+ઓક્ટોબર ૧૭	17 ottobre
+ઓક્ટોબર ૧૬	16 ottobre
+ઓક્ટોબર ૧૮	18 ottobre
+નવેમ્બર ૧૫	15 novembre
+નવેમ્બર ૧૪	14 novembre
+નવેમ્બર ૧૩	13 novembre
+નવેમ્બર ૧૨	12 novembre
+નવેમ્બર ૧૧	11 novembre
+નવેમ્બર ૧૦	10 novembre
+નવેમ્બર ૭	7 novembre
+નવેમ્બર ૮	8 novembre
+નવેમ્બર ૯	9 novembre
+નવેમ્બર ૬	6 novembre
+નવેમ્બર ૫	5 novembre
+નવેમ્બર ૪	4 novembre
+નવેમ્બર ૩	3 novembre
+નવેમ્બર ૨	2 novembre
+નવેમ્બર ૧	1º novembre
+પારામારિબો	Paramaribo
+નવેમ્બર ૩૦	30 novembre
+નવેમ્બર ૨૯	29 novembre
+નવેમ્બર ૨૮	28 novembre
+નવેમ્બર ૨૭	27 novembre
+નવેમ્બર ૨૬	26 novembre
+નવેમ્બર ૨૫	25 novembre
+નવેમ્બર ૨૩	23 novembre
+નવેમ્બર ૨૪	24 novembre
+નવેમ્બર ૨૧	21 novembre
+નવેમ્બર ૨૦	20 novembre
+નવેમ્બર ૨૨	22 novembre
+નવેમ્બર ૧૯	19 novembre
+નવેમ્બર ૧૮	18 novembre
+નવેમ્બર ૧૭	17 novembre
+નવેમ્બર ૧૬	16 novembre
+કાઠમંડુ	Katmandu
+સીડની	Sydney
+મેલબોર્ન	Melbourne
+પર્થ	Perth (Australia Occidentale)
+નાઈલ નદી	Nilo
+કોંગો નદી	Congo (fiume)
+ધૂમકેતુ	Cometa
+જાકાર્તા	Giacarta
+જાવા (ટાપુ)	Giava
+એડિડાસ	Adidas
+વિકિપીડિયા:પ્રયોગસ્થળ	Wikipedia:Pagina delle prove
+વિકિપીડિયા:સ્વાગત	Aiuto:Benvenuto
+કમ્પ્યુટર હાર્ડવેર	Hardware
+નકશો	Mappa
+નવસાર	Ammoniaca
+ડૉંગ હેકટર એરપોર્ટ	Aeroporto di Dong Hoi
+શૂન્યાવકાશ	Spazio (astronomia)
+આત્મકથા	Autobiografia
+ખગોળીય દૂરબીન	Telescopio
+માઇલી સાઇરસ	Miley Cyrus
+માર્જરિન	Margarina
+મધરબોર્ડ	Scheda madre
+USB ડ્રાઇવ	Chiave USB
+પંજાબ (પાકિસ્તાન)	Punjab (Pakistan)
+મહાબોધિ મંદિર	Tempio di Mahabodhi
+સહ્યાદ્રિ પર્વતમાળા	Ghati occidentali
+ભારતની પર્વતીય રેલ્વે	Ferrovie di montagna dell'India
+કન્ફ્યુશિયસ	Confucio
+કોર્બીન બ્લુ	Corbin Bleu
+શ્રેણી:ગણિત	Categoria:Matematica
+ફરો દ્વિપસમૂહ	Fær Øer
+સુરત	Surat (India)
+સાયપ્રસનો રાષ્ટ્રધ્વજ	Bandiera di Cipro
+બાલી	Bali
+માળો (પક્ષી)	Nido
+લૅરી પેજ	Larry Page
+ગંગા નદી	Gange
+સેલિન ડીયોન	Céline Dion
+ખંડ	Continente
+એડિલેઇડ	Adelaide (Australia)
+પક્ષી	Aves
+રાજધાની	Capitale (città)
+ગુજરાતી ભાષા	Lingua gujarati
+મહિનો	Mese
+ઢાંચો:Portal	Template:Portale
+હુઆંગ ઝીયાન-ફાન	Huang Xianfan
+બિલ ગેટ્સ	Bill Gates
+જ્ઞાનકોશ	Enciclopedia
+મુખપૃષ્ઠ	Pagina principale
+સિંધવ	Halite
+બાસ્કેટબોલ (રમત)	Pallacanestro
+ક્રિકેટ	Cricket
+યુરેશીયા	Eurasia
+હિમાલય	Himalaya
+કેપ ટાઉન	Città del Capo
+કેસ્પિયન સમુદ્ર	Mar Caspio
+વિન્સેન્ટ વેન ગો	Vincent van Gogh
+વૅલેન્શિયા નો પ્રદેશ	Comunità valenzana
+મોહેં-જો-દડો	Mohenjo-daro
+પેટ્રા	Petra (Giordania)
+એવર્ટન ફૂટબોલ ક્લબ	Everton Football Club
+મક્કા	La Mecca
+ચે ગૂવેરા	Che Guevara
+નોવાક યોકોવિચ	Novak Đoković
+એરબસ એ ૩૮૦	Airbus A380
+ચિચેન ઇત્ઝા	Chichén Itzá
+તમિલ ભાષા	Lingua tamil
+ચા	Tè
+માર્કો પોલો	Marco Polo
+પોર્ટલેન્ડ, ઑરેગોન	Portland
+મૂડીવાદ	Capitalismo
+દેશ	Paese (area geografica)
+હિલેરી ક્લિન્ટન	Hillary Clinton
+કોનકોર્ડ	Concorde
+ડોનાલ્ડ ડક	Paperino
+સ્ટ્રાસબોર્ગ (ફ્રાન્સ)	Strasburgo
+ક્રોએશિયન ભાષા	Lingua croata
+શેતાન	Diavolo
+રેનો	Renault
+કાલિદાસ	Kālidāsa
+ઉલ્કાઓ	Meteoroide
+ગૌતમ બુદ્ધ	Buddha
+જૈવ તકનીક	Biotecnologia
+વિશ્વ બેંક	Banca Mondiale
+લોકશાહી	Democrazia
+વૈશ્વિકરણ	Globalizzazione
+નોબૅલ પારિતોષિક	Premio Nobel
+ઇંગ્લેન્ડના એલિઝાબેથ પ્રથમ	Elisabetta I d'Inghilterra
+રવિન્દ્રનાથ ટાગોર	Rabindranath Tagore
+માર્ક ટ્વેઇન	Mark Twain
+ઍલન ટ્યુરિંગ	Alan Turing
+આતંકવાદ	Terrorismo
+નાઝીવાદ	Nazionalsocialismo
+વાસ્કો દ ગામા	Vasco da Gama
+સિંધુ	Indo
+કાન	Orecchio
+આંખ	Occhio
+ગીત	Canzone
+કીડી	Formicidae
+આન્દ્રે અગાસી	Andre Agassi
+રીંગણ	Solanum melongena
+હિમવર્ષા	Neve
+ડેબિયન	Debian
+વિશ્વ વેપાર સંગઠન	Organizzazione mondiale del commercio
+ચાઇનીઝ ભાષા	Lingua cinese
+કુદરત	Natura
+રક્ત	Sangue
+કંકાલતંત્ર	Scheletro (anatomia)
+ફેફસાં	Polmone
+મેઘ	Pioggia
+વૈશ્વિક ઉષ્ણતા	Riscaldamento globale
+ધરતીકંપ	Terremoto
+સત્ય	Verità
+કોમ્પ્યુટર માઉસ	Mouse
+નેલ્સન મંડેલા	Nelson Mandela
+માર્ટિન લ્યૂથર કિંગ	Martin Luther King
+અવતરણ ચિહ્ન	Virgolette
+કુદરતી આફતો	Disastro naturale
+પૂર	Inondazione
+સુનામી	Maremoto
+જ્વાળામુખી	Vulcano
+વાદળ	Nuvola
+ત્રિકોણમિતિ	Trigonometria
+ભૂમિતિ	Geometria
+તેલુગુ ભાષા	Lingua telugu
+ગ્રીક મૂળાક્ષરો	Alfabeto greco
+શ્રેણી:ફ્રાન્સ	Categoria:Francia
+શ્રેણી:સંગીત	Categoria:Musica
+શ્રેણી:સાહિત્ય	Categoria:Letteratura
+નવલકથા	Romanzo
+મહાભારત	Mahābhārata
+હેરી પોટર	Harry Potter
+મશક વાજું	Cornamusa
+પીડોફિલિયા (બાળ યૌનશોષણ)	Pedofilia
+સિકંદર	Alessandro Magno
+સંસ્કૃતિ	Civiltà
+પુરુષ	Uomo (genere)
+લગ્ન	Matrimonio
+ફાંસીની સજા	Pena di morte
+ગુલામી પ્રથા	Schiavismo
+દૂધ	Latte
+પર્વત	Montagna
+અશોક	Ashoka
+અકબર	Akbar
+હોંગકોંગ	Hong Kong
+કરાચી	Karachi
+લાગોસ	Lagos
+આર્કિમીડીઝ	Archimede
+થૉમસ ઍડિસન	Thomas Edison
+યુક્લિડ	Euclide
+ડોમેન નામ પ્રણાલી	Domain Name System
+સંકેતલિપિ	Crittografia
+ઈન્ટરનેટ પ્રોટોકોલ	Internet Protocol
+પ્રસારણ નિયંત્રણ પ્રોટોકોલ	Transmission Control Protocol
+યુનિકોડ	Unicode
+સત્યજીત રે	Satyajit Ray
+નક્ષત્ર	Costellazione
+નૉર્વેજિયન ભાષા	Lingua norvegese
+ચાણક્ય	Chanakya
+બાગમતી પ્રાંત (નેપાળ)	Bagmati (zona amministrativa)
+નોઆમ ચોમ્સ્કી	Noam Chomsky
+ભેરી પ્રાંત (નેપાળ)	Bheri
+મુસા	Mosè
+ધવલાગિરી પ્રાંત (નેપાળ)	Dhawalagiri
+હિંદુ ધર્મ	Induismo
+અણુ	Atomo
+પ્રકાશ	Luce
+ગંડકી પ્રાંત (નેપાળ)	Gandaki
+તાજ મહેલ	Taj Mahal
+જનકપુર પ્રાંત (નેપાળ)	Janakapura
+ઇ-મેઇલ	Posta elettronica
+કર્ણાલી પ્રાંત (નેપાળ)	Karnali
+ફારસી ભાષા	Lingua persiana
+કોશી પ્રાંત (નેપાળ)	Kosi
+લુમ્બિની પ્રાંત (નેપાળ)	Lumbini (zona amministrativa)
+મહાકાલી પ્રાંત (નેપાળ)	Mahakali
+મેચી પ્રાંત (નેપાળ)	Mechi
+ઇબ્રાહિમ	Abramo
+નારાયણી પ્રાંત (નેપાળ)	Narayani
+રાપ્તી પ્રાંત (નેપાળ)	Rapti
+સગરમાથા પ્રાંત (નેપાળ)	Sagarmatha
+સેતી પ્રાંત (નેપાળ)	Seti (Nepal)
+યુનાઇટેડ સ્ટેટ્સ આર્મી	United States Army
+લુમ્બિની	Lumbini
+જૈન ધર્મ	Giainismo
+યહૂદી ધર્મ	Ebraismo
+લાઓત્સે	Laozi
+જીમેઇલ	Gmail
+યોગ	Yoga
+સિમા કીઆન	Sima Qian
+મનોવિજ્ઞાન	Psicologia
+મહાવીર સ્વામી	Mahavira
+ટિમ્બક્ટુ	Timbuctù
+ઋષભ દેવ	Rishabha
+દિગંબર	Digambara
+લોથલ	Lothal
+વલ્લભભાઈ પટેલ	Vallabhbhai Patel
+મુહમ્મદ	Maometto
+ખેડબ્રહ્મા	Khedbrahma
+આઇપોડ	IPod
+સચિન તેંડુલકર	Sachin Tendulkar
+અબ્દુલ કલામ	Abdul Kalam
+બીબીસી	BBC
+શાહરૂખ ખાન	Shah Rukh Khan
+સલમાન ખાન	Salman Khan
+કૅટરિના કૈફ	Katrina Kaif
+આમિર ખાન	Aamir Khan
+અમિતાભ બચ્ચન	Amitabh Bachchan
+હરિવંશરાય બચ્ચન	Harivansh Rai Bachchan
+કન્ફયુસીયસ ધર્મ	Confucianesimo
+તાઓ ધર્મ	Taoismo
+જરથોસ્તી ધર્મ	Zoroastrismo
+બંગાળી ભાષા	Lingua bengalese
+જીભ	Lingua (anatomia)
+ચેલ્સી ફૂટબોલ ક્લબ	Chelsea Football Club
+આર્સેનલ ફૂટબોલ ક્લબ	Arsenal Football Club
+સ્વાદુપિંડ	Pancreas
+ફૉકલેન્ડ ટાપુઓ	Isole Falkland
+બ્લૂઝ	Blues
+ઇરોડ	Erode (città)
+પ્રાથમિક શાળા	Scuola primaria
+સેલમ	Salem (India)
+કોઇમ્બતુર	Coimbatore
+ઊટકામંડ	Udhagamandalam
+મૈસૂર	Mysore
+રફેલ નડાલ	Rafael Nadal
+રાહુલ ગાંધી	Rahul Gandhi
+ભારતીય રાષ્ટ્રીય કોંગ્રેસ	Congresso Nazionale Indiano
+ભારતીય જનતા પાર્ટી	Partito Popolare Indiano
+દિવાળી	Diwali
+દરિયાઈ બોગદું (ઇંગ્લેન્ડ-ફ્રાન્સ)	Tunnel della Manica
+હોળી	Holi
+પાયથાગોરસ	Pitagora
+કુંભ મેળો	Kumbh Mela
+કોલોસીયમ	Colosseo
+સપ્તર્ષિ	Grande Carro
+ડેવિડ બેકહામ	David Beckham
+આવર્ત કોષ્ટક	Tavola periodica degli elementi
+કબૂતર	Columbidae
+અંધાપો	Cecità
+ચીઝ	Formaggio
+દ્રાક્ષ	Uva
+ટાઇગર વુડ્સ	Tiger Woods
+બટાકાં	Solanum tuberosum
+શાકભાજી	Verdura
+સ્નૂકર	Snooker
+ઇજનેરી	Ingegneria
+પ્રત્યાયન	Comunicazione
+સંસ્કૃત ભાષા	Lingua sanscrita
+રુધિરાભિસરણ તંત્ર	Apparato circolatorio
+IPv4	IPv4
+IP એડ્રેસ	Indirizzo IP
+પ્રશ્નચિહ્ન	Punto interrogativo
+વર્લ્ડ ટ્રેડ સેન્ટર	World Trade Center
+ફ્રિડમ ટાવર	One World Trade Center
+ફિડલ કાસ્ટ્રો	Fidel Castro
+મેનહટન	Manhattan
+તત્વ	Elemento chimico
+આર્યભટ્ટ	Aryabhata
+શિવ	Shiva
+વિષ્ણુ	Vishnu
+લોકલ એરિયા નેટવર્ક	Local Area Network
+વાઈડ એરિયા નેટવર્ક	Wide Area Network
+વિદ્યુત-ચુંબકીય તરંગો	Radiazione elettromagnetica
+બ્રહ્મા	Brahma
+બળ	Forza
+ચુંબકીયક્ષેત્ર	Campo magnetico
+ગુરુત્વાકર્ષણ	Interazione gravitazionale
+માર્શલ આર્ટસ	Arte marziale
+જુડો	Judo
+દળ	Massa (fisica)
+ધાતુ	Metallo
+વાયુ	Gas
+પ્રવાહી	Liquido
+ઘન	Solido
+કૃષિ	Agricoltura
+કપાસ	Cotone (fibra)
+કપડાં	Abbigliamento
+તાપમાન	Temperatura
+ધાતુશાસ્ત્ર	Metallurgia
+કાગળ	Carta
+ક્ષેત્રફળ	Area
+દેનપસાર	Denpasar
+સેકન્ડ	Secondo
+મકાઈ	Zea mays
+માટીકામ	Lavorazione della ceramica
+સ્ટેફી ગ્રાફ	Steffi Graf
+હવામાન	Tempo (meteorologia)
+લાહોર	Lahore
+મેસોપોટેમીયા	Mesopotamia
+પ્રાચીન ઇજિપ્ત	Antico Egitto
+ગુપ્ત સામ્રાજ્ય	Impero Gupta
+સ્લીપિંગ બ્યૂટી	La bella addormentata
+સિન્ડ્રેલા	Cenerentola
+રાજકોટ	Rajkot
+જુનાગઢ	Junagadh
+વડોદરા	Vadodara
+ગાંધીનગર	Gandhinagar
+મિકી માઉસ	Topolino
+પ્રકાશસંશ્લેષણ	Fotosintesi clorofilliana
+ઘઉં	Triticum
+બધિરતા	Sordità
+ગ્રેગોરીયન પંચાંગ	Calendario gregoriano
+નિકોટિન	Nicotina
+હૃદયરોગનો હુમલો	Infarto miocardico acuto
+મલેરિયા	Malaria
+કુપોષણ	Malnutrizione
+ગુપ્તરોગ	Malattia sessualmente trasmissibile
+એડ્સ	AIDS
+ક્ષય રોગ	Tubercolosi
+મધુપ્રમેહ	Diabete mellito
+ઢાંચો:Location map India	Template:Mappa di localizzazione/IND
+જાન્યુઆરી ૦	0 gennaio
+બુર્જ દુબઈ	Burj Khalifa
+ચીનની મહાન દિવાલ	Grande muraglia cinese
+પિરામિડ	Piramide
+ફેશન	Moda
+તલવાર	Spada
+પેલે	Pelé
+જયોર્જ સોરોસ	George Soros
+વિનોબા ભાવે	Vinoba Bhave
+સ્ટ્રોબેરી	Fragola
+વર્ડપ્રેસ	WordPress
+લીચી (ફળ)	Litchi chinensis
+નારિયેળ	Cocos nucifera
+દાડમ	Punica granatum
+સંતરુ (ફળ)	Citrus × sinensis
+રાજસ્થાની ભાષા	Lingua rajasthani
+તેઝુ	Tezu
+આઇસ્ક્રીમ	Gelato
+ઢાંચો:Location map Canada	Template:Mappa di localizzazione/CAN
+નિરોધ	Profilattico
+ડોલર	Dollaro
+વડાપ્રધાન	Primo ministro
+માછીમારી	Pesca
+થોર	Cactaceae
+ગરમ મસાલો	Garam masala
+ઘર ચકલી	Passer domesticus
+મકાઉ	Macao
+ચીકુ	Manilkara zapota
+હુ જિન્તાઓ	Hu Jintao
+જિરાફ	Giraffa camelopardalis
+અરિયાલુર જિલ્લો	Distretto di Ariyalur
+ચેન્નઈ જિલ્લો	Distretto di Chennai
+કોઇમ્બતુર જિલ્લો	Distretto di Coimbatore
+કડ્ડલોર જિલ્લો	Distretto di Cuddalore
+ધર્મપુરી જિલ્લો	Distretto di Dharmapuri
+દિંડીગુલ જિલ્લો	Distretto di Dindigul
+ઇરોડ જિલ્લો	Distretto di Erode
+કાચીપુરમ જિલ્લો	Distretto di Kanchipuram
+કન્યાકુમારી જિલ્લો	Distretto di Kanyakumari
+મુછ	Baffo (peli del viso)
+સોવિયેત યુનિયન	Unione Sovietica
+કરુર જિલ્લો	Distretto di Karur
+કૃષ્ણાગિરિ જિલ્લો	Distretto di Krishnagiri
+મદુરાઇ જિલ્લો	Distretto di Madurai
+રામનાથપુરમ જિલ્લો	Distretto di Ramanathapuram
+સેલમ જિલ્લો	Distretto di Salem
+થંજાવુર જિલ્લો	Distretto di Thanjavur
+શિવગંગાઇ જિલ્લો	Distretto di Sivaganga
+થેની જિલ્લો	Distretto di Theni
+તિરુવરુર જિલ્લો	Distretto di Tiruvarur
+તિરુનેલવેલી જિલ્લો	Distretto di Tirunelveli
+તિરુવલ્લુર જિલ્લો	Distretto di Tiruvallur
+વિલુપ્પુરમ જિલ્લો	Distretto di Viluppuram
+વેલ્લોર જિલ્લો	Distretto di Vellore
+તિરુવનામલઇ જિલ્લો	Distretto di Tiruvannamalai
+વિરુધુનગર જિલ્લો	Distretto di Virudhunagar
+અદિલાબાદ જિલ્લો	Distretto di Adilabad
+અનંતપુર જિલ્લો	Distretto di Anantapur
+ચિત્તૂર જિલ્લો	Distretto di Chittoor
+મદ્યપાન	Alcolismo
+પૂર્વ ગોદાવરી જિલ્લો	Distretto del Godavari Orientale
+હૈદરાબાદ જિલ્લો	Distretto di Hyderabad
+ગુન્ટૂર જિલ્લો	Distretto di Guntur
+ખમ્મમ જિલ્લો	Distretto di Khammam
+કરીમનગર	Distretto di Karimnagar
+મહેબૂબનગર જિલ્લો	Distretto di Mahbubnagar
+કુર્નૂલ	Distretto di Kurnool
+કૃષ્ણા જિલ્લો	Distretto di Krishna
+નેલ્લોર જિલ્લો	Distretto di Nellore
+નાલગોંડા જિલ્લો	Distretto di Nalgonda
+મેદક જિલ્લો	Distretto di Medak
+રંગારેડ્ડી જિલ્લો	Distretto di Rangareddy
+પ્રકાસમ જિલ્લો	Distretto di Prakasam
+નિઝામાબાદ જિલ્લો	Distretto di Nizamabad
+વિજયનગર જિલ્લો	Distretto di Vizianagaram
+વિશાખાપટનમ જિલ્લો	Distretto di Visakhapatnam
+શ્રીકાકુલમ જિલ્લો	Distretto di Srikakulam
+વારંગલ જિલ્લો	Distretto di Warangal
+પશ્ચિમ ગોદાવરી જિલ્લો	Distretto del Godavari Occidentale
+અંજા જિલ્લો	Distretto di Anjaw
+ચેંગલોન્ગ જિલ્લો	Distretto di Changlang
+પપુમપારે જિલ્લો	Distretto di Papum Pare
+લોહિત જિલ્લો	Distretto di Lohit
+ઉપરી દિબાંગ ઘાટી જિલ્લો	Distretto dell'Alta Valle del Dibang
+તિરપ જિલ્લો	Distretto di Tirap
+તવાંગ જિલ્લો	Distretto di Tawang
+ઉપરી સુબનસિરી જિલ્લો	Distretto dell'Alto Subansiri
+ઉપરી સિયાંગ જિલ્લો	Distretto dell'Alto Siang
+C (પ્રોગ્રામિંગ ભાષા)	C (linguaggio)
+બ્રુસ લી	Bruce Lee
+વીલેન	VLAN
+વિકિપીડિયા:ચોતરો	Wikipedia:Bar
+કમળ	Nelumbo nucifera
+વર્મોન્ટ	Vermont
+સેન જોસ, કેલિફોર્નિયા	San Jose
+હ્યુસ્ટન	Houston
+હોસ્પિટલ	Ospedale
+ઘડિયાલ	Gavialis gangeticus
+વિમાનવાહક જહાજ	Portaerei
+મોબાઇલ ફોન	Telefono cellulare
+શેફિલ્ડ ફૂટબોલ ક્લબ	Sheffield Football Club
+માન્ચેસ્ટર યુનાઇટેડ ફૂટબોલ ક્લબ	Manchester United Football Club
+સ્વાનસી સિટી એસોસિયેશન ફૂટબોલ ક્લબ	Swansea City Association Football Club
+કાર્ડિફ સિટી ફૂટબૉલ ક્લબ	Cardiff City Football Club
+એસ્ટોન વિલા ફૂટબોલ ક્લબ	Aston Villa Football Club
+ન્યૂકેસલ યુનાઇટેડ ફૂટબોલ ક્લબ	Newcastle United Football Club
+ક્વીન્સ પાર્ક રેન્જર્સ ફૂટબોલ ક્લબ	Queens Park Rangers Football Club
+સાઉધમ્પ્ટન ફૂટબોલ ક્લબ	Southampton Football Club
+સ્ટોક સિટી ફૂટબોલ ક્લબ	Stoke City Football Club
+સન્ડરલેન્ડ એસોસિયેશન ફૂટબોલ ક્લબ	Sunderland Association Football Club
+ટોટનમ હોટ્સ્પર ફૂટબોલ ક્લબ	Tottenham Hotspur Football Club
+વેસ્ટ બ્રોમવિચ એલ્બિયન ફૂટબોલ ક્લબ	West Bromwich Albion Football Club
+વિગાન એથલેટિક ફૂટબૉલ ક્લબ	Wigan Athletic Football Club
+તાડ બિલાડી	Paradoxurus hermaphroditus
+બગલો	Ardeidae
+વૈશ્વિક સ્થળનિર્ધારણ પ્રણાલી	Sistema di Posizionamento Globale
+સ્ક્રિલ્લેક્સ	Skrillex
+વિંછી (પ્રાણી)	Scorpiones
+ફિફા વિશ્વ કપ	Campionato mondiale di calcio
+બર્મિંગહામ સિટી ફૂટબૉલ ક્લબ	Birmingham City Football Club
+બ્લેકબર્ન રોવર્સ ફૂટબૉલ ક્લબ	Blackburn Rovers Football Club
+બર્નલી ફૂટબોલ ક્લબ	Burnley Football Club
+ક્રિસ્ટલ પેલેસ ફૂટબોલ ક્લબ	Crystal Palace Football Club
+ડર્બી કાઉન્ટી ફૂટબૉલ ક્લબ	Derby County Football Club
+હલ સિટી એસોસિયેશન ફૂટબોલ ક્લબ	Hull City Association Football Club
+લેસ્ટર સિટી ફૂટબૉલ ક્લબ	Leicester City Football Club
+નોટિંગહામ ફોરેસ્ટ ફૂટબૉલ ક્લબ	Nottingham Forest Football Club
+શેફિલ્ડ વેડન્ઝડે ફૂટબૉલ ક્લબ	Sheffield Wednesday Football Club
+વોલ્વરહેમ્પ્ટન વેન્ડરર્સ ફૂટબૉલ ક્લબ	Wolverhampton Wanderers Football Club
+વેબ શોધ એન્જીન	Motore di ricerca
+આલ્ક્લાઇન પાર્થિવ ધાતુ	Metalli alcalino terrosi
+કોલા હોલ	Pozzo superprofondo di Kola
+અર્ધધાતુ	Semimetallo
+પબ્લિક ડોમેન	Pubblico dominio
+પ્યૂએર્ટો રિકન ઈન્ડીપેન્ડન્સ પાર્ટી	Partito Indipendentista Portoricano
+થેમ્સ	Tamigi
+નાતાલ	Natale
+લિપ વર્ષ	Anno bisestile
+લેડી ગાગા	Lady Gaga
+વાઘ	Panthera tigris
+સેમસંગ	Samsung
+બીગલ	Beagle (razza canina)
+કુર્કુટાકાર	Galliformes
+ડુબકી કુટુંબ	Podicipedidae
+ઑડિશા	Orissa
+GFDL	GNU Free Documentation License
+પંજાબ, ભારત	Punjab (India)
+અક્ષાંશ-રેખાંશ	Coordinate geografiche
+યુઇએફએ યૂરો ૨૦૧૨	Campionato europeo di calcio 2012
+બેંક	Banca
+આયરલેંડનું ગણતંત્ર	Irlanda (isola)
+અઠવાડિયું	Settimana
+હરણ	Cervidae
+લસણ	Allium sativum
+કાકડી	Cucumis sativus
+કાળો	Nero
+ડુંગળી	Allium cepa
+નાસા	NASA
+એટલાન્ટા, જ્યોર્જિયા	Atlanta
+વેલિંગ્ટન	Wellington
+૧૦ (અંક)	10 (numero)
+પરમાણુ ક્રમાંક	Numero atomico
+માનવ શરીર	Corpo umano
+ચિત્તો	Acinonyx jubatus
+કસ્તુરી	Turdus merula
+વટાણા (વનસ્પતિ)	Pisum sativum
+કબુત	Ardea cinerea
+ખજૂર	Phoenix dactylifera
+વંદો	Blattodea
+મૃદુકાય સમુદાય	Mollusca
+માછીમાર	Pandion haliaetus
+શેવાળ	Muschi
+તારા માછલી	Asteroidea
+સફેદ ઢોંક	Ciconia ciconia
+બાજ (પક્ષી)	Accipiter gentilis
+દસાડી	Fulica atra
+આગિયો	Lampyridae
+નાની ડુબકી	Tachybaptus ruficollis
+ચોટીલી ડુબકી	Podiceps cristatus
+જળ કાગડો	Phalacrocorax carbo
+સીંગપર (બતક)	Anas acuta
+વિલાયતી પટ્ટાઇ	Circus cyaneus
+અબલખ	Haematopus ostralegus
+થ્રશ કુટુંબ	Turdidae
+પાન પટ્ટાઇ	Circus aeruginosus
+કલવેતીયો	Aythya fuligula
+જ્યોર્જીયા (દેશ)નો રાષ્ટ્રધ્વજ	Bandiera della Georgia
+શોબિગી	Aegithina tiphia
+ઉપગ્રહ પ્રક્ષેપણ યાન	Satellite artificiale
+યાક	Bos grunniens
+પટ્ટી પટ્ટાઇ	Circus pygargus
+હમ્પી	Hampi
+લવિંગ	Syzygium aromaticum
+કાચબરંગી	Arenaria interpres
+લક્ષદ્વીપ	Laccadive
+અશેળિયો	Lepidium sativum
+કપાસી	Elanus caeruleus
+એસી/ડીસી	AC/DC
+ક્રિસ્ટાડેલ્ફિઅન્સની	Cristadelfiani
+કાલિકોટ જિલ્લો, નેપાળ	Distretto di Kalikot
+કૈલાલી જિલ્લો, નેપાળ	Distretto di Kailali
+અમ્હારિક ભાષા	Lingua amarica
+ચામાચિડિયું	Chiroptera
+અછામ જિલ્લો, નેપાળ	Distretto di Achham
+નુવાકોટ જિલ્લો, નેપાળ	Distretto di Nuwakot
+અર્ઘખાંચી જિલ્લો, નેપાળ	Distretto di Arghakhanchi
+મનાંગ જિલ્લો, નેપાળ	Distretto di Manang
+કાસ્કી જિલ્લો, નેપાળ	Distretto di Kaski
+રુપનડેહી જિલ્લો, નેપાળ	Distretto di Rupandehi
+પાલપા જિલ્લો, નેપાળ	Distretto di Palpa (Nepal)
+દૈલેખ જિલ્લો, નેપાળ	Distretto di Dailekh
+સિંધુપાલચોક જિલ્લો, નેપાળ	Distretto di Sindhulpalchok
+તનહઊ જિલ્લો, નેપાળ	Distretto di Tanahu
+બાંકે જિલ્લો, નેપાળ	Distretto di Banke
+સ્યાંગજા જિલ્લો, નેપાળ	Distretto di Syangja
+ભક્તપુર જિલ્લો, નેપાળ	Distretto di Bhaktapur
+ધાદિંગ જિલ્લો, નેપાળ	Distretto di Dhading
+બરદિયા જિલ્લો, નેપાળ	Distretto di Bardiya
+વાળ	Pelo
+ગોરખા જિલ્લો, નેપાળ	Distretto di Gorkha
+કાર્વેપાલનચોક જિલ્લો, નેપાળ	Distretto di Kavre
+સલ્યાન જિલ્લો, નેપાળ	Distretto di Salyan
+ગુલ્મી જિલ્લો, નેપાળ	Distretto di Gulmi
+કપિલવસ્તુ જિલ્લો, નેપાળ	Distretto di Kapilvastu
+નવલપરાસી જિલ્લો, નેપાળ	Distretto di Nawalparasi
+સુરખેત જિલ્લો, નેપાળ	Distretto di Surkhet
+મુગુ જિલ્લો, નેપાળ	Distretto di Mugu
+રોલ્પા જિલ્લો, નેપાળ	Distretto di Rolpa
+રસુવા જિલ્લો, નેપાળ	Distretto di Rasuwa
+રુકુમ જિલ્લો, નેપાળ	Distretto di Rukum
+જુમલા જિલ્લો, નેપાળ	Distretto di Jumla
+હુમલા જિલ્લો, નેપાળ	Distretto di Humla
+કોળિક્કોટ્	Kozhikode
+પાયથોન(પ્રોગ્રામિંગ ભાષા)	Python
+ઇસ્લામીક પંચાંગ	Calendario islamico
+ચકલી	Passeridae
+કંચનપુર જિલ્લો, નેપાળ	Distretto di Kanchanpur
+લામજુંગ જિલ્લો, નેપાળ	Distretto di Lamjung
+આસામીઝ ભાષા	Lingua assamese
+જાજરકોટ જિલ્લો, નેપાળ	Distretto di Jajarkot
+અવધી ભાષા	Lingua awadhi
+મધર ટેરેસા	Madre Teresa di Calcutta
+કડપ્પા	Kadapa
+પૂર્વ તિમોરનો રાષ્ટ્રધ્વજ	Bandiera di Timor Est
+જાલના	Jalna
+હેણોતરો	Caracal caracal
+બ્લૉગ	Blog
+જલગાંવ	Jalgaon
+ડેન્ગ્યુ	Dengue
+ક્રિસમસ દ્વીપ	Isola di Natale
+મોવેમ્બર	Movember
+લોફ્ટસ રોડ સ્ટેડિયમ	Loftus Road
+હાથોર્ન્સ	The Hawthorns
+રાજાસોરસ	Rajasaurus narmadensis
+સ્ટેડિયમ ઓફ લાઈટ	Stadium of Light
+મેષ રાશી	Ariete (astrologia)
+વર્જિન એટલાંટિક	Virgin Atlantic Airways
+અમેરિકન એરલાઇન્સ	American Airlines
+વૅલેન્શિયન	Valenziano
+મલાલા યુસુફઝઈ	Malala Yousafzai
+આર્મેનિયાનો રાષ્ટ્રધ્વજ	Bandiera dell'Armenia
+બોડો ભાષા	Lingua bodo
+ભોજપુરી ભાષા	Lingua bhojpuri
+મુઘલ યુગ	Moghul
+સિકર	Sikar
+ઇલાયચી	Cardamomo
+કાશ્મીરી ભાષા	Lingua kashmiri
+સિમા ગુઆંગ	Sima Guang
+ધ્રુવીય રીંછ	Ursus maritimus
+કન્નડ ભાષા	Lingua kannada
+મગહી ભાષા	Lingua magadhi
+હાથ	Mano
+ઓડિઆ ભાષા	Lingua oriya
+નેપાળી ભાષા	Lingua nepalese
+વસ્તી	Popolazione
+મણિપુરી ભાષા	Lingua manipuri
+અસાઈ તાડ	Euterpe oleracea
+નેપાલ ભાષા	Lingua Nepal Bhasa
+સિંધી ભાષા	Lingua sindhi
+કાજુ	Anacardium occidentale
+ધોધ	Cascata
+માખણ	Burro
+પાબ્લો નેરુદા	Pablo Neruda
+કોંકણી ભાષા	Lingua konkani
+એલેક્ઝાન્ડર ગ્રેહામ બેલ	Alexander Graham Bell
+જ્યોતિષવિદ્યા	Astrologia
+સંગીત વાદ્ય	Strumento musicale
+હંસ	Cygnus (zoologia)
+બેનઝિર ભુટ્ટો	Benazir Bhutto
+ઓક્સફોર્ડ યુનિવર્સિટી	Università di Oxford
+માર્ગ	Strada
+હેલિકોપ્ટર	Elicottero
+હિપોપોટેમસ	Hippopotamus amphibius
+આંગળી	Dito
+ગુલાબ	Rosa (botanica)
+દિપડો	Panthera pardus
+સાલ્ઝબર્ગ	Salisburgo
+ગ્રીસની પૌરાણિક માન્યતાઓ	Mitologia greca
+હોકાયંત્ર	Bussola
+ક્ષ-કિરણો	Raggi X
+પપૈયાં	Carica papaya
+વિશ્વ કુસ્તી મનોરંજન	WWE
+ટીટીકાકા સરોવર	Titicaca
+કોલંબો	Colombo (città)
+મદીના	Medina
+રેસલમેનિયા	WrestleMania
+કેમ્બ્રિજ વિશ્વવિદ્યાલય	Università di Cambridge
+જરથુષ્ટ્ર	Zarathustra
+રાઈટ બંધુઓ	Fratelli Wright
+હેક્ટર	Ettaro
+બાપ્તિસ્મા (બૅપ્ટિઝમ)	Battesimo
+ફુગાવો	Inflazione
+અરાલ સમુદ્ર	Lago d'Aral
+લામ્બોરગીની	Lamborghini
+લેન્ડ રોવર	Land Rover
+વાંસ	Bambuseae
+સૌંદર્ય શાસ્ત્ર	Estetica
+કોકોસ (કીલીંગ) દ્વીપ	Isole Cocos (Keeling)
+પિસ્તા	Pistacia vera
+ક્વીન્સલેન્ડ	Queensland
+મિનેપોલિસ	Minneapolis
+મૈથિલી ભાષા	Lingua maithili
+અંજીર	Ficus carica
+માર્ક ઝકરબર્ગ	Mark Zuckerberg
+મલયાલમ ભાષા	Lingua malayalam
+જીવનચરિત્ર	Biografia
+રેશમ માર્ગ	Via della seta
+તાઈકવૉન્દો	Taekwondo
+ઉંદર	Rattus
+દ્વિપદ નામકરણ	Nomenclatura binomiale
+પાલિ ભાષા	Lingua pāli
+રોબર્ટ પેટિસન	Robert Pattinson
+મુંગેર	Munger
+સ્વાઇન ફ્લ્યુ	Influenza suina
+નખ	Unghia
+ઓઝોન	Ozono
+જાહેરાત	Pubblicità
+સ્વતંત્રતા	Indipendenza
+એલેક્ઝાન્ડર ફ્લેમિંગ	Alexander Fleming
+સોલોમન	Salomone
+યાહૂ!	Yahoo!
+ફેબ્રુઆરી ૩૦	30 febbraio
+ઓકલેન્ડ	Auckland
+ગુલબર્ગ	Gulbarga
+એ કે-૪૭	AK-47
+મિથેન	Metano
+મરિઉપોલ	Mariupol'
+ગીઝાનો મહાન પિરામિડ	Piramide di Cheope
+સિંધ	Sindh
+વર્તુળનો વ્યાસ	Diametro
+શિક્ષક	Docente
+ગો (પ્રોગ્રામિંગ ભાષા)	Go (linguaggio di programmazione)
+સેન્ટ્રલ ઇન્ટેલિજન્સ એજન્સી	Central Intelligence Agency
+રામાયણ	Rāmāyaṇa
+અક્રોતીરી અને ધેકેલીયા	Akrotiri e Dhekelia
+મગફળી	Arachis hypogaea
+ધુમ્મસ	Nebbia
+બહુકોણ	Poligono
+વેલેન્ટાઇન્સ ડે	San Valentino (festa)
+ગલ્ફ વોર	Guerra del Golfo
+રેશમ	Seta
+મિશ્રધાતુ	Lega (metallurgia)
+નિવસન તંત્ર	Ecosistema
+રેફ્રિજરેટર	Frigorifero
+ટપાલ ટિકિટ	Francobollo
+શક્કરીયાં	Ipomoea batatas
+કાર્ટેન (Kärnten)	Carinzia
+સમુરાઇ	Samurai
+આશા ભોંસલે	Asha Bhosle
+કોલંબિયા, દક્ષિણ કેરોલિના	Columbia (Carolina del Sud)
+દેવનાગરી	Alfabeto devanagari
+તરબૂચ	Citrullus lanatus
+પવનચક્કી	Mulino a vento
+રિકટર મેગ્નીટયુડ સ્કેલ	Scala Richter
+લેસર	Laser
+તાવ	Febbre
+આંતરરાષ્ટ્રીય મહિલા દિન	Giornata internazionale della donna
+વોરાર્લબર્ગ	Vorarlberg
+પીઝાનો ઢળતો મિનારો	Torre pendente di Pisa
+સૂક્ષ્મ અર્થશાસ્ત્ર	Microeconomia
+લીડ્ઝ	Leeds
+હડકવા	Rabbia
+કીટ વિજ્ઞાન	Entomologia
+અતિવાસ્તવવાદ	Surrealismo
+દીવાદાંડી	Faro
+માર્કેટિંગ	Marketing
+સ્ટીફન કિંગ	Stephen King
+રેડિયો સ્ટુડિયો 54 નેટવર્કના	Radio Studio 54 Network
+દાયકો	Decennio
+બદામ	Prunus dulcis
+વેદ	Veda
+સિલ્વેસ્ટર સ્ટેલોન	Sylvester Stallone
+મેરેથોન	Maratona (atletica leggera)
+ગુડફ્રાઈડે	Venerdì santo
+રાશી	Zodiaco
+ટેક્લોબેન	Tacloban
+યોહાન	Giovanni Battista
+ઝેર	Veleno
+અતિસાર	Diarrea
+અંદામાન અને નિકોબાર દ્વીપસમૂહ	Andamane e Nicobare
+પંડિત રામ નારાયણ	Ram Narayan
+ઇટાનગર	Itanagar
+રશિયાનાં ગણતંત્રો	Repubbliche della Russia
+બારપેટા જિલ્લો	Distretto di Barpeta
+વેગમાન સંરક્ષણનો નિયમ	Quantità di moto
+બરેલી પ્રાંત	Divisione di Bareilly
+અલીગઢ પ્રાંત	Divisione di Aligarh
+આગ્રા પ્રાંત	Divisione di Agra
+અલ્હાબાદ પ્રાંત	Divisione di Allahabad
+નાઈટ્સ ટેમ્પ્લર	Cavalieri templari
+તરંગલંબાઇ	Lunghezza d'onda
+તંજાવુર	Thanjavur
+સ્ટેનફોર્ડ યુનિવર્સિટી	Università di Stanford
+ફ્રેન્ક લેમ્પાર્ડ	Frank Lampard
+ગાંધીધામ	Gandhidham
+કોથમીર	Coriandrum sativum
+મનોવિષ્લેષણ	Psicoanalisi
+ભારતનો રાષ્ટ્રધ્વજ	Bandiera dell'India
+વંશીય જૂથ	Etnia
+વાર	Nomi dei giorni della settimana in diverse lingue
+ચિત્તોડગઢ	Chittorgarh
+ઈમાન	Shahada
+એડનની ખાડી	Golfo di Aden
+મનમોહન સિંહ	Manmohan Singh
+રાતો પાંડા	Ailurus fulgens
+ભિલવાડા જિલ્લો	Distretto di Bhilwara
+સુરખાબ	Phoenicopterus
+સાર્વભૌમત્વ	Sovranità
+બકિંગહામ પેલેસ	Buckingham Palace
+બોંગાઇગાંવ જિલ્લો	Distretto di Bongaigaon
+કછર જિલ્લો	Distretto di Cachar
+યુનિફોર્મ રિસોર્સ લોકેટર	Uniform Resource Locator
+ગૂગલ અર્થ	Google Earth
+ફાઇલ ટ્રાન્સ્ફર પ્રોટોકોલ	File Transfer Protocol
+અંતરનું વિશ્લેષણ	Analisi della varianza
+ઊન	Lana
+પીડીએફ	Portable Document Format
+નિહારિકા	Nebulosa
+યુનિવર્સલ સીરિયલ બસ	Universal Serial Bus
+તાલિબાન	Talebani
+દારાંગ જિલ્લો	Distretto di Darrang
+ધેમાજી જિલ્લો	Distretto di Dhemaji
+પર્લ	Perl
+ઈંધણ (બળતણ)	Combustibile
+હૈલાકાંડી જિલ્લો	Distretto di Hailakandi
+ગોલાઘાટ જિલ્લો	Distretto di Golaghat
+ગોલપારા જિલ્લો	Distretto di Goalpara
+કરીમગંજ જિલ્લો	Distretto di Karimganj
+કાર્બી ઓન્ગલોન્ગ જિલ્લો	Distretto di Karbi Anglong
+હળદર	Curcuma longa
+રણ બિલાડી	Felis silvestris lybica
+એમપીથ્રી	MP3
+કોકરાઝાર જિલ્લો	Distretto di Kokrajhar
+જંગલી બિલાડી	Felis chaus
+ચક્તાવાળી બિલાડી	Prionailurus bengalensis
+ભેંસ	Bubalus bubalis
+મારિગાંવ જિલ્લો	Distretto di Marigaon
+લખિમપુર જિલ્લો	Distretto di Lakhimpur
+શોણિતપુર જિલ્લો	Distretto di Sonitpur
+શિવસાગર જિલ્લો	Distretto di Sibsagar
+ઉત્તર કછર જિલ્લો	Distretto dei Monti Cachar Settentrionali
+દાઢી	Barba
+સૈગોન એરપોર્ટ	Aeroporto Internazionale di Long Thanh
+મેજર ડિપ્રેસિવ ડિસઓર્ડર	Disturbo depressivo
+કૃષ્ણ	Krishna
+અરરિયા જિલ્લો	Distretto di Araria
+અરવલ જિલ્લો	Distretto di Arwal
+નિર્વાણ	Nirvana
+આગ્રા	Agra (India)
+ચોમાસુ	Monsone
+એલર્જી	Allergia
+સંક્ષિપ્ત સંદેશ સેવા	SMS
+દુકાળ	Siccità
+કાળા મરી	Piper nigrum
+ઔરંગાબાદ જિલ્લો (બિહાર)	Distretto di Aurangabad (Bihar)
+કાશ્મીર	Kashmir
+વિકિપીડિયા:જાણીતા પ્રશ્નો	Aiuto:FAQ
+સ્વર્ગીય ગુફા	Grotta Thien Duong
+હરિતદ્રવ્ય	Clorofilla
+વીમો	Assicurazione
+ફ્રાન્સનો રાષ્ટ્રધ્વજ	Bandiera della Francia
+સંસ્થા	Organizzazione
+ગેસ્ટાપો	Gestapo
+પ્રિન્સ ચાર્લ્સ	Carlo, principe di Galles
+ટાઇમ (સામયિક)	TIME
+લોકગીત	Musica folk
+કાગડો	Corvus
+ડિસ્કવરી ચેનલ	Discovery Channel (Italia)
+ચંડીગઢ	Chandigarh
+વરિયાળી	Foeniculum vulgare
+સ્ફટિક	Cristallo
+મમી	Mummia
+હાઇડ્રોકાર્બન	Idrocarburi
+એપોલો ૧૧	Apollo 11
+બર્મુડા ત્રિકોણ	Triangolo delle Bermude
+રણદ્વીપ	Oasi
+ટર્કી	Meleagris
+બ્રેમ્પ્ટન, ઓન્ટારીયો	Brampton (Canada)
+જબ તક હૈ જાન	Jab Tak Hai Jaan
+નાગોર્નો-કરબાખ ગણરાજ્ય	Nagorno Karabakh
+ધ અંડરટેકર	Mark Calaway
+જિહાદ	Jihad
+ઉષ્મા	Calore
+મંદિર	Tempio
+એલેક્સ ફર્ગ્યુસન	Alex Ferguson
+કલકલિયો	Alcedinidae
+અળસી	Linum usitatissimum
+કોલ્ડપ્લે	Coldplay
+સ્વસ્તિક	Svastica
+કંદહાર	Kandahar (città)
+નીલગિરી	Eucalyptus
+એનફિલ્ડ	Anfield
+ફણસ	Artocarpus heterophyllus
+માછલીઘર	Acquario (contenitore)
+રાજા આર્થર	Re Artù
+લાલ કિલ્લો	Forte rosso
+દાદરા અને નગરહવેલી	Dadra e Nagar Haveli
+વિદ્યુત ક્ષેત્ર	Campo elettrico
+ચાર્લ્સ બૅબેજ	Charles Babbage
+ફીજી હિન્દી	Lingua hindi figiana
+હેરી પોટર એન્ડ ધ ડેથલી હેલોઝ	Harry Potter e i Doni della Morte
+શ્રીમદ્ ભગવદ્ ગીતા	Bhagavadgītā
+ઑસ્ટ્રિયાનો રાષ્ટ્રધ્વજ	Bandiera dell'Austria
+અખરોટ	Juglans regia
+પાલી જિલ્લો	Distretto di Pali
+ઐશ્વર્યા રાય	Aishwarya Rai
+કુ ક્લક્સ ક્લાન	Ku Klux Klan
+બ્રાહ્મણ	Brahmano
+વોરન બફેટ	Warren Buffett
+કામસૂત્ર	Kāma Sūtra
+હસન	Hassan (città)
+સ્વામી વિવેકાનંદ	Vivekananda
+એકમ	Unità di misura
+ફિબોનાકિ	Successione di Fibonacci
+રક્તના પ્રકાર	Gruppo sanguigno
+કેથરિન ઝેટા-જોન્સ	Catherine Zeta-Jones
+બ્લેક સબાથ	Black Sabbath
+પ્રમબનન	Prambanan
+મુસલમાન	Musulmano
+પ્રતિભા પાટીલ	Pratibha Patil
+પત્તા	Carte da gioco
+ફીનલેંડનો રાષ્ટ્રધ્વજ	Bandiera della Finlandia
+લખનૌ	Lucknow
+ઢાંચો:Commons category	Template:Commonscat
+સિટી ઓફ માન્ચેસ્ટર સ્ટેડિયમ	City of Manchester Stadium
+જર્મનીનો રાષ્ટ્રધ્વજ	Bandiera della Germania
+યુરિયા	Urea
+અમૃતસર	Amritsar
+આલ્બેનિયાનો રાષ્ટ્રધ્વજ	Bandiera dell'Albania
+ડેડમાઉસ	Deadmau5
+ચંદ્રયાન-૧	Chandrayaan-1
+ભોજપુર જિલ્લો	Distretto di Bhojpur (India)
+ભાગલપુર જિલ્લો	Distretto di Bhagalpur
+બેગૂસરાય જિલ્લો	Distretto di Begusarai
+દરભંગા જિલ્લો	Distretto di Darbhanga
+બક્સર જિલ્લો	Distretto di Buxar
+જમુઈ જિલ્લો	Distretto di Jamui
+ગોપાલગંજ જિલ્લો	Distretto di Gopalganj (India)
+ગયા જિલ્લો	Distretto di Gaya
+ખગડિયા જિલ્લો	Distretto di Khagaria
+જહાનાબાદ જિલ્લો	Distretto di Jehanabad
+ઓર્લાન્ડો, ફ્લોરિડા	Orlando (Florida)
+પર્યટન	Turismo
+કવિ	Poeta
+દ્વિસંગી તારો	Stella binaria
+માન્ચેસ્ટર સિટી ફૂટબૉલ ક્લબ	Manchester City Football Club
+ચલ	Variabile (matematica)
+અવયવ	Divisore
+ઢાંચો:Chembox	Template:Composto chimico
+ઢાંચો:Taxobox	Template:Tassobox
+ઈથેન	Etano
+હોલો	Streptopelia decaocto
+સુનીતા વિલિયમ્સ	Sunita Williams
+શ્રેણી:ચલચિત્ર	Categoria:Film
+રાજ કપૂર	Raj Kapoor
+પ્રણવ મુખર્જી	Pranab Mukherjee
+શ્રુતિ	Srutis
+પંજાબી ભાષા	Lingua punjabi
+અરબી સમુદ્ર	Mar Arabico
+પ્રદૂષણ	Inquinamento
+સતના	Satna
+સરસ્વતી દેવી	Sarasvati
+કાકીનાડા	Kakinada
+ખીર	Kheer
+જલેબી	Jalebi
+ઉંબરો (વૃક્ષ)	Ficus
+હેઇદી ક્લુમ	Heidi Klum
+ડેનમાર્કનો રાષ્ટ્રધ્વજ	Bandiera della Danimarca
+સી. વી. રામન	Chandrasekhara Venkata Raman
+લાતૂર	Latur
+નવી મુંબઈ	Navi Mumbai
+ટાવર ઓફ લંડન	Torre di Londra
+આરમીન વન બ્યુરન	Armin van Buuren
+મૌર્ય વંશ	Impero Maurya
+પિત્તાશય	Cistifellea
+વિદ્યુત વિચ્છેદન-વિશ્લેષણ (ઇલેક્ટ્રોલિસિસ)	Elettrolisi
+વિનિમય દર	Tasso di cambio
+જયપુર	Jaipur
+કાનપુર	Kanpur
+ઈંદોર	Indore
+દમણ અને દીવ	Daman e Diu
+પૉંડિચેરી	Pondicherry (territorio)
+અસ્થિભંગ	Frattura (medicina)
+હેલ-બોપ ધૂમકેતુ	Cometa Hale-Bopp
+ટેટ્રીસ (રમત)	Tetris
+ડેલ્ફી	Delfi
+સેમ્યુઅલ મોર્સ	Samuel Morse
+બોરિસ બેકર	Boris Becker
+૨૦૦૮ મુંબઈ હુમલો	Attentati del 26 novembre 2008 a Mumbai
+કૈમૂર જિલ્લો	Distretto di Kaimur
+કિશનગંજ જિલ્લો	Distretto di Kishanganj
+મુંગેર જિલ્લો	Distretto di Munger
+મધુબની જિલ્લો	Distretto di Madhubani
+લખીસરાય જિલ્લો	Distretto di Lakhisarai
+કટિહાર જિલ્લો	Distretto di Katihar
+નાલંદા જિલ્લો	Distretto di Nalanda
+મુજફ્ફરપુર જિલ્લો	Distretto di Muzaffarpur
+મધેપુરા જિલ્લો	Distretto di Madhepura
+એમિથિસ્ટ	Ametista
+ચક્રવાત	Ciclone
+૩જી	3G (telefonia)
+૪જી મોબાઇલ સેવા	4G (telefonia)
+બેરોમીટર	Barometro
+ગિનિ પિગ	Cavia porcellus
+અફઘાનિસ્તાનનો રાષ્ટ્રધ્વજ	Bandiera dell'Afghanistan
+મોર્સ કોડ	Codice Morse
+વિકિપીડિયા:ચકાસણીયોગ્યતા	Wikipedia:Verificabilità
+ક્રાઇસ્ટ ધ રિડીમર	Cristo Redentore
+વારાણસી	Varanasi
+ઇથરનેટ	Ethernet
+ઓઝોન સ્તર	Ozonosfera
+કુંવારપાઠું	Aloe vera
+કેનેડાનો રાષ્ટ્રધ્વજ	Bandiera del Canada
+ખાટી આમલી	Tamarindus indica
+કોર્ન	Korn
+પટના	Patna
+ભારતીય રૂપિયો	Rupia indiana
+ભીંડા	Abelmoschus esculentus
+એપ્રિલ ફૂલ્સ ડે	Pesce d'aprile
+પશુપાલન	Allevamento
+ભોપાલ	Bhopal
+વાકછટા	Retorica
+જળ ચક્ર	Ciclo dell'acqua
+હોમિયોપેથી	Omeopatia
+મગર	Crocodylus palustris
+સ્વચાલિત ગણક યંત્ર (ATM)	Automated Teller Machine
+હેરિસન ફોર્ડ	Harrison Ford
+ચણા	Cicer arietinum
+ઈન્ટરનેટ પ્રોટોકોલ સ્યુટ	Suite di protocolli Internet
+પાલક (ભાજી)	Spinacia oleracea
+ઈસ્ટોનિયાનો રાષ્ટ્રધ્વજ	Bandiera dell'Estonia
+એન્ડોરાનો રાષ્ટ્રધ્વજ	Bandiera di Andorra
+ઑસ્ટ્રેલિયાનો રાષ્ટ્રધ્વજ	Bandiera dell'Australia
+ફાસ્ટ ફૂડ	Fast food
+કાતરા (ઈયળ)	Bruco
+માંસાહારી	Carnivoro
+હંગેરીનો રાષ્ટ્રધ્વજ	Bandiera dell'Ungheria
+કાંચનજંઘા	Kangchenjunga
+અઝેરબીજાનનો રાષ્ટ્રધ્વજ	Bandiera dell'Azerbaigian
+વિરામચિહ્નો	Punteggiatura
+પર્યાવરણ સંરક્ષણ સ્થિતિ	Stato di conservazione (biologia)
+ઇમેજ સ્કેનર	Scanner (informatica)
+નારાયણ કાર્તિકેયન	Narain Karthikeyan
+ચીનનો ઇતિહાસ	Storia della Cina
+પેટ્રોનાસ જોડિયા ટાવર	Petronas Twin Towers
+જન ગણ મન	Jana Gana Mana
+શ્રીનિવાસ રામાનુજન	Srinivasa Ramanujan
+ઘર ઉંદર	Mus musculus
+ટાઇફોઇડ	Febbre tifoide
+ગુરુનાનક	Guru Nanak Dev
+લિક્વિડ ક્રિસ્ટલ ડિસ્પ્લે	Schermo a cristalli liquidi
+અંગુષ્ઠ	Pollice (dito)
+શાકાહારી	Vegetarianismo
+અલ્જીરીયાનો રાષ્ટ્રધ્વજ	Bandiera dell'Algeria
+મનાલી	Manali
+ઓલ્ડ ટ્રેફોર્ડ	Old Trafford
+પર્યાયોક્તિ	Eufemismo
+જુડાસ પ્રિસ્ટ	Judas Priest
+સુસાન બોયલ	Susan Boyle
+શાહજહાં	Shah Jahan
+શિમલા	Shimla
+કાર્લ લેન્ડસ્ટેઇનર	Karl Landsteiner
+પોલેંડબોલ	Polandball
+ધ્વનિ પ્રદૂષણ	Inquinamento acustico
+ઢાંચો:Cite book	Template:Cita libro
+એલિસેઝ એડવેન્ચર્સ ઇન વન્ડરલેન્ડ	Le avventure di Alice nel Paese delle Meraviglie
+એરિક શ્મિટ	Eric Schmidt
+લેરી એલિસન	Larry Ellison
+સેર્ગેઈ બ્રિન	Sergey Brin
+સુભાષ કાક	Subhash Kak
+બોલીવુડ	Bollywood
+ટ્યૂલિપ	Tulipa
+ઇમુ	Dromaius novaehollandiae
+ઓએસઆઈ મોડેલ	Open Systems Interconnection
+આઈસલેંડનો રાષ્ટ્રધ્વજ	Bandiera dell'Islanda
+ધ હૂ	The Who
+ગ્રાન્ડ થેફ્ટ ઓટો ૪	Grand Theft Auto IV
+રોહતાસ જિલ્લો	Distretto di Rohtas
+શેખપુરા જિલ્લો	Distretto di Sheikhpura
+શિવહર જિલ્લો	Distretto di Sheohar
+સમસ્તીપુર જિલ્લો	Distretto di Samastipur
+સહરસા જિલ્લો	Distretto di Saharsa
+વૈશાલી જિલ્લો	Distretto di Vaishali
+સીવાન જિલ્લો	Distretto di Siwan
+સુપૌલ જિલ્લો	Distretto di Supaul
+સીતામઢી જિલ્લો	Distretto di Sitamarhi
+સારન જિલ્લો	Distretto di Saran
+બસ્તર જિલ્લો	Distretto di Bastar
+બિલાસપુર જિલ્લો, છત્તીસગઢ	Distretto di Bilaspur (Chhattisgarh)
+દુર્ગ જિલ્લો	Distretto di Durg
+ધમતરી જિલ્લો	Distretto di Dhamtari
+દંતેવાડા જિલ્લો	Distretto di Dantewada
+સ્વાઈન ફલૂ	Pandemia influenzale del 2009
+ઈંડોનેશિયાનો રાષ્ટ્રધ્વજ	Bandiera dell'Indonesia
+ગાબોનનો રાષ્ટ્રધ્વજ	Bandiera del Gabon
+જિબુટીનો રાષ્ટ્રધ્વજ	Bandiera di Gibuti
+બાઇનૉક્યુલર	Binocolo
+સંક્ષિપ્ત શબ્દ	Abbreviazione
+હોન્ડુરાસનો રાષ્ટ્રધ્વજ	Bandiera dell'Honduras
+કેપ વર્દુનો રાષ્ટ્રધ્વજ	Bandiera di Capo Verde
+ગિની-બિસ્સાઉનો રાષ્ટ્રધ્વજ	Bandiera della Guinea-Bissau
+હૈતીનો રાષ્ટ્રધ્વજ	Bandiera di Haiti
+વી ફોર વેન્ડેટા	V for Vendetta
+ગ્રેનેડાનો રાષ્ટ્રધ્વજ	Bandiera di Grenada
+બહામાનો રાષ્ટ્રધ્વજ	Bandiera delle Bahamas
+રવિ શંકર	Ravi Shankar
+પલ્‍પ ફિક્શન (ફિલ્‍મ)	Pulp Fiction
+બાર્બાડોસનો રાષ્ટ્રધ્વજ	Bandiera di Barbados
+અર્ધ વિરામ	Punto e virgola
+હુક્કો	Narghilè
+શોર્ટ સેલ	Vendita allo scoperto
+છાશ	Latticello
+મિર્ઝા ગ઼ાલિબ	Mirza Ghalib
+માર્કની લખેલી સુવાર્તા	Vangelo secondo Marco
+રાજ્ય	Stato federato
+કીટલી	Bollitore
+ડો. હરગોવિંદ ખુરાના	Har Gobind Khorana
+સટ્ટાખોરી	Speculazione
+ઉત્તર ગોઆ જિલ્લો	Distretto di Goa Nord
+દક્ષિણ ગોઆ જિલ્લો	Distretto di Goa Sud
+એ. આર. રહેમાન	Allah Rakha Rahman
+હિંગ	Ferula assa-foetida
+રાધા	Radha
+તમલુક	Tamluk
+લેધરબેક કાચબો	Dermochelys coriacea
+અલિસિયા કીઝ	Alicia Keys
+ગર્ભનિરોધ	Contraccezione
+સીસમ	Palissandro
+જળવિમાન	Idroplano
+ગીધ	Avvoltoio
+ગોલ્ડફિશ	Carassius auratus
+વેનેસા હજિન્સ	Vanessa Hudgens
+વિલુપ્ત જાતિ	Estinzione
+અવાજની ઝડપ	Velocità del suono
+ઈડન પાર્ક, લંડન	Eden Park (Londra)
+ઝકાત	Zakat
+નીલ્સ હેન્રીક અબૅલ	Niels Henrik Abel
+સ્કોર્પિયન્સ (બેન્ડ)	Scorpions
+અંગોલાનો રાષ્ટ્રધ્વજ	Bandiera dell'Angola
+મીણ	Cera
+સ્લમડોગ મિલિયોનેર	The Millionaire (film 2008)
+અવાક	Nycticorax nycticorax
+ઈરાનનો રાષ્ટ્રધ્વજ	Bandiera dell'Iran
+સગર્ભાવસ્થા દરમિયાન ડાયાબિટીસ	Diabete mellito gestazionale
+આંગણવાડી	Scuola dell'infanzia
+ઍરોસ્મિથ	Aerosmith
+મેંગલોર	Mangalore
+ઝેક ગણરાજ્યનો રાષ્ટ્રધ્વજ	Bandiera della Repubblica Ceca
+બાંગ્લાદેશનો રાષ્ટ્રધ્વજ	Bandiera del Bangladesh
+સંત રવિદાસ નગર જિલ્લો	Distretto di Sant Ravidas Nagar
+સમઘટકતા	Isomeria
+શિયાળ	Canis aureus
+ઇન્દ્ર	Indra
+ગ્રીસનો રાષ્ટ્રધ્વજ	Bandiera della Grecia
+મિથુન રાશી	Gemelli (astrologia)
+હ્યુજ જેકમેન	Hugh Jackman
+યતી (હિમ માનવ)	Yeti
+૧૮૫૭નો ભારતીય વિપ્લવ	Moti indiani del 1857
+જ્યોર્જ માઇકલ	George Michael
+જાપાનનો ઇતિહાસ	Storia del Giappone
+ઇજિપ્તનો રાષ્ટ્રધ્વજ	Bandiera dell'Egitto
+બહેરીનનો રાષ્ટ્રધ્વજ	Bandiera del Bahrein
+આર્જેન્ટીનાનો રાષ્ટ્રધ્વજ	Bandiera dell'Argentina
+અન્ના કુર્નિકોવા	Anna Kurnikova
+વાયુનું પ્રદૂષણ	Inquinamento atmosferico
+ચીનનો રાષ્ટ્રધ્વજ	Bandiera della Cina
+શરીર વજન અનુક્રમ	Indice di massa corporea
+અક્ષય વિકાસ	Sviluppo sostenibile
+સૌંદર્ય પ્રસાધનો	Cosmesi
+મસુર	Lens culinaris
+લક્ષ્મી	Lakshmi
+વિદ્યુતજનીન	Generatore elettrico
+એસોટેરિક (અમુક વ્યક્તિઓ જ સમજી શકે તેવું)	Esoterismo
+મંત્ર	Mantra
+બૂમરેંગ	Boomerang
+ભારતનાં રાજ્યો અને કેન્દ્રશાસિત પ્રદેશો	Stati federati e territori dell'India
+ઉચિત વપરાશ	Fair use
+વાડી	Fattoria
+જંતુનાશક	Pesticida
+રબર	Gomma
+કાલિ	Kālī
+સાનિયા મિર્ઝા	Sania Mirza
+સત્સ્વરૂપદાસ ગોસ્વામી	Satsvarupa dasa Goswami
+ઉત્સવ	Festival (antropologia)
+આયુર્વેદ	Ayurveda
+અમર્ત્ય સેન	Amartya Sen
+રિસાયક્લિંગ	Riciclaggio dei rifiuti
+જંગલી કૂતરો	Cuon alpinus
+જીરું	Cuminum cyminum
+બેલારુસનો રાષ્ટ્રધ્વજ	Bandiera della Bielorussia
+યમુના	Yamuna (fiume)
+ડિસ્લેક્સીયા	Dislessia
+ક્રોએશિયાનો રાષ્ટ્રધ્વજ	Bandiera della Croazia
+પગ	Zampa
+ભારતનો ઇતિહાસ	Storia dell'India
+અંધવિશ્વાસ	Superstizione
+મેથી	Trigonella foenum-graecum
+કસિનો	Casa da gioco
+કમળો	Ittero
+મરકી	Peste
+આધાસિસિ બિમારિ	Emicrania
+લોબાન	Boswellia sacra
+વાઇમેક્સ (WiMAX)	WiMAX
+પ્રાથમિક સારવાર	Primo soccorso
+લિંગ ઉત્થાન	Erezione
+હીમોફીલિયા	Emofilia
+કન્યા રાશી	Vergine (astrologia)
+માઇક્રોસોફ્ટ વિઝ્યુઅલ સ્ટુડિયો	Microsoft Visual Studio
+રચેલ વેઇઝ	Rachel Weisz
+તુલા રાશી	Bilancia (astrologia)
+વૃશ્ચિક રાશી	Scorpione (astrologia)
+તાઓ તે ચીંગ	Daodejing
+ગેમ્બિયાનો રાષ્ટ્રધ્વજ	Bandiera del Gambia
+એન્ટિગુઆ એન્ડ બાર્બુડાનો રાષ્ટ્રધ્વજ	Bandiera di Antigua e Barbuda
+ભારતની ભાષાઓની સૂચી	Lingue dell'India
+ગૂગલ અનુવાદ	Google Traduttore
+ઝીપ કોડ	Zoning Improvement Plan
+ચિત્રલિપિ	Ideogramma (statistica)
+અંકશાસ્ત્ર	Numerologia
+દાંતનું ચોકઠું	Protesi dentaria
+મહાશ્વેતા દેવી	Mahasweta Devi
+ડૉ. ઝાકીર હુસૈન	Zakir Hussain
+વિકિપીડિયા:સ્ટબ	Topologia di rete
+સાર્ક	Associazione sud-asiatica per la cooperazione regionale
+કઠોળ	Baccello
+પર્યાવરણીય ઇજનેરી	Ingegneria ambientale
+બ્રાન્ડી	Brandy
+ગુરદાસપુર જિલ્લો	Distretto di Gurdaspur
+હાઉ આઇ મેટ યોર મધર	How I Met Your Mother
+કાજોલ	Kajol
+સુબ્રમણ્યન ચંદ્રશેખર	Subrahmanyan Chandrasekhar
+કબડ્ડી	Kabaddi
+પેટ બ્યુકેનન	Pat Buchanan
+જિલ્લો	Distretto
+ચોલ સામ્રાજ્ય	Chola
+મદદ:સંપાદન	Aiuto:Modifica
+પાન્ડુ શામા	Monticola solitarius
+ટાટા નેનો	Tata Nano
+લાઇફ ઓફ પાઇ	Vita di Pi (film)
+ઇમરાન ખાન	Imran Khan (politico)
+ઉઝી	IMI Uzi
+કરેણ	Nerium oleander
+દિવેલી	Ricinus communis
+એમ.પી.૫	Heckler & Koch MP5
+આઝાદ હિંદ ફોજ	Azad Hind Fauj
+રજકો	Medicago sativa
+પેન્શન	Pensione
+એકેએસ-૭૪યુ	AK-74
+લતા મંગેશકર	Lata Mangeshkar
+ડૉ. સર્વપલ્લી રાધાકૃષ્ણન	Sarvepalli Radhakrishnan
+માંકડું	Macaca mulatta
+કફોત્પાદક ગ્રંથિ	Ipofisi
+ઇંગ્લીશ વીલો	Salix alba
+યુનિલિવર	Unilever
+ચાર્લ્સ લુસિઅન બોનાપાર્ટ	Carlo Luciano Bonaparte
+રૂખડો (વનસ્પતિ)	Adansonia
+ડેઝા વુ	Déjà vu
+આયેશા ટાકિયા	Ayesha Takia
+ગ્વાલિયર	Gwalior
+પ્રિયંકા ચોપરા	Priyanka Chopra
+વિદ્યા બાલન	Vidya Balan
+નરગીસ	Nargis (attrice)
+દીપિકા પદુકોણે	Deepika Padukone
+ડચ ઇસ્ટ ઇંડિયા કંપની	Compagnia olandese delle Indie orientali
+સિંહ રાશી	Leone (astrologia)
+કેમરૂનનો રાષ્ટ્રધ્વજ	Bandiera del Camerun
+સંયુક્ત રાષ્ટ્રસંઘના સભ્ય દેશોની યાદી	Stati membri delle Nazioni Unite
+બોલપેન	Penna a sfera
+રામ	Rama
+કોલમ્બિયાનો રાષ્ટ્રધ્વજ	Bandiera della Colombia
+મહમદ અલી ઝીણા	Mohammad Ali Jinnah
+લંડન આઇ (વિરાટ ચકડોળ)	London Eye
+ઘાનાનો રાષ્ટ્રધ્વજ	Bandiera del Ghana
+ચિત્તભ્રમણા	Delirio
+ચીલીનો રાષ્ટ્રધ્વજ	Bandiera del Cile
+પેચીયું (સ્ક્રૂ ડ્રાઇવર)	Cacciavite
+શહેરીકરણ	Urbanizzazione
+ઝરેર (વનસ્પતિ)	Melilotus officinalis
+ક્રમચય	Permutazione
+કર્ક રાશી	Cancro (astrologia)
+અલ્પ વિરામ	Virgola
+ઇથોપિયાનો રાષ્ટ્રધ્વજ	Bandiera dell'Etiopia
+કુંભ રાશી	Aquario (astrologia)
+સ્વચ્છતા	Igiene
+સ્ટેથોસ્કોપ	Stetofonendoscopio
+અલ્હાબાદ	Allahabad
+ધિરાણનું જોખમ	Rischio di credito
+કમ્બોડીયાનો રાષ્ટ્રધ્વજ	Bandiera della Cambogia
+ક્યુબાનો રાષ્ટ્રધ્વજ	Bandiera di Cuba
+સોનિયા ગાંધી	Sonia Gandhi
+કોંગોનું ગણતંત્રનો રાષ્ટ્રધ્વજ	Bandiera della Repubblica del Congo
+થ્રિસુર	Thrissur
+વોલ્વો	Volvo Group
+સિલિકૉન વૅલી	Silicon Valley
+કરિયાતું	Swertia
+અમીરાત સ્ટેડિયમ	Emirates Stadium
+વૃષભ રાશી	Toro (astrologia)
+મકર રાશી	Capricorno (astrologia)
+કોંગોનું લોકતંત્રીય ગણતંત્રનો રાષ્ટ્રધ્વજ	Bandiera della Repubblica Democratica del Congo
+કરી (મસાલેદાર રસાવાળી વાની)	Curry
+પીરોજ	Turchese (minerale)
+ચિત્રદુર્ગ જિલ્લો	Distretto di Chitradurga
+કોળું	Zucca
+કાર્બ્યુરેટર	Carburatore
+ગિનિનો રાષ્ટ્રધ્વજ	Bandiera della Guinea
+ઈક્વેડોરનો રાષ્ટ્રધ્વજ	Bandiera dell'Ecuador
+એડોબ ફ્લેશ	Adobe Flash
+મધ્ય આફ્રીકી ગણતંત્રનો રાષ્ટ્રધ્વજ	Bandiera della Repubblica Centrafricana
+ચૅડનો રાષ્ટ્રધ્વજ	Bandiera del Ciad
+પોલેંડ રાષ્ટ્રીય ફૂટબોલ ટીમ	Nazionale di calcio della Polonia
+સાત ઘોર પાપ (ખ્રિસ્તી ધર્મ)	Vizi capitali
+ઉદ્‌ગારચિહ્ન	Punto esclamativo
+કોર્પોરેશન	Società (diritto)
+મધ્યમા	Dito medio
+ગ્રીનહાઉસ વાયુ	Gas serra
+તિરુવનંતપુરમ્	Thiruvananthapuram
+ભૂસ્ખલન	Frana
+બાષ્પોત્સર્જન	Traspirazione
+તાઈ ચી ચુઆન	Taijiquan
+માયોપીઆ	Miopia
+કોમોરોસનો રાષ્ટ્રધ્વજ	Bandiera delle Comore
+જામીનગીરીઓ	Titolo (finanza)
+વનનાબૂદી	Diboscamento
+કેટ હડસન	Kate Hudson
+દાર્જિલિંગ	Darjeeling
+શ્રીનગર	Srinagar
+યાટ	Panfilo
+ભાગીરથી	Bhagirathi (fiume)
+કોસ્ટારિકાનો રાષ્ટ્રધ્વજ	Bandiera della Costa Rica
+તાલ	Ritmo
+ફિલિપ્સ	Philips
+વિશ્વ આર્થિક મંચ	Forum economico mondiale
+સ્ક્રેબલ	Scrabble
+અગરતલા	Agartala
+લીમડો	Azadirachta indica
+પાર્વતી	Parvati
+ફેંગ શુઇ	Feng shui
+ઈક્વેટોરીયલ ગીનીનો રાષ્ટ્રધ્વજ	Bandiera della Guinea Equatoriale
+એરિટ્રિયાનો રાષ્ટ્રધ્વજ	Bandiera dell'Eritrea
+લસિકા ગાંઠ	Linfonodo
+ગયાનાનો રાષ્ટ્રધ્વજ	Bandiera della Guyana
+બાણભટ્ટ	Bāṇabhaṭṭa
+સ્ટેમ્ફોર્ડ બ્રિજ (સ્ટેડિયમ)	Stamford Bridge
+દાનીયેલ	Daniele (profeta)
+ભુવનેશ્વર	Bhubaneswar
+બ્લેકબેરી	BlackBerry
+આગ્રાનો કિલ્લો	Forte rosso di Agra
+સિંહાકૃતિ	Emblema dell'India
+ફ્રેન્ચાઇઝીંગ	Franchising
+પૂર્ણ વિરામ	Punto fermo
+કપૂરથલા જિલ્લો	Distretto di Kapurthala
+ફિરોઝપુર જિલ્લો	Distretto di Ferozepur
+માનસા જિલ્લો	Distretto di Mansa (India)
+પટિયાલા જિલ્લો	Distretto di Patiala
+લુધિયાણા જિલ્લો	Distretto di Ludhiana
+ફતેહગઢ સાહિબ જિલ્લો	Distretto di Fatehgarh Sahib
+ભટિન્ડા જિલ્લો	Distretto di Bathinda
+ફરીદકોટ જિલ્લો	Distretto di Faridkot
+કટની	Murwara
+વળગાડ મુક્તિ	Esorcismo
+સાડી	Sari (indumento)
+કટિહાર	Katihar
+કૃષિવિજ્ઞાન	Agronomia
+ઘોરખોદિયું	Mellivora capensis
+સિસ્કો	Cisco Systems
+મિસ વર્લ્ડ	Miss Mondo
+માર્વલ કૉમિક્સ	Marvel Comics
+સુવર્ણ માનક	Sistema aureo
+ખાદ્ય પદાર્થની સાચવણી	Conservazione degli alimenti
+અલ સાલ્વાડોરનો રાષ્ટ્રધ્વજ	Bandiera di El Salvador
+યરૂશાલેમના હિબ્રુ યુનિવર્સિટી	Università Ebraica di Gerusalemme
+સિવિલ એવિએશન રાષ્ટ્રીય શાળા	École nationale de l'aviation civile
+રાંચી	Ranchi
+કૌંસ	Parentesi
+એગોરાફોબિયા	Agorafobia
+મણિરત્નમ	Mani Ratnam
+વિકિપીડિયા:અવરોધન નીતિ	Wikipedia:Politiche di blocco degli utenti
+વિલા પાર્ક	Villa Park
+એચએએલ તેજસ	HAL Tejas
+હિન્દુ-અરેબીક અંકો	Sistema di numerazione arabo
+મંગળના ચંદ્રો	Satelliti naturali di Marte
+મહાવિરામ	Due punti
+પાતાળ કૂવા	Pozzo artesiano
+ફુલરિન (Fullerene)	Fullereni
+ગ્વાટેમાલાનો રાષ્ટ્રધ્વજ	Bandiera del Guatemala
+નિંદામણનાશક	Diserbante
+તર્ક	Ragione
+કબજિયાત	Stitichezza
+અહિંસા	Ahimsa
+ગૂચી	Gucci
+કાંડા ઘડિયાળ	Orologio da polso
+રૂપિયો	Rupia
+રોજા	Sawm
+ખજુરાહો	Khajuraho
+ઍલ્કેમિસ્ટ	L'alchimista (Coelho)
+ફતેહપૂર સિક્રી	Fatehpur Sikri
+ડોમિનિકાનો રાષ્ટ્રધ્વજ	Bandiera della Dominica
+ખાવાનો સોડા	Bicarbonato di sodio
+શિયાળુ મોટી ડુબકી	Podiceps grisegena
+અવકાશ સંશોધન	Esplorazione spaziale
+રૂપેરી પેણ	Pelecanus philippensis
+વાદળ ફાટવું	Nubifragio
+કચરાનો પ્રબંધ	Gestione dei rifiuti
+સુવર્ણ મંદિર, અમૃતસર	Tempio d'Oro
+યુઇએફએ યૂરો ૨૦૧૨ નામાંકન	Qualificazioni al campionato europeo di calcio 2012
+આયર્ન મૅન	Iron Man
+એના નિકોલ સ્મિથ	Anna Nicole Smith
+ચક્ર	Chakra
+મેલાટોનિન	Melatonina
+એપોલો ૧૭	Apollo 17
+તમાકુ	Nicotiana tabacum
+સાંચીનો સ્તુપ	Sanchi
+કપૂર	Canfora
+વિદેશ નીતિ	Politica estera
+મેટ્રોપોલિટન એરિયા નેટવર્ક	Metropolitan Area Network
+ફીજીનો રાષ્ટ્રધ્વજ	Bandiera delle Figi
+રેકી	Reiki
+રામકૃષ્ણ પરમહંસ	Ramakrishna
+પાણીનું પ્રદૂષણ	Inquinamento idrico
+ઓઝોન અવક્ષય	Buco nell'ozono
+એનટીએફએસ	NTFS
+વિગતવાર વિજ્ઞાન પોલીટેકનિક ઇન્સ્ટિટ્યુટ	Institut polytechnique des sciences avancées
+મોહરમ	Ashura
+મોક્ષ	Mokṣa
+કો-ઍક્સિયલ કેબલ	Cavo coassiale
+હલવો	Halva
+મેમરી કાર્ડ	Scheda di memoria
+વિશ્વ જળ દિન	Giornata mondiale dell'acqua
+ૐ	Oṃ
+લાલી (લિપસ્ટીક)	Rossetto
+સૌથી તેજસ્વી તારાઓ	Lista delle stelle più brillanti del cielo notturno osservabile
+ડોમિનિકન ગણતંત્રનો રાષ્ટ્રધ્વજ	Bandiera della Repubblica Dominicana
+પેજ રેન્ક	PageRank
+ગૉડફ્રે હારૉલ્ડ હાર્ડિ	Godfrey Harold Hardy
+અજંતાની ગુફાઓ	Grotte di Ajanta
+રૂઢિપ્રયોગ	Idiotismo
+તર્જની	Indice (dito)
+કરીના કપૂર	Kareena Kapoor
+સિકલસેલ એનીમિયા રોગ	Anemia drepanocitica
+બ્રાહ્મી લિપિ	Brahmi
+પ્રારંભિક જાહેર ભરણું (આઈપીઓ)	Offerta pubblica iniziale
+શિયાળુ નાની ડુબકી	Podiceps nigricollis
+શ્રેણી:મેના-કાબર કુટુંબ	Sturnidae
+ટર્બોચાર્જર	Turbocompressore
+કાંડુ (શરીર)	Polso
+અર્જુન	Arjuna
+વૈશ્ય	Vaiśya
+ફિઝિયોથેરાપી	Fisioterapia
+અયોધ્યા	Ayodhya
+ગંગટોક	Gangtok
+ધર્મશાલા	Dharamsala
+મેડમ તુસાદ સંગ્રહાલય	Madame Tussauds
+વ્હાઈટ હાર્ટ લેન	White Hart Lane
+અણુ અપ્રસાર સંધિ	Trattato di non proliferazione nucleare
+દાહોદ જિલ્લો	Distretto di Dahod
+અભિષેક બચ્ચન	Abhishek Bachchan
+વિકીમેપિયા	WikiMapia
+કુતુબ મિનાર	Qutb Minar
+વિગ્રહરેખા	Lineetta
+મોનોરેલ	Monorotaia
+પોલિએસ્ટર	Poliesteri
+સાંબાર	Sambar (gastronomia)
+કુદરતી સંપત્તિ	Risorsa naturale
+હનુમાન	Hanuman
+ઝરખ	Hyaena hyaena
+પ્રીટિ ઝિન્ટા	Preity Zinta
+સહી (હસ્તાક્ષર)	Firma
+ખેતર	Campo (agricoltura)
+મત્સ્યઉછેર	Acquacoltura
+ઇલોરાની ગુફાઓ	Ellora
+હુમાયુનો મકબરો	Tomba di Humayun
+અષ્ટાધ્યાયી	Pāṇini
+મલ્ટિમીટર	Multimetro
+ઇસ્કોન	Associazione internazionale per la coscienza di Krishna
+શરીર વૃદ્ધી અંતઃસ્ત્રાવ	Somatotropina
+શક સંવત	Calendario induista
+વેબ ડિઝાઈન	Web design
+વિલવણીકરણ	Dissalazione
+સક્રિય કાર્બન	Carbone attivo
+ચણોઠી	Abrus precatorius
+સીતા	Sita
+લક્ષ્મી મિત્તલ	Lakshmi Mittal
+ગોદાવરી	Godavari
+લૂઈસ વીટન	Louis Vuitton
+લૌહ અયસ્ક	Minerali ferrosi
+કરકરો	Grus virgo
+સેન્ટ જેમ્સ પાર્ક	St James' Park
+નાણાકીય વર્ષ	Anno fiscale
+ભારતીય વાનગીઓ	Cucina indiana
+અનામિકા	Anulare
+વ્યાપાર ચક્ર	Ciclo economico
+ઐઝવાલ	Aizawl
+બાળ કામદાર	Lavoro infantile
+રાજગીધ	Sarcoramphus papa
+કાઝીરંગા રાષ્ટ્રીય ઉદ્યાન	Parco nazionale di Kaziranga
+હાર્લી-ડેવિડસન	Harley-Davidson
+રસીકરણ	Vaccinazione
+ઋતુ-પ્રવાસ	Migrazione
+ગોલ્ડમૅન સૅશ	Goldman Sachs
+ક્રોપ સર્કલ	Cerchi nel grano
+કૃષ્ણા નદી	Krishna (fiume)
+ખંજરી (વાદ્ય)	Tamburello basco
+બંજી જમ્પિંગ	Bungee jumping
+કૃષિ ઈજનેરી	Ingegneria agraria
+સક્રિય કલા વીજસ્થિતિમાન	Potenziale d'azione
+મંડી	Mandi (città)
+રુપનગર જિલ્લો	Distretto di Rupnagar
+મૌલાના આઝાદ	Abul Kalam Azad
+રાજેન્દ્ર પ્રસાદ	Rajendra Prasad
+લીલો દરીયાઈ કાચબો	Chelonia mydas
+દેહરાદૂન	Dehradun
+ગુવાહાટી	Guwahati
+લેસર પ્રિન્ટર	Stampa laser
+વિશાખાપટનમ	Visakhapatnam
+વિજયવાડા	Vijayawada
+જોધપુર	Jodhpur
+અજમેર	Ajmer
+ઉજ્જૈન	Ujjain
+લુધિયાણા	Ludhiana
+નાસિક	Nashik
+મેરઠ	Meerut
+પારસી	Parsi
+મથુરા	Mathura
+ઉદયપુર	Udaipur (Rajasthan)
+ફરીદાબાદ	Faridabad
+લડાખ	Ladakh
+ઔરંગાબાદ	Aurangabad (Maharashtra)
+જબલપુર	Jabalpur
+પ્રાઇડ પાર્ક સ્ટેડિયમ	Pride Park Stadium
+ઓરછા (મધ્ય પ્રદેશ)	Orchha
+રામસેતુ	Ponte di Adamo
+વાર્ટા નદી (યુરોપ)	Warta
+અલીગઢ	Aligarh
+પર્સનલ એરિયા નેટવર્ક	Personal Area Network
+અમૃતસર જિલ્લો	Distretto di Amritsar
+હૃદયસ્તંભતા	Arresto cardiaco
+જેક સ્પૅરો	Jack Sparrow
+વાટાઘાટ	Negoziato
+બ્રહ્મગુપ્ત	Brahmagupta
+ગુરુ ગ્રંથ સાહેબ	Guru Granth Sahib
+વામકુક્ષિ	Siesta
+કાળી ચા	Tè nero
+પોર્ટ બ્લૅર	Port Blair
+ખાદ્ય અને ઔષધ વહીવટીતંત્ર	Food and Drug Administration
+હાવડા	Howrah
+સિરોહી જિલ્લો	Distretto di Sirohi
+જેટ વિમાન	Aereo a reazione
+ગાઝિયાબાદ	Ghaziabad
+રીવર રાફ્ટિંગ	Rafting
+કટક	Cuttack
+જગન્નાથપુરી	Puri
+યુરોપ દિન	Giorno europeo
+અમીર ખુશરો	Amir Khusrow
+મહાબલીપુરમ	Mamallapuram
+સૂડો	Psittacula krameri
+ઇમ્ફાલ	Imphal
+૧૯૬૨નું ભારત-ચીન યુદ્ધ	Guerra sino-indiana
+ડેલ્ટા ફોર્સ	Delta Force
+કોલ્હાપૂર	Kolhapur
+વાઇકિંગ ૧	Viking 1
+ચેરાપુંજી	Cherrapunjee
+ઘાસચારો	Mangime
+સુગરી	Ploceidae
+છાણીયું ખાતર	Compost
+કાંચીપુરમ	Kanchipuram
+હરિપ્રસાદ ચૌરસિયા	Hariprasad Chaurasia
+અકોલા	Akola
+બરેલી	Bareilly
+વારંગલ	Warangal
+તબલા	Tabla
+તિરુનેલવેલી	Tirunelveli
+ભારતનું સર્વોચ્ચ ન્યાયાલય	Corte suprema dell'India
+શ્રીલંકાનો આંતરવિગ્રહ	Guerra civile dello Sri Lanka
+નિસર્ગોપચાર	Naturopatia
+હાથીના પગ તળે દેહાંતદંડ	Schiacciamento da elefante
+બોયઝોન	Boyzone
+ગાંધાર	Regno di Gandhāra
+લોંકડી	Vulpes bengalensis
+યાયાવર પક્ષીઓ	Uccelli migratori
+રાગ	Raga
+જાહેરાત એજન્સી	Agenzia pubblicitaria
+ઘઉંનાં ધનેડાં	Sitophilus granarius
+અય્યાવળિ	Ayyavalismo
+એમપી	MP
+બહુસમુદાયીત્વ	Polifilia
+ગુર્જીય્ફ	Georges Ivanovič Gurdjieff
+મોરારજી દેસાઈ	Morarji Desai
+સાબુદાણા	Sago
+નડીઆદ	Nadiad
+વુઝૂ	Wudu'
+સિટીગ્રુપ	Citigroup
+જેસ્સી ઐસેનબર્ગ	Jesse Eisenberg
+દલિત	Paria
+ઓપન શોર્ટેસ્ટ પાથ ફર્સ્ટ	Open Shortest Path First
+ગૂગલ ઍનલિટિક્સ	Google Analytics
+ગટરવ્યવસ્થા	Trattamento delle acque reflue
+બપૈયો	Hierococcyx varius
+કન્યાકુમારી	Kanyakumari
+કાચબો	Testudines
+અહમદનગર	Ahmednagar
+કુબેર	Kubera
+માયા	Māyā
+ઓલ ઈન્ડિયા મુસ્લિમ લીગ	Lega musulmana
+વર્તુળની ત્રિજ્યા	Radius
+અળવી (વનસ્પતિ)	Colocasia esculenta
+કનીષ્ઠિકા	Mignolo
+તાળું	Serratura
+યુરોપના દેશોની યાદી	Stati dell'Europa
+આફ્રિકાના રાષ્ટ્રોની યાદી	Stati dell'Africa
+મદુરાઇ	Madurai
+કળિયુગ	Kali Yuga
+કેથોલિક યુનિવર્સિટી ઓફ સેકર્ડ હર્ટ	Università Cattolica del Sacro Cuore
+રાષ્ટ્રીય પંચાંગ	Calendario nazionale indiano
+ઇસરો	Indian Space Research Organisation
+સિતાર	Sitar
+લોક સભા	Lok Sabha
+લેહ	Leh (città)
+ઉજળી પટ્ટાઇ	Circus macrourus
+અણ્ણા હઝારે	Anna Hazare
+ઓરકુટ	Orkut
+ડૉ. ભીમરાવ રામજી આંબેડકર	B. R. Ambedkar
+માધુરી દીક્ષિત	Madhuri Dixit
+સમાંતર કમ્પ્યુટિંગ	Calcolo parallelo
+અટલ બિહારી વાજપેયી	Atal Bihari Vajpayee
+ઋત્વિક રોશન	Hrithik Roshan
+ભારતીય અર્થતંત્ર	Economia dell'India
+માન સરોવર	Manasarovar
+અક્ષય કુમાર	Akshay Kumar
+ક્વિંગઝાંગ રેલ્વે	Ferrovia del Qingzang
+નર્મદા નદી	Narmada
+કોહિમા	Kohima
+ભારતીય સામ્યવાદી પક્ષ (માર્ક્સવાદી)	Partito Comunista d'India (marxista)
+નમાજ઼	Ṣalāt
+એ.સી. ભક્તિવેદાંત સ્વામી પ્રભુપાદ	A.C. Bhaktivedanta Swami Prabhupada
+સુકો મેવો	Frutta secca
+સોનોગ્રાફી પરીક્ષણ	Ecografia
+હજ	Hajj
+રાવણ	Ravana
+પરંપરાગત સંગીત	Musica etnica
+કેવલાદેવ રાષ્ટ્રીય ઉદ્યાન	Parco nazionale di Keoladeo
+છત્રપતિ શિવાજી ટર્મિનસ	Stazione ferroviaria Chhatrapati Shivaji
+ગોખરુ (વનસ્પતિ)	Tribulus terrestris
+સુરેન્દ્રનગર જિલ્લો	Distretto di Surendranagar
+નરસિંહ	Narasimha
+સોલાપૂર	Solapur
+કલ્પના ચાવલા	Kalpana Chawla
+મગધ વિભાગ (પ્રમંડલ)	Divisione di Magadh
+દાંડી સત્યાગ્રહ	Marcia del sale
+શિવાજી	Shivaji
+મધ્યમ વર્ગ	Ceto medio
+વસિષ્ઠ	Vasishtha
+સહરાનપુર	Saharanpur
+જેસલમેર	Jaisalmer
+બોરડી	Ziziphus jujuba
+ભાવનગર	Bhavnagar
+ઝાંસી	Jhansi
+મખમલ	Velluto
+ધનબાદ	Dhanbad
+એશિયન રમતોત્સવ ૨૦૧૦	XVI Giochi asiatici
+ગોરખપુર	Gorakhpur
+લાલ બહાદુર શાસ્ત્રી	Lal Bahadur Shastri
+રાજ્ય સભા	Rajya Sabha
+ઇવૂડ્ પાર્ક	Ewood Park
+બ્રાઉનિંગ હાઇ-પાવર	Browning HP
+ગયા	Gaya (India)
+હેલોવીન	Halloween
+સૈફ અલી ખાન	Saif Ali Khan
+ફિફા	Fédération Internationale de Football Association
+પેટન્ટ	Brevetto
+કોડાયકેનલ	Kodaikanal
+બાંદ્રા	Bandra
+અમરેલી જિલ્લો	Distretto di Amreli
+મુંગેર વિભાગ (પ્રમંડલ)	Divisione di Munger
+મોગા (પંજાબ)	Moga
+ક્ષેત્રફળ પ્રમાણે વિશ્વના દેશોની યાદી	Stati per superficie
+સાંઇબાબા	Shirdi Sai Baba
+સન્ની લિઓન	Sunny Leone
+કોયલ કુટુંબ	Eudynamys
+કસ્તુરબા	Kasturba Gandhi
+ઈન્દ્રા નૂયી	Indra Nooyi
+આરણ્યક ગ્રંથો	Āraṇyaka
+જીન્દ જિલ્લો	Distretto di Jind
+આશ્રમશાળા	Collegio scolastico
+અમરાવતી	Amravati
+અમેરિકન ગૅંગ્સ્ટર	American Gangster
+વર્ચ્યુઅલાઈઝેશન	Virtualizzazione
+મહા નદી	Mahanadi
+દિલ્હી મેટ્રો રેલ	Metropolitana di Delhi
+વિંધ્યાચલ	Monti Vindhya
+દિસપુર	Dispur
+હરદ્વાર	Haridwar
+લેંગકાવી	Langkawi
+ઋજુ ઉદર સ્નાયુ	Muscolo retto dell'addome
+સાગુઆરો (થોર)	Carnegiea gigantea
+બાળપણ	Infanzia
+માહે	Mahe
+એશિયાઇ ચિત્તો	Acinonyx jubatus venaticus
+કુન્નુર	Coonoor
+વંદે માતરમ્	Vande Mataram
+કડ્ડલોર	Cuddalore
+શ્વેતાંબર	Svetambara
+યવતમાળ	Yavatmal
+ગઝલ	Ghazal
+શિમોગા	Shimoga
+સફેદ પીઠ ગીધ	Gyps africanus
+સર્પગ્રીવા	Anhinga melanogaster
+ઓલિવ રિડલી દરીયાઈ કાચબો	Lepidochelys olivacea
+એબીએન એમ્રો	ABN AMRO
+ચંપાવત જિલ્લો	Distretto di Champawat
+લારા દત્તા	Lara Dutta
+ટિલોર	Chlamydotis undulata
+એકે ૧૦૧	AK-101
+એકે-૧૦૩	AK-103
+માડીકેરી	Madikeri
+વેલ્લોર	Vellore
+ઇડ્ડક્કિ જિલ્લો	Distretto di Idukki
+વલસાડ	Valsad
+એરન સ્વાર્ટઝ	Aaron Swartz
+બૌઢ	Boudh
+હોશિયારપુર જિલ્લો	Distretto di Hoshiarpur
+મિડાસ	Mida
+કાટવર્ણી ટપકાંવાળી બિલાડી	Prionailurus rubiginosus
+હિમાલયન પાઈકા	Ochotona himalayana
+નેપોલિયન હિલ	Napoleon Hill
+રોહુ માછલી	Labeo rohita
+બુમલા માછલી	Harpadon nehereus
+કનિષ્ક	Kanishka
+સંત કબીર	Kabir
+નથુરામ ગોડસે	Nathuram Godse
+મહેશ ભૂપતિ	Mahesh Bhupathi
+લોકમાન્ય ટિળક	Bal Gangadhar Tilak
+ગુરુ ગોવિંદસિંહ	Guru Gobind Singh
+તુલસીદાસ	Tulsidas
+ગોપાલ કૃષ્ણ ગોખલે	Gopal Krishna Gokhale
+ભારતના રાષ્ટ્રપતિ	Presidenti dell'India
+ડોનાલ્ડ બ્રેડમેન	Donald Bradman
+કૂચબિહાર	Cooch Behar
+જગદીશચંદ્ર બોઝ	Jagadish Chandra Bose
+ગુલઝારીલાલ નંદા	Gulzarilal Nanda
+સેલ્વાસ	Silvassa
+સલામત મૈથુન	Sesso sicuro
+ઇન્વેસ્ટમેન્ટ બેન્કિંગ	Banca d'investimento
+બુકર ટી.વોશિંગ્ટન	Booker T. Washington
+કાબરો કલકલીયો	Ceryle rudis
+જમશેદજી તાતા	Jamshedji Tata
+દેવ આનંદ	Dev Anand
+પેરુ (ફળ)	Psidium
+બદામી વાઘોમડા	Sula leucogaster
+અરીઠાં	Sapindus
+કોલ્લમ	Kollam
+ઓદાલગુરિ જિલ્લો	Distretto di Udalguri
+ભારત રત્ન	Bharat Ratna
+ઘી	Ghi
+સારનાથ	Sarnath
+સ્વાટ	SWAT
+રાકેશ શર્મા	Rakesh Sharma
+દાલ સરોવર	Lago Dal
+હોમી ભાભા	Homi Jehangir Bhabha
+બોસ કોર્પોરેશન	Bose Corporation
+ભારતીય સિનેમા	Cinema indiano
+બાંયધરી (વોરંટી)	Garanzia
+ઓમ શાંતિ ઓમ	Om Shanti Om
+વ્યાસ	Vyāsa
+કોટા	Kota (Rajasthan)
+મુરાદાબાદ	Moradabad
+ભીમ બેટકાની ગુફાઓ	Bhimbetka
+સામાન્ય તપાસની કક્ષાની બહારનું	Paranormale
+શંકર દયાલ શર્મા	Shankar Dayal Sharma
+અમરીશ લાલ પુરી	Amrish Puri
+રાજા રવિ વર્મા	Raja Ravi Varma
+રતન તાતા	Ratan Tata
+ભરતનાટ્યમ	Bharatanatyam
+આર. કે. નારાયણ	R. K. Narayan
+અબુલ ફઝલ	Abu l-Fadl 'Allami
+પેપ્સીકો	PepsiCo
+ગ્યાની ઝૈલસીંઘ	Giani Zail Singh
+રાહુલ બોસ	Rahul Bose
+રાજા રામમોહનરાય	Ram Mohan Roy
+ગીર રાષ્ટ્રીય ઉદ્યાન અને અભયારણ્ય	Gir Forest Wildlife Sanctuary
+રજપુત	Rajput
+દિવેલ	Olio di ricino
+ગુરુદ્વારા	Gurdwara
+ઉત્તર ૨૪ પરગણા જિલ્લો	Distretto dei 24 Pargana Nord
+સમય વ્યવસ્થાપન	Time management
+ભારતીય ભૂમિસેના	Esercito dell'India
+આદિવાસી	Adivasi
+અડદ	Vigna mungo
+સયૌં થુંગા ફુલકા	Sayaun thunga phool ka
+ક્રેડિટ સૂઈસ	Credit Suisse
+કૃત્રિમ પેસમેકર	Pacemaker
+રાયપુર (છત્તીસગઢ)	Raipur
+શંકરાચાર્ય	Shankaracharya
+ચિત્તાગોંગ	Chittagong
+રૅનબૅક્સી લેબોરેટરીઝ લિમિટેડ	Ranbaxy
+દિલીપ કુમાર	Dilip Kumar
+ભગત સિંહ	Bhagat Singh
+મેઘનાદ સહા	Meghnad Saha
+સુનિલ દત્ત	Sunil Dutt
+સી રાજગોપાલાચારી	Chakravarthi Rajagopalachari
+કરૌલી	Karauli
+ધર્મેન્દ્ર	Dharmendra
+થાઇલેન્ડનો ઇતિહાસ	Storia della Thailandia
+મીથુન ચક્રવર્તી	Mithun Chakraborty
+ક્રિયાવિશેષણ	Avverbio
+મોતીલાલ નહેરૂ	Motilal Nehru
+માર્કો કાસાગ્રાન્ડ	Marco Casagrande (architetto)
+અઝીમ પ્રેમજી	Azim Premji
+ઊર્જા બચત	Risparmio energetico
+વિડિયો કેસેટ રેકોર્ડર (વીસીઆર)	Videoregistratore
+કાર્તિકેય	Karttikeya
+મોલિનીઊ સ્ટેડિયમ	Molineux Stadium
+સોજી	Semolino
+અનિલ અંબાણી	Anil Ambani
+સુશ્રુત	Susruta
+સંચય	Rateo
+માથ્થીની લખેલી સુવાર્તા	Vangelo secondo Matteo
+અગ્નિ	Agni
+અમદાવાદ જિલ્લો	Distretto di Ahmedabad
+સરદાર વલ્લભભાઈ પટેલ આંતરરાષ્ટ્રીય હવાઈ મથક	Aeroporto Internazionale Sardar Vallabhbhai Patel
+અહમદનગર જિલ્લો	Distretto di Ahmednagar
+ડાર્ટ (પ્રોગ્રામિંગ ભાષા)	DART (linguaggio)
+એર ઈન્ડિયા ફ્લાઇટ ૧૮૨	Volo Air India 182
+એર ઇન્ડિયા એક્સપ્રેસ	Air India Express
+સદી	Century
+અજમેર જિલ્લો	Distretto di Ajmer
+યુ.જી.કૃષ્ણમુર્તિ	Uppaluri Gopala Krishnamurti
+કારેલું	Momordica charantia
+સાંગલી	Sangli
+જન્માષ્ટમી	Janmashtami
+લોપકચિહ્ન	Apostrofo
+અલવાર જિલ્લો	Distretto di Alwar
+આંબેડકર નગર જિલ્લો	Distretto di Ambedkar Nagar
+ઝિટ્ટારા	IMI TAR-21
+ફેડએક્સ	FedEx
+હસ્તિનાપુર	Hastinapur
+સોલન	Solan
+દમણ	Daman
+મહાબળેશ્વર	Mahabaleshwar
+માથેરાન	Matheran
+મમતા સોઢા	Mamata Banerjee
+પૂર્વ ઘાટ	Ghati orientali
+મીરા નાયર	Mira Nair
+મીરાંબાઈ	Mirabai
+કેન્દ્રશાસિત પ્રદેશ	Territorio dell'Unione
+વેરાઇઝન કમ્યુનિકેશન્સ	Verizon Communications
+જીમ કોર્બેટ	Jim Corbett (cacciatore)
+ધીરુભાઈ અંબાણી	Dhirubhai Ambani
+ચેસ્ટર કાર્લસન	Chester Carlson
+સોનૂ નિગમ	Sonu Nigam
+કલ્કિ	Kalki
+વિશ્વકર્મા	Vishvakarman
+ભારતનું બંધારણ	Costituzione dell'India
+નવરોઝ	Nawruz
+શૈલી	Genere (arte)
+એશિયાઈ રમતોત્સવ	Giochi asiatici
+એલન શીયરર	Alan Shearer
+અનુકૂલન	Adattamento
+એલિસ ઇન ચેઇન્સ	Alice in Chains
+ગુરુ	Guru
+એન્ડ્રુ કાર્નેગી	Andrew Carnegie
+મગ	Vigna radiata
+ઇ-કોમર્સ	Commercio elettronico
+ઔરંગઝેબ	Aurangzeb
+રાની મુખર્જી	Rani Mukherjee
+આણંદ જિલ્લો	Distretto di Anand
+હુમાયુ	Humayun
+દુનિયાની પ્રાચીન સાત અજાયબીઓ	Sette meraviglie del mondo
+ગંગાનગર	Ganganagar
+આંતલિયા	Antaliya
+અબ્રામા (જલાલપોર)	Abrama
+સમોસા	Samosa
+મઊ	Mau (Uttar Pradesh)
+ડી. ડબલ્યુ. સ્ટેડિયમ	DW Stadium
+કાલિમપોંગ	Kalimpong
+બ્રિટાનિયા સ્ટેડિયમ	Britannia Stadium
+ઋષિકેશ	Rishikesh
+વર્ણકોષાશય	Cromatofori
+રાયડો	Brassica juncea
+માનસ રાષ્ટ્રીય ઉદ્યાન	Parco nazionale di Manas
+ઇલેક્ટ્રોમાયોગ્રાફી	Elettromiografia e Elettroneurografia
+જંતર મંતર	Jantar Mantar
+કવ્વાલી	Qawwali
+બકરી ઈદ	Id al-adha
+પેરેન જિલ્લો	Distretto di Peren
+વેરાવળ	Veraval
+અલોંગ	Along
+અકોલા જિલ્લો	Distretto di Akola
+ભૂસ્તરશાસ્ત્રી	Geologo
+ગડગ	Gadag-Betageri
+સિરસા જિલ્લો	Distretto di Sirsa
+આઝમગઢ	Azamgarh
+રીવા જિલ્લો	Distretto di Rewa
+ગુલાબી પેણ	Pelecanus rufescens
+રોનાલ્ડો	Ronaldo
+ન્યુટ્રાસ્યુટીકલ	Nutraceutica
+બાવળ	Gomma arabica
+ગારીયાધાર	Gariadhar
+ઝાલાવાડ	Jhalawar
+રાજૌરી જિલ્લો	Distretto di Rajouri
+ઉધઈ	Isoptera
+હુગલી જિલ્લો	Distretto di Hooghly
+નાશ પામેલા કપોત	Raphinae
+શેન વોર્ન	Shane Warne
+એમ એફ હુસૈન	Maqbool Fida Husain
+ભરતપુર	Bharatpur (India)
+સેન્ટ મેરી સ્ટેડિયમ	St Mary's Stadium
+કદંબ	Neolamarckia cadamba
+વડોદરા જિલ્લો	Distretto di Vadodara
+ઉત્તર કન્નડ જિલ્લો	Distretto del Kannada Settentrionale
+કોસી વિભાગ (પ્રમંડલ)	Divisione di Kosi
+પાટણ	Patan (Gujarat)
+ગોલપારા	Goalpara
+લિબર્ટી સ્ટેડિયમ	Liberty Stadium
+માલેગાંવ	Malegaon
+કંડલા બંદર	Kandla
+સાતારા	Satara
+અમદાવાદ કેન્ટોનમેન્ટ	Ahmedabad Cantonment
+દહેગામ	Dahegam
+અતુલ	Atul
+અંદાડા	Andada (città)
+ઔરૈયા	Auraiya
+અકબરપુર	Akbarpur (Kanpur Dehat)
+વરોરા	Warora
+ઉડ્ડપી	Udupi
+અમરોહા	Amroha
+એલેપ્પી	Alappuzha
+નયાગઢ	Nayagarh
+અલંગ	Alang
+અરાહ	Arrah
+બદ્રીનાથ	Badrinathpuri
+અલમોડા	Almora
+અંકલેશ્વર	Anklesvar
+અનૂપપુર	Anuppur
+આંકલાવ	Anklav
+અરિયાલુર	Ariyalur
+અમલનેર	Amalner
+અમરેલી	Amreli
+બગસરા	Bagasara
+અંબાજી	Ambaji
+ઔરંગાબાદ, બિહાર	Aurangabad (Bihar)
+ફેક જિલ્લો	Distretto di Phek
+મૈસૂર જિલ્લો	Distretto di Mysore
+ઔરંગાબાદ જિલ્લો	Distretto di Aurangabad (Maharashtra)
+બુરહાનપુર	Burhanpur
+કુરુક્ષેત્ર	Kurukshetra (città)
+સિટી ગ્રાઉન્ડ	City Ground
+પન્ના	Panna (città)
+પીલ ડિસ્ટ્રિક્ટ સ્કૂલ બોર્ડ	Peel District School Board
+રાજસમન્દ જિલ્લો	Distretto di Rajsamand
+યાવલ	Yawal
+કેશોદ	Keshod
+સરસ્વતી લિપિ	Scrittura indu
+શ્યામમુખ વાઘોમડા	Sula dactylatra
+મંડલા	Mandla
+મધિયો	Pernis ptilorhynchus
+વેલી ઓફ ફ્લાવર્સ રાષ્ટ્રીય ઉદ્યાન	Parco nazionale della Valle dei fiori
+હિતોપદેશ	Hitopadesa
+આગ્રા જિલ્લો	Distretto di Agra
+સોનભદ્ર જિલ્લો	Distretto di Sonbhadra
+કરનાલ જિલ્લો	Distretto di Karnal
+તિરુવલ્લુર	Tiruvallur
+કાંકેર	Kanker
+કાનપુર દેહાત જિલ્લો	Distretto di Kanpur Dehat
+પશ્ચિમ સિક્કિમ જિલ્લો	Distretto del Sikkim Occidentale
+છોટાઉદેપુર	Chhota Udaipur
+કૈથલ જિલ્લો	Distretto di Kaithal
+કન્નોજ	Kannauj
+સોનાક્ષી સિંહા	Sonakshi Sinha
+એલેન્ડ રોડ	Elland Road
+કિંગ પાવર સ્ટેડિયમ	Walkers Stadium
+શ્યોપુર જિલ્લો	Distretto di Sheopur
+ઉમરિયા જિલ્લો	Distretto di Umaria
+હોશંગાબાદ જિલ્લો	Distretto di Hoshangabad
+હોશંગાબાદ	Hoshangabad
+દહીં	Cagliata
+પ્રિફર્ડ સ્ટોક	Azione privilegiata
+બાગપત	Bagpat
+બાલાસિનોર	Balasinor
+ઓનલાઈન વિજ્ઞાપન	Internet marketing
+અરવલ્લી	Monti Aravalli
+કન્નોજ જિલ્લો	Distretto di Kannauj
+કે સી સ્ટેડિયમ	KC Stadium
+સાબરમતી નદી	Fiume Sabarmati
+જબલપુર જિલ્લો	Distretto di Jabalpur
+તુવેર	Cajanus cajan
+હંગ્રી પેઢીના	Hungryalism
+બલાંગીર	Balangir
+વાંસવાડા	Banswara
+બલ્લારપુર	Ballarpur
+તમેન્ગલોન્ગ	Tamenglong
+દીમાપૂર જિલ્લો	Distretto di Dimapur
+અરમાની	Giorgio Armani (azienda)
+ડેરી	Caseificio
+બહરૈચ	Bahraich
+ગોડ્ડા જિલ્લો	Distretto di Godda
+માહે જીલ્લો	Distretto di Mahe
+અર્ધનારીશ્વર	Ardhanarishvara
+ભારતમાં મહિલાઓ	Condizione della donna in India
+ઓરાઇ	Orai
+બાલેશ્વર	Balasore
+હિલ્સબોરો સ્ટેડિયમ	Hillsborough Stadium
+ઉજળો ગીધ	Gyps himalayensis
+માઇક્રોસોફ્ટ ઓફિસ ૨૦૦૭	Microsoft Office 2007
+ભિવંડી	Bhiwandi
+એલિફન્ટાની ગુફાઓ	Grotte di Elephanta
+રતલામ	Ratlam
+ખંભાતનો અખાત	Golfo di Khambhat
+સિરમૌર જિલ્લો	Distretto di Sirmaur
+સિમ્બાદ (SIMBAD)	SIMBAD
+સાધુ	Sadhu
+છત્રપુર	Chhatrapur
+અપરિગ્રહ	Aparigraha
+કોટ્ટયમ	Kottayam
+ખોર્ધા જિલ્લો	Distretto di Khordha
+કાંગડા	Kangra
+ઝીરો, અરુણાચલ પ્રદેશ	Ziro (India)
+મહિષાસુર	Mahiṣāsura
+લક્સ (સાબુ)	Lux (azienda)
+મસૂરી	Mussoorie
+તાપી જિલ્લો	Distretto di Tapi
+શ્રીકાકુલમ	Srikakulam
+પદ્મવિભૂષણ	Padma Vibhushan
+સ્વિસ બેંક	Settore bancario svizzero
+માચુ પીચુ	Machu Picchu
+વિપશ્યના	Vipassanā
+તેલંગાણા	Telangana
+ટ્રાન્સપોર્ટ ફોર લંડન	Transport for London
+શ્રીમદ્ ભાગવતમ્	Bhāgavata Purāṇa
+ટર્ફ મૂરે	Turf Moor
+મહેન્દ્રગઢ જિલ્લો	Distretto di Mahendragarh
+પક્ષી અવલોકન	Birdwatching
+ભદ્રક જિલ્લો	Distretto di Bhadrak
+વૃંદાવન	Vrindavan
+રિંગટોન	Suoneria
+માઉન્ટ આબુ	Mount Abu
+ચોલામંડલમ	Templi di Chola
+ભારતીય સંસદ	Parlamento dell'India
+તાપી નદી	Tapti
+વર્ધમાન	Burdwan
+બારડોલી	Bardoli
+બારિપદા	Baripada
+બરગઢ	Bargarh
+કલિંગનુ યુધ્ધ	Guerra di Kalinga
+લીંબડી	Limbdi
+બસ્તી	Distretto di Basti
+૧૦૨ (અંક)	102 (numero)
+વાલ્મીકિ	Valmiki
+માણસા	Mansa (Gujarat)
+સંતરામપુર	Santrampur
+ભાણવડ	Bhanvad
+ફ્રીલેન્ડગંજ	Freelandgunj
+વંથલી	Vanthali
+ગણદેવી	Gandevi
+વાંદરું	Semnopithecus
+કાંગડા જિલ્લો	Distretto di Kangra
+ઋગ્વેદ	Ṛgveda Saṃhitā
+ગાયત્રી	Gāyatrī
+દેવરિયા જિલ્લો	Distretto di Deoria
+ગુજરાતી લિપિ	Alfasillabario gujarati
+હઠ યોગ	Hatha Yoga
+વેરિસાઇન	Verisign
+વીંજ	Viverricula indica
+વીજલપોર	Vijalpor
+યેઘીશે ચારેન્ત્સ	Yeghishe Charents
+હુગલી નદી	Hughli
+ગ્લોક પિસ્તોલ	Pistole Glock
+કેદારનાથ	Kedarnath
+ભારતીય જ્યોતિષવિદ્યા	Astrologia indiana
+ડુંગરપુર	Dungarpur
+ઇન્દૌર જિલ્લો	Distretto di Indore
+ચિકમંગલૂર જિલ્લો	Distretto di Chickmagalur
+વેક્યૂમ પંપ	Pompa a vuoto
+કટની જિલ્લો	Distretto di Katni
+પુષ્કર	Pushkar
+પાપલેટ માછલી	Bramidae
+મમિત જિલ્લો	Distretto di Mamit
+કોણાર્ક સૂર્ય મંદિર	Tempio del Sole di Konarak
+કાયામ્બે (જ્વાળામુખી)	Cayambe (vulcano)
+જળ માર્જર	Lutrogale perspicillata
+તાંગ્ગુલા રેલ્વે સ્ટેશન (તિબેટ)	Stazione di Tanggula
+અશોક (વનસ્પતિ)	Saraca asoca
+અત્રિ	Atri (divinità)
+ભાયાવદર	Bhayavadar
+ભવાનીપટના	Bhawanipatna
+ભભુઆ	Bhabua
+ભચાઉ	Bhachau
+ભદ્રક	Bhadrak
+ભિલવાડા	Bhilwara
+ભરૂચ	Bharuch
+ભાગલપુર	Bhagalpur
+ધ્રુવ હેલીકોપ્ટર	HAL Dhruv
+હિંગણઘાટ (વર્ધા)	Hinganghat
+હાવેરી જિલ્લો	Distretto di Haveri
+અલીગઢ જિલ્લો	Distretto di Aligarh
+તળાજા	Talaja
+સાહિબગંજ જિલ્લો	Distretto di Sahibganj
+ઊંઝા	Unjha
+સિંધુદુર્ગ જિલ્લો	Distretto di Sindhudurg
+દાંતનો વિકાસ	Odontogenesi
+દક્ષિણ એશિયા	Asia meridionale
+નૈનિતાલ	Nainital
+તમિલ	Tamil
+રામનાથપુરમ	Ramanathapuram
+ખેડા	Kheda
+ગંજામ જિલ્લો	Distretto di Ganjam
+વિલિયમ વિલ્સન(તરણશાસ્ત્રી)	William Wilson (nuoto)
+કપૂરથલા	Kapurthala
+કંપની (કાયદો)	Azienda
+વોખા જિલ્લો	Wokha
+આઝમગઢ જિલ્લો	Distretto di Azamgarh
+અઝટેક ચિત્રલિપિ	Scrittura azteca
+ભિંડ	Bhind
+ભુસાવળ	Bhusawal
+બિજનૌર	Bijnor
+કાઠમંડુ જિલ્લો, નેપાળ	Distretto di Katmandu
+બાબર	Babur
+ભુજ	Bhuj
+કોયલ	Eudynamys scolopaceus
+બદૌન	Budaun
+બલાંગીર જિલ્લો	Distretto di Balangir
+બનારસ હિંદુ યુનિવર્સિટી	Banaras Hindu University
+બનાસકાંઠા જિલ્લો	Distretto di Banaskantha
+વાંસવાડા જિલ્લો	Distretto di Banswara
+વર્ધમાન વિભાગ	Divisione di Burdwan
+વર્ધમાન જિલ્લો	Distretto di Bardhaman
+બરગઢ જિલ્લો	Distretto di Bargarh
+શિન્તો	Shintoismo
+સમઘન	Cubo
+બીડ	Beed
+બીડ જિલ્લો	Distretto di Beed
+બેલગામ જિલ્લો	Distretto di Belgaum
+કરુર	Karur
+સામાજિક સાહસિકતા	Impresa sociale
+દ્વારકા	Dwarka
+પત્તાદકલ	Pattadakal
+તાલુકો	Tehsil
+ગંગોત્રી	Gangotri
+સેન્ટ એન્ડ્રુ સ્ટેડિયમ	St Andrew's
+ભારતીય રેલ	Indian Railways
+બ્રાહ્મણ ગ્રંથો	Brāhmaṇa
+પરશુરામ	Parashurama
+વેબ ઓન્ટોલોજિ ભાષા	Web Ontology Language
+લાહૌલ અને સ્પીતી જિલ્લો	Distretto di Lahaul e Spiti
+કથકલી	Kathakali
+ચાતક	Clamator jacobinus
+સ્મૃતિ	Smṛti
+પુરુષનું પ્રજનનતંત્ર	Apparato genitale maschile
+એસ્કેરિયાસિસ	Ascaridiasi
+ડાંગર	Risaia
+નારદ મુનિ	Narada
+કચ્છનો અખાત	Golfo di Kutch
+મછલીપટનમ	Machilipatnam
+વિકિપીડિયાની યાદી	ISO 639-3
+ભારતીય તારક કાચબો	Geochelone elegans
+શરણાઈ	Shanai
+ચંદ્રગુપ્ત પ્રથમ	Candragupta Gupta I
+ધોતીયું	Dhoti
+દત્તાત્રેય	Dattatreya
+વીઝેડ ૫૮	Vz. 58
+અશ્વગંધા (વનસ્પતિ)	Withania somnifera
+ભાગલપુર વિભાગ (પ્રમંડલ)	Divisione di Bhagalpur
+ભજન	Bhajan
+ભરતપુર જિલ્લો	Distretto di Bharatpur
+ભરૂચ જિલ્લો	Distretto di Bharuch
+ભાવનગર જિલ્લો	Distretto di Bhavnagar
+રુદ્ર	Rudra
+ઝભ્ભો	Kurta
+વરૂ	Canis lupus pallipes
+આંતરરાષ્ટ્રીય નૃત્ય દિવસ	Giornata internazionale della danza
+બોડેલી	Bodeli
+બોરસદ	Borsad
+ચલાલા (તા. ધારી)	Chalala
+ચાળીસગાંવ	Chalisgaon
+ચાણસ્મા	Chanasma
+ચંપાવત	Champawat
+ચંદ્રપૂર	Chandrapur
+ચલથાણ	Chalthan
+બીલીમોરા	Bilimora
+બુંદી	Bundi
+ચામરાજનગર જિલ્લો	Distretto di Chamarajanagar
+ભુજંગાસન	Bhujangasana
+રાજગીર	Rajgir
+ઘોરાડ	Ardeotis nigriceps
+કાર્ડિફ સિટી સ્ટેડિયમ	Cardiff City Stadium
+ટ્વેન્ટી20	Twenty20
+ચૈતન્ય મહાપ્રભુ	Caitanya Mahaprabhu
+સંબલપુર	Sambalpur
+ઈટાવા	Etawah
+ચેંગલોન્ગ	Changlang
+કાંશીરામ નગર જિલ્લો	Distretto di Kanshiram Nagar
+ઉજ્જૈન જિલ્લો	Distretto di Ujjain
+દહનશીલતા	Infiammabilità
+તુમકુર	Tumkur
+દક્ષિણ અમેરિકાના દેશોની યાદી	Stati del Sud America
+હૈલાકાંડી	Hailakandi
+મદદ:સૂચિ	Aiuto:Aiuto
+ટોંક જિલ્લો	Distretto di Tonk
+રાયચૂર	Raichur
+પાપડ	Papadum
+લોહરદગ્ગા	Lohardaga
+સીતાપુર	Sitapur
+શાહજીરું	Bunium persicum
+લઘુ ધિરાણ	Microfinanza
+અરડૂસી	Justicia adhatoda
+ધ્રોલ	Dhrol
+હોશિયારપુર	Hoshiarpur
+એલેપ્પી જિલ્લો	Distretto di Alappuzha
+ગણેશ ચતુર્થી	Ganesh Chaturthi
+ગુના જિલ્લો	Distretto di Guna
+વિશ્વ રક્તદાન દિવસ	Giornata mondiale del donatore di sangue
+રોકડીયો પાક	Cash crops
+શિંગોડા (ફળ)	Eleocharis dulcis
+વિષ્ણુપુર જિલ્લો	Distretto di Bishnupur
+ઉન્નાવ	Unnao
+સિરોહી	Sirohi
+થાણા જિલ્લો	Distretto di Thane
+સિલચર	Silchar
+પહાડી ભાષા	Lingue pahari
+સવાઇ માધોપુર	Sawai Madhopur
+વિષ્ણુ સહસ્રનામ	Viṣṇusahasranāma
+ભારતીય વિજ્ઞાન સંસ્થા	Indian Institute of Science
+પર્યાવરણીય શિક્ષણ	Educazione ambientale
+શોલે	Sholay
+કથક	Kathak
+જીમ કોર્બેટ રાષ્ટ્રીય ઉદ્યાન	Parco nazionale di Jim Corbett
+પાલનપુર	Palanpur
+કોહિમા જિલ્લો	Distretto di Kohima
+મિર્જાપુર	Mirzapur
+કોપ્પલ જિલ્લો	Distretto di Koppal
+ફોર્બ્સ	Forbes
+હસન જિલ્લો	Distretto di Hassan
+મલપ્પુરમ	Malappuram
+અરવલ	Arwal
+વીણા	Vina (strumento musicale)
+તુલસી	Ocimum tenuiflorum
+વાંસળી	Flauto indiano
+મારુતિ સુઝુકી	Maruti Suzuki
+કપાલભાતિ	Kapalabhati
+રોહતક જિલ્લો	Distretto di Rohtak
+મુગલસરાય	Mughalsarai
+ગૂડિસન પાર્ક	Goodison Park
+હવાઇ	Hawai
+જેતપુર	Jetpur Navagadh
+જગતસિંહપુર જિલ્લો	Distretto di Jagatsinghpur
+છાંયા (તા. પોરબંદર)	Chhaya
+કુરુક્ષેત્ર જિલ્લો	Distretto di Kurukshetra
+વર્ધા જિલ્લો	Distretto di Wardha
+ચિકમંગલુર	Chickmagalur
+મૃણાલ સેન	Mrinal Sen
+યુધિષ્ઠિર	Yudhisthira
+ગોરખનાથ	Gorakhnāth
+છિન્દવાડા	Chhindwara
+કોટા જિલ્લો	Distretto di Kota
+રાયબરેલી	Raebareli
+રીવા	Rewa (India)
+ટોંક	Tonk
+વરૂણ	Varuna
+એલુર	Eluru
+પલક્કડ	Palakkad
+હુગલી ચુચુરા	Hooghly-Chinsurah
+મેદિનીપુર	Midnapore
+તવાંગ	Tawang
+માંડ્યા	Mandya
+ઝુનઝુનુન	Jhunjhunu
+સાગર	Sagar
+જગદાલપુર	Jagdalpur
+કૃષ્ણાગિરિ	Krishnagiri
+સુલ્તાનપુર	Sultanpur
+વઢવાણ	Wadhwan
+હજારીબાગ	Hazaribag
+લલિતપુર	Lalitpur (India)
+રેકોન્ગ પેઓ	Reckong Peo
+ઉખરુલ (મણિપુર)	Ukhrul
+શિવગંગાઇ	Sivaganga
+જૌનપુર	Jaunpur
+મહારાજગંજ	Mahrajganj
+દાંડી (જલાલપોર)	Dandi (India)
+સુવર્ણપુર	Sonepur
+હાવેરી	Haveri
+હાફલોન્ગ	Haflong
+પ્રતાપગઢ	Pratapgarh (Uttar Pradesh)
+મલપ્પુરમ જિલ્લો	Distretto di Malappuram
+હેલ બેરી	Halle Berry
+જેટકનેક્ટ	JetLite
+વિશ્વ બૌદ્ધિક સંપદા દિન	Giornata mondiale della proprietà intellettuale
+દ્રૌપદી	Draupadi
+ચંબા જિલ્લો	Distretto di Chamba
+ચામુંડા	Chamunda
+બલરામ	Balarama
+કચ્છ જિલ્લો	Distretto del Kutch
+સેલહર્સ્ટ પાર્ક	Selhurst Park
+યોગસૂત્ર	Yoga Sūtra
+સૌરાષ્ટ્ર	Saurashtra
+ફિંગર ઇલેવન	Finger Eleven
+કયામત	Escatologia islamica
+ચિત્તોડગઢ જિલ્લો	Distretto di Chittorgarh
+વાલ	Lablab purpureus
+તીર્થંકર	Tirthamkara
+ચુરુ જિલ્લો	Distretto di Churu
+ભારતનો સ્વાતંત્ર્ય સંગ્રામ	Movimento d'indipendenza indiano
+ઓમકારેશ્વર	Omkareshwar
+કેમ્પર્સ નેટવર્ક	Campus Area Network
+હરીયલ	Treron phoenicopterus
+ચિખલદારા	Chikhaldara
+લલિતપુર જિલ્લો, નેપાળ	Distretto di Lalitpur (Nepal)
+કચ્છનું મોટું રણ	Rann di Kutch
+જેકુઝી	Jacuzzi
+પકોડી	Pakora
+ક્રિકેટ વિશ્વ કપ ૨૦૦૭	Coppa del Mondo di cricket 2007
+લીડ્ઝ યુનાઈટેડ ફૂટબૉલ ક્લબ	Leeds United Association Football Club
+લિવરપૂલ ફૂટબોલ ક્લબ	Liverpool Football Club
+ટેક મહિન્દ્રા	Tech Mahindra
+જયપુર જિલ્લો	Distretto di Jaipur
+સાતારા જિલ્લો	Distretto di Satara
+ડાંગ જિલ્લો	Distretto di Dang
+ઈન્સીડ	Institut européen d'administration des affaires
+કરોડ	Crore
+સૂર્યનમસ્કાર	Surya Namaskara
+પનીર	Paneer
+કોઝીક્કોડ જિલ્લો	Distretto di Kozhikode
+આંતરરાષ્ટ્રીય દાયણ દિવસ	Giornata internazionale delle ostetriche
+નદિયા જિલ્લો	Distretto di Nadia
+સોમનાથ	Somnath
+મિર્જાપુર જિલ્લો	Distretto di Mirzapur
+ગોરખપુર જિલ્લો	Distretto di Gorakhpur
+હઠયોગ પ્રદીપિકા	Haṭhayoga Pradīpikā
+ટાટા ઇન્ડિકા	Tata Indica
+સાતપુડા પર્વતમાળા	Monti Satpura
+કુચિપુડી નૃત્ય	Kuchipudi
+પુરી (વાનગી)	Puri (gastronomia)
+ગોળ	Jaggery
+ડભોઇ	Dabhoi
+દમણ જિલ્લો	Distretto di Daman
+દરભંગા વિભાગ (પ્રમંડલ)	Divisione di Darbhanga
+વાઇસ સિટી	Vice City
+બરફી	Barfi
+દામોહ	Damoh
+દતિયા	Datia
+ડાકોર	Dakor
+ચિત્રકૂટ ધામ	Chitrakoot
+ચુરુ	Churu
+ચોપડા	Chopda
+ડીસા	Deesa
+દેવગઢ	Deogarh
+પંજાબ (સંદિગ્ધ)	Punjab
+આહાર સુરક્ષા	Sicurezza alimentare
+મીન રાશી	Pesci (astrologia)
+દેવસર	Devsar
+નાયર	Nair
+સિંધી લોકો	Sindhi
+ધોરાજી	Dhoraji
+ધંધુકા	Dhandhuka
+ધોળકા	Dholka
+દેવગઢબારિયા	Devgadbaria
+ડોડા	Doda (città)
+ધોલપુર	Dholpur
+ધરણગાંવ	Dharangaon
+ડુંગરપુર જિલ્લો	Distretto di Dungarpur
+દેવાસ	Dewas
+સંબલપુર જિલ્લો	Distretto di Sambalpur
+દ્વાપરયુગ	Dvapara Yuga
+દૂધી	Lagenaria siceraria
+શિવસાગર	Sibsagar
+કમ્પ્યુટર નેટવર્ક	Rete di computer
+સુનિલ ભારતી મિત્તલ	Sunil Bharti Mittal
+તુમકુર જિલ્લો	Distretto di Tumkur
+વારાણસી જિલ્લો	Distretto di Varanasi
+રાયબરેલી જિલ્લો	Distretto di Raebareli
+ત્રિપિટક	Canone buddhista
+ઉદયપુર જિલ્લો	Distretto di Udaipur
+અંડ કોષ	Ovulo (gamete)
+જટાયુ	Jatayu
+હોમ નેટવર્ક	Rete domestica
+સૂરદાસ	Sūrdās
+વિલુપ્પુરમ	Viluppuram
+માણાવદર	Manavadar
+જપમાળા	Mālā
+કાજળ	Kajal
+સંન્યાસ	Sannyasa
+મુરાદાબાદ જિલ્લો	Distretto di Moradabad
+જલપાઈગુડી જિલ્લો	Distretto di Jalpaiguri
+કોટ્ટયમ જિલ્લો	Distretto di Kottayam
+જૌનપુર જિલ્લો	Distretto di Jaunpur
+એર્નાકુલમ જિલ્લો	Distretto di Ernakulam
+હનુમાનગઢ જિલ્લો	Distretto di Hanumangarh
+કોલ્લમ જિલ્લો	Distretto di Kollam
+મહારાજગંજ જિલ્લો	Distretto di Maharajganj
+સુલ્તાનપુર જિલ્લો	Distretto di Sultanpur
+તેહરી ગઢવાલ જિલ્લો	Distretto di Tehri Garhwal
+એસ્સાર ગ્રુપ	Essar
+માંકેવી વયંસેવ	Agnes Monica
+વયનાડ જિલ્લો	Distretto di Wayanad
+ખાદી	Khadi
+યુ.કે. પોસ્ટકોડ્સ	Codici postali del Regno Unito
+વિક્રમ સંવત	Vikram Samvat
+ભારતીય ઓલિમ્પિક સંઘ	Comitato Olimpico Indiano
+ભીષ્મ	Bhisma
+દુર્યોધન	Duryodhana
+ગાંધી આશ્રમ	Ashram Sabarmati
+શ્રેણી:ચીન	Categoria:Cina
+મધર ઇન્ડિયા	Madre India
+શ્રેણી:જાપાન	Categoria:Giappone
+શ્રેણી:ઓસ્ટ્રેલિયા	Categoria:Australia
+શ્રેણી:ભારત	Categoria:India
+ફિલ્મફેર સર્વોત્તમ અભિનેતા પુરસ્કાર	Filmfare Award per il miglior attore
+કરૌલી જિલ્લો	Distretto di Karauli
+ગંગાનગર જિલ્લો	Distretto di Ganganagar
+કાસરગોડ જિલ્લો	Distretto di Kasaragod
+જેસલમેર જિલ્લો	Distretto di Jaisalmer
+સિકર જિલ્લો	Distretto di Sikar
+મત્સ્યેન્દ્રનાથ	Matsyendra
+સાંગલી જિલ્લો	Distretto di Sangli
+લોન્ગલેન્ગ જિલ્લો	Distretto di Longleng
+રાયચૂર જિલ્લો	Distretto di Raichur
+જોધપુર જિલ્લો	Distretto di Jodhpur
+રામેશ્વરમ	Rameswaram
+ક્ષત્રિય	Kshatriya
+ઓરસ	Sindhudurg Nagari
+વિષ્ણુપુર (મણિપુર)	Bishnupur (Manipur)
+રોહતક	Rohtak
+મુજફ્ફરપુર	Muzaffarpur
+શ્રેણી:નેધરલેંડ	Categoria:Paesi Bassi
+શ્રેણી:પાકિસ્તાન	Categoria:Pakistan
+શ્રેણી:પક્ષી	Categoria:Uccelli
+શ્રેણી:વનસ્પતિ	Categoria:Piante
+શ્રેણી:ભૌતિકવિજ્ઞાન	Categoria:Fisica
+શ્રેણી:જીવવિજ્ઞાન	Categoria:Biologia
+શ્રેણી:રસાયણવિજ્ઞાન	Categoria:Chimica
+શ્રેણી:ભૂગોળ	Categoria:Geografia
+શ્રેણી:વિજ્ઞાન	Categoria:Scienza
+આપત્તિ સજ્જતા	Emergency management
+જળ શુદ્ધિકરણ	Potabilizzazione dell'acqua
+ઝાલાવાડ જિલ્લો	Distretto di Jhalawar
+ઝુનઝુનુન જિલ્લો	Distretto di Jhunjhunu
+વાવ	Pozzo a gradini
+સોનપુર જિલ્લો	Distretto di Subarnapur
+પ્રતાપગઢ જિલ્લો	Distretto di Pratapgarh
+સ્ટર્લિંગ સબ મશીનગન	Sterling (mitra)
+હાવડા જિલ્લો	Distretto di Howrah
+બિલાસપુર જિલ્લો, હિમાચલ પ્રદેશ	Distretto di Bilaspur (Himachal Pradesh)
+કોરોનરિ એન્જિયોગ્રાફિ	Coronarografia
+મેહરાનગઢ કિલ્લો	Forte Mehrangarh
+ઉડ્ડપી જિલ્લો	Distretto di Udupi
+રાઈતું	Raita
+રામપુર	Rampur
+શ્રીનગર જિલ્લો	Distretto di Srinagar
+સવાઇ માધોપુર જિલ્લો	Distretto di Sawai Madhopur
+મઊ જિલ્લો	Distretto di Mau
+ઘેરંડ સંહિતા	Gheraṇḍa Saṃhitā
+ઇંગ્લીશ બાઝાર	English Bazar
+ગડચિરોલી	Gadchiroli
+એટા	Etah (India)
+ગઢડા	Gadhada
+પલક્કડ જિલ્લો	Distretto di Palakkad
+ગોંડલ	Gondal
+પેશી ઇજનેરી	Ingegneria tissutale
+મુર્શિદાબાદ જિલ્લો	Distretto di Murshidabad
+કોડાગુ જિલ્લો	Distretto di Kodagu
+ગુલાબ જાંબુ	Gulab jamun
+જ્ઞાનપુર	Gyanpur
+તિલક	Tilaka
+પ્રતાપગઢ જિલ્લો, રાજસ્થાન	Distretto di Pratapgarh (Rajasthan)
+અધરંગ	Cyornis tickelliae
+ધન પ્રકાશાનુવર્તન	Eliotropismo
+સહરાનપુર પ્રાંત	Divisione di Saharanpur
+હિસ્ટરી (ટીવી ચેનલ)	History (canale televisivo statunitense)
+ઉના	Una (Gujarat)
+સત્યયુગ	Satya Yuga
+નંદરબાર જિલ્લો	Distretto di Nandurbar
+વિદિશા	Vidisha
+યુગ	Yuga
+ઉસ્માનાબાદ જિલ્લો	Distretto di Osmanabad
+નંદાદેવી રાષ્ટ્રીય ઉદ્યાન	Parco nazionale del Nanda Devi
+રુદ્રાક્ષ	Rudraksha
+ખંડવા	Khandwa
+કૌરવ	Kaurava
+સિમ્બા (ડિઝની વર્લ્ડ)	Simba
+પરમવીર ચક્ર	Param Vir Chakra
+કારગિલ જિલ્લો	Distretto di Kargil
+બોર	Dattero
+કાનપુર પ્રાંત	Divisione di Kanpur
+ગઢવા	Garhwa
+પટણા વિભાગ (પ્રમંડલ)	Divisione di Patna
+આરોહણ માર્ગ	Via d'arrampicata
+હળવદ	Halvad
+ઘોઘા	Ghogha
+હાલોલ તાલુકો	Halol
+ગેયઝીન્ગ	Gyalshing
+હરદા	Harda
+હનુમાનગઢ	Hanumangarh
+ગોધરા	Godhra
+હરદૌઈ	Hardoi
+હિંમતનગર	Himmatnagar
+ગોલાઘાટ	Golaghat
+હિંગોલી	Hingoli
+હારીજ	Harij
+હજીરા	Hajira
+રોબર્ટસગંજ	Robertsganj
+હાથરસ	Hathras
+જસદણ	Jasdan
+ઢાંચો:Dts	Template:Dts
+કરીમગંજ	Karimganj
+કાકરાપાર અણુ શક્તિ મથક	Centrale nucleare di Kakrapar
+ભારતની લાઇસન્સ પ્લેટ	Targhe automobilistiche indiane
+ખંભાત	Khambhat
+વાઇ	Wai (città)
+બુલન્દ શહેર જિલ્લો	Distretto di Bulandshahr
+એટિયોલેશન	Eziolamento
+લખિમપુર ખેરી જિલ્લો	Distretto di Lakhimpur Kheri
+ખેડા જિલ્લો	Distretto di Kheda
+ઇડર	Idar
+ઇગતપુરી	Igatpuri
+યજ્ઞ	Yajña
+મેરઠ જિલ્લો	Distretto di Meerut
+માદ્રી	Madri
+રામનવમી	Rama Navami
+રત્નાગિરી જિલ્લો	Distretto di Ratnagiri
+અમરાવતી જિલ્લો	Distretto di Amravati
+અનુગુલ જિલ્લો	Distretto di Angul
+ત્રેતાયુગ	Treta Yuga
+પોરબંદર જિલ્લો	Distretto di Porbandar
+વર્ધા	Wardha
+હરદોઇ જિલ્લો	Distretto di Hardoi
+હિસાર	Hisar
+પૂર્વ સિક્કિમ જિલ્લો	Distretto del Sikkim Orientale
+સાબરકાંઠા જિલ્લો	Distretto di Sabarkantha
+ગાંધીનગર જિલ્લો	Distretto di Gandhinagar
+લખનૌ જિલ્લો	Distretto di Lucknow
+મથુરા જિલ્લો	Distretto di Mathura
+અલ્હાબાદ જિલ્લો	Distretto di Allahabad
+એટા જિલ્લો	Distretto di Etah
+ઉત્તરકાશી જિલ્લો	Distretto di Uttarkashi
+ગાજિયાબાદ જિલ્લો	Distretto di Ghaziabad
+મોતિહારી	Motihari
+મૂર્તિ	Murti
+પંચમહાલ જિલ્લો	Distretto di Panchmahal
+કોંગ્રેસ	Congress
+ઉત્તર સિક્કિમ જિલ્લો	Distretto del Sikkim Settentrionale
+મુરૈના	Morena (città)
+ગૌતમ બુદ્ધ નગર જિલ્લો	Distretto di Gautam Buddha Nagar
+પૂર્ણિયા વિભાગ (પ્રમંડલ)	Divisione di Purnia
+આત્માની ઊંઘ	Visione beatifica differita
+નર્મદા જિલ્લો	Distretto di Narmada
+ભોપાલ જિલ્લો	Distretto di Bhopal
+પલામૂ જિલ્લો	Distretto di Palamu
+સોલાપૂર જિલ્લો	Distretto di Solapur
+ચંદ્રપૂર જિલ્લો	Distretto di Chandrapur
+જલગાંવ જિલ્લો	Distretto di Jalgaon
+નૈનિતાલ જિલ્લો	Distretto di Nainital
+કોલ્હાપૂર જિલ્લો	Distretto di Kolhapur
+સુરત જિલ્લો	Distretto di Surat
+સહરાનપુર જિલ્લો	Distretto di Saharanpur
+પુના જિલ્લો	Distretto di Pune
+જુનાગઢ જિલ્લો	Distretto di Junagadh
+નવસારી જિલ્લો	Distretto di Navsari
+બાગપત જિલ્લો	Distretto di Bagpat
+ચમોલી જિલ્લો	Distretto di Chamoli
+બરેલી જિલ્લો	Distretto di Bareilly
+ધુલિયા જિલ્લો	Distretto di Dhule
+આણંદ	Anand
+ગડચિરોલી જિલ્લો	Distretto di Gadchiroli
+યવતમાળ જિલ્લો	Distretto di Yavatmal
+વાશીમ જિલ્લો	Distretto di Washim
+જાલના જિલ્લો	Distretto di Jalna
+દક્ષિણ સિક્કિમ જિલ્લો	Distretto del Sikkim Meridionale
+રુદ્રપ્રયાગ જિલ્લો	Distretto di Rudraprayag
+અલમોડા જિલ્લો	Distretto di Almora
+સરગુજા જિલ્લો	Distretto di Surguja
+ઉધમસિંગ નગર જિલ્લો	Distretto di Udham Singh Nagar
+નુઆપડા	Distretto di Nuapada
+ઔરૈયા જિલ્લો	Distretto di Auraiya
+સીતાપુર જિલ્લો	Distretto di Sitapur
+બહરૈચ જિલ્લો	Distretto di Bahraich
+શાહજહાંપુર જિલ્લો	Distretto di Shahjahanpur
+મહોબા	Mahoba
+મહામયાનગર જિલ્લો	Distretto di Hathras
+રાયસેન જિલ્લો	Distretto di Raisen
+રાજકોટ જિલ્લો	Distretto di Rajkot
+વિદિશા જિલ્લો	Distretto di Vidisha
+પાટણ જિલ્લો	Distretto di Patan
+ઇટાવા જિલ્લો	Distretto di Etawah
+બાગેશ્વર જિલ્લો	Distretto di Bageshwar
+મહોબા જિલ્લો	Distretto di Mahoba
+રામપુર જિલ્લો	Distretto di Rampur
+સિદ્ધાર્થનગર જિલ્લો	Distretto di Siddharthnagar
+દેહરાદૂન જિલ્લો	Distretto di Dehradun
+ગુડગાંવ જિલ્લો	Distretto di Gurgaon
+હિસાર જિલ્લો	Distretto di Hisar
+મૈનપુરી જિલ્લો	Distretto di Mainpuri
+રાજપીપલા	Rajpipla
+પુરી જિલ્લો	Distretto di Puri
+જલંધર જિલ્લો	Distretto di Jalandhar
+દેવીપાટન પ્રાંત	Divisione di Devipatan
+નિશાન-એ-પાકિસ્તાન	Ordine del Pakistan
+સઇહા જિલ્લો	Distretto di Saiha
+ઇમ્ફાલ પશ્ચિમ જિલ્લો	Distretto di Imphal Ovest
+રાજગઢ જિલ્લો	Distretto di Rajgarh
+કુશીનગર જિલ્લો	Distretto di Kushinagar
+બિન-વેધક મૈથુન	Sesso non penetrativo
+ભિવાની જિલ્લો	Distretto di Bhiwani
+અનિદ્રા	Insonnia
+મંદસૌર જિલ્લો	Distretto di Mandsaur
+યમુનાનગર જિલ્લો	Distretto di Yamuna Nagar
+રી ભોઇ જિલ્લો	Distretto di Ri Bhoi
+અમરોહા જિલ્લો	Distretto di Jyotiba Phule Nagar
+મંડી જિલ્લો	Distretto di Mandi
+ફાર્રુખાબાદ જિલ્લો	Distretto di Farrukhabad
+પંચકુલા જિલ્લો	Distretto di Panchkula
+બારામૂલા જિલ્લો	Distretto di Baramulla
+મયુરભંજ જિલ્લો	Distretto di Mayurbhanj
+ઓંગોલે	Ongole
+જયંતિયા હિલ્સ જિલ્લો	Distretto dei Monti Jaintia
+લેહ જિલ્લો	Distretto di Leh
+શિમલા જિલ્લો	Distretto di Shimla
+નવસારી	Navsari
+રાયગઢ	Raigarh
+રત્નાગિરી	Ratnagiri
+ઝાબુઆ	Jhabua
+મંદસૌર	Mandsaur
+મહેસાણા	Mehsana
+રાણીખેત	Ranikhet
+મહુવા	Mahuva
+ડેલહાઉઝી	Dalhousie
+સમસ્તીપુર	Samastipur
+ખેરી	Kheri
+લખીસરાય	Lakhisarai
+કવર્ધા	Kawardha
+મધેપુરા	Madhepura
+આર્વી (વર્ધા)	Arvi
+સરખેજ ઓકાફ	Sarkhej-Okaf
+જોરહટ જિલ્લો	Jorhat
+ગોંડા જિલ્લો	Distretto di Gonda
+ઉન્નાવ જિલ્લો	Distretto di Unnao
+ઝાંસી જિલ્લો	Distretto di Jhansi
+ઉધમપુર	Udhampur
+હીરાકુડ બંધ	Diga di Hirakud
+હજારીબાગ જિલ્લો	Distretto di Hazaribag
+પિથોરગઢ જિલ્લો	Distretto di Pithoragarh
+અંજાર	Anjar (India)
+સંત કબીર નગર જિલ્લો	Distretto di Sant Kabir Nagar
+શ્રાવસ્તી જિલ્લો	Distretto di Shravasti
+ચિખલી	Chikhli
+સંગરુર જિલ્લો	Distretto di Sangrur
+વલસાડ જિલ્લો	Distretto di Valsad
+મોગા જિલ્લો	Distretto di Moga
+કૌશમ્બી જિલ્લો	Distretto di Kaushambi
+ગજપતિ જિલ્લો	Distretto di Gajapati
+ઉધમપુર જિલ્લો	Distretto di Udhampur
+ઐઝવાલ જિલ્લો	Distretto di Aizawl
+લલિતપુર જિલ્લો	Distretto di Lalitpur (India)
+કોલાસિબ જિલ્લો	Distretto di Kolasib
+લુન્ગલેઇ જિલ્લો	Distretto di Lunglei
+મુક્તસર જિલ્લો	Distretto di Muktsar
+જમ્મુ જિલ્લો	Distretto di Jammu
+રાંચી જિલ્લો	Distretto di Ranchi
+ઝાજ્જર જિલ્લો	Distretto di Jhajjar
+લોહરદગ્ગા જિલ્લો	Distretto di Lohardaga
+લાતૂર જિલ્લો	Distretto di Latur
+રાજનાંદગાંવ	Rajnandgaon
+પંચમઢી	Pachmarhi Cantonment
+મોહાલી	Sahibzada Ajit Singh Nagar
+કુપવાડા	Kupwara
+ઉત્તરકાશી	Uttarkashi
+ખરગોન	Khargone
+ચંબા	Chamba (Himachal Pradesh)
+દૌસા	Dausa
+રાજૌરી	Rajouri
+હાજીપુર	Hajipur
+સાસારામ	Sasaram
+સહરસા	Saharsa
+પશ્ચિમી સિંહભૂમ જિલ્લો	Distretto del Singhbhum Occidentale
+ગોરખપુર પ્રાંત	Divisione di Gorakhpur
+આહવા	Ahwa
+વ્યારા	Vyara
+ચમ્ફાઇ જિલ્લો	Distretto di Champhai
+સ્તોત્ર	Stotra
+ચતરા જિલ્લો	Distretto di Chatra
+શ્રેણી:સંદિગ્ધ શીર્ષક વાળાં પાનાં	Categoria:Pagine di disambiguazione
+શ્રેણી:મનોવિજ્ઞાન	Categoria:Psicologia
+છિન્દવાડા જિલ્લો	Distretto di Chhindwara
+ચાડિયો	Spaventapasseri
+સારન વિભાગ (પ્રમંડલ)	Divisione di Saran
+વાંકાનેર	Wankaner
+કોરબા	Korba (India)
+જલાલપોર	Jalalpore
+જંબુસર	Jambusar
+ભાસ	Bhāsa
+કોકિલાકાર	Phaenicophaeus curvirostris
+રાયગડ જિલ્લો	Distretto di Raigad
+મહેસાણા જિલ્લો	Distretto di Mehsana
+હમીરપુર જિલ્લો, ઉત્તર પ્રદેશ	Distretto di Hamirpur (Uttar Pradesh)
+ઉત્તર દિનાજપુર જિલ્લો	Distretto del Dinajpur Settentrionale
+બાલેશ્વર જિલ્લો	Distretto di Balasore
+પર્યાવરણીય અવક્રમણ	Degrado ambientale
+દેવાસ જિલ્લો	Distretto di Dewas
+દેવધર જિલ્લો	Distretto di Deoghar
+શિવપુરી	Shivpuri
+મોહાલી જિલ્લો	Distretto di Sahibzada Ajit Singh Nagar
+માલદહ જિલ્લો	Distretto di Malda
+શ્રેયા ઘોષાલ	Shreya Ghoshal
+રાધનપુર	Radhanpur
+સિહોર, મધ્ય પ્રદેશ	Sehore
+કેન્દ્રાપડા	Kendrapara
+ગ્વાલિયર જિલ્લો	Distretto di Gwalior
+નબરંગપુર	Nabarangpur
+પહલગામ	Pahalgam
+ઝાબુઆ જિલ્લો	Distretto di Jhabua
+મુંબઈ ઉપનગરી જિલ્લો	Distretto Suburbano di Mumbai
+સાગર જિલ્લો	Distretto di Sagar
+ખંડવા જિલ્લો	Distretto di Khandwa
+શાહડોલ જિલ્લો	Distretto di Shahdol
+પૌડી ગઢવાલ જિલ્લો	Distretto di Pauri Garhwal
+કોડરમા જિલ્લો	Distretto di Koderma
+પાનીપત જિલ્લો	Distretto di Panipat
+ફરીદાબાદ જિલ્લો	Distretto di Faridabad
+હમીરપુર જિલ્લો	Distretto di Hamirpur (Himachal Pradesh)
+સેરછિપ જિલ્લો	Distretto di Serchhip
+થૌબલ જિલ્લો	Distretto di Thoubal
+લોન્ગતલાઇ જિલ્લો	Distretto di Lawngtlai
+અંબાલા જિલ્લો	Distretto di Ambala
+ચુંબકીય ટેકરીઓ	Salita in discesa
+રુદ્રપ્રયાગ	Rudraprayag
+નંદરબાર	Nandurbar
+હિંગોલી જિલ્લો	Distretto di Hingoli
+મુક્તસર (પંજાબ)	Muktsar
+મોરબી	Morvi
+બેતુલ	Betul
+જાજપુર જિલ્લો	Distretto di Jajpur
+કારગિલ	Kargil
+બીરભૂમ જિલ્લો	Distretto di Birbhum
+બાંકુડા જિલ્લો	Distretto di Bankura
+ઝારસુગડા	Jharsuguda
+કોલકાતા જિલ્લો	Distretto di Calcutta
+લખિમપુર	North Lakhimpur
+ચિત્રકૂટ જિલ્લો	Distretto di Chitrakoot
+કાનપુર નગર જિલ્લો	Distretto di Kanpur Nagar
+કોરાપુટ	Koraput
+સ્વદેશી	Movimento Swadeshi
+રાત્રિ સ્ખલન	Polluzione
+ખંભાળિયા	Khambhalia
+ખારાઘોડા	Kharaghoda
+બુરહાનપુર જિલ્લો	Distretto di Burhanpur
+કેન્દુઝર	Kendujhar
+નાટ્યશાળા	Accademia teatrale
+બસ્તી પ્રાંત	Divisione di Basti
+ઝાંસી પ્રાંત	Divisione di Jhansi
+હરદા જિલ્લો	Distretto di Harda
+મોકોક્ચુન્ગ જિલ્લો	Distretto di Mokokchung
+લુન્ગલેઇ	Lunglei
+ધનુ રાશી	Sagittario (astrologia)
+રોટલી	Roti (gastronomia)
+મેવાત જિલ્લો	Distretto di Mewat
+સિવની જિલ્લો	Distretto di Seoni
+મેરઠ પ્રાંત	Divisione di Meerut
+પાલેજ	Palej
+સિપા	Seppa
+સાણંદ	Sanand
+થાન	Thangadh
+સીવાન	Siwan
+વલ્લભ વિદ્યાનગર	Vallabh Vidhyanagar
+માલપુર	Malpur
+મુન્દ્રા	Mundra
+વિજાપુર	Vijapur
+ખેરાલુ	Kheralu
+મહાસમન્દ	Mahasamund
+કુતિયાણા	Kutiyana
+કોડીનાર	Kodinar
+ધનબાદ જિલ્લો	Distretto di Dhanbad
+લુણાવાડા	Lunawada
+સોનીપત જિલ્લો	Distretto di Sonipat
+લાતેહાર જિલ્લો	Distretto di Latehar
+અશોકનગર જિલ્લો	Distretto di Ashoknagar
+સટાણા	Satana (città)
+પાદરા	Padra
+એપલ (ઉપગ્રહ)	Ariane Passenger PayLoad Experiment
+પૌડી	Pauri
+કાલાવડ	Kalavad
+હરદ્વાર જિલ્લો	Distretto di Haridwar
+ચાંદ વાવડી	Chand Baori
+ખરગોન જિલ્લો	Distretto di Khargone
+રાયગઢ જિલ્લો	Distretto di Raigarh
+મૈનપુરી	Mainpuri
+સિવની	Seoni
+ટીકમગઢ	Tikamgarh
+શ્યોપુર	Sheopur
+કિન્નોર જિલ્લો	Distretto di Kinnaur
+ગુમલા જિલ્લો	Distretto di Gumla
+પાલમપુર	Palampur
+કરજણ	Karjan
+કોરિયા જિલ્લો	Distretto di Korea
+રાયપુર જિલ્લો	Distretto di Raipur
+બોકારો જિલ્લો	Distretto di Bokaro
+પાકુડ જિલ્લો	Distretto di Pakur
+ફુલબાણી	Phulbani
+સુન્દરગઢ જિલ્લો	Distretto di Sundergarh
+કુપવાડા જિલ્લો	Distretto di Kupwara
+ડોડા જિલ્લો	Distretto di Doda
+વાશીમ	Washim
+સિહોર જિલ્લો, મધ્ય પ્રદેશ	Distretto di Sehore
+શિવપુરી જિલ્લો	Distretto di Shivpuri
+થૌબલ (મણિપુર)	Thoubal
+અનૂપપુર જિલ્લો	Distretto di Anuppur
+કોરબા જિલ્લો	Distretto di Korba
+રતલામ જિલ્લો	Distretto di Ratlam
+સેનાપતિ જિલ્લો	Distretto di Senapati
+તમેન્ગલોન્ગ જિલ્લો	Distretto di Tamenglong
+ઉના જિલ્લો	Distretto di Una
+રેવાડી જિલ્લો	Distretto di Rewari
+ચંડેલ જિલ્લો	Distretto di Chandel
+ગિરીડીહ જિલ્લો	Distretto di Giridih
+ગઢવા જિલ્લો	Distretto di Garhwa
+રાયગંજ	Raiganj
+તિરહુત વિભાગ (પ્રમંડલ)	Divisione di Tirhut
+મંગલદાઇ	Mangaldai
+મન્ગન	Mangan
+દક્ષિણ ૨૪ પરગણા જિલ્લો	Distretto dei 24 Pargana Sud
+મિર્જાપુર પ્રાંત	Divisione di Mirzapur
+કાંકેર જિલ્લો	Distretto di Kanker
+કર્ણ પ્રયાગ	Karnaprayag
+ઉના, હિમાચલ પ્રદેશ	Una (Himachal Pradesh)
+યુપીયા	Yupia
+મોડાસા	Modasa
+બરાન જિલ્લો	Distretto di Baran
+રુદ્રપુર	Rudrapur (Uttarakhand)
+મોન જિલ્લો	Distretto di Mon
+ફલટણ	Phaltan
+સાંગરેડ્ડી	Sangareddy
+પદરૌના	Padrauna
+કપડવંજ	Kapadvanj
+સાહિબગંજ	Sahibganj
+સુરગાણા	Surgana
+મુરૈના જિલ્લો	Distretto di Morena
+રોહિણી (ઉપગ્રહ)	Rohini (satellite)
+લમ્ફેલ્પેટ	Lamphelpat
+મનોજ કુમાર	Manoj Kumar
+પન્ના જિલ્લો	Distretto di Panna
+મુંબઈ શહેરી જિલ્લો	Distretto di Mumbai City
+મંડલા જિલ્લો	Distretto di Mandla
+શ્રીખંડ	Shrikhand
+ભિંડ જિલ્લો	Distretto di Bhind
+નીમચ જિલ્લો	Distretto di Neemuch
+શેખપુરા	Sheikhpura
+અલીપોર	Alipore
+રાજનાંદગાંવ જિલ્લો	Distretto di Rajnandgaon
+રુપનગર (પંજાબ)	Rupnagar
+સુપૌલ	Supaul
+ઇન્દિરા પોઇન્ટ	Punto Indira
+આઝમગઢ પ્રાંત	Divisione di Azamgarh
+વલ્લભાચાર્ય	Vāllabhacārya
+મહેશ ભટ્ટ	Mahesh Bhatt
+અદ્વૈત વેદાંત	Advaita Vedānta
+કરમસદ	Karamsad
+શાજાપુર	Shajapur
+રાયસેન	Raisen
+અડાલજ	Adalaj
+સુન્દરગઢ	Sundergarh
+બરનાલા જિલ્લો	Distretto di Barnala
+ગડગ જિલ્લો	Distretto di Gadag
+મત્સ્ય પુરાણ	Matsya Purāṇa
+બક્સા જિલ્લો	Distretto di Baksa
+સીતામઢી, બિહાર	Sitamarhi
+પાતાળ	Pātāla
+રાવેર	Raver
+સરાઇકેલા ખરસાવાં જિલ્લો	Distretto di Seraikela Kharsawan
+વિક્રમ	Chiyaan Vikram
+બૌઢ જિલ્લો	Distretto di Boudh
+મુજફ્ફરનગર જિલ્લો	Distretto di Muzaffarnagar
+મલ્કાનગિરિ જિલ્લો	Malkangiri
+બાહુબલી	Gomateshwara
+ડિંડોરી જિલ્લો	Distretto di Dindori
+બેગુની	Beguni
+ગોંડા	Gonda
+સાર્વભૌમ દેશોના રાષ્ટ્રધ્વજોની ચિત્રગેલેરી	Lista di bandiere nazionali
+રાજસમન્દ	Rajsamand
+સંગરુર (પંજાબ)	Sangrur
+યેવલા	Yevla
+કરાડ	Karad
+કુરુંગ કુમે જિલ્લો	Distretto di Kurung Kumey
+ટીકમગઢ જિલ્લો	Distretto di Tikamgarh
+સીધી જિલ્લો	Distretto di Sidhi
+શાજાપુર જિલ્લો	Distretto di Shajapur
+મહાસમન્દ જિલ્લો	Distretto di Mahasamund
+કવર્ધા જિલ્લો	Distretto di Kawardha
+શિવ સંહિતા	Śiva Saṃhitā
+મુનિ કી રેતી	Muni Ki Reti
+નંદ પ્રયાગ	Nandprayag
+વિસનગર	Visnagar
+વિસાવદર	Visavadar
+પૂર્વીય સિંહભૂમ જિલ્લો	Distretto del Singhbhum Orientale
+પાઘડી	Turbante
+ઉસ્માનાબાદ	Osmanabad
+સંપ્રદાય	Sampradaya
+શહેરી કામરુપ જિલ્લો	Distretto Metropolitano di Kamrup
+ધરમપુર	Dharampur
+રાજગઢ	Rajgarh (Rajgarh)
+હરિવંશ	Harivaṃśa
+વારાણસી પ્રાંત	Divisione di Varanasi
+દામોહ જિલ્લો	Distretto di Damoh
+લખનૌ પ્રાંત	Divisione di Lucknow
+ખલિલાબાદ	Khalilabad
+રોઇન્ગ	Roing
+સીધી	Sidhi
+મમિત	Mamit
+ઉમરિયા	Umaria
+સિમડેગા	Simdega
+શિવહર	Sheohar
+ડિંડોરી	Dindori
+શાહડોલ	Shahdol
+મારિગાંવ	Marigaon
+જુન્હેમોટો જિલ્લો	Zunheboto
+કોલાર જિલ્લો	Distretto di Kolar
+બ્રહ્મપુરી	Brahmapuri
+દીવ જિલ્લો	Distretto di Diu
+થરાદ	Tharad
+કલોલ	Kalol INA (Gandhinagar)
+કાણોદર (તા. પાલનપુર)	Kanodar
+મુરાદાબાદ પ્રાંત	Divisione di Moradabad
+તલોદ	Talod
+માંડવી	Mandvi
+રાણાવાવ	Ranavav
+રાજુરા	Rajura
+તળોદા (મહારાષ્ટ્ર)	Talode
+વડનગર	Vadnagar
+સૂર્યમંદિર, મોઢેરા	Tempio del Sole (Modhera)
+મહુવર	Mahuvar
+ટ્વેનસાંગ જિલ્લો	Distretto di Tuensang
+સિદ્ધપુર	Sidhpur
+સિહોર	Sihor
+અનીની	Anini
+માનસા (પંજાબ)	Mansa (Punjab)
+બાંદા	Banda (Uttar Pradesh)
+જાંજગીર-ચમ્પા જિલ્લો	Distretto di Janjgir-Champa
+હમીરપુર	Hamirpur (Himachal Pradesh)
+ધેંકનાલ	Dhenkanal
+પડધરી	Paddhari
+સરાઈકેલા ખરસાવાં	Seraikela
+સઇહા	Saiha
+ચુરાચાંદપુર જિલ્લો	Distretto di Churachandpur
+માંગરોળ (જૂનાગઢ)	Mangrol
+જશપુર જિલ્લો	Distretto di Jashpur
+દુમકા જિલ્લો	Distretto di Dumka
+સતના જિલ્લો	Distretto di Satna
+રાયગઢા જિલ્લો	Distretto di Rayagada
+સિમડેગા જિલ્લો	Distretto di Simdega
+કઠુઆ	Kathua
+કૈફાઇર જિલ્લો	Distretto di Kiphire
+મહુધા	Mahudha
+સંસ્કૃત વ્યાકરણ	Grammatica sanscrita
+મહારાજા સયાજીરાવ ગાયકવાડ ત્રીજા	Sayyaji Rao Gaekwad III
+ગુલબર્ગ જિલ્લો	Distretto di Gulbarga
+હનુમાન ચાલીસા	Hanuman Chalisa
+અલીરાજપુર જિલ્લો	Distretto di Alirajpur
+સુરી	Suri
+કટરા	Katra
+સિંગરૌલી જિલ્લો	Distretto di Singrauli
+રામનગર, ઉત્તરાંચલ	Ramnagar (Uttarakhand)
+માય ઓપેરા	My Opera
+મેઘરજ	Meghraj
+બેટમેન (ચિત્રકથા)	Batman
+મક્કાલી ગોસાલ	Makkhali Gosala
+દેલવાડા	Dilwara
+મયૂરાસન	Mayurasana
+ચેવડો	Bombay mix
+તેલુગુ ભોજન	Cucina Telugu
+અમી વશી	Ami Vashi
+યજ્ઞોપવીત	Upanayana
+અલવાર	Alwar
+રાજશ્રી પ્રોડક્શનસ્	Rajshri Productions
+સીટી પેલેસ, જયપુર	Palazzo di Jaipur
+શહાદા (મહારાષ્ટ્ર)	Shahade
+કાયાવરોહણ	Kayavarohan
+માલધારી	Maldhari
+વિશ્વ ગ્રાફિક ડિઝાઈન દિવસ	Giornata mondiale del disegno
+ફૈજાબાદ પ્રાંત	Divisione di Faizabad
+ચિત્રકૂટ પ્રાંત	Divisione di Chitrakoot
+ઉમરેઠ	Umreth
+પ્રાંતિજ	Prantij
+ઉકાઇ	Ukai
+રાપર	Rapar
+પોનમુડી	Ponmudi
+કાલોલ	Kalol (Panchmahal)
+પલવલ જિલ્લો	Distretto di Palwal
+ઓદાલગુરિ	Udalguri
+કડી	Kadi (città)
+કર્ણ	Karna
+કારવાર	Karwar
+કૂચબિહાર જિલ્લો	Distretto di Cooch Behar
+કોકરાઝાર	Kokrajhar
+કોલોરીયાંગ	Koloriang
+ચન્દૌલી	Chandauli
+ચન્દૌલી જિલ્લો	Distretto di Chandauli
+સાવરકુંડલા	Savarkundla
+પેટલાદ	Petlad
+સોનગઢ	Songadh
+ઉપલેટા	Upleta
+રાજુલા	Rajula
+હમીરપુર, ઉત્તર પ્રદેશ	Hamirpur (Uttar Pradesh)
+વરતેજ (તા. ભાવનગર)	Vartej
+ચામરાજનગર	Chamarajanagar
+નિઝર તાલુકો	Nizar (India)
+તલ	Sesamum indicum
+મધુબની	Madhubani
+મહેબૂબનગર	Mahbubnagar
+માંડ્યા જિલ્લો	Distretto di Mandya
+મુજફ્ફરનગર	Muzaffarnagar
+જમ્મુ	Divisione del Jammu
+બાદિયાન	Illicium verum
+શ્રેણી:સ્ટબ	Categoria:Stub
+શ્રેણી:સંસ્કૃતિ	Categoria:Cultura
+કણ્ણૂર જિલ્લો	Distretto di Kannur
+કુલ્લૂ જિલ્લો	Distretto di Kullu
+સોલન જિલ્લો	Distretto di Solan
+જામતાડા જિલ્લો	Distretto di Jamtara
+શિમોગા જિલ્લો	Distretto di Shimoga
+જામનગર જિલ્લો	Distretto di Jamnagar
+અનંતનાગ જિલ્લો	Distretto di Anantnag
+પીપળો	Ficus religiosa
+ઢાંચો:સૌરમંડળ	Template:Sistema solare
+વિકિપીડિયા:HotCat	Aiuto:Accessori/HotCat
+બોંગાઇગાંવ	Bongaigaon
+કૈલાશ સત્યાર્થી	Kailash Satyarthi
+વિજયનગર	Vizianagaram
+ભીમ	Bhima
+ચિખલી, મહારાષ્ટ્ર	Chikhli (Maharashtra)
+ચાઇનીઝ માર્શલ આર્ટ્સ	Arti marziali cinesi
+લાઠી	Lathi (India)
+લોન્ગતલાઇ	Lawngtlai
+પૂજા ચોપરા	Pooja Chopra
+સલગમ	Brassica rapa rapa
+ઢાંચો:ઉક્તિ	Template:Citazione
+કેરી	Mangifera indica
+દંતેવાડા	Dantewada
+સર્જિયો માત્તારેલા	Sergio Mattarella
+ઢાંચો:Location map Scotland	Template:Mappa di localizzazione/SCO
+યિંગકીયોંગ	Yingkiong
+વિકિપીડિયા:પ્રબંધક	Wikipedia:Amministratori
+શ્રેણી:વ્યક્તિત્વ	Categoria:Persone
+શ્રેણી:કલા	Categoria:Arte
+ઇજિપ્ત	Egitto
+બારપેટા	Barpeta
+વિકિપીડિયા:શ્રેણી	Aiuto:Categorie/Categorizzazione
+રવીન્દ્ર પ્રભાત	Ravindra Prabhat
+વિકિપીડિયા:વિકિપરિયોજના	Wikipedia:Progetto
+ઢાંચો:Bot	Template:Bot
+વિકિપીડિયા:વિકિપીડિયા શું નથી	Wikipedia:Cosa Wikipedia non è
+કેનેડા	Canada
+વિકિપીડિયા:પ્રકાશનાધિકાર	Wikipedia:Copyright
+એક્યુપ્રેસર	Agopressione
+વિકિપીડિયા:પ્રબંધકોનું સૂચનપટ	Wikipedia:Richieste agli amministratori
+શ્રેણી:યુરોપ	Categoria:Europa
+ઢાંચો:Documentation	Template:Man
+શ્રેણી:રદ કરવા માટેના પાના	Categoria:Cancellazioni
+શ્રેણી:સભ્યોની ભાષાઓ	Categoria:Utenti per lingua
+વિકિપીડિયા:પાયાના પાંચ સિદ્ધાંત	Wikipedia:Cinque pilastri
+વિકિપીડિયા:નિષ્પક્ષ દૃષ્ટિકોણ	Wikipedia:Punto di vista neutrale
+વિકિપીડિયા:પ્રારંભિક સંશોધન નહીં	Wikipedia:Niente ricerche originali
+વિકિપીડિયા:નોંધનીયતા	Aiuto:Cosa mettere su Wikipedia
+વિકિપીડિયા:બાહ્ય કડીઓ	Wikipedia:Collegamenti esterni
+વિકિપીડિયા:ઉચિત વપરાશ	Wikipedia:File non liberi
+અરરિયા	Araria
+વિકિપીડિયા:સહીઓ	Aiuto:Firma
+વિકિપીડિયા:નોંધનીયતા (વ્યક્તિ કે લોકો)	Aiuto:Criteri di enciclopedicità/Biografie
+વિકિપીડિયા:જીવંત વ્યક્તિઓનું જીવન ચરિત્ર	Wikipedia:Biografie di persone viventi
+વિકિપીડિયા:સભ્યનામ નીતિ	Wikipedia:Nome utente
+મદદ:Footnotes	Aiuto:Note
+કણ્ણૂર	Kannur
+ઢાંચો:Softredirect	Template:Soft redirect
+ઢાંચો:Delete	Template:Cancella subito
+ઢાંચો:Please leave this line alone (sandbox heading)	Template:Sandbox
+ભાગ મિલ્ખા ભાગ	Bhaag Milkha Bhaag
+ન્યાયશાસ્ત્ર	Giurisprudenza
+શ્રેણી:ભાષાઓ	Categoria:Lingue
+શ્રેણી:વિકિપીડિયા	Categoria:Wikipedia
+વિકિપીડિયા:General disclaimer	Wikipedia:Avvertenze generali
+શ્રેણી:તૂટી ફાઈલ કડીઓને સાથે પાના	Categoria:Pagine con link a file inesistenti
+વિકિપીડિયા:ટેમ્પ્લેટ સૂચનાઓ	Aiuto:Avvisi
+ઢાંચો:Navbox	Template:Navbox
+ઢાંચો:Track listing	Template:Tracce
+ઢાંચો:Nutshell	Template:Succo
+ઢાંચો:Tnavbar	Template:Tnavbar
+ઢાંચો:0	Template:0-
+ઢાંચો:Clear	Template:Clear
+ઢાંચો:Col-break	Template:Colonne spezza
+ઢાંચો:Col-end	Template:Colonne fine
+ઢાંચો:Trim	Template:Str trim
+ઢાંચો:Nowrap	Template:Tutto attaccato
+ઢાંચો:Tooltip	Template:Descrizione comando
+ઢાંચો:Anchor	Template:Anchor
+વિકિપીડિયા:દરેક ભાષાના વિકિપીડિયામાં હોય એવા પ્રારંભિક લેખોની યાદી	Wikipedia:Lista delle voci che tutte le Wikipedie dovrebbero avere
+શ્રેણી:આફ્રિકા	Categoria:Africa
+ઢાંચો:વિકિસ્રોત	Template:Wikisource
+ઢાંચો:Babel	Template:Babel
+ઢાંચો:Commons	Template:Commons
+ઢાંચો:Reflist	Template:References
+વિકિપીડિયા:સંદર્ભ	Aiuto:Uso delle fonti
+ઢાંચો:સ્ટબ	Template:S
+ઢાંચો:See also	Template:Vedi anche
+ઢાંચો:User de	Template:Utente de
+ઢાંચો:User de-1	Template:Utente de-1
+ઢાંચો:User en-3	Template:Utente en-3
+ઢાંચો:User en-2	Template:Utente en-2
+ઢાંચો:User en-4	Template:Utente en-4
+ઢાંચો:User en	Template:Utente en
+ઢાંચો:User de-2	Template:Utente de-2
+ઢાંચો:User hi-1	Template:Utente hi-1
+ઢાંચો:User tr	Template:Utente tr
+ઢાંચો:User fr	Template:Utente fr
+ઢાંચો:Pl icon	Template:Pl
+શ્રેણી:એશિયા	Categoria:Asia
+શ્રેણી:ચીલી	Categoria:Cile
+ઢાંચો:Mod	Template:Mod
+શ્રેણી:૧૯૧૦	Categoria:Eventi del 1910
+ઢાંચો:Infobox football club	Template:Squadra di calcio
+ઢાંચો:સ્વાગત	Template:Benvenuto
+ઢાંચો:Wikipediasister	Template:PaginaPrincipale/Progetti
+ઢાંચો:Football kit	Template:Divisa Calcio
+ઢાંચો:Image label	Template:Etichetta immagine
+ઢાંચો:Stub Category	Template:Categoria stub
+ઢાંચો:Infobox television	Template:FictionTV
+ઢાંચો:Frankfurt Stock Exchange	Template:Borsa di Francoforte
+ઢાંચો:માહિતીચોકઠું સંગીત કલાકાર	Template:Artista musicale
+ઢાંચો:Es icon	Template:Es
+ઢાંચો:Ambox	Template:Avviso
+ઢાંચો:Hide in print	Template:Non stampare
+ઢાંચો:માહિતીચોકઠું દેશ	Template:Stato
+ઢાંચો:Infobox Software	Template:Software
+ઢાંચો:Infobox airline	Template:Infobox compagnia aerea
+ઢાંચો:Str left	Template:Str left
+ઢાંચો:Str sub long	Template:Str sub
+ઢાંચો:Audio	Template:Link audio
+ઢાંચો:S-start	Template:S-inizio
+ઢાંચો:Nom	Template:Nomination
+ઢાંચો:Cite paper	Template:Cita pubblicazione
+ઢાંચો:માહિતીચોકઠું કંપની	Template:Azienda
+ઢાંચો:Cite news	Template:Cita news
+ઢાંચો:Family tree	Template:Albero genealogico
+ઢાંચો:ઉમદા લેખ	Template:Vetrina
+ઢાંચો:માહિતીચોકઠું રાજવી	Template:Monarca
+શ્રેણી:પેરિસ	Categoria:Parigi
+શ્રેણી:User en-4	Categoria:Utenti en-4
+શ્રેણી:User en	Categoria:Utenti en
+શ્રેણી:User en-2	Categoria:Utenti en-2
+ઢાંચો:Infobox	Template:Infobox
+ઢાંચો:Str crop	Template:Str crop
+ઢાંચો:User zh	Template:Utente zh
+ઢાંચો:Legend	Template:Legenda
+ઢાંચો:Cite web	Template:Cita web
+ઢાંચો:Infobox bridge	Template:Ponte
+ઢાંચો:વિજયી	Template:Won
+ઢાંચો:GeoTemplate	Template:GeoTemplate
+ઢાંચો:Navbar-collapsible	Template:Tnavbar-collapsible
+ઢાંચો:Pp-template	Template:Pp-template
+ઢાંચો:Chem	Template:Chem
+શ્રેણી:User hi	Categoria:Utenti hi
+શ્રેણી:હિન્દી ચલચિત્ર	Categoria:Film indiani
+ઢાંચો:પુરાતન દુનિયાની સાત અજાયબીઓ	Template:SetteMeraviglie
+ઢાંચો:ITIS	Template:ITIS
+ઢાંચો:Other uses	Template:Nota disambigua
+પીઠનો દુખાવો	Dorsopatia
+ઢાંચો:માહિતીચોકઠું નૃવંશ સમુદાય	Template:Popolo
+ઢાંચો:MONTHNAME	Template:MONTHNAME
+ઢાંચો:Category redirect	Template:Categoria redirect
+વિકિપીડિયા:Text of the GNU Free Documentation License	Wikipedia:Testo della GNU Free Documentation License
+ઢાંચો:Infobox protected area	Template:Area protetta
+ઢાંચો:Border	Template:Border
+વિકિપીડિયા:મારે સભ્ય શા માટે થવું જોઇએ?	Aiuto:Nome utente
+ઢાંચો:ParmPart	Template:ParmPart
+ઢાંચો:Infobox dog breed	Template:Razza cane
+ઢાંચો:માહિતીચોકઠું પુસ્તક	Template:Libro
+ઢાંચો:આવર્ત કોષ્ટક	Template:Tavola periodica
+ઢાંચો:Lang-fa	Template:Farsi
+ઢાંચો:User nl	Template:Utente nl
+ઢાંચો:માહિતીચોકઠું વેબસાઇટ	Template:Sito web
+ઢાંચો:Image label end	Template:Etichetta immagine fine
+ઢાંચો:Uncategorized	Template:Categorizzare
+ઢાંચો:Talk header	Template:Discussione
+ઢાંચો:માહિતીચોકઠું વિશ્વ ધરોહર સ્થળ	Template:UNESCO
+ઢાંચો:અંક પદ્ધતિ	Template:Tabella dei sistemi di numerazione
+ઢાંચો:Infobox astronaut	Template:Astronauta
+ઢાંચો:Str len	Template:Str len
+ઢાંચો:Purge	Template:Purga
+ઢાંચો:Infobox sport	Template:Sport
+ઢાંચો:Empty category	Template:Servizio vuota
+ઢાંચો:Pre2	Template:Pre2
+ઢાંચો:Infobox building	Template:Edificio civile
+ઢાંચો:Location map USA	Template:Mappa di localizzazione/USA
+ઢાંચો:Lang-el	Template:Lang-el
+ઢાંચો:વિષ્ણુ અવતારો	Template:Vishnu
+ઢાંચો:NASDAQ	Template:Nasdaq
+ઢાંચો:Clarify	Template:Chiarire
+ઢાંચો:Loremipsum	Template:Lorem ipsum
+શ્રેણી:ગુજરાતના જિલ્લાઓ	Categoria:Distretti del Gujarat
+શ્રેણી:વિયેતનામમાં એરપોર્ટ	Categoria:Aeroporti del Vietnam
+ઢાંચો:Emergency-bot-shutoff	Template:Pulsante di emergenza bot
+ઢાંચો:Image label small	Template:Etichetta immagine piccola
+ઢાંચો:Nihongo	Template:Nihongo
+ઢાંચો:Infobox military unit	Template:Infobox unità militare
+ઢાંચો:Infobox stadium	Template:Impianto sportivo
+શ્રેણી:Fair use images	Categoria:Immagini fairuse
+ઢાંચો:Infobox tennis player	Template:Carriera tennista
+ઢાંચો:Cite conference	Template:Cita conferenza
+શ્રેણી:ભારતના રાષ્ટ્રપતિ	Categoria:Presidenti dell'India
+ઢાંચો:અઠવાડિયાના વારનાં નામો	Template:Giorni della settimana
+ઉપનિષદ	Upaniṣad
+ઢાંચો:Infobox game	Template:Gioco
+ઢાંચો:Lang-ru	Template:Russo
+ઢાંચો:@	Template:@
+શ્રેણી:Images	Categoria:Immagini
+ઢાંચો:Polytonic	Template:Greco
+ઢાંચો:સંદિગ્ધ શીર્ષક	Template:Disambigua
+ઢાંચો:User gu-2	Template:Utente gu-2
+ઢાંચો:No	Template:Non fatto
+ઢાંચો:Doi	Template:Doi
+ઢાંચો:Infobox film	Template:Film
+ઢાંચો:Nutritionalvalue	Template:Valori nutrizionali
+ઢાંચો:Infobox organisation	Template:Organizzazione
+ઢાંચો:CategoryTOC	Template:Indice categoria
+ઢાંચો:Infobox treaty	Template:Infobox trattato
+ઢાંચો:Infobox military installation	Template:Infobox struttura militare
+શ્રેણી:મધ્ય પ્રદેશના જિલ્લાઓ	Categoria:Distretti del Madhya Pradesh
+ઢાંચો:Infobox museum	Template:Museo
+ઢાંચો:FRA	Template:FRA
+ઢાંચો:હિંદુ દેવી દેવતા અને ગ્રંથ	Template:Divinità e riti induisti
+ઢાંચો:માહિતીચોકઠું વ્યક્તિ	Template:Bio
+ઢાંચો:Country data Ukraine	Template:Naz/UKR
+શ્રેણી:કેરળ	Categoria:Kerala
+ઢાંચો:Convert	Template:Converti
+ઢાંચો:Copy edit	Template:Correggere
+ઢાંચો:Coord	Template:Coord
+ઢાંચો:Dmoz	Template:Dmoz
+ઢાંચો:યુરોપ	Template:Europa
+શ્રેણી:User fr	Categoria:Utenti fr
+શ્રેણી:User gu	Categoria:Utenti gu
+શ્રેણી:User hi-3	Categoria:Utenti hi-3
+શ્રેણી:सदस्य hi-2	Categoria:Utenti hi-2
+શ્રેણી:User fr-N	Categoria:Utenti fr-M
+શ્રેણી:User hi-N	Categoria:Utenti hi-M
+ઢાંચો:Cite video	Template:Cita video
+શ્રેણી:User de	Categoria:Utenti de
+શ્રેણી:User en-3	Categoria:Utenti en-3
+શ્રેણી:User en-N	Categoria:Utenti en-M
+ઢાંચો:કોમ્પ્યુટરના મૂળભૂત ઘટકો	Template:Componenti basilari dei computer
+શ્રેણી:User gu-1	Categoria:Utenti gu-1
+શ્રેણી:User gu-2	Categoria:Utenti gu-2
+શ્રેણી:User gu-3	Categoria:Utenti gu-3
+શ્રેણી:User gu-N	Categoria:Utenti gu-M
+ઢાંચો:N/a	Template:ND
+પોરબંદર	Porbandar
+ઢાંચો:Location map Greater London	Template:Mappa di localizzazione/Londra
+ઢાંચો:માહિતીચોકઠું રોગ	Template:Infobox malattia
+ઢાંચો:Weather box	Template:ClimaAnnuale
+ઢાંચો:User ta	Template:Utente ta
+શ્રેણી:ઇંગ્લેન્ડ	Categoria:Inghilterra
+અર્થીંગ	Messa a terra
+ઢાંચો:Str ≥ len	Template:Str ≥ len
+ઢાંચો:Yes-No	Template:Forset
+ઢાંચો:ફિફા ખેલાડી	Template:FIFA
+ઢાંચો:ચર્ચા-પૂરી	Template:Chiusa
+ઢાંચો:Title without disambig	Template:Pipetrick
+ઢાંચો:Start date and age	Template:Data e tempo
+શ્રેણી:ભારતના વિશ્વધરોહર સ્થળો	Categoria:Patrimoni dell'umanità dell'India
+ઢાંચો:Infobox government agency	Template:Organo governativo
+શ્રેણી:User ru	Categoria:Utenti ru
+શ્રેણી:User ru-3	Categoria:Utenti ru-3
+શ્રેણી:1533 જન્મો	Categoria:Nati nel 1533
+શ્રેણી:User tr	Categoria:Utenti tr
+શ્રેણી:User tr-N	Categoria:Utenti tr-M
+ઢાંચો:Lang	Template:Lang
+શ્રેણી:દિલ્હી	Categoria:Delhi
+ઢાંચો:OCLC	Template:OCLC
+ઢાંચો:માહિતીચોકઠું તૈયાર ખોરાક	Template:Gastronomia
+પાલી	Pali (Rajasthan)
+વિકિપીડિયા:નિષ્પક્ષતા વિવાદ	Wikipedia:Controversia sulla neutralità
+ઢાંચો:Infobox River	Template:Fiume
+શ્રેણી:1986 જન્મો	Categoria:Nati nel 1986
+ઢાંચો:Auto link	Template:AutoLink
+ઢાંચો:Bombay Stock Exchange	Template:Borsa di Bombay
+પાલીતાણા	Palitana
+ઢાંચો:Politics of India	Template:Politica India
+ઢાંચો:F1	Template:F1
+ઢાંચો:RUS	Template:RUS
+ઢાંચો:Unbulleted list	Template:Lista
+શ્રેણી:રાષ્ટ્રધ્વજો	Categoria:Bandiere nazionali
+શ્રેણી:રાસાયણિક તત્વો	Categoria:Elementi chimici
+શ્રેણી:ભૂગોળ સ્ટબ	Categoria:Stub - geografia
+ઢાંચો:User gu-1	Template:Utente gu-1
+શ્રેણી:નેપાળ	Categoria:Nepal
+શ્રેણી:અલ્હાબાદના લોકો	Categoria:Persone legate ad Allahabad
+શ્રેણી:માછલી	Categoria:Pesci
+શ્રેણી:Public domain images	Categoria:Immagini di pubblico dominio
+શ્રેણી:મહાસાગર	Categoria:Oceani
+શ્રેણી:અંક પદ્ધતિ	Categoria:Sistemi di numerazione
+શ્રેણી:ગોઆ	Categoria:Goa
+શ્રેણી:પ્રાણીઓ	Categoria:Animali
+બલિયા	Ballia
+શ્રેણી:હિમાલય	Categoria:Himalaya
+શ્રેણી:ઍન્ટાર્કટીકા	Categoria:Antartide
+શ્રેણી:મહારાષ્ટ્ર	Categoria:Maharashtra
+શ્રેણી:આસામ	Categoria:Assam
+ધ પ્રોડિજિ	The Prodigy
+રાણકી વાવ	Rani ki vav
+ઢાંચો:WPBannerMeta	Template:Monitoraggio
+Module:URL	Modulo:URL
+શ્રેણી:ભારતની સંસદ	Categoria:Parlamento indiano
+શ્રેણી:ભારતનાં રાજ્યો અને કેન્દ્રશાસિત પ્રદેશો	Categoria:Stati e territori dell'India
+ઢાંચો:FULLROOTPAGENAME	Template:FULLROOTPAGENAME
+ઢાંચો:Substituted	Template:Template non incluso
+ઢાંચો:Pad	Template:Pad
+ઢાંચો:Str right	Template:Str right
+ઢાંચો:Article history	Template:Cronologia valutazioni
+શ્રેણી:Userboxes	Categoria:Template Info utente
+ઢાંચો:Multicol	Template:Colonne
+શ્રેણી:આસામના જિલ્લાઓ	Categoria:Distretti dell'Assam
+શ્રેણી:નેપાળના જિલ્લાઓ	Categoria:Distretti del Nepal
+શ્રેણી:રાજસ્થાનના જિલ્લાઓ	Categoria:Distretti del Rajasthan
+શ્રેણી:તમિલનાડુના જિલ્લાઓ	Categoria:Distretti del Tamil Nadu
+શ્રેણી:પશ્ચિમ બંગાળના જિલ્લાઓ	Categoria:Distretti del Bengala Occidentale
+ઢાંચો:Infobox Weapon	Template:Infobox arma
+શ્રેણી:ભારતીય ક્રિકેટ ખેલાડી	Categoria:Crickettisti indiani
+ઢાંચો:Listen	Template:Multimedia
+કેળ	Musa (botanica)
+લાતેહાર	Latehar
+શ્રેણી:પંજાબ	Categoria:Punjab
+ઢાંચો:Image label begin	Template:Etichetta immagine inizio
+શ્રેણી:ગુજરાતનાં શહેરો અને નગરો	Categoria:Centri abitati del Gujarat
+શ્રેણી:અર્થશાસ્ત્રમાં નોબેલ મેળવનારા	Categoria:Vincitori del premio Nobel per l'economia
+શ્રેણી:Protected templates	Categoria:Template protetti
+ઢાંચો:Start date	Template:Start date
+ટાટા ઈન્ડિગો	Tata Indigo
+ઢાંચો:Decimals	Template:Decimali
+ઢાંચો:MedalGold	Template:MedaglieOro
+ઢાંચો:૧૦ લાખથી વધુ વસ્તીવાળા ભારતના શહેરો	Template:Città con più di un milione di abitanti dell'India
+ઢાંચો:MedalBronze	Template:MedaglieBronzo
+ઢાંચો:MedalSilver	Template:MedaglieArgento
+ઢાંચો:માહિતીચોકઠું માર્ગ	Template:Infobox strada
+ઢાંચો:ભારતના રાષ્ટ્રીય ઉદ્યાનો	Template:Parchi nazionali dell'India
+ઢાંચો:Infobox file format	Template:Formato file
+વિકિપીડિયા:"નિયમોને અવગણો"નો અર્થ	Wikipedia:Buon senso
+ઢાંચો:Windows Components	Template:Componenti di Windows
+ઢાંચો:Campaignbox Indo-Pakistani Wars	Template:Campagnabox guerre indo-pakistane
+ઢાંચો:સભ્ય સાઉથ આફ્રિકા	Template:Utente Sudafrica
+હાપુર	Hapur
+ચિત્તૂર	Chittoor
+અનંતનાગ	Anantnag
+ચુરાચાંદપુર	Churachandpur
+મદદ:IPA for English	Aiuto:IPA per l'inglese
+પૂર્વાધિકાર	Diritto di ritenzione
+વીર્ય સ્ખલન	Eiaculazione
+Module:Arguments	Modulo:Arguments
+વિશેષ:તાજાફેરફારો	Speciale:UltimeModifiche
+Module:Citation/CS1	Modulo:Citazione
+Module:String	Modulo:String
+Module:Coordinates	Modulo:Coord
+Module:Navbox	Modulo:Navbox
+Module:Infobox	Modulo:Infobox

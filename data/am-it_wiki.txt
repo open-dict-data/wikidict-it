@@ -1,0 +1,6111 @@
+አፍሪቃ	Africa
+ጃፓን	Giappone
+ደቡብ አሜሪካ	America Meridionale
+ኖርዌይ	Norvegia
+ኢንግላንድ	Inghilterra
+ስኮትላንድ	Scozia
+ዌልስ	Galles
+ስሜን አየርላንድ	Irlanda del Nord
+አየርላንድ ሪፐብሊክ	Irlanda
+ሀንጋሪ	Ungheria
+እስፓንያ	Spagna
+አሜሪካ	Stati Uniti d'America
+ቤልጅግ	Belgio
+ሉክሰምበርግ	Lussemburgo
+መሬት	Terra
+ህይወት	Vita
+የሰው ልጅ	Homo sapiens
+ጆርጅ ዋሽንግተን	George Washington
+ፊንላንድ	Finlandia
+ስዊድን	Svezia
+ዴንማርክ	Danimarca
+ፖላንድ	Polonia
+ሊትዌኒያ	Lituania
+ጣልያን	Italia
+ስዊዘርላንድ	Svizzera
+ኦስትሪያ	Austria
+ግሪክ (አገር)	Grecia
+ቱርክ	Turchia
+ፖርቱጋል	Portogallo
+አውሮፓ	Europa
+እስያ	Asia
+ስሜን አሜሪካ	America del Nord
+አንታርክቲካ	Antartide
+ውክፔዲያ	Wikipedia
+ሆላንድ	Paesi Bassi
+ኒው ዮርክ ከተማ	New York
+ዋሺንግተን ዲሲ	Washington
+ሳን ፍራንሲስኰ	San Francisco
+በርሊን	Berlino
+ሎስ አንጄሌስ	Los Angeles
+ኮምፒዩተር	Computer
+ቤርን	Berna
+ዠኔቭ	Ginevra
+ዙሪክ	Zurigo
+ድረ ገጽ መረብ	Internet
+ባራክ ኦባማ	Barack Obama
+ኡራጓይ	Uruguay
+ባዝል	Basilea
+ለንደን	Londra
+ካይሮ	Il Cairo
+እስክንድርያ	Alessandria d'Egitto
+ፖም	Mela
+ፓሪስ	Parigi
+አብርሀም ሊንከን	Abraham Lincoln
+ጉግል	Google Inc.
+ሜክሲኮ	Messico
+አትላንቲክ ውቅያኖስ	Oceano Atlantico
+ሰላማዊ ውቅያኖስ	Oceano Pacifico
+ካሊፎርኒያ	California
+ቦስቶን	Boston
+ሰኞ	Lunedì
+ጃንዩዌሪ	Gennaio
+ፌብሩዋሪ	Febbraio
+ማርች	Marzo
+ማርስ	Marte (astronomia)
+ኬንያ	Kenya
+ኢትዮጵያ	Etiopia
+ጋና	Ghana
+ኤፕሪል	Aprile
+መይ	Maggio
+ጁን	Giugno
+ጁላይ	Luglio
+ኦገስት	Agosto
+ሰፕቴምበር	Settembre
+ኦክቶበር	Ottobre
+ኖቬምበር	Novembre
+ዲሴምበር	Dicembre
+ማክሰኞ	Martedì
+ረቡዕ	Mercoledì
+ሐሙስ	Giovedì
+ዓርብ	Venerdì
+ቅዳሜ	Sabato
+እሑድ	Domenica
+አንበሳ	Panthera leo
+ፈረንሣይ	Francia
+ኤስፔራንቶ	Lingua esperanto
+ውሻ	Canis lupus familiaris
+ዩናይትድ ኪንግደም	Regno Unito
+ድመት	Felis silvestris catus
+የቻይና ሕዝባዊ ሪፐብሊክ	Cina
+ፈረንሳይኛ	Lingua francese
+ዓሣ	Pesce
+ብራዚል	Brasile
+ሩሲያ	Russia
+ባህር	Mare
+ጥቁር ባሕር	Mar Nero
+ፓይ	Pi greco
+ቶሮንቶ	Toronto
+አላባማ	Alabama
+ሳው ፓውሉ	San Paolo (Brasile)
+ኬበክ	Québec (provincia)
+ጂሚ ዌልስ	Jimmy Wales
+ጀርመን	Germania
+ቤላሩስ	Bielorussia
+ጀርመንኛ	Lingua tedesca
+አይስላንድ	Islanda
+እግዚአብሔር	Dio
+ኤስቶኒያ	Estonia
+ማህፈድ	Saturno (astronomia)
+አውሮፕላን	Aeroplano
+0	0 (numero)
+አዕላፍ	Infinito (matematica)
+ጆርጅ ደብሊዩ ቡሽ	George W. Bush
+ላትቪያ	Lettonia
+ዩክሬን	Ucraina
+ቼክ ሪፐብሊክ	Repubblica Ceca
+ስሎቫኪያ	Slovacchia
+ስሎቬኒያ	Slovenia
+ቪልኒውስ	Vilnius
+ሞልዶቫ	Moldavia
+ሮማንያ	Romania
+ቡልጋሪያ	Bulgaria
+ሮማ	Roma
+የመቄዶንያ ሬፑብሊክ	Repubblica di Macedonia
+አልባኒያ	Albania
+ግሪንላንድ	Groenlandia
+ክሮኤሽያ	Croazia
+ቦስኒያና ሄርጸጎቪና	Bosnia ed Erzegovina
+አዘርባይጃን	Azerbaigian
+አንዶራ	Andorra
+ቆጵሮስ	Cipro
+ጂዮርጂያ	Georgia
+ካዛክስታን	Kazakistan
+ማልታ	Malta
+ሞናኮ	Principato di Monaco
+ሞንቴኔግሮ	Montenegro
+ቫቲካን ከተማ	Città del Vaticano
+ሳን ማሪኖ (አገር)	San Marino
+ብሩክሴል	Regione di Bruxelles-Capitale
+ኩባ	Cuba
+ቤሊዝ	Belize
+ባርቤዶስ	Barbados
+ጃቫ	Java (linguaggio di programmazione)
+ኢንዶኔዥያ	Indonesia
+ቮልፍጋንግ አማዴኡስ ሞፃርት	Wolfgang Amadeus Mozart
+ሉድቪግ ቫን ቤትሆቨን	Ludwig van Beethoven
+ቱርክኛ	Lingua turca
+ደቡብ አፍሪካ	Sudafrica
+አልጄሪያ	Algeria
+ኡዝቤኪስታን	Uzbekistan
+ታሽኬንት	Tashkent
+ዋርሶው	Varsavia
+ውሃ	Acqua
+እንጨት	Legno
+ቴሌቪዥን	Televisione
+ቺሌ	Cile
+ኢየሱስ	Gesù
+ኤልቭስ ፕሬስሊ	Elvis Presley
+ጋሊልዮ	Galileo Galilei
+ኣጣርድ	Mercurio (astronomia)
+ታሪክ	Storia
+አፕል ኮርፖሬሽን	Apple
+ዘሃራ	Venere (astronomia)
+ቋንቋ	Linguaggio
+ፍቅር	Amore
+ጁፒተር	Giove (astronomia)
+ሚሼል ባቼሌት	Michelle Bachelet
+ሚልኪ ዌይ	Via Lattea
+ኡራኑስ	Urano (astronomia)
+ኒኮላ ሳርኮዚ	Nicolas Sarkozy
+ነፕቲዩን	Nettuno (astronomia)
+ሥነ ፈለክ	Astronomia
+ሲንጋፖር	Singapore
+ሳይንስ	Scienza
+ፕሉቶ	Plutone (astronomia)
+ሞንትሬያል	Montréal
+ማርያም	Maria (madre di Gesù)
+ሊክተንስታይን	Liechtenstein
+ስፖርት	Sport
+አዶልፍ ሂትለር	Adolf Hitler
+ፌስቡክ	Facebook
+የመጀመሪያው የዓለም ጦርነት	Prima guerra mondiale
+2ኛው ዓለማዊ ጦርነት	Seconda guerra mondiale
+ኮልን	Colonia (Germania)
+ሰአት (መሳሪያ)	Orologio
+ኡቡንቱ	Ubuntu
+ስኮፕዬ	Skopje
+ሊኑክስ	Linux
+ትምህርተ ሂሳብ	Matematica
+ሮማይስጥ	Lingua latina
+ባሕሬን	Bahrein
+አርመኒያ	Armenia
+ሰርቢያ	Serbia
+ጨረቃ	Luna
+ኢስታንቡል	Istanbul
+አውስትራልያ	Australia
+ቦብ ማርሊ	Bob Marley
+የተፈጥሮ ሕግጋት ጥናት	Fisica
+አርጀንቲና	Argentina
+ፔሩ	Perù
+ሥነ ሕይወት	Biologia
+ሰሜን ኮርያ	Corea del Nord
+ካምቦዲያ	Cambogia
+ቁርአን	Corano
+እስልምና	Islam
+ልዩብልያና	Lubiana
+ለክ ቫለሳ	Lech Wałęsa
+ድኒ ዲድሮ	Denis Diderot
+ልዮን	Lione
+አውሮፓ ህብረት	Unione europea
+ሶፊያ	Sofia
+ሚላኖ	Milano
+አርተር ራምቦ	Arthur Rimbaud
+ቶሪኖ	Torino
+ሎሚ	Citrus × limon
+ስተንዳል	Stendhal
+666 እ.ኤ.አ.	666
+ኤቨረስት ተራራ	Everest
+ከተማ	Città
+ናፖሌዎን ቦናፓርት	Napoleone Bonaparte
+ኮኮብ	Stella
+ደብረ ቬሱቪዩስ	Vesuvio
+ፀሐይ	Sole
+ሰማይ	Cielo
+ሉዊ ፓስቴ	Louis Pasteur
+የብርሃን ዓመት	Anno luce
+ቪክቶር ኢውጎ	Victor Hugo
+ኦሺያኒያ	Oceania
+የፀሐይ ሥርዓተ ፈለክ	Sistema solare
+ባልቲክ ባሕር	Mar Baltico
+ቪስቱላ ወንዝ	Vistola
+ጥርስ	Dente
+ሃይድሮጅን	Idrogeno
+ሒሊየም	Elio
+አንጌላ መርክል	Angela Merkel
+ሊቲየም	Litio
+ቤሪሊየም	Berillio
+ቀን	Giorno
+ምሥራቅ ቲሞር	Timor Est
+ሌሊት	Notte
+አመት	Anno
+ሞን ብላን	Monte Bianco
+ራይን ወንዝ	Reno
+ኦስሎ	Oslo
+ቦን	Bonn
+ካቶቪጸ	Katowice
+ሊዝቦን	Lisbona
+ሮን ወንዝ	Rodano (fiume)
+ዱባይ	Dubai
+ሊዮኔል ሜሲ	Lionel Messi
+ቦሮን	Boro
+ኒኮላውስ ኮፐርኒኩስ	Niccolò Copernico
+ካርቦን	Carbonio
+ቮልጋ ወንዝ	Volga
+ናይትሮጅን	Azoto
+ኦክሲጅን	Ossigeno
+ፕላኔት	Pianeta
+ሙዚቃ	Musica
+ቬኒስ	Venezia
+ፖ ወንዝ	Po
+ሞስኮ	Mosca (Russia)
+ፍሎሪን	Fluoro
+ጣልያንኛ	Lingua italiana
+ኒዮን	Neon
+ሳንክት ፔቴርቡርግ	San Pietroburgo
+ቻድ	Ciad
+ሶዲየም	Sodio
+ሰሜን	Nord
+ማግኒዥየም	Magnesio
+አሉምንም	Alluminio
+ኒው ዚላንድ	Nuova Zelanda
+ደቡብ	Sud
+ህንድ	India
+ሲልከን	Silicio
+ፍራንሺየም	Francio
+ቱቫሉ	Tuvalu
+ዋንፒስ	One Piece
+ፎስፈረስ	Fosforo
+ብረት	Ferro
+ቶንጋ	Tonga
+ምዕራብ	Ovest
+ድኝ	Zolfo
+ሳሞዓ	Samoa
+ምሥራቅ	Est
+ሰለሞን ደሴቶች	Isole Salomone
+ቫኑአቱ	Vanuatu
+ሞሊዬር	Molière
+ክሎሪን	Cloro
+ፓፑዋ ኒው ጊኒ	Papua Nuova Guinea
+ሼክስፒር	William Shakespeare
+ፐላው	Palau (stato)
+አርገን	Argon
+ናውሩ	Nauru
+ሞዚላ ፋየርፎክስ	Mozilla Firefox
+ማይክሮኔዥያ	Stati Federati di Micronesia
+ፖታሺየም	Potassio
+ካልሲየም	Calcio (elemento chimico)
+እርሳስ	Piombo
+ማርሻል ደሴቶች	Isole Marshall
+ኪሪባስ	Kiribati
+ሞንጎልያ	Mongolia
+ፊጂ	Figi
+ስካንዲየም	Scandio
+ቲታኒየም	Titanio
+ቬኔዝዌላ	Venezuela
+ሰንጠረዥ	Scacchi
+ቺንግስ ካን	Gengis Khan
+ቫናዲየም	Vanadio
+መይን	Maine
+ክሮሚየም	Cromo
+ፈረስ	Equus caballus
+አምስተርዳም	Amsterdam
+እንስሳ	Animalia
+ሱሪናም	Suriname
+ማንጋኒዝ	Manganese
+ፓራጓይ	Paraguay
+ጋያና	Guyana
+ኤኳዶር	Ecuador
+ሬኒየም	Renio
+ኮሎምቢያ	Colombia
+ኮባልት	Cobalto
+ተንግስተን	Tungsteno
+ኒኬል	Nichel
+ቡዲስም	Buddhismo
+ቦሊቪያ	Bolivia
+ኦስሚየም	Osmio
+መዳብ	Rame
+ትሪኒዳድና ቶቤጎ	Trinidad e Tobago
+ሰይንት ቪንሰንትና ዘ ግረነዲንዝ	Saint Vincent e Grenadine
+ዚንክ	Zinco
+ኒው ሃምፕሸር	New Hampshire
+ሰይንት ሉሻ	Santa Lucia (Stato)
+ሊዮናርዶ ዳቬንቺ	Leonardo da Vinci
+ሰይንት ኪትስና ኒቨስ	Saint Kitts e Nevis
+ፈንገስ	Fungi
+ጃማይካ	Giamaica
+ግረነይዳ	Grenada
+ማሣቹሰትስ	Massachusetts
+ጓቴማላ	Guatemala
+ባሃማስ	Bahamas
+ኮነቲከት	Connecticut
+ዶሮ	Gallus gallus domesticus
+አንቲጋ እና ባርቡዳ	Antigua e Barbuda
+ሃዋኢ	Hawaii
+ሆንዱራስ	Honduras
+ዶመኒካ	Dominica
+ዶሚኒካን ሪፐብሊክ	Repubblica Dominicana
+ኣሳማ	Sus scrofa domesticus
+አርክቲክ ውቅያኖስ	Mar Glaciale Artico
+ሃይቲ	Haiti
+ኤል ሳልቫዶር	El Salvador
+ፋርስ	Iran
+ኢራቅ	Iraq
+አላስካ	Alaska
+ኮስታ ሪካ	Costa Rica
+እስራኤል	Israele
+ፓናማ	Panamá
+የመን (አገር)	Yemen
+ቫይረስ	Virus (biologia)
+ፖልኛ	Lingua polacca
+ዮርዳኖስ	Giordania
+ኒካራጓ	Nicaragua
+ፍሎሪዳ	Florida
+ኪርጊዝስታን	Kirghizistan
+አሪዞና	Arizona
+ኩዌት (አገር)	Kuwait
+ላዎስ	Laos
+ሊባኖስ	Libano
+ኦረጎን	Oregon
+ማልዲቭስ	Maldive
+አሜሪካዎች	America
+ዩታህ	Utah
+ላም	Bos taurus
+ማሌዢያ	Malesia
+ምየንማ	Birmania
+ኔፓል	Nepal
+ኦማን	Oman
+ፓኪስታን	Pakistan
+ቃጣር	Qatar
+ሳዑዲ አረቢያ	Arabia Saudita
+ሽሪ ላንካ	Sri Lanka
+ጆሴፍ ስታሊን	Iosif Stalin
+ሶርያ	Siria
+ፕላቶ	Platone
+ጋሊየም	Gallio (elemento chimico)
+ታጂኪስታን	Tagikistan
+የቻይና ሪፐብሊክ	Taiwan
+ዩ ቱብ	YouTube
+ጀርማኒየም	Germanio
+አሪስጣጣሊስ	Aristotele
+ታይላንድ	Thailandia
+ባቡር	Treno
+አርሰኒክ	Arsenico
+ራዲዮ	Radio (elettronica)
+ቱርክመኒስታን	Turkmenistan
+ሴሊኒየም	Selenio
+ኢሪዲየም	Iridio
+የተባበሩት የዓረብ ግዛቶች	Emirati Arabi Uniti
+ብሮሚን	Bromo
+ፕላቲነም	Platino
+ቬት ናም	Vietnam
+ቻርሊ ቻፕሊን	Charlie Chaplin
+ደቡብ ኮርያ	Corea del Sud
+ክሪፕተን	Kripton
+አፍጋኒስታን	Afghanistan
+ሩቢዲየም	Rubidio
+ወርቅ	Oro
+ባንግላዴሽ	Bangladesh
+ፍራንዝ ካፍካ	Franz Kafka
+ማሊ	Mali
+ሶቅራጠስ	Socrate
+አንጎላ	Angola
+ቡታን	Bhutan
+ብሩናይ	Brunei
+ታንዛኒያ	Tanzania
+ባዜቃ	Mercurio (elemento chimico)
+ፊሊፒንስ	Filippine
+የመካከለኛው አፍሪካ ሪፐብሊክ	Repubblica Centrafricana
+ታሊየም	Tallio
+አይሳክ ኒውተን	Isaac Newton
+አልበርት አይንስታይን	Albert Einstein
+ስትሮንቲየም	Stronzio
+ይትሪየም	Ittrio
+ቢስመዝ	Bismuto
+ቢጫ	Giallo
+ቶጎ	Togo
+ቱኒዚያ	Tunisia
+ዛምቢያ	Zambia
+ዚምባብዌ	Zimbabwe
+ቤዪጂንግ	Pechino
+ደቡብ ሱዳን	Sudan del Sud
+ቤኒን	Benin
+ቦትስዋና	Botswana
+ቡርኪና ፋሶ	Burkina Faso
+ቡሩንዲ	Burundi
+ኮሞሮስ	Comore
+ኮንጎ ሪፐብሊክ	Repubblica del Congo
+ኮንጎ ዲሞክራሲያዊ ሪፐብሊክ	Repubblica Democratica del Congo
+ጅቡቲ	Gibuti
+ፖሎኒየም	Polonio
+ባቫሪያ	Baviera
+ኢኳቶሪያል ጊኔ	Guinea Equatoriale
+ባደን-ቩርተምቡርግ	Baden-Württemberg
+ኤርትራ	Eritrea
+ኒው ዴሊ	Nuova Delhi
+ፍዮዶር ዶስቶየቭስኪ	Fëdor Dostoevskij
+ትብሊሲ	Tbilisi
+አስታታይን	Astato
+ጋቦን	Gabon
+ማህተማ ጋንዲ	Mahatma Gandhi
+ጋምቢያ	Gambia
+ጊኔ	Guinea
+ጊኔ-ቢሳው	Guinea-Bissau
+ኮት ዲቯር	Costa d'Avorio
+ካሜሩን	Camerun
+ኬፕ ቨርድ	Capo Verde
+ሌሶቶ	Lesotho
+ላይቤሪያ	Liberia
+ሊቢያ	Libia
+ማዳጋስካር	Madagascar
+ማላዊ	Malawi
+ሽቱትጋርት	Stoccarda
+ሞሪታኒያ	Mauritania
+ሞሪሸስ	Mauritius
+ሞሮኮ	Marocco
+ሞዛምቢክ	Mozambico
+ናሚቢያ	Namibia
+ፍራንስ ፕረሸረን	France Prešeren
+ኒጄር	Niger
+ናይጄሪያ	Nigeria
+ቻርልስ ዳርዊን	Charles Darwin
+ዩጋንዳ	Uganda
+ሩዋንዳ	Ruanda
+ዚርኮኒየም	Zirconio
+ሳን ቶሜ እና ፕሪንሲፔ	São Tomé e Príncipe
+ሴኔጋል	Senegal
+ሲሸልስ	Seychelles
+ካርል ሊኒዩስ	Linneo
+ሴየራ ሌዎን	Sierra Leone
+ሶማሊያ	Somalia
+ኒዮቢየም	Niobio
+ዩሊዩስ ቄሳር	Gaio Giulio Cesare
+ሱዳን	Sudan
+ስዋዚላንድ	Swaziland
+ቀስተ ደመና	Arcobaleno
+ሞሊብዴነም	Molibdeno
+ቴክኔቲየም	Tecnezio
+ሃምቡርግ	Amburgo
+ዝግመተ ለውጥ	Evoluzione
+የተባበሩት መንግሥታት ድርጅት	Organizzazione delle Nazioni Unite
+ዳንቴ አሊጊዬሪ	Dante Alighieri
+መሬት ጥናት (ጂዮሎጂ)	Geologia
+መልክዓ ምድር	Geografia
+ልብ	Cuore umano
+አንጎል	Cervello
+ቆዳ	Pelle
+ቀለም	Colore
+ፕራግ	Praga
+ሩቴኒየም	Rutenio
+ሮዲየም	Rodio
+ሰማያዊ	Blu
+ፓላዲየም	Palladio (elemento chimico)
+ብር (ብረታብረት)	Argento
+ካድሚየም	Cadmio
+ኢንዲየም	Indio
+ቆርቆሮ	Stagno (elemento chimico)
+ዩራኒየም	Uranio
+ኩል	Antimonio
+ቴሉሪየም	Tellurio
+ፕሉቶኒየም	Plutonio
+አዮዲን	Iodio
+ኔፕቲዩኒየም	Nettunio
+ዜኖን	Xeno
+አኒሜ	Anime
+ሴሲየም	Cesio (elemento chimico)
+ፕሮታክቲኒየም	Protoattinio
+ቻርጅ	Carica elettrica
+ባሪየም	Bario
+ቶሪየም	Torio
+ሀፍኒየም	Afnio
+አክቲኒየም	Attinio
+ታንታለም	Tantalio
+ቢል ክሊንተን	Bill Clinton
+ራዲየም	Radio (elemento chimico)
+ራዶን	Radon
+ሎሬን	Lorena (regione francese)
+ኢንድራ ጋንዲ	Indira Gandhi
+ሙምባይ	Mumbai
+ሚሺጋን	Michigan
+ፕዌርቶ ሪኮ	Porto Rico
+ኖርድራይን-ቬስትፋለን	Renania Settentrionale-Vestfalia
+ኢሊኖይ	Illinois
+ኖርዝ ዳኮታ	Dakota del Nord
+ብራንደንቡርግ	Brandeburgo
+ደቡብ ዳኮታ	Dakota del Sud
+ሞንታና	Montana
+ዋዮሚንግ	Wyoming
+እየሩሳሌም	Gerusalemme
+አይዳሆ	Idaho
+ዋሽንግተን (ክፍላገር)	Washington (stato)
+ሩተርፎርዲየም	Rutherfordio
+ነቫዳ	Nevada
+ዶን ወንዝ	Don (fiume russo)
+ዱብኒየም	Dubnio
+ሲቦርጂየም	Seaborgio
+ሕንድ ውቅያኖስ	Oceano Indiano
+ኮሶቮ	Kosovo
+ካሪቢያን ባሕር	Mare Caraibico
+ቦህሪየም	Bohrio
+ሀሲየም	Hassio
+ሊጉርያ	Liguria
+ሜይትኔሪየም	Meitnerio
+ኮሎራዶ	Colorado
+ዳርምስታድቲየም	Darmstadtio
+ሮየንቴኒየም	Roentgenio
+ኮፐርኒኪየም	Copernicio
+መደብ:Project	Categoria:Categorie
+ሺካጎ	Chicago
+ዘ ቢተልስ	The Beatles
+ዩነንትሪየም	Ununtrio
+ፍሌሮቪየም	Flerovio
+ዩነንፔንቲየም	Ununpentio
+ሊቨርሞሪየም	Livermorio
+ዩነንሴፕቲየም	Ununseptio
+ዩነኖክቲየም	Ununoctio
+ሳዳም ሁሴን	Saddam Hussein
+ቢን ላዲን	Osama bin Laden
+እስፓንኛ	Lingua spagnola
+ሞንቴቪዴዎ	Montevideo
+ዮሐን ሴባስትያን ባክ	Johann Sebastian Bach
+ፊላዴልፊያ	Filadelfia (Stati Uniti d'America)
+ኮልካታ	Calcutta
+ዴሊ	Delhi
+ዳካ	Dacca
+ኢስላማባድ	Islamabad
+ፍራፍሬ	Frutto
+ገንዘብ	Denaro
+ቨርጂኒያ	Virginia
+ዌስት ቨርጂኒያ	Virginia Occidentale
+ኒው ዮርክ	New York (Stato)
+ሴሪየም	Cerio
+ፕራሲዮዲሚየም	Praseodimio
+ሮድ አይላንድ	Rhode Island
+ኒዮዲሚየም	Neodimio
+ሦስት አጽቄ	Insecta
+ሜሪላንድ	Maryland
+ዴላዌር	Delaware
+ቭላዲሚር ሌኒን	Lenin
+ኢዩሮፒየም	Europio
+ኦሃዮ	Ohio
+ዌርጊሊዩስ	Publio Virgilio Marone
+ፔንስልቬኒያ	Pennsylvania
+ኢውተዘን	Uetersen
+አውግስጦስ	Augusto
+ኒው ጄርዚ	New Jersey
+ካሊጎላ	Caligola
+ጅብራልታር	Gibilterra
+ፊንኛ	Lingua finlandese
+ኢንዲያና	Indiana
+ቤስጳስያን	Vespasiano
+መኪና	Autovettura
+ዩቬንቱስ እግር ኳስ ክለብ	Juventus Football Club
+ትራያኑስ	Traiano
+ሮጀር ፌዴረር	Roger Federer
+ጆርጂያ	Georgia (Stati Uniti d'America)
+ዛግሬብ	Zagabria
+ቴክሳስ	Texas
+ጄኖቫ	Genova
+ኖርዝ ካሮላይና	Carolina del Nord
+ሳውዝ ካሮላይና	Carolina del Sud
+ሲኪልያ	Sicilia
+ማኒላ	Manila
+ሳርዲኒያ	Sardegna
+ሏር ወንዝ	Loira
+ቦርዶ	Bordeaux
+ብዌኖስ አይሬስ	Buenos Aires
+ሜክሲኮ ከተማ	Città del Messico
+ቶክዮ	Tokyo
+ላፓዝ	La Paz
+ባርሴሎና	Barcellona
+ኣናናስ	Ananas comosus
+ሚሲሲፒ	Mississippi
+ፈርዲናንድ ማጄላን	Ferdinando Magellano
+ሚሲሲፒ ወንዝ	Mississippi (fiume)
+ቴነሲ	Tennessee
+አቡ ዳቢ	Abu Dhabi
+አስታና	Astana
+ኒው ሜክሲኮ	Nuovo Messico
+አቴና	Atene
+ሚንሶታ	Minnesota
+ባግዳድ	Baghdad
+ካራካስ	Caracas
+ዊስኮንሲን	Wisconsin
+ኪኬሮ	Marco Tullio Cicerone
+አዮዋ	Iowa
+ነብራስካ	Nebraska
+ካንሳስ	Kansas
+ሀቫና	L'Avana
+ትምባሆ	Tabacco
+ህንዲ	Lingua hindi
+ሚዙሪ	Missouri
+ሉዊዚያና	Louisiana
+ኬንታኪ	Kentucky
+አርካንሳው	Arkansas
+ኒል አርምስትሮንግ	Neil Armstrong
+ኤልበ ወንዝ	Elba (fiume)
+ኦክላሆማ	Oklahoma
+ዳኑብ ወንዝ	Danubio
+ሞዘል ወንዝ	Mosella
+ስሜን ባሕር	Mare del Nord
+ዲውስልዶርፍ	Düsseldorf
+ማይንጽ	Magonza
+ቪስባድን	Wiesbaden
+ሙኒክ	Monaco di Baviera
+ድረስደን	Dresda
+ብሬገንጽ	Bregenz
+ቪየና	Vienna
+ኮፐንሀገን	Copenaghen
+ስቶኮልም	Stoccolma
+ሄልሲንኪ	Helsinki
+ደብሊን	Dublino
+ሬይኪያቪክ	Reykjavík
+ታሊን	Tallinn
+ሪጋ	Riga
+ብራቲስላቫ	Bratislava
+ቡዳፔስት	Budapest
+ግዳንስክ	Danzica
+ፍራንክፉርት	Francoforte sul Meno
+ላንታኒየም	Lantanio
+ፕሮሜቲየም	Promezio
+ፊልጶስ አረባዊ	Filippo l'Arabo
+ሳማሪየም	Samario
+ጋዶሊኒየም	Gadolinio
+ተርቢየም	Terbio
+ሉክሰምበርግ (ከተማ)	Lussemburgo (città)
+ዲስፕሮሲየም	Disprosio
+ፋዱጽ	Vaduz
+መጽሐፍ ቅዱስ	Bibbia
+ሆልሚየም	Olmio
+ሳን ማሪኖ (ከተማ)	Città di San Marino
+ኢርቢየም	Erbio
+ፕኖም ፔን	Phnom Penh
+ቱሊየም	Tulio
+ሆ ቺ ሚን ከተማ	Ho Chi Minh (città)
+ይተርቢየም	Itterbio
+ሉቴቲየም	Lutezio
+ሀኖይ	Hanoi
+ዕውነተኛ ኢየሱስ ቤተ ክርስቲያን	Vera Chiesa di Gesù
+እንግሊዝኛ	Lingua inglese
+ባንግኮክ	Bangkok
+አንዶራ ላ ቬላ	Andorra la Vella
+ኩዋላ ሉምፑር	Kuala Lumpur
+ታይፔ	Taipei
+አሜሪኪየም	Americio
+ኩሪየም	Curio
+ዶንግ ሆይ	Dong Hoi
+ኮንሴፕሲዮን	Concepción (Cile)
+በርከሊየም	Berkelio
+ዲውረን	Düren
+ካሊፎርኒየም	Californio
+ኤይንስቴኒየም	Einsteinio
+ቦሎኛ የእግር ኳስ ክለብ 1909	Bologna Football Club 1909
+ፌርሚየም	Fermio
+ሜንደሊቭየም	Mendelevio
+ኪየቭ	Kiev
+ኖብሊየም	Nobelio
+ላውረንሲየም	Laurenzio
+ኦታዋ	Ottawa
+ዬሬቫን	Erevan
+ኮኝስኮቮላ	Końskowola
+ካርቱም	Khartum
+2000 እ.ኤ.አ.	2000
+2003 እ.ኤ.አ.	2003
+2002 እ.ኤ.አ.	2002
+2001 እ.ኤ.አ.	2001
+2012 እ.ኤ.አ.	2012
+2011 እ.ኤ.አ.	2011
+2010 እ.ኤ.አ.	2010
+2009 እ.ኤ.አ.	2009
+ካርቦን ክልቶኦክሳይድ	Anidride carbonica
+2013 እ.ኤ.አ.	2013
+2014 እ.ኤ.አ.	2014
+2015 እ.ኤ.አ.	2015
+2008 እ.ኤ.አ.	2008
+2004 እ.ኤ.አ.	2004
+2005 እ.ኤ.አ.	2005
+2006 እ.ኤ.አ.	2006
+2007 እ.ኤ.አ.	2007
+1900 እ.ኤ.አ.	1900
+1901 እ.ኤ.አ.	1901
+ፍራንስዋ ሚቴራን	François Mitterrand
+ሻርል ደ ጎል	Charles de Gaulle
+1902 እ.ኤ.አ.	1902
+ፍሎረንስ	Firenze
+1903 እ.ኤ.አ.	1903
+1904 እ.ኤ.አ.	1904
+1905 እ.ኤ.አ.	1905
+1907 እ.ኤ.አ.	1907
+1906 እ.ኤ.አ.	1906
+ሴኔካ	Lucio Anneo Seneca
+1908 እ.ኤ.አ.	1908
+1909 እ.ኤ.አ.	1909
+1992 እ.ኤ.አ.	1992
+1991 እ.ኤ.አ.	1991
+1990 እ.ኤ.አ.	1990
+1993 እ.ኤ.አ.	1993
+1994 እ.ኤ.አ.	1994
+1995 እ.ኤ.አ.	1995
+1996 እ.ኤ.አ.	1996
+1910 እ.ኤ.አ.	1910
+1911 እ.ኤ.አ.	1911
+1912 እ.ኤ.አ.	1912
+ላይፕጽግ	Lipsia
+1913 እ.ኤ.አ.	1913
+1914 እ.ኤ.አ.	1914
+1915 እ.ኤ.አ.	1915
+1916 እ.ኤ.አ.	1916
+1997 እ.ኤ.አ.	1997
+1998 እ.ኤ.አ.	1998
+ኑረምበርግ	Norimberga
+1999 እ.ኤ.አ.	1999
+1917 እ.ኤ.አ.	1917
+1918 እ.ኤ.አ.	1918
+ዱይስቡርግ፣ ጀርመን	Duisburg
+እባብ	Serpentes
+ዣክ ሺራክ	Jacques Chirac
+የብርሃን ፍጥነት	Velocità della luce
+ማንሃይም	Mannheim
+ቫሌሪ ጊስካር ዴስቴን	Valéry Giscard d'Estaing
+1 January	1º gennaio
+2 January	2 gennaio
+1920 እ.ኤ.አ.	1920
+3 January	3 gennaio
+1919 እ.ኤ.አ.	1919
+1921 እ.ኤ.አ.	1921
+1922 እ.ኤ.አ.	1922
+4 January	4 gennaio
+1923 እ.ኤ.አ.	1923
+1924 እ.ኤ.አ.	1924
+ዦርዥ ፖምፒዱ	Georges Pompidou
+5 January	5 gennaio
+ማሌሜ	Malmö
+6 January	6 gennaio
+7 January	7 gennaio
+8 January	8 gennaio
+9 January	9 gennaio
+10 January	10 gennaio
+11 January	11 gennaio
+12 January	12 gennaio
+13 January	13 gennaio
+በርሚንግሃም	Birmingham
+14 January	14 gennaio
+15 January	15 gennaio
+16 January	16 gennaio
+17 January	17 gennaio
+18 January	18 gennaio
+19 January	19 gennaio
+20 January	20 gennaio
+21 January	21 gennaio
+22 January	22 gennaio
+23 January	23 gennaio
+የሮሜ መንግሥት	Impero romano
+24 January	24 gennaio
+25 January	25 gennaio
+ሚንስክ	Minsk
+26 January	26 gennaio
+ማይክሮሶፍት	Microsoft
+27 January	27 gennaio
+28 January	28 gennaio
+29 January	29 gennaio
+30 January	30 gennaio
+31 January	31 gennaio
+2 December	2 dicembre
+1 December	1º dicembre
+3 December	3 dicembre
+7 December	7 dicembre
+5 December	5 dicembre
+8 December	8 dicembre
+10 December	10 dicembre
+6 December	6 dicembre
+9 December	9 dicembre
+4 December	4 dicembre
+1 February	1º febbraio
+2 February	2 febbraio
+ጨው	Cloruro di sodio
+3 February	3 febbraio
+ኩሩቭ	Kurów
+4 February	4 febbraio
+5 February	5 febbraio
+6 February	6 febbraio
+7 February	7 febbraio
+8 February	8 febbraio
+9 February	9 febbraio
+10 February	10 febbraio
+የጥንተ ንጥር ጥናት	Chimica
+14 February	14 febbraio
+13 February	13 febbraio
+15 February	15 febbraio
+11 February	11 febbraio
+12 February	12 febbraio
+19 February	19 febbraio
+17 February	17 febbraio
+16 February	16 febbraio
+18 February	18 febbraio
+20 February	20 febbraio
+21 February	21 febbraio
+22 February	22 febbraio
+23 February	23 febbraio
+24 February	24 febbraio
+25 February	25 febbraio
+26 February	26 febbraio
+27 እ.ኤ.አ.	27
+27 February	27 febbraio
+28 February	28 febbraio
+11 December	11 dicembre
+29 February	29 febbraio
+12 December	12 dicembre
+13 December	13 dicembre
+14 December	14 dicembre
+15 December	15 dicembre
+2 March	2 marzo
+3 March	3 marzo
+5 March	5 marzo
+1 March	1º marzo
+7 March	7 marzo
+8 March	8 marzo
+4 March	4 marzo
+10 March	10 marzo
+11 March	11 marzo
+6 March	6 marzo
+13 March	13 marzo
+9 March	9 marzo
+12 March	12 marzo
+15 March	15 marzo
+14 March	14 marzo
+16 December	16 dicembre
+17 December	17 dicembre
+16 March	16 marzo
+17 March	17 marzo
+18 March	18 marzo
+19 March	19 marzo
+1989 እ.ኤ.አ.	1989
+1988 እ.ኤ.አ.	1988
+20 March	20 marzo
+1987 እ.ኤ.አ.	1987
+1986 እ.ኤ.አ.	1986
+1985 እ.ኤ.አ.	1985
+1984 እ.ኤ.አ.	1984
+21 March	21 marzo
+1983 እ.ኤ.አ.	1983
+22 March	22 marzo
+1982 እ.ኤ.አ.	1982
+1981 እ.ኤ.አ.	1981
+18 December	18 dicembre
+1980 እ.ኤ.አ.	1980
+23 March	23 marzo
+ሞቃዲሾ	Mogadiscio
+19 December	19 dicembre
+24 March	24 marzo
+25 March	25 marzo
+20 December	20 dicembre
+26 March	26 marzo
+27 March	27 marzo
+28 March	28 marzo
+29 March	29 marzo
+30 March	30 marzo
+31 March	31 marzo
+ናሶ	Nassau
+ሳና	Sana’a
+1970 እ.ኤ.አ.	1970
+1971 እ.ኤ.አ.	1971
+1972 እ.ኤ.አ.	1972
+1973 እ.ኤ.አ.	1973
+1974 እ.ኤ.አ.	1974
+1975 እ.ኤ.አ.	1975
+1976 እ.ኤ.አ.	1976
+1977 እ.ኤ.አ.	1977
+1978 እ.ኤ.አ.	1978
+1979 እ.ኤ.አ.	1979
+1969 እ.ኤ.አ.	1969
+15 April	15 aprile
+13 April	13 aprile
+12 April	12 aprile
+14 April	14 aprile
+11 April	11 aprile
+10 April	10 aprile
+8 April	8 aprile
+9 April	9 aprile
+7 April	7 aprile
+6 April	6 aprile
+5 April	5 aprile
+4 April	4 aprile
+3 April	3 aprile
+1 April	1º aprile
+2 April	2 aprile
+16 April	16 aprile
+17 April	17 aprile
+18 April	18 aprile
+19 April	19 aprile
+20 April	20 aprile
+21 April	21 aprile
+22 April	22 aprile
+23 April	23 aprile
+24 April	24 aprile
+25 April	25 aprile
+26 April	26 aprile
+27 April	27 aprile
+28 April	28 aprile
+29 April	29 aprile
+30 April	30 aprile
+1 May	1º maggio
+2 May	2 maggio
+3 May	3 maggio
+4 May	4 maggio
+5 May	5 maggio
+6 May	6 maggio
+7 May	7 maggio
+8 May	8 maggio
+9 May	9 maggio
+10 May	10 maggio
+11 May	11 maggio
+12 May	12 maggio
+13 May	13 maggio
+14 May	14 maggio
+15 May	15 maggio
+16 May	16 maggio
+17 May	17 maggio
+18 May	18 maggio
+19 May	19 maggio
+20 May	20 maggio
+21 May	21 maggio
+22 May	22 maggio
+23 May	23 maggio
+24 May	24 maggio
+25 May	25 maggio
+26 May	26 maggio
+27 May	27 maggio
+28 May	28 maggio
+29 May	29 maggio
+30 May	30 maggio
+31 May	31 maggio
+21 December	21 dicembre
+ላዚዮ	Società Sportiva Lazio
+14 June	14 giugno
+15 June	15 giugno
+13 June	13 giugno
+10 June	10 giugno
+7 June	7 giugno
+11 June	11 giugno
+9 June	9 giugno
+12 June	12 giugno
+6 June	6 giugno
+8 June	8 giugno
+5 June	5 giugno
+3 June	3 giugno
+2 June	2 giugno
+1 June	1º giugno
+4 June	4 giugno
+ናፖሊ	Napoli
+22 December	22 dicembre
+1968 እ.ኤ.አ.	1968
+1967 እ.ኤ.አ.	1967
+1966 እ.ኤ.አ.	1966
+1965 እ.ኤ.አ.	1965
+1964 እ.ኤ.አ.	1964
+16 June	16 giugno
+30 June	30 giugno
+29 June	29 giugno
+28 June	28 giugno
+26 June	26 giugno
+25 June	25 giugno
+22 June	22 giugno
+27 June	27 giugno
+24 June	24 giugno
+20 June	20 giugno
+23 June	23 giugno
+19 June	19 giugno
+18 June	18 giugno
+21 June	21 giugno
+17 June	17 giugno
+ዩ.ኤስ. ቺታ ዲ ፓሌርሞ	Unione Sportiva Città di Palermo
+23 December	23 dicembre
+15 July	15 luglio
+13 July	13 luglio
+12 July	12 luglio
+10 July	10 luglio
+9 July	9 luglio
+14 July	14 luglio
+8 July	8 luglio
+7 July	7 luglio
+6 July	6 luglio
+5 July	5 luglio
+2 July	2 luglio
+4 July	4 luglio
+3 July	3 luglio
+1 July	1º luglio
+11 July	11 luglio
+24 December	24 dicembre
+31 July	31 luglio
+30 July	30 luglio
+29 July	29 luglio
+28 July	28 luglio
+27 July	27 luglio
+25 July	25 luglio
+24 July	24 luglio
+23 July	23 luglio
+26 July	26 luglio
+22 July	22 luglio
+19 July	19 luglio
+21 July	21 luglio
+20 July	20 luglio
+17 July	17 luglio
+18 July	18 luglio
+16 July	16 luglio
+እግር ኳስ	Calcio (sport)
+25 December	25 dicembre
+1963 እ.ኤ.አ.	1963
+26 December	26 dicembre
+1962 እ.ኤ.አ.	1962
+14 August	14 agosto
+15 August	15 agosto
+13 August	13 agosto
+12 August	12 agosto
+11 August	11 agosto
+10 August	10 agosto
+8 August	8 agosto
+7 August	7 agosto
+9 August	9 agosto
+5 August	5 agosto
+4 August	4 agosto
+2 August	2 agosto
+3 August	3 agosto
+6 August	6 agosto
+1 August	1º agosto
+27 December	27 dicembre
+ማድሪድ	Madrid
+16 August	16 agosto
+ኮካ ኮላ	Coca-Cola
+29 August	29 agosto
+28 August	28 agosto
+30 August	30 agosto
+25 August	25 agosto
+26 August	26 agosto
+23 August	23 agosto
+27 August	27 agosto
+21 August	21 agosto
+20 August	20 agosto
+24 August	24 agosto
+18 August	18 agosto
+17 August	17 agosto
+22 August	22 agosto
+19 August	19 agosto
+31 August	31 agosto
+ማይክል ጃክሰን	Michael Jackson
+28 December	28 dicembre
+ቦጎታ	Bogotá
+ብራዚሊያ	Brasilia
+15 September	15 settembre
+14 September	14 settembre
+13 September	13 settembre
+12 September	12 settembre
+8 September	8 settembre
+11 September	11 settembre
+7 September	7 settembre
+10 September	10 settembre
+5 September	5 settembre
+4 September	4 settembre
+9 September	9 settembre
+2 September	2 settembre
+6 September	6 settembre
+1 September	1º settembre
+3 September	3 settembre
+29 December	29 dicembre
+ሊማ	Lima
+30 September	30 settembre
+29 September	29 settembre
+28 September	28 settembre
+27 September	27 settembre
+26 September	26 settembre
+25 September	25 settembre
+ሳንቲያጎ	Santiago del Cile
+23 September	23 settembre
+22 September	22 settembre
+24 September	24 settembre
+21 September	21 settembre
+20 September	20 settembre
+18 September	18 settembre
+17 September	17 settembre
+19 September	19 settembre
+16 September	16 settembre
+ኪቶ	Quito
+30 December	30 dicembre
+31 December	31 dicembre
+1 October	1º ottobre
+15 October	15 ottobre
+12 October	12 ottobre
+10 October	10 ottobre
+14 October	14 ottobre
+9 October	9 ottobre
+8 October	8 ottobre
+13 October	13 ottobre
+7 October	7 ottobre
+11 October	11 ottobre
+6 October	6 ottobre
+4 October	4 ottobre
+5 October	5 ottobre
+3 October	3 ottobre
+2 October	2 ottobre
+አሱንሲዮን	Asunción
+ፍየል	Capra hircus
+31 October	31 ottobre
+30 October	30 ottobre
+29 October	29 ottobre
+28 October	28 ottobre
+26 October	26 ottobre
+25 October	25 ottobre
+24 October	24 ottobre
+27 October	27 ottobre
+22 October	22 ottobre
+23 October	23 ottobre
+20 October	20 ottobre
+21 October	21 ottobre
+19 October	19 ottobre
+17 October	17 ottobre
+16 October	16 ottobre
+18 October	18 ottobre
+ሬገንስቡርግ	Ratisbona
+አርነት	Libertà
+15 November	15 novembre
+14 November	14 novembre
+13 November	13 novembre
+12 November	12 novembre
+11 November	11 novembre
+10 November	10 novembre
+7 November	7 novembre
+8 November	8 novembre
+9 November	9 novembre
+6 November	6 novembre
+5 November	5 novembre
+4 November	4 novembre
+3 November	3 novembre
+2 November	2 novembre
+1 November	1º novembre
+ፓራማሪቦ	Paramaribo
+30 November	30 novembre
+29 November	29 novembre
+28 November	28 novembre
+27 November	27 novembre
+26 November	26 novembre
+25 November	25 novembre
+23 November	23 novembre
+24 November	24 novembre
+21 November	21 novembre
+20 November	20 novembre
+22 November	22 novembre
+19 November	19 novembre
+18 November	18 novembre
+17 November	17 novembre
+16 November	16 novembre
+ካትማንዱ	Katmandu
+ቤልሞፓን	Belmopan
+ሳን ሆዜ	San José
+ሳን ሳልቫዶር	San Salvador (El Salvador)
+ካንበራ	Canberra
+ሲድኒ	Sydney
+አረንጓዴ	Verde
+ትሪር	Treviri
+መልበርን	Melbourne
+ቀይ	Rosso
+ከባቢ አየር	Atmosfera terrestre
+ቴጉሲጋልፓ	Tegucigalpa
+ማናጓ	Managua
+ፓናማ ከተማ	Panamá (città)
+ዛዳር	Zara
+አባይ ወንዝ (ናይል)	Nilo
+ማኬንዚ ወንዝ	Mackenzie
+ኮንጎ ወንዝ	Congo (fiume)
+ራባት	Rabat
+አልጀርስ	Algeri
+ቱኒስ	Tunisi
+ትሪፖሊ	Tripoli
+ቴህራን	Teheran
+አዲስ አበባ	Addis Abeba
+ጃካርታ	Giacarta
+አንካራ	Ankara
+አስመራ	Asmara
+ንጃመና	N'Djamena
+ኒያሜ	Niamey
+ኑዋክሾት	Nouakchott
+ሪያድ	Riyad
+1961 እ.ኤ.አ.	1961
+ባማኮ	Bamako
+በልግራድ	Belgrado
+ዳካር	Dakar
+ባንጁል	Banjul
+ቢሳው	Bissau
+ሞንሮቪያ	Monrovia
+ፕራያ	Praia
+1960 እ.ኤ.አ.	1960
+አክራ	Accra
+ደማስቆ	Damasco
+ያሙሱክሮ	Yamoussoukro
+ጊያን	Guyana francese
+ዋጋዱጉ	Ouagadougou
+ፍሪታውን	Freetown
+አማዞን ወንዝ	Rio delle Amazzoni
+አቡጃ	Abuja
+ሎሜ	Lomé
+ፖርቶ ኖቮ	Porto-Novo
+አማን	Amman
+ያዉንዴ	Yaoundé
+ማላቦ	Malabo
+ቤይሩት	Beirut
+ሊብረቪል	Libreville
+መስከት	Mascate
+ባንጊ	Bangui
+ኪንሻሳ	Kinshasa
+ብራዛቪል	Brazzaville
+ቩርምዝ	Worms
+ቡጁምቡራ	Bujumbura
+ሌፍኮዚያ	Nicosia
+ኪጋሊ	Kigali
+ዶሃ	Doha
+ዶዶማ	Dodoma
+ናይሮቢ	Nairobi
+ሊሎንጔ	Lilongwe
+ሉሳካ	Lusaka
+ማናማ	Manama
+ማፑቶ	Maputo
+ካምፓላ	Kampala
+ሏንዳ	Luanda
+ሞሮኒ	Moroni (Comore)
+ምባባኔ	Mbabane
+መሴሩ	Maseru
+አንታናናሪቮ	Antananarivo
+ጋበሮኔ	Gaborone
+ሀራሬ	Harare
+ፕሪቶሪያ	Pretoria
+ፖርት ሉዊስ	Port Louis
+ሳን ቶሜ	São Tomé
+ዊንድሁክ	Windhoek
+ውክፔዲያ:የመልመጃ ሠሌዳ	Wikipedia:Pagina delle prove
+ቪክቶሪያ፥ ሲሸልስ	Victoria (Seychelles)
+ላፕቶፕ	Computer portatile
+አልጀብራ	Algebra
+ዶርማገን	Dormagen
+ወንዝ	Fiume
+ኦዛስኩ	Osasco (San Paolo)
+ግላዝጎ	Glasgow
+ኮንስታንጽ ሃይቅ	Lago di Costanza
+ዶንግ ሆይ አይሮፕላን ማረፊያ	Aeroporto di Dong Hoi
+ፓሣው	Passavia
+ራዲዮ ሞገድ	Onda radio
+ኩሪቺባ	Curitiba
+ዝቺዩፋሉ	Zichyújfalu
+አና ፍራንክ	Anna Frank
+አሪያሪ	Ariary malgascio
+መለጠፊያ:Location map ቱርክ	Template:Mappa di localizzazione/TUR
+ኮንግ-ፉጸ	Confucio
+መሪሊን መንሮ	Marilyn Monroe
+ኮርብን ብሉ	Corbin Bleu
+መደብ:ሒሳብ	Categoria:Matematica
+መደብ:ሰው ሠራሽ ቋንቋዎች	Categoria:Lingue artificiali
+ፋሮ ደሴቶች	Fær Øer
+1488 እ.ኤ.አ.	1488
+ዩሮ	Euro
+የአሜሪካ ዶላር	Dollaro statunitense
+ሜድትራኒያን ባሕር	Mar Mediterraneo
+ኸርማን መልቪል	Herman Melville
+ክርስትና	Cristianesimo
+1004 እ.ኤ.አ.	1004
+ጋሮን ወንዝ	Garonna
+ስያትል	Seattle
+ጋንጅስ	Gange
+አሕጉር	Continente
+ወፍ	Aves
+ዋና ከተማ	Capitale (città)
+ሞንዞን	Monzón
+ጉጃራቲ	Lingua gujarati
+ፖርቱጊዝኛ	Lingua portoghese
+ሙስታፋ ኬማል አታቱርክ	Mustafa Kemal Atatürk
+1948 እ.ኤ.አ.	1948
+1949 እ.ኤ.አ.	1949
+አልማዛን	Almazán
+ኋንግ ሽያንፋን	Huang Xianfan
+ቀቿ	Lingue quechua
+1956 እ.ኤ.አ.	1956
+1200 እ.ኤ.አ.	1200
+1201 እ.ኤ.አ.	1201
+1202 እ.ኤ.አ.	1202
+1203 እ.ኤ.አ.	1203
+1204 እ.ኤ.አ.	1204
+1205 እ.ኤ.አ.	1205
+1206 እ.ኤ.አ.	1206
+1941 እ.ኤ.አ.	1941
+1207 እ.ኤ.አ.	1207
+1208 እ.ኤ.አ.	1208
+1945 እ.ኤ.አ.	1945
+1209 እ.ኤ.አ.	1209
+1210 እ.ኤ.አ.	1210
+1211 እ.ኤ.አ.	1211
+1958 እ.ኤ.አ.	1958
+1212 እ.ኤ.አ.	1212
+1926 እ.ኤ.አ.	1926
+1213 እ.ኤ.አ.	1213
+1947 እ.ኤ.አ.	1947
+1944 እ.ኤ.አ.	1944
+1952 እ.ኤ.አ.	1952
+ቢል ጌትስ	Bill Gates
+ጃፓንኛ	Lingua giapponese
+መዝገበ ዕውቀት	Enciclopedia
+ዋናው ገጽ	Pagina principale
+1959 እ.ኤ.አ.	1959
+1957 እ.ኤ.አ.	1957
+1214 እ.ኤ.አ.	1214
+1215 እ.ኤ.አ.	1215
+1216 እ.ኤ.አ.	1216
+ጎልፍ	Golf
+1217 እ.ኤ.አ.	1217
+1218 እ.ኤ.አ.	1218
+1219 እ.ኤ.አ.	1219
+1220 እ.ኤ.አ.	1220
+1221 እ.ኤ.አ.	1221
+1222 እ.ኤ.አ.	1222
+1223 እ.ኤ.አ.	1223
+1224 እ.ኤ.አ.	1224
+1225 እ.ኤ.አ.	1225
+1226 እ.ኤ.አ.	1226
+1227 እ.ኤ.አ.	1227
+1228 እ.ኤ.አ.	1228
+1229 እ.ኤ.አ.	1229
+1230 እ.ኤ.አ.	1230
+ያንግ-ጸ ወንዝ	Fiume Azzurro
+1231 እ.ኤ.አ.	1231
+1232 እ.ኤ.አ.	1232
+1233 እ.ኤ.አ.	1233
+ኡድሙርቲያ	Udmurtia
+1234 እ.ኤ.አ.	1234
+1235 እ.ኤ.አ.	1235
+1236 እ.ኤ.አ.	1236
+1237 እ.ኤ.አ.	1237
+1238 እ.ኤ.አ.	1238
+1239 እ.ኤ.አ.	1239
+1240 እ.ኤ.አ.	1240
+1241 እ.ኤ.አ.	1241
+1242 እ.ኤ.አ.	1242
+1243 እ.ኤ.አ.	1243
+1244 እ.ኤ.አ.	1244
+1245 እ.ኤ.አ.	1245
+1246 እ.ኤ.አ.	1246
+ኬፕ ታውን	Città del Capo
+ደርባን	Durban
+1247 እ.ኤ.አ.	1247
+1248 እ.ኤ.አ.	1248
+ካስፒያን ባሕር	Mar Caspio
+1249 እ.ኤ.አ.	1249
+1250 እ.ኤ.አ.	1250
+1251 እ.ኤ.አ.	1251
+1252 እ.ኤ.አ.	1252
+1253 እ.ኤ.አ.	1253
+1254 እ.ኤ.አ.	1254
+1255 እ.ኤ.አ.	1255
+1256 እ.ኤ.አ.	1256
+1257 እ.ኤ.አ.	1257
+1258 እ.ኤ.አ.	1258
+1259 እ.ኤ.አ.	1259
+1260 እ.ኤ.አ.	1260
+1261 እ.ኤ.አ.	1261
+1262 እ.ኤ.አ.	1262
+1263 እ.ኤ.አ.	1263
+1264 እ.ኤ.አ.	1264
+1265 እ.ኤ.አ.	1265
+1266 እ.ኤ.አ.	1266
+1267 እ.ኤ.አ.	1267
+1268 እ.ኤ.አ.	1268
+1269 እ.ኤ.አ.	1269
+1270 እ.ኤ.አ.	1270
+1271 እ.ኤ.አ.	1271
+1272 እ.ኤ.አ.	1272
+1273 እ.ኤ.አ.	1273
+1274 እ.ኤ.አ.	1274
+1275 እ.ኤ.አ.	1275
+1276 እ.ኤ.አ.	1276
+1277 እ.ኤ.አ.	1277
+1278 እ.ኤ.አ.	1278
+1279 እ.ኤ.አ.	1279
+1280 እ.ኤ.አ.	1280
+1281 እ.ኤ.አ.	1281
+1282 እ.ኤ.አ.	1282
+1283 እ.ኤ.አ.	1283
+1284 እ.ኤ.አ.	1284
+1285 እ.ኤ.አ.	1285
+1286 እ.ኤ.አ.	1286
+1287 እ.ኤ.አ.	1287
+1288 እ.ኤ.አ.	1288
+1289 እ.ኤ.አ.	1289
+1290 እ.ኤ.አ.	1290
+1291 እ.ኤ.አ.	1291
+1292 እ.ኤ.አ.	1292
+1293 እ.ኤ.አ.	1293
+1294 እ.ኤ.አ.	1294
+1295 እ.ኤ.አ.	1295
+1296 እ.ኤ.አ.	1296
+1297 እ.ኤ.አ.	1297
+1298 እ.ኤ.አ.	1298
+1299 እ.ኤ.አ.	1299
+ሳልቫዶር ዳሊ	Salvador Dalí
+አልብረሕት ዲውረር	Albrecht Dürer
+ቪንሰንት ቫን ጎ	Vincent van Gogh
+ማይክል አንጄሎ ቡናሮቲ	Michelangelo Buonarroti
+ፓብሎ ፒካሶ	Pablo Picasso
+ራፋኤሎ ሳንዚዮ	Raffaello Sanzio
+ረምብራንት	Rembrandt
+ፍራንክ ሎይድ ራይት	Frank Lloyd Wright
+1300 እ.ኤ.አ.	1300
+1301 እ.ኤ.አ.	1301
+1302 እ.ኤ.አ.	1302
+1303 እ.ኤ.አ.	1303
+1304 እ.ኤ.አ.	1304
+1305 እ.ኤ.አ.	1305
+ማርስበርግ	Marsberg
+ነነዌ	Ninive
+ሚጌል ዴ ሴርቫንቴስ	Miguel de Cervantes
+ባቢሎን	Babilonia
+አንቶን ቼኾቭ	Anton Čechov
+ቻርልስ ዲከንስ	Charles Dickens
+ኢያሪኮ	Gerico
+ኡር	Ur
+ካታሎኒያ	Catalogna
+1306 እ.ኤ.አ.	1306
+1307 እ.ኤ.አ.	1307
+1308 እ.ኤ.አ.	1308
+1309 እ.ኤ.አ.	1309
+1310 እ.ኤ.አ.	1310
+1311 እ.ኤ.አ.	1311
+1312 እ.ኤ.አ.	1312
+1313 እ.ኤ.አ.	1313
+አዶልፍ ትዬር	Adolphe Thiers
+1314 እ.ኤ.አ.	1314
+1315 እ.ኤ.አ.	1315
+ኤብላ	Ebla
+1316 እ.ኤ.አ.	1316
+1317 እ.ኤ.አ.	1317
+1318 እ.ኤ.አ.	1318
+1319 እ.ኤ.አ.	1319
+1320 እ.ኤ.አ.	1320
+1321 እ.ኤ.አ.	1321
+1322 እ.ኤ.አ.	1322
+1323 እ.ኤ.አ.	1323
+1324 እ.ኤ.አ.	1324
+1325 እ.ኤ.አ.	1325
+1326 እ.ኤ.አ.	1326
+ጴጥራ	Petra (Giordania)
+1327 እ.ኤ.አ.	1327
+1328 እ.ኤ.አ.	1328
+መካ	La Mecca
+ቼ ጌቫራ	Che Guevara
+ኖቫክ ጆኮቪች	Novak Đoković
+ካናሪያስ ደሴቶች	Isole Canarie
+ማው ፀ-ቶንግ	Mao Tse-tung
+አክሱም	Axum
+ቶሌዶ	Toledo
+ካቡል	Kabul
+ጋብሬል ጋርሲያ ማርኬዝ	Gabriel García Márquez
+ዮሐን ቮልፍጋንግ ቮን ግውተ	Johann Wolfgang von Goethe
+ፍልስፍና	Filosofia
+1329 እ.ኤ.አ.	1329
+ጄምስ ብራውን	James Brown
+መደብ:ለማጥፋት የቀረቡ ገጾች	Categoria:Cancellare subito
+ፒያኖ	Pianoforte
+1330 እ.ኤ.አ.	1330
+1331 እ.ኤ.አ.	1331
+1332 እ.ኤ.አ.	1332
+ጥሩነሽ ዲባባ	Tirunesh Dibaba
+1333 እ.ኤ.አ.	1333
+1334 እ.ኤ.አ.	1334
+1335 እ.ኤ.አ.	1335
+1336 እ.ኤ.አ.	1336
+1337 እ.ኤ.አ.	1337
+1338 እ.ኤ.አ.	1338
+1339 እ.ኤ.አ.	1339
+1340 እ.ኤ.አ.	1340
+1341 እ.ኤ.አ.	1341
+1342 እ.ኤ.አ.	1342
+1343 እ.ኤ.አ.	1343
+1344 እ.ኤ.አ.	1344
+1345 እ.ኤ.አ.	1345
+1346 እ.ኤ.አ.	1346
+1347 እ.ኤ.አ.	1347
+1348 እ.ኤ.አ.	1348
+1349 እ.ኤ.አ.	1349
+1350 እ.ኤ.አ.	1350
+ሻይ	Tè
+ማርኮ ፖሎ	Marco Polo
+1351 እ.ኤ.አ.	1351
+ኤቢ ከማርጎ	Hebe Camargo
+1400 እ.ኤ.አ.	1400
+1401 እ.ኤ.አ.	1401
+1352 እ.ኤ.አ.	1352
+1402 እ.ኤ.አ.	1402
+1353 እ.ኤ.አ.	1353
+1403 እ.ኤ.አ.	1403
+1354 እ.ኤ.አ.	1354
+1404 እ.ኤ.አ.	1404
+1355 እ.ኤ.አ.	1355
+1405 እ.ኤ.አ.	1405
+1500 እ.ኤ.አ.	1500
+1406 እ.ኤ.አ.	1406
+1356 እ.ኤ.አ.	1356
+1501 እ.ኤ.አ.	1501
+1407 እ.ኤ.አ.	1407
+1357 እ.ኤ.አ.	1357
+1502 እ.ኤ.አ.	1502
+1408 እ.ኤ.አ.	1408
+1358 እ.ኤ.አ.	1358
+1503 እ.ኤ.አ.	1503
+1359 እ.ኤ.አ.	1359
+1409 እ.ኤ.አ.	1409
+1504 እ.ኤ.አ.	1504
+1360 እ.ኤ.አ.	1360
+1410 እ.ኤ.አ.	1410
+1505 እ.ኤ.አ.	1505
+1506 እ.ኤ.አ.	1506
+1411 እ.ኤ.አ.	1411
+1361 እ.ኤ.አ.	1361
+1507 እ.ኤ.አ.	1507
+1412 እ.ኤ.አ.	1412
+1362 እ.ኤ.አ.	1362
+1413 እ.ኤ.አ.	1413
+1508 እ.ኤ.አ.	1508
+1363 እ.ኤ.አ.	1363
+1509 እ.ኤ.አ.	1509
+1414 እ.ኤ.አ.	1414
+1510 እ.ኤ.አ.	1510
+1415 እ.ኤ.አ.	1415
+1364 እ.ኤ.አ.	1364
+1511 እ.ኤ.አ.	1511
+1416 እ.ኤ.አ.	1416
+1365 እ.ኤ.አ.	1365
+1512 እ.ኤ.አ.	1512
+1417 እ.ኤ.አ.	1417
+1366 እ.ኤ.አ.	1366
+Horace	Quinto Orazio Flacco
+1513 እ.ኤ.አ.	1513
+1418 እ.ኤ.አ.	1418
+1367 እ.ኤ.አ.	1367
+1514 እ.ኤ.አ.	1514
+1419 እ.ኤ.አ.	1419
+1368 እ.ኤ.አ.	1368
+1515 እ.ኤ.አ.	1515
+1420 እ.ኤ.አ.	1420
+1369 እ.ኤ.አ.	1369
+1516 እ.ኤ.አ.	1516
+1421 እ.ኤ.አ.	1421
+ለዘብተኝነት	Liberalismo
+1370 እ.ኤ.አ.	1370
+ምዕራባዊ ሣህራ	Sahara Occidentale
+1371 እ.ኤ.አ.	1371
+1372 እ.ኤ.አ.	1372
+1373 እ.ኤ.አ.	1373
+1422 እ.ኤ.አ.	1422
+1517 እ.ኤ.አ.	1517
+1423 እ.ኤ.አ.	1423
+1518 እ.ኤ.አ.	1518
+1374 እ.ኤ.አ.	1374
+1424 እ.ኤ.አ.	1424
+1375 እ.ኤ.አ.	1375
+1519 እ.ኤ.አ.	1519
+1376 እ.ኤ.አ.	1376
+1425 እ.ኤ.አ.	1425
+1520 እ.ኤ.አ.	1520
+1521 እ.ኤ.አ.	1521
+1377 እ.ኤ.አ.	1377
+1426 እ.ኤ.አ.	1426
+ሂለሪ ሮድሃም ክሊንተን	Hillary Clinton
+1522 እ.ኤ.አ.	1522
+1523 እ.ኤ.አ.	1523
+1427 እ.ኤ.አ.	1427
+1378 እ.ኤ.አ.	1378
+1524 እ.ኤ.አ.	1524
+1525 እ.ኤ.አ.	1525
+1428 እ.ኤ.አ.	1428
+1379 እ.ኤ.አ.	1379
+1526 እ.ኤ.አ.	1526
+1429 እ.ኤ.አ.	1429
+1380 እ.ኤ.አ.	1380
+1381 እ.ኤ.አ.	1381
+1382 እ.ኤ.አ.	1382
+1383 እ.ኤ.አ.	1383
+1430 እ.ኤ.አ.	1430
+1431 እ.ኤ.አ.	1431
+ኢንዲያናፖሊስ	Indianapolis
+1384 እ.ኤ.አ.	1384
+1432 እ.ኤ.አ.	1432
+1385 እ.ኤ.አ.	1385
+1386 እ.ኤ.አ.	1386
+1433 እ.ኤ.አ.	1433
+1387 እ.ኤ.አ.	1387
+1434 እ.ኤ.አ.	1434
+1435 እ.ኤ.አ.	1435
+1388 እ.ኤ.አ.	1388
+1436 እ.ኤ.አ.	1436
+1389 እ.ኤ.አ.	1389
+1437 እ.ኤ.አ.	1437
+1390 እ.ኤ.አ.	1390
+1438 እ.ኤ.አ.	1438
+1391 እ.ኤ.አ.	1391
+1439 እ.ኤ.አ.	1439
+1392 እ.ኤ.አ.	1392
+1440 እ.ኤ.አ.	1440
+1393 እ.ኤ.አ.	1393
+1394 እ.ኤ.አ.	1394
+1395 እ.ኤ.አ.	1395
+1441 እ.ኤ.አ.	1441
+1396 እ.ኤ.አ.	1396
+1397 እ.ኤ.አ.	1397
+1442 እ.ኤ.አ.	1442
+1527 እ.ኤ.አ.	1527
+1528 እ.ኤ.አ.	1528
+1398 እ.ኤ.አ.	1398
+1443 እ.ኤ.አ.	1443
+1444 እ.ኤ.አ.	1444
+1529 እ.ኤ.አ.	1529
+1399 እ.ኤ.አ.	1399
+1445 እ.ኤ.አ.	1445
+ቦይንግ 787 ድሪምላይነር	Boeing 787 Dreamliner
+1530 እ.ኤ.አ.	1530
+1446 እ.ኤ.አ.	1446
+1531 እ.ኤ.አ.	1531
+1447 እ.ኤ.አ.	1447
+1532 እ.ኤ.አ.	1532
+1448 እ.ኤ.አ.	1448
+1533 እ.ኤ.አ.	1533
+1449 እ.ኤ.አ.	1449
+1534 እ.ኤ.አ.	1534
+1450 እ.ኤ.አ.	1450
+1535 እ.ኤ.አ.	1535
+1451 እ.ኤ.አ.	1451
+1536 እ.ኤ.አ.	1536
+1452 እ.ኤ.አ.	1452
+1537 እ.ኤ.አ.	1537
+1453 እ.ኤ.አ.	1453
+1538 እ.ኤ.አ.	1538
+1454 እ.ኤ.አ.	1454
+1539 እ.ኤ.አ.	1539
+1455 እ.ኤ.አ.	1455
+1540 እ.ኤ.አ.	1540
+መደብ:ሥነ ፈለክ	Categoria:Astronomia
+ሶረን ኬርከጋርድ	Søren Kierkegaard
+1541 እ.ኤ.አ.	1541
+1456 እ.ኤ.አ.	1456
+1457 እ.ኤ.አ.	1457
+1542 እ.ኤ.አ.	1542
+1458 እ.ኤ.አ.	1458
+1543 እ.ኤ.አ.	1543
+1459 እ.ኤ.አ.	1459
+1544 እ.ኤ.አ.	1544
+1460 እ.ኤ.አ.	1460
+1545 እ.ኤ.አ.	1545
+1461 እ.ኤ.አ.	1461
+1546 እ.ኤ.አ.	1546
+የፈረንሳይ አብዮት	Rivoluzione francese
+1462 እ.ኤ.አ.	1462
+1547 እ.ኤ.አ.	1547
+1463 እ.ኤ.አ.	1463
+1548 እ.ኤ.አ.	1548
+1464 እ.ኤ.አ.	1464
+1549 እ.ኤ.አ.	1549
+ናርቦን፣ ፈረንሳይ	Narbona
+1465 እ.ኤ.አ.	1465
+1550 እ.ኤ.አ.	1550
+1466 እ.ኤ.አ.	1466
+1551 እ.ኤ.አ.	1551
+1467 እ.ኤ.አ.	1467
+1468 እ.ኤ.አ.	1468
+1552 እ.ኤ.አ.	1552
+1469 እ.ኤ.አ.	1469
+1553 እ.ኤ.አ.	1553
+1470 እ.ኤ.አ.	1470
+1554 እ.ኤ.አ.	1554
+1471 እ.ኤ.አ.	1471
+1555 እ.ኤ.አ.	1555
+ሰሐራ በረሓ	Deserto del Sahara
+1472 እ.ኤ.አ.	1472
+1556 እ.ኤ.አ.	1556
+1473 እ.ኤ.አ.	1473
+1557 እ.ኤ.አ.	1557
+1474 እ.ኤ.አ.	1474
+1558 እ.ኤ.አ.	1558
+ስትራዝቡርግ	Strasburgo
+ጊታር	Chitarra
+1475 እ.ኤ.አ.	1475
+1559 እ.ኤ.አ.	1559
+1476 እ.ኤ.አ.	1476
+1560 እ.ኤ.አ.	1560
+1477 እ.ኤ.አ.	1477
+1478 እ.ኤ.አ.	1478
+1561 እ.ኤ.አ.	1561
+1479 እ.ኤ.አ.	1479
+1562 እ.ኤ.አ.	1562
+1480 እ.ኤ.አ.	1480
+1563 እ.ኤ.አ.	1563
+1481 እ.ኤ.አ.	1481
+1564 እ.ኤ.አ.	1564
+1482 እ.ኤ.አ.	1482
+1565 እ.ኤ.አ.	1565
+1483 እ.ኤ.አ.	1483
+1566 እ.ኤ.አ.	1566
+1484 እ.ኤ.አ.	1484
+1567 እ.ኤ.አ.	1567
+1485 እ.ኤ.አ.	1485
+1486 እ.ኤ.አ.	1486
+1568 እ.ኤ.አ.	1568
+1487 እ.ኤ.አ.	1487
+1569 እ.ኤ.አ.	1569
+ክሮኤሽኛ	Lingua croata
+1570 እ.ኤ.አ.	1570
+1489 እ.ኤ.አ.	1489
+1571 እ.ኤ.አ.	1571
+1490 እ.ኤ.አ.	1490
+1572 እ.ኤ.አ.	1572
+ዲያቦሎስ	Diavolo
+1491 እ.ኤ.አ.	1491
+1573 እ.ኤ.አ.	1573
+1492 እ.ኤ.አ.	1492
+1574 እ.ኤ.አ.	1574
+1493 እ.ኤ.አ.	1493
+1575 እ.ኤ.አ.	1575
+ሆሜር	Omero
+1494 እ.ኤ.አ.	1494
+1495 እ.ኤ.አ.	1495
+1496 እ.ኤ.አ.	1496
+1576 እ.ኤ.አ.	1576
+1497 እ.ኤ.አ.	1497
+1577 እ.ኤ.አ.	1577
+1498 እ.ኤ.አ.	1498
+1578 እ.ኤ.አ.	1578
+1499 እ.ኤ.አ.	1499
+1579 እ.ኤ.አ.	1579
+1580 እ.ኤ.አ.	1580
+1581 እ.ኤ.አ.	1581
+1582 እ.ኤ.አ.	1582
+1600 እ.ኤ.አ.	1600
+ጋውስ	Carl Friedrich Gauss
+1601 እ.ኤ.አ.	1601
+1583 እ.ኤ.አ.	1583
+1602 እ.ኤ.አ.	1602
+1584 እ.ኤ.አ.	1584
+1603 እ.ኤ.አ.	1603
+1585 እ.ኤ.አ.	1585
+1604 እ.ኤ.አ.	1604
+1586 እ.ኤ.አ.	1586
+1605 እ.ኤ.አ.	1605
+1587 እ.ኤ.አ.	1587
+1606 እ.ኤ.አ.	1606
+1607 እ.ኤ.አ.	1607
+1588 እ.ኤ.አ.	1588
+1608 እ.ኤ.አ.	1608
+1589 እ.ኤ.አ.	1589
+1609 እ.ኤ.አ.	1609
+1590 እ.ኤ.አ.	1590
+1610 እ.ኤ.አ.	1610
+1591 እ.ኤ.አ.	1591
+1611 እ.ኤ.አ.	1611
+1592 እ.ኤ.አ.	1592
+1612 እ.ኤ.አ.	1612
+1593 እ.ኤ.አ.	1593
+1613 እ.ኤ.አ.	1613
+1594 እ.ኤ.አ.	1594
+1614 እ.ኤ.አ.	1614
+1595 እ.ኤ.አ.	1595
+1615 እ.ኤ.አ.	1615
+1596 እ.ኤ.አ.	1596
+1616 እ.ኤ.አ.	1616
+1597 እ.ኤ.አ.	1597
+1617 እ.ኤ.አ.	1617
+1598 እ.ኤ.አ.	1598
+1618 እ.ኤ.አ.	1618
+1599 እ.ኤ.አ.	1599
+1619 እ.ኤ.አ.	1619
+1620 እ.ኤ.አ.	1620
+1621 እ.ኤ.አ.	1621
+1700 እ.ኤ.አ.	1700
+1701 እ.ኤ.አ.	1701
+1622 እ.ኤ.አ.	1622
+1623 እ.ኤ.አ.	1623
+1702 እ.ኤ.አ.	1702
+1624 እ.ኤ.አ.	1624
+1703 እ.ኤ.አ.	1703
+1704 እ.ኤ.አ.	1704
+1625 እ.ኤ.አ.	1625
+ስፓየር	Spira (Germania)
+1705 እ.ኤ.አ.	1705
+1626 እ.ኤ.አ.	1626
+1627 እ.ኤ.አ.	1627
+1706 እ.ኤ.አ.	1706
+1628 እ.ኤ.አ.	1628
+1707 እ.ኤ.አ.	1707
+1708 እ.ኤ.አ.	1708
+1629 እ.ኤ.አ.	1629
+1630 እ.ኤ.አ.	1630
+1709 እ.ኤ.አ.	1709
+1631 እ.ኤ.አ.	1631
+1710 እ.ኤ.አ.	1710
+1632 እ.ኤ.አ.	1632
+1711 እ.ኤ.አ.	1711
+1633 እ.ኤ.አ.	1633
+1712 እ.ኤ.አ.	1712
+1634 እ.ኤ.አ.	1634
+1713 እ.ኤ.አ.	1713
+1800 እ.ኤ.አ.	1800
+1801 እ.ኤ.አ.	1801
+1714 እ.ኤ.አ.	1714
+1635 እ.ኤ.አ.	1635
+1802 እ.ኤ.አ.	1802
+1715 እ.ኤ.አ.	1715
+1636 እ.ኤ.አ.	1636
+1803 እ.ኤ.አ.	1803
+1637 እ.ኤ.አ.	1637
+1716 እ.ኤ.አ.	1716
+1638 እ.ኤ.አ.	1638
+1804 እ.ኤ.አ.	1804
+1717 እ.ኤ.አ.	1717
+1639 እ.ኤ.አ.	1639
+1805 እ.ኤ.አ.	1805
+1718 እ.ኤ.አ.	1718
+1640 እ.ኤ.አ.	1640
+1719 እ.ኤ.አ.	1719
+1806 እ.ኤ.አ.	1806
+1641 እ.ኤ.አ.	1641
+1720 እ.ኤ.አ.	1720
+1807 እ.ኤ.አ.	1807
+1642 እ.ኤ.አ.	1642
+1721 እ.ኤ.አ.	1721
+1808 እ.ኤ.አ.	1808
+1643 እ.ኤ.አ.	1643
+1722 እ.ኤ.አ.	1722
+1809 እ.ኤ.አ.	1809
+1644 እ.ኤ.አ.	1644
+1723 እ.ኤ.አ.	1723
+1810 እ.ኤ.አ.	1810
+1645 እ.ኤ.አ.	1645
+1724 እ.ኤ.አ.	1724
+20ኛው ምዕተ ዓመት	XX secolo
+1811 እ.ኤ.አ.	1811
+1646 እ.ኤ.አ.	1646
+1725 እ.ኤ.አ.	1725
+1812 እ.ኤ.አ.	1812
+1647 እ.ኤ.አ.	1647
+1726 እ.ኤ.አ.	1726
+1813 እ.ኤ.አ.	1813
+21ኛው ምዕተ ዓመት	XXI secolo
+1648 እ.ኤ.አ.	1648
+1727 እ.ኤ.አ.	1727
+1814 እ.ኤ.አ.	1814
+1649 እ.ኤ.አ.	1649
+1728 እ.ኤ.አ.	1728
+1815 እ.ኤ.አ.	1815
+1650 እ.ኤ.አ.	1650
+1729 እ.ኤ.አ.	1729
+1816 እ.ኤ.አ.	1816
+19ኛው ምዕተ ዓመት	XIX secolo
+1651 እ.ኤ.አ.	1651
+1730 እ.ኤ.አ.	1730
+1817 እ.ኤ.አ.	1817
+1652 እ.ኤ.አ.	1652
+1731 እ.ኤ.አ.	1731
+1818 እ.ኤ.አ.	1818
+1653 እ.ኤ.አ.	1653
+1732 እ.ኤ.አ.	1732
+1819 እ.ኤ.አ.	1819
+1654 እ.ኤ.አ.	1654
+1733 እ.ኤ.አ.	1733
+1820 እ.ኤ.አ.	1820
+1655 እ.ኤ.አ.	1655
+1821 እ.ኤ.አ.	1821
+1734 እ.ኤ.አ.	1734
+1656 እ.ኤ.አ.	1656
+1822 እ.ኤ.አ.	1822
+1735 እ.ኤ.አ.	1735
+1657 እ.ኤ.አ.	1657
+1823 እ.ኤ.አ.	1823
+1736 እ.ኤ.አ.	1736
+1658 እ.ኤ.አ.	1658
+1737 እ.ኤ.አ.	1737
+1824 እ.ኤ.አ.	1824
+1659 እ.ኤ.አ.	1659
+1738 እ.ኤ.አ.	1738
+1825 እ.ኤ.አ.	1825
+1660 እ.ኤ.አ.	1660
+1739 እ.ኤ.አ.	1739
+1826 እ.ኤ.አ.	1826
+1661 እ.ኤ.አ.	1661
+1740 እ.ኤ.አ.	1740
+1827 እ.ኤ.አ.	1827
+18ኛው ምዕተ ዓመት	XVIII secolo
+17ኛው ምዕተ ዓመት	XVII secolo
+16ኛው ምዕተ ዓመት	XVI secolo
+15ኛው ምዕተ ዓመት	XV secolo
+ካታላንኛ	Lingua catalana
+ስትራውቢንግ	Straubing
+14ኛው ምዕተ ዓመት	XIV secolo
+13ኛው ምዕተ ዓመት	XIII secolo
+12ኛው ምዕተ ዓመት	XII secolo
+11ኛው ምዕተ ዓመት	XI secolo
+ቤተ መጻሕፍት	Biblioteca
+ባርሴሎና እግር ኳስ ክለብ	Futbol Club Barcelona
+ፖለቲካ	Politica
+ወግ አጥባቂነት	Conservatorismo
+ዴሞክራሲ	Democrazia
+ናጊብ ማህፉዝ	Naguib Mahfouz
+ማሪ ኩሪ	Marie Curie
+መንግሥት	Governo
+ጪን ሽኋንግ	Qin Shi Huang
+ኦቪድ	Publio Ovidio Nasone
+አሌክሳንደር ፑሽኪን	Aleksandr Sergeevič Puškin
+ራቢንድራናት ታጎር	Rabindranath Tagore
+ሊዮ ቶልስቶይ	Lev Tolstoj
+ማርክ ትዌይን	Mark Twain
+ኪሊማንጃሮ	Kilimangiaro
+ክሪስቶፎር ኮሎምበስ	Cristoforo Colombo
+ዩሪ ጋጋሪን	Jurij Gagarin
+ቫስኮ ደጋማ	Vasco da Gama
+ደቡባዊ ውቅያኖስ	Oceano antartico
+ቢጫው ወንዝ	Fiume Giallo
+ጆሮ	Orecchio
+አፍንጫ	Naso
+አይን (ሥነ አካል)	Occhio
+ጡንቻ	Muscolo
+ትንኝ	Culicidae
+በግ	Ovis aries
+ግመል	Camelus
+ጡት አጥቢ	Mammalia
+ጉንዳን	Formicidae
+ንብ	Anthophila
+ሆላንድኛ	Lingua olandese
+ማርጋሬት ታቸር	Margaret Thatcher
+ዲ ኤን ኤ	DNA
+አበባ ጎመን	Brassica oleracea var. botrytis
+1828 እ.ኤ.አ.	1828
+1829 እ.ኤ.አ.	1829
+1741 እ.ኤ.አ.	1741
+1662 እ.ኤ.አ.	1662
+1742 እ.ኤ.አ.	1742
+1830 እ.ኤ.አ.	1830
+1663 እ.ኤ.አ.	1663
+1831 እ.ኤ.አ.	1831
+1743 እ.ኤ.አ.	1743
+1664 እ.ኤ.አ.	1664
+1665 እ.ኤ.አ.	1665
+1744 እ.ኤ.አ.	1744
+1832 እ.ኤ.አ.	1832
+1666 እ.ኤ.አ.	1666
+1745 እ.ኤ.አ.	1745
+1833 እ.ኤ.አ.	1833
+1667 እ.ኤ.አ.	1667
+1746 እ.ኤ.አ.	1746
+ማጓጓዝ	Trasporto
+1834 እ.ኤ.አ.	1834
+1668 እ.ኤ.አ.	1668
+1747 እ.ኤ.አ.	1747
+1835 እ.ኤ.አ.	1835
+1748 እ.ኤ.አ.	1748
+1836 እ.ኤ.አ.	1836
+1669 እ.ኤ.አ.	1669
+ሌዮናርድ ኦይለር	Eulero
+1670 እ.ኤ.አ.	1670
+1749 እ.ኤ.አ.	1749
+1837 እ.ኤ.አ.	1837
+1671 እ.ኤ.አ.	1671
+1750 እ.ኤ.አ.	1750
+1838 እ.ኤ.አ.	1838
+1672 እ.ኤ.አ.	1672
+1751 እ.ኤ.አ.	1751
+1839 እ.ኤ.አ.	1839
+1673 እ.ኤ.አ.	1673
+1752 እ.ኤ.አ.	1752
+1840 እ.ኤ.አ.	1840
+1674 እ.ኤ.አ.	1674
+1753 እ.ኤ.አ.	1753
+1841 እ.ኤ.አ.	1841
+1754 እ.ኤ.አ.	1754
+1675 እ.ኤ.አ.	1675
+1842 እ.ኤ.አ.	1842
+1755 እ.ኤ.አ.	1755
+1676 እ.ኤ.አ.	1676
+1843 እ.ኤ.አ.	1843
+1677 እ.ኤ.አ.	1677
+1756 እ.ኤ.አ.	1756
+1844 እ.ኤ.አ.	1844
+1678 እ.ኤ.አ.	1678
+1757 እ.ኤ.አ.	1757
+1845 እ.ኤ.አ.	1845
+1679 እ.ኤ.አ.	1679
+1758 እ.ኤ.አ.	1758
+1846 እ.ኤ.አ.	1846
+1680 እ.ኤ.አ.	1680
+1759 እ.ኤ.አ.	1759
+1847 እ.ኤ.አ.	1847
+1681 እ.ኤ.አ.	1681
+1760 እ.ኤ.አ.	1760
+1848 እ.ኤ.አ.	1848
+1682 እ.ኤ.አ.	1682
+1761 እ.ኤ.አ.	1761
+1849 እ.ኤ.አ.	1849
+1683 እ.ኤ.አ.	1683
+1762 እ.ኤ.አ.	1762
+1850 እ.ኤ.አ.	1850
+1684 እ.ኤ.አ.	1684
+1763 እ.ኤ.አ.	1763
+1851 እ.ኤ.አ.	1851
+1764 እ.ኤ.አ.	1764
+1685 እ.ኤ.አ.	1685
+1852 እ.ኤ.አ.	1852
+1686 እ.ኤ.አ.	1686
+1765 እ.ኤ.አ.	1765
+1853 እ.ኤ.አ.	1853
+1687 እ.ኤ.አ.	1687
+1766 እ.ኤ.አ.	1766
+1854 እ.ኤ.አ.	1854
+1688 እ.ኤ.አ.	1688
+1767 እ.ኤ.አ.	1767
+1855 እ.ኤ.አ.	1855
+1689 እ.ኤ.አ.	1689
+1768 እ.ኤ.አ.	1768
+1856 እ.ኤ.አ.	1856
+1690 እ.ኤ.አ.	1690
+1769 እ.ኤ.አ.	1769
+1857 እ.ኤ.አ.	1857
+1691 እ.ኤ.አ.	1691
+1770 እ.ኤ.አ.	1770
+1858 እ.ኤ.አ.	1858
+1692 እ.ኤ.አ.	1692
+1771 እ.ኤ.አ.	1771
+1859 እ.ኤ.አ.	1859
+1693 እ.ኤ.አ.	1693
+1772 እ.ኤ.አ.	1772
+1860 እ.ኤ.አ.	1860
+1773 እ.ኤ.አ.	1773
+1861 እ.ኤ.አ.	1861
+1694 እ.ኤ.አ.	1694
+1695 እ.ኤ.አ.	1695
+1774 እ.ኤ.አ.	1774
+1862 እ.ኤ.አ.	1862
+1696 እ.ኤ.አ.	1696
+1775 እ.ኤ.አ.	1775
+1863 እ.ኤ.አ.	1863
+1697 እ.ኤ.አ.	1697
+1776 እ.ኤ.አ.	1776
+1864 እ.ኤ.አ.	1864
+1698 እ.ኤ.አ.	1698
+1865 እ.ኤ.አ.	1865
+1777 እ.ኤ.አ.	1777
+1699 እ.ኤ.አ.	1699
+1866 እ.ኤ.አ.	1866
+1778 እ.ኤ.አ.	1778
+1779 እ.ኤ.አ.	1779
+1867 እ.ኤ.አ.	1867
+1780 እ.ኤ.አ.	1780
+1868 እ.ኤ.አ.	1868
+1781 እ.ኤ.አ.	1781
+1869 እ.ኤ.አ.	1869
+ናፖሌኦን 3ኛ	Napoleone III di Francia
+መስኮብኛ	Lingua russa
+1782 እ.ኤ.አ.	1782
+1870 እ.ኤ.አ.	1870
+1783 እ.ኤ.አ.	1783
+1871 እ.ኤ.አ.	1871
+ቭላዲሚር ፑቲን	Vladimir Putin
+ሕግ	Diritto
+1784 እ.ኤ.አ.	1784
+1872 እ.ኤ.አ.	1872
+ሕገ መንግሥት	Costituzione
+1785 እ.ኤ.አ.	1785
+1873 እ.ኤ.አ.	1873
+1786 እ.ኤ.አ.	1786
+1874 እ.ኤ.አ.	1874
+1787 እ.ኤ.አ.	1787
+1875 እ.ኤ.አ.	1875
+1788 እ.ኤ.አ.	1788
+1876 እ.ኤ.አ.	1876
+1789 እ.ኤ.አ.	1789
+1877 እ.ኤ.አ.	1877
+1790 እ.ኤ.አ.	1790
+1878 እ.ኤ.አ.	1878
+1879 እ.ኤ.አ.	1879
+1791 እ.ኤ.አ.	1791
+1792 እ.ኤ.አ.	1792
+1880 እ.ኤ.አ.	1880
+1793 እ.ኤ.አ.	1793
+1881 እ.ኤ.አ.	1881
+1794 እ.ኤ.አ.	1794
+1882 እ.ኤ.አ.	1882
+«የሰብዓዊ መብት አቀፋዊ መግለጽ»	Dichiarazione universale dei diritti umani
+1795 እ.ኤ.አ.	1795
+1883 እ.ኤ.አ.	1883
+1796 እ.ኤ.አ.	1796
+1884 እ.ኤ.አ.	1884
+1797 እ.ኤ.አ.	1797
+1885 እ.ኤ.አ.	1885
+1886 እ.ኤ.አ.	1886
+1798 እ.ኤ.አ.	1798
+1887 እ.ኤ.አ.	1887
+1799 እ.ኤ.አ.	1799
+1888 እ.ኤ.አ.	1888
+1889 እ.ኤ.አ.	1889
+1890 እ.ኤ.አ.	1890
+1891 እ.ኤ.አ.	1891
+ስዋሂሊ	Lingua swahili
+1892 እ.ኤ.አ.	1892
+1893 እ.ኤ.አ.	1893
+1894 እ.ኤ.አ.	1894
+1895 እ.ኤ.አ.	1895
+1896 እ.ኤ.አ.	1896
+1897 እ.ኤ.አ.	1897
+1898 እ.ኤ.አ.	1898
+ቻይንኛ	Lingua cinese
+1899 እ.ኤ.አ.	1899
+ህዋስ	Cellula
+ደም	Sangue
+ቱሉዝ	Tolosa
+ሳምባ	Polmone
+ሩማንኛ	Lingua romena
+ቡልጋርኛ	Lingua bulgara
+ዝናብ	Pioggia
+መለጋሲ	Lingua malgascia
+የዓለም መሞቅ	Riscaldamento globale
+የመሬት መንቀጥቀጥ	Terremoto
+ፍራንክሊን ሮዘቨልት	Franklin Delano Roosevelt
+ኦግስቲን	Agostino d'Ippona
+ኔልሰን ማንዴላ	Nelson Mandela
+ዶ/ር ማርቲን ሉጠር ኪንግ	Martin Luther King
+10ኛው ምዕተ ዓመት	X secolo
+ጎርፍ	Inondazione
+እሳተ ገሞራ	Vulcano
+ስነ አምክንዮ	Logica
+9ኛው ምዕተ ዓመት	IX secolo
+ትሪጎኖሜትሪ	Trigonometria
+8ኛው ምዕተ ዓመት	VIII secolo
+ጂዎሜትሪ	Geometria
+7ኛው ምዕተ ዓመት	VII secolo
+6ኛው ምዕተ ዓመት	VI secolo
+ሰዋስው	Grammatica
+ነፋስ	Vento
+5ኛው ምዕተ ዓመት	V secolo
+4ኛው ምዕተ ዓመት	IV secolo
+3ኛው ምዕተ ዓመት	III secolo
+2ኛው ምዕተ ዓመት	II secolo
+1ኛው ምዕተ ዓመት	I secolo
+ሥነ ንዋይ	Economia
+ሙአለ ንዋይ	Capitale (economia)
+የቋንቋ ጥናት	Linguistica
+ቃል (የቋንቋ አካል)	Parola
+የዓለም ጽሕፈቶች	Sistema di scrittura
+ዳውጋቫ ወንዝ	Daugava
+ሥነ ጽሑፍ	Letteratura
+መደብ:ፈረንሣይ	Categoria:Francia
+መደብ:ሙዚቃ	Categoria:Musica
+መደብ:ሥነ ጽሁፍ	Categoria:Letteratura
+ሃሪ ፖተር (መፅሐፍ)	Harry Potter
+ትራምፔት	Tromba
+ክላርኔት	Clarinetto
+አልጎሪዝም	Algoritmo
+መድኃኒት	Droga
+ታላቁ እስክንድር	Alessandro Magno
+ኅብረተሰብ	Società (sociologia)
+ትምህርት	Educazione
+ሁጎ ቻቬዝ	Hugo Chávez
+ቢስማርክ	Otto von Bismarck
+ጋብቻ	Matrimonio
+ሬጂና ካልቾ	Reggina Calcio
+ቡና	Caffè
+ወተት	Latte
+ተራራ	Montagna
+አንድሪው ጆንሰን	Andrew Johnson
+ክዋሜ ንክሩማህ	Kwame Nkrumah
+ዪዲሽኛ	Lingua yiddish
+ሆንግ ኮንግ	Hong Kong
+ማያሚ	Miami
+ከራቺ	Karachi
+የኮርያ ጦርነት	Guerra di Corea
+ሌጎስ	Lagos
+ሪዮ ዴ ጃኔይሮ	Rio de Janeiro
+ሶል	Seul
+ሻንግሃይ	Shanghai
+አትሌቲኮ ማድሪድ	Club Atlético de Madrid
+ዎልት ዲዝኒ	Walt Disney
+ሰቪያ	Siviglia
+ሜዶን	Medi
+አርኪሜዴስ	Archimede
+የቬትናም ጦርነት	Guerra del Vietnam
+ቶማስ ኤዲሶን	Thomas Edison
+ዩክሊድ	Euclide
+ዴፖርቲቮ ዴ ላ ኮሩኛ	Real Club Deportivo de La Coruña
+አር.ሲ.ዲ. ኤስፓንዮል	Reial Club Deportiu Espanyol de Barcelona
+አርሜንኛ	Lingua armena
+ዩክሬንኛ	Lingua ucraina
+ግራናዳ	Granada
+ሌቫንቴ ዩ.ዲ.	Levante Unión Deportiva
+ማላጋ የእግር ኳስ ክለብ	Málaga Club de Fútbol
+ስዊድንኛ	Lingua svedese
+ዳንኛ	Lingua danese
+ሌብኒትዝ	Gottfried Wilhelm von Leibniz
+ቼክኛ	Lingua ceca
+ካርል ማርክስ	Karl Marx
+ስሎቬንኛ	Lingua slovena
+ሀንጋርኛ	Lingua ungherese
+ቮልቴር	Voltaire
+ኤስቶንኛ	Lingua estone
+ሙሴ	Mosè
+ሊትዌንኛ	Lingua lituana
+የሕንዱ ሃይማኖት	Induismo
+ቤላሩስኛ	Lingua bielorussa
+ጡት	Mammella
+ዲሜትሪ ሜንደሊቭ	Dmitrij Ivanovič Mendeleev
+ቀነኒሳ በቀለ	Kenenisa Bekele
+አቶም	Atomo
+ብርሃን	Luce
+ግሪክ (ቋንቋ)	Lingua greca
+አፈ፡ታሪክ	Mitologia
+የሲስተም አሰሪ	Sistema operativo
+ታጅ ማሃል	Taj Mahal
+አየርላንድኛ	Lingua irlandese
+የፕሮግራም ቋንቋ	Linguaggio di programmazione
+ነፍስ	Anima
+ማልትኛ	Lingua maltese
+ፋርስኛ	Lingua persiana
+ሃይማኖት	Religione
+ኮሪይኛ	Lingua coreana
+አብርሃም	Abramo
+ረኔ ዴካርት	Cartesio
+ጳውሎስ	Paolo di Tarso
+ፍሮይድ	Sigmund Freud
+ፍሬዴሪክ ሄግል	Georg Wilhelm Friedrich Hegel
+ሞንጎልኛ	Lingua mongola
+ባኩ	Baku
+ታጂክኛ	Lingua tagica
+ዑዝበክኛ	Lingua uzbeca
+ቱርክመንኛ	Lingua turkmena
+አይሁድና	Ebraismo
+ጢምጱ	Thimphu
+ባንዳር ሰሪ ቤጋዋን	Bandar Seri Begawan
+ዕብራይስጥ	Lingua ebraica
+አዘርኛ	Lingua azera
+ዌልስኛ	Lingua gallese
+አማኑኤል ካንት	Immanuel Kant
+የስኮትላንድ ጋይሊክኛ	Lingua gaelica scozzese
+ቭየንትዬን	Vientiane
+ኤክሲሌስ	Exilles
+ጆን ሎክ	John Locke
+ኒሺ	Friedrich Nietzsche
+ቢሽኬክ	Biškek
+ዥን-ፖል ሳትራ	Jean-Paul Sartre
+ዱሻንቤ	Dušanbe
+ጉበት	Fegato
+ኩላሊት	Rene
+ቆለጥ	Testicolo
+ሉድቪግ ቪትገንስታይን	Ludwig Wittgenstein
+የሥነ፡ልቡና ትምህርት	Psicologia
+ውቅያኖስ	Oceano
+ቶማስ አኳይናስ	Tommaso d'Aquino
+ጎታማ ቡዳ	Gautama Buddha
+ዳያሌክቲክ	Dialettica
+መሐመድ	Maometto
+ዕድል ጥናት	Probabilità
+ሞንቴው ዳ ፖ	Monteu da Po
+የእግር ኳስ ማህበር	Federazione calcistica dell'Inghilterra
+ውኑ	Realtà
+ቢ.ቢ.ሲ.	BBC
+ሻህሩኽ ኻን	Shah Rukh Khan
+ሳልማን ኻን	Salman Khan
+ማርቲን ሉጠር	Martin Lutero
+ዓሚር ኻን	Aamir Khan
+አሚታብ ባቻን	Amitabh Bachchan
+ጄራልድ ፎርድ	Gerald Ford
+ሪቻርድ ኒክሰን	Richard Nixon
+በንጋልኛ	Lingua bengalese
+ምላስ	Lingua (anatomia)
+ቼልሲ	Chelsea Football Club
+አርሰናል የእግር ኳስ ክለብ	Arsenal Football Club
+ሥርዓተ አፅም	Scheletro (anatomia umana)
+አፍ	Bocca
+ሊንደን ጆንሰን	Lyndon B. Johnson
+የመገጣጠሚያ አጥንት	Articolazione
+ፋልክላንድ ደሴቶች	Isole Falkland
+ሥርዓተ ምግብ	Sistema digerente
+A	A
+ንግሥት ኤልሣቤጥ (ዳግማዊት)	Elisabetta II del Regno Unito
+ጆን ኤፍ ኬኔዲ	John Fitzgerald Kennedy
+B	B
+G	G
+F	F
+ሬጌ	Reggae
+ሳክሶፎን	Sassofono
+C	C
+D	D
+E	E
+H	H
+ድዋይት አይዘንሃወር	Dwight D. Eisenhower
+ሮናልድ ሬገን	Ronald Reagan
+ዛዛኪኛ	Lingua zazaki
+ፓይታጎረስ	Pitagora
+ራዮ ቫዬካኖ	Rayo Vallecano de Madrid
+ሪያል ሶሲየዳድ	Real Sociedad de Fútbol
+ሰቪያ እግር ኳስ ክለብ	Sevilla Fútbol Club
+ቫለንሲያ እግር ኳስ ክለብ	Valencia Club de Fútbol
+1100 እ.ኤ.አ.	1100
+የንጥረ ነገሮች ሠንጠረዥ	Tavola periodica degli elementi
+ጆርጅታውን	Georgetown (Guyana)
+ርግብ	Columbidae
+ባክቴሪያ	Bacteria
+ኤብሮ ወንዝ	Ebro
+ወይን	Uva
+ማር	Miele
+ስጋ	Carne
+ድንች	Solanum tuberosum
+ሻማ	Glycine max
+ሮቦት	Robot
+ቴክኖዎሎጂ	Tecnologia
+ማሽን	Macchina
+ብሎን	Vite (meccanica)
+መሀንዲስነት	Ingegneria
+መገናኛ	Comunicazione
+ስልክ	Telefono
+አር ኤን ኤ	RNA
+ሳንስክሪት	Lingua sanscrita
+ሉጎ	Lugo (Spagna)
+የዓለም የህዝብ ብዛት	Popolazione mondiale
+ሕክምና	Medicina
+ሳራዬቮ	Sarajevo
+ሎጋሪዝም	Logaritmo
+ሥነ ቁጥር	Aritmetica
+ዓለም ንግድ ሕንጻ	World Trade Center
+መደብ:ብራዚል	Categoria:Brasile
+ንጥረ ነገር	Elemento chimico
+አስረካቢ	Funzione (matematica)
+ፍጥንጥነት	Accelerazione
+አቅም	Energia
+ኤሌክትሮመግነጢስ ጨረራ	Radiazione elettromagnetica
+ጉልበት	Forza
+መግነጢስ መስክ	Campo magnetico
+ግስበት	Interazione gravitazionale
+ጎ	Go (gioco)
+መግነጢስ	Magnete
+ግዝፈት	Massa (fisica)
+ፊልም	Film
+ብስክሌት	Bicicletta
+የርሻ ተግባር	Agricoltura
+አጠቃላይ አንጻራዊነት	Relatività generale
+ልዩ አንጻራዊነት	Relatività ristretta
+ጥጥ	Cotone (fibra)
+ድምጽ	Suono
+ማረሻ	Aratro
+ፍጥነት	Velocità
+ጊዜ	Tempo
+ወረቀት	Carta
+ኦና	Vuoto (fisica)
+ቁጥር	Numero
+የአቅጣጫ ቁጥር	Numero complesso
+ሜትር	Metro
+ሴኮንድ	Secondo
+በቆሎ	Zea mays
+ገብስ	Hordeum vulgare
+ሃሪ ትሩማን	Harry Truman
+ስዕል	Pittura
+ቴያትር	Teatro
+ዳዮድ	Diodo
+ዴቪድ ፓተርሶን	David Paterson
+የአሜሪካ ፕሬዚዳንት	Presidente degli Stati Uniti d'America
+ዉሃን	Wuhan
+የአለም አገራት ዝርዝር	Stati del mondo
+መስጴጦምያ	Mesopotamia
+ጥንታዊ ግብፅ	Antico Egitto
+ድብ	Ursidae
+ጆን አዳምስ	John Adams
+ቶማስ ጄፈርሰን	Thomas Jefferson
+ጄምስ ማዲሰን	James Madison
+ጄምስ ሞንሮ	James Monroe
+ጆን ክዊንሲ አዳምስ	John Quincy Adams
+አንድሪው ጃክሰን	Andrew Jackson
+ማርቲን ቫንቡረን	Martin Van Buren
+ዊሊያም ሄንሪ ሀሪሰን	William Henry Harrison
+ጆን ታይለር	John Tyler
+ጄምስ ፖልክ	James Knox Polk
+ዛከሪ ቴለር	Zachary Taylor
+ሄርኩለስ እግር ኳስ ክለብ	Hércules Club de Fútbol
+ሚራንዳ ዴ ኤብሮ	Miranda de Ebro
+ጉግል ዜና	Google News
+1101 እ.ኤ.አ.	1101
+1102 እ.ኤ.አ.	1102
+ንጉሥ	Re
+ኣጃ	Avena sativa
+ስንዴ	Triticum
+ብረቶንኛ	Lingua bretone
+እህል	Cereali
+ድንቁርና	Sordità
+ጎርጎርያን ካሌንዳር	Calendario gregoriano
+ሰዓት ክልል	Fuso orario
+ትምህርተ፡ጤና	Salute
+ኒሞንያ	Polmonite
+ኤድስ	AIDS
+መለጠፊያ:Location map ጀርመን	Template:Mappa di localizzazione/DEU
+ስኳር በሽታ	Diabete mellito
+ራሲንግ ዴ ሳንታንደር	Real Racing Club de Santander
+መለጠፊያ:Location map ስዊድን	Template:Mappa di localizzazione/SWE
+መለጠፊያ:Location map ፊንላንድ	Template:Mappa di localizzazione/FIN
+ረክሬቲቮ ዴ ሁዌልቫ	Real Club Recreativo de Huelva
+መለጠፊያ:Location map ሆላንድ	Template:Mappa di localizzazione/NLD
+መለጠፊያ:Location map ፈረንሳይ	Template:Mappa di localizzazione/FRA
+መለጠፊያ:Location map እስፓንያ	Template:Mappa di localizzazione/ESP
+መለጠፊያ:Location map ፖርቱጋል	Template:Mappa di localizzazione/PRT
+መለጠፊያ:Location map ጣልያን	Template:Mappa di localizzazione/ITA
+መለጠፊያ:Location map ስዊዘርላንድ	Template:Mappa di localizzazione/CHE
+መለጠፊያ:Location map ኦስትሪያ	Template:Mappa di localizzazione/AUT
+ድልድይ	Ponte
+መለጠፊያ:Location map ሀንጋሪ	Template:Mappa di localizzazione/HUN
+መለጠፊያ:Location map ክሮኤሽያ	Template:Mappa di localizzazione/HRV
+ቪላሪያል የእግር ኳስ ክለብ	Villarreal Club de Fútbol
+መለጠፊያ:Location map ግሪክ	Template:Mappa di localizzazione/GRC
+መለጠፊያ:Location map ቡልጋሪያ	Template:Mappa di localizzazione/BGR
+ሚላርድ ፊልሞር	Millard Fillmore
+ፍራንክሊን ፒርስ	Franklin Pierce
+ግድብ	Diga
+ጄምስ ቡካነን	James Buchanan
+መለጠፊያ:Location map ሶርያ	Template:Mappa di localizzazione/SYR
+መለጠፊያ:Location map ዮርዳኖስ	Template:Mappa di localizzazione/JOR
+መለጠፊያ:Location map ፓኪስታን	Template:Mappa di localizzazione/PAK
+መለጠፊያ:Location map ቻይና	Template:Mappa di localizzazione/CHN
+መለጠፊያ:Location map ቬት ናም	Template:Mappa di localizzazione/VNM
+መለጠፊያ:Location map Australia	Template:Mappa di localizzazione/AUS
+መለጠፊያ:Location map ቬኔዝዌላ	Template:Mappa di localizzazione/VEN
+ሞና ሊዛ	Gioconda
+ፒሬኔ ተራሮች	Pirenei
+ዲትሮይት	Detroit
+ሥነ ስብስብ	Teoria degli insiemi
+የዝርዝር ሂሳብ (እስታቲስቲክስ)	Statistica
+1103 እ.ኤ.አ.	1103
+1104 እ.ኤ.አ.	1104
+ሉል	Sfera
+አባሲዶች	Abbasidi
+ቢዛንታይን መንግሥት	Impero bizantino
+የኦቶማን መንግሥት	Impero ottomano
+ቫይኪንግ	Vichinghi
+ፖል ዱሜ	Paul Doumer
+ማክሲም ጎርኪ	Maksim Gor'kij
+ዮሐን ማርቲን ሽላየር	Johann Martin Schleyer
+ኮረንቲ	Elettricità
+ሠይፍ	Spada
+ጠመንጃ	Arma da fuoco
+ፓውሎ ኮሄሎ	Paulo Coelho
+ፔሌ	Pelé
+ማጁሮ	Majuro
+የቤልጅግ ሰንደቅ ዓላማ	Bandiera del Belgio
+ሩማን	Punica granatum
+ብርቱካን (ፍሬ)	Citrus × sinensis
+ሮማንሽ	Lingua romancia
+ኡድሙርትኛ	Lingua udmurta
+ላይኛ ሶርብኛ	Lingua soraba superiore
+ኡይጉርኛ	Lingua uigura
+ሶማልኛ	Lingua somala
+ናዋትል	Lingua nahuatl
+ናውሩኛ	Lingua nauruana
+ራቬና	Ravenna
+ዴቢት ካርድ	Carta di debito
+መለጠፊያ:Location map ሜክሲኮ	Template:Mappa di localizzazione/MEX
+ቲቤር ወንዝ	Tevere
+1105 እ.ኤ.አ.	1105
+ዓረብኛ	Lingua araba
+ቺምቦራዞ	Chimborazo
+ኦክሲታንኛ	Lingua occitana
+አፍሪካንስ	Lingua afrikaans
+ጠቅላይ ሚኒስትር	Primo ministro
+ታገስ ወንዝ	Tago
+ጓዳልኪቪር ወንዝ	Guadalquivir
+ዘ ደይ አፍተር ቱሞሮ (ፊልም)	The Day After Tomorrow - L'alba del giorno dopo
+ሜሪዳ፣ እስፓንያ	Mérida (Spagna)
+ሳቫ ወንዝ	Sava (fiume)
+ስኮትኛ	Lingua scots
+ብሄራዊ አርማ	Stemma
+ሰንደቅ ዓላማ	Bandiera
+ማካው	Macao
+መለጠፊያ:Location map ሞሮኮ	Template:Mappa di localizzazione/MAR
+መለጠፊያ:Location map ምዕራባዊ ሣህራ	Template:Mappa di localizzazione/ESH
+መለጠፊያ:Location map አልጄሪያ	Template:Mappa di localizzazione/DZA
+መለጠፊያ:Location map ቱኒዚያ	Template:Mappa di localizzazione/TUN
+መለጠፊያ:Location map ሊቢያ	Template:Mappa di localizzazione/LBY
+መለጠፊያ:Location map ግብፅ	Template:Mappa di localizzazione/EGY
+መለጠፊያ:Location map ሞሪታኒያ	Template:Mappa di localizzazione/MRT
+መለጠፊያ:Location map ማሊ	Template:Mappa di localizzazione/MLI
+መለጠፊያ:Location map ኒጄር	Template:Mappa di localizzazione/NER
+መለጠፊያ:Location map ቻድ	Template:Mappa di localizzazione/TCD
+መለጠፊያ:Location map ሱዳን	Template:Mappa di localizzazione/SDN
+መለጠፊያ:Location map ኤርትራ	Template:Mappa di localizzazione/ERI
+መለጠፊያ:Location map ኢትዮጵያ	Template:Mappa di localizzazione/ETH
+መለጠፊያ:Location map ጅቡቲ	Template:Mappa di localizzazione/DJI
+መለጠፊያ:Location map ሶማሊያ	Template:Mappa di localizzazione/SOM
+መለጠፊያ:Location map ኬፕ ቨርድ	Template:Mappa di localizzazione/CPV
+መለጠፊያ:Location map ሴኔጋል	Template:Mappa di localizzazione/SEN
+መለጠፊያ:Location map ጋምቢያ	Template:Mappa di localizzazione/GMB
+መለጠፊያ:Location map ጊኔ-ቢሳው	Template:Mappa di localizzazione/GNB
+መለጠፊያ:Location map ጊኔ	Template:Mappa di localizzazione/GIN
+መለጠፊያ:Location map ሴየራ ሌዎን	Template:Mappa di localizzazione/SLE
+መለጠፊያ:Location map ላይቤሪያ	Template:Mappa di localizzazione/LBR
+መለጠፊያ:Location map ኮት ዲቯር	Template:Mappa di localizzazione/CIV
+መለጠፊያ:Location map ቡርኪና ፋሶ	Template:Mappa di localizzazione/BFA
+መለጠፊያ:Location map ጋና	Template:Mappa di localizzazione/GHA
+መለጠፊያ:Location map ቶጎ	Template:Mappa di localizzazione/TGO
+መለጠፊያ:Location map ቤኒን	Template:Mappa di localizzazione/BEN
+መለጠፊያ:Location map ናይጄሪያ	Template:Mappa di localizzazione/NGA
+መለጠፊያ:Location map ካሜሩን	Template:Mappa di localizzazione/CMR
+መለጠፊያ:Location map የመካከለኛው አፍሪካ ሪፑብሊክ	Template:Mappa di localizzazione/CAF
+መለጠፊያ:Location map ሳን ቶሜ እና ፕሪንሲፔ	Template:Mappa di localizzazione/STP
+መለጠፊያ:Location map ኢኳቶሪያል ጊኔ	Template:Mappa di localizzazione/GNQ
+መለጠፊያ:Location map ጋቦን	Template:Mappa di localizzazione/GAB
+መለጠፊያ:Location map ኮንጎ ሪፑብሊክ	Template:Mappa di localizzazione/COG
+ሜሚንገን	Memmingen
+መለጠፊያ:Location map ኮንጎ ዲሞክራቲክ ሪፑብሊክ	Template:Mappa di localizzazione/COD
+መለጠፊያ:Location map ዩጋንዳ	Template:Mappa di localizzazione/UGA
+መለጠፊያ:Location map ኬንያ	Template:Mappa di localizzazione/KEN
+መለጠፊያ:Location map ሩዋንዳ	Template:Mappa di localizzazione/RWA
+መለጠፊያ:Location map ቡሩንዲ	Template:Mappa di localizzazione/BDI
+መለጠፊያ:Location map ታንዛኒያ	Template:Mappa di localizzazione/TZA
+መለጠፊያ:Location map ሞዛምቢክ	Template:Mappa di localizzazione/MOZ
+መለጠፊያ:Location map ማላዊ	Template:Mappa di localizzazione/MWI
+መለጠፊያ:Location map ዛምቢያ	Template:Mappa di localizzazione/ZMB
+መለጠፊያ:Location map አንጎላ	Template:Mappa di localizzazione/AGO
+መለጠፊያ:Location map ናሚቢያ	Template:Mappa di localizzazione/NAM
+መለጠፊያ:Location map ቦትስዋና	Template:Mappa di localizzazione/BWA
+መለጠፊያ:Location map ዚምባብዌ	Template:Mappa di localizzazione/ZWE
+መለጠፊያ:Location map ደቡብ አፍሪካ	Template:Mappa di localizzazione/ZAF
+መለጠፊያ:Location map ስዋዚላንድ	Template:Mappa di localizzazione/SWZ
+መለጠፊያ:Location map ሌሶቶ	Template:Mappa di localizzazione/LSO
+መለጠፊያ:Location map ማዳጋስካር	Template:Mappa di localizzazione/MDG
+መለጠፊያ:Location map ሞሪሸስ	Template:Mappa di localizzazione/MUS
+መለጠፊያ:Location map ሲሸልስ	Template:Mappa di localizzazione/SYC
+መለጠፊያ:Location map አፍሪቃ	Template:Mappa di localizzazione/Africa
+ቀጭኔ	Giraffa camelopardalis
+ፒድሞንትኛ	Lingua piemontese
+አርፒታንኛ	Lingua francoprovenzale
+ታራጎና	Tarragona
+ደብረ አዱላ	Adula
+ኦስካር ታባሬዝ	Óscar Tabárez
+ሶቪዬት ሕብረት	Unione Sovietica
+ካዲዝ	Cadice
+ሲ (የኮምፒዩተር ፍርገማ ቋንቋ)	C (linguaggio)
+ኤችአይቪ	HIV
+ክለብ አትሌቲኮ ሪቨር ፕሌት	Club Atlético River Plate
+እግር	Piede
+ክዊን	Queen
+ፍሬዲ መርኩሪ	Freddie Mercury
+እንሽላሊት	Lacertilia
+ክለብ አትሌቲኮ ፔኛሮል	Club Atlético Peñarol
+ውክፔዲያ:ምርጥ ፅሑፎች	Wikipedia:Vetrina
+መለጠፊያ:Link FA	Template:Link V
+ቬርሞንት	Vermont
+ሳንዲየጎ	San Diego
+ደንቨር	Denver
+ሂውስተን	Houston
+ፊኒክስ፥ አሪዞና	Phoenix (Arizona)
+ዳላስ	Dallas
+ኦስቲን፣ ቴክሳስ	Austin
+ቤተ መንግስት	Palazzo
+የሩሲያ ሰንደቅ ዓላማ	Bandiera della Russia
+ኤድጋር አለን ፖ	Edgar Allan Poe
+ላንገዶክ-ሩሲዮን	Linguadoca-Rossiglione
+ሬዩንዮን	Riunione (isola)
+ማፅደቂያ ስር	Portinnesto
+ክብ	Circonferenza
+ዲየጎ ማራዶና	Diego Armando Maradona
+ነፋስ ስልክ	Telefono cellulare
+ሰጎን	Struthio camelus
+እሙን	Assioma (matematica)
+ኅልዮት	Teoria
+ሳክራመንቶ	Sacramento (California)
+ሆኖሉሉ	Honolulu
+1925 እ.ኤ.አ.	1925
+1927 እ.ኤ.አ.	1927
+ማንችስተር	Manchester
+ስጋ በል ዕፅዋት	Pianta carnivora
+ጨረራ	Radiazione
+1000 እ.ኤ.አ.	1000
+999 እ.ኤ.አ.	999
+1955 እ.ኤ.አ.	1955
+1954 እ.ኤ.አ.	1954
+1953 እ.ኤ.አ.	1953
+1951 እ.ኤ.አ.	1951
+1950 እ.ኤ.አ.	1950
+1946 እ.ኤ.አ.	1946
+1943 እ.ኤ.አ.	1943
+1942 እ.ኤ.አ.	1942
+1940 እ.ኤ.አ.	1940
+1939 እ.ኤ.አ.	1939
+1938 እ.ኤ.አ.	1938
+1937 እ.ኤ.አ.	1937
+1936 እ.ኤ.አ.	1936
+ማንችስተር ዩናይትድ	Manchester United Football Club
+1935 እ.ኤ.አ.	1935
+1934 እ.ኤ.አ.	1934
+ኒውካስል ዩናይትድ	Newcastle United Football Club
+2 ሰኑስረት	Sesostri II
+1933 እ.ኤ.አ.	1933
+ሳውዝሃምፕተን እግር ኳስ ክለብ	Southampton Football Club
+2 አመነምሃት	Amenemhat II
+1932 እ.ኤ.አ.	1932
+ዌስት ብሮምዊች አልቢዮን	West Bromwich Albion Football Club
+1 ሰኑስረት	Sesostri I
+1 አመነምሃት	Amenemhat I
+1931 እ.ኤ.አ.	1931
+1930 እ.ኤ.አ.	1930
+1929 እ.ኤ.አ.	1929
+ፕዮንግያንግ	Pyongyang
+አዲስ ኪዳን	Nuovo Testamento
+ኻአንኽሬ ሶበክሆተፕ	Khaankhra
+ጌታያውያን	Geti
+ኦስካር	Premio Oscar
+1001 እ.ኤ.አ.	1001
+1002 እ.ኤ.አ.	1002
+1003 እ.ኤ.አ.	1003
+1005 እ.ኤ.አ.	1005
+1006 እ.ኤ.አ.	1006
+1007 እ.ኤ.አ.	1007
+1008 እ.ኤ.አ.	1008
+1009 እ.ኤ.አ.	1009
+1010 እ.ኤ.አ.	1010
+1011 እ.ኤ.አ.	1011
+1012 እ.ኤ.አ.	1012
+1013 እ.ኤ.አ.	1013
+1014 እ.ኤ.አ.	1014
+3 አመነምሃት	Amenemhat III
+1015 እ.ኤ.አ.	1015
+4 አመነምሃት	Amenemhat IV
+1016 እ.ኤ.አ.	1016
+3 ሰኑስረት	Sesostri III
+1017 እ.ኤ.አ.	1017
+1018 እ.ኤ.አ.	1018
+1019 እ.ኤ.አ.	1019
+1020 እ.ኤ.አ.	1020
+1021 እ.ኤ.አ.	1021
+1022 እ.ኤ.አ.	1022
+1023 እ.ኤ.አ.	1023
+1024 እ.ኤ.አ.	1024
+1025 እ.ኤ.አ.	1025
+1026 እ.ኤ.አ.	1026
+1027 እ.ኤ.አ.	1027
+1028 እ.ኤ.አ.	1028
+1029 እ.ኤ.አ.	1029
+1030 እ.ኤ.አ.	1030
+1031 እ.ኤ.አ.	1031
+የዓለም ዋንጫ	Campionato mondiale di calcio
+1032 እ.ኤ.አ.	1032
+አቺሬያሌ	Acireale
+1033 እ.ኤ.አ.	1033
+1034 እ.ኤ.አ.	1034
+1035 እ.ኤ.አ.	1035
+1036 እ.ኤ.አ.	1036
+1037 እ.ኤ.አ.	1037
+1038 እ.ኤ.አ.	1038
+1039 እ.ኤ.አ.	1039
+1040 እ.ኤ.አ.	1040
+1041 እ.ኤ.አ.	1041
+1042 እ.ኤ.አ.	1042
+1043 እ.ኤ.አ.	1043
+1044 እ.ኤ.አ.	1044
+1045 እ.ኤ.አ.	1045
+1046 እ.ኤ.አ.	1046
+1047 እ.ኤ.አ.	1047
+1048 እ.ኤ.አ.	1048
+1049 እ.ኤ.አ.	1049
+1050 እ.ኤ.አ.	1050
+1051 እ.ኤ.አ.	1051
+አንድሬስ ጉዋርዳዶ	Andrés Guardado
+1052 እ.ኤ.አ.	1052
+1053 እ.ኤ.አ.	1053
+1054 እ.ኤ.አ.	1054
+1055 እ.ኤ.አ.	1055
+1056 እ.ኤ.አ.	1056
+1057 እ.ኤ.አ.	1057
+1058 እ.ኤ.አ.	1058
+1059 እ.ኤ.አ.	1059
+1060 እ.ኤ.አ.	1060
+1061 እ.ኤ.አ.	1061
+1062 እ.ኤ.አ.	1062
+1063 እ.ኤ.አ.	1063
+1064 እ.ኤ.አ.	1064
+1065 እ.ኤ.አ.	1065
+1066 እ.ኤ.አ.	1066
+1067 እ.ኤ.አ.	1067
+1068 እ.ኤ.አ.	1068
+1069 እ.ኤ.አ.	1069
+1070 እ.ኤ.አ.	1070
+1071 እ.ኤ.አ.	1071
+1072 እ.ኤ.አ.	1072
+1073 እ.ኤ.አ.	1073
+1074 እ.ኤ.አ.	1074
+1075 እ.ኤ.አ.	1075
+1076 እ.ኤ.አ.	1076
+1077 እ.ኤ.አ.	1077
+1078 እ.ኤ.አ.	1078
+1079 እ.ኤ.አ.	1079
+1080 እ.ኤ.አ.	1080
+1081 እ.ኤ.አ.	1081
+1082 እ.ኤ.አ.	1082
+1083 እ.ኤ.አ.	1083
+1084 እ.ኤ.አ.	1084
+1085 እ.ኤ.አ.	1085
+1086 እ.ኤ.አ.	1086
+1087 እ.ኤ.አ.	1087
+1088 እ.ኤ.አ.	1088
+1089 እ.ኤ.አ.	1089
+1090 እ.ኤ.አ.	1090
+1091 እ.ኤ.አ.	1091
+1092 እ.ኤ.አ.	1092
+1093 እ.ኤ.አ.	1093
+1094 እ.ኤ.አ.	1094
+1095 እ.ኤ.አ.	1095
+1096 እ.ኤ.አ.	1096
+1097 እ.ኤ.አ.	1097
+ኛ ትራንግ	Nha Trang
+1098 እ.ኤ.አ.	1098
+1099 እ.ኤ.አ.	1099
+1106 እ.ኤ.አ.	1106
+1107 እ.ኤ.አ.	1107
+1108 እ.ኤ.አ.	1108
+1109 እ.ኤ.አ.	1109
+1110 እ.ኤ.አ.	1110
+ፖዶስክ	Podol'sk
+1111 እ.ኤ.አ.	1111
+1112 እ.ኤ.አ.	1112
+1113 እ.ኤ.አ.	1113
+1114 እ.ኤ.አ.	1114
+1115 እ.ኤ.አ.	1115
+1116 እ.ኤ.አ.	1116
+1117 እ.ኤ.አ.	1117
+1118 እ.ኤ.አ.	1118
+1119 እ.ኤ.አ.	1119
+1120 እ.ኤ.አ.	1120
+1130 እ.ኤ.አ.	1130
+ላንታኖይድ	Lantanoidi
+አክቲኖይድ	Attinoidi
+1131 እ.ኤ.አ.	1131
+ራፋኤል ኮሬያ	Rafael Correa
+1132 እ.ኤ.አ.	1132
+1133 እ.ኤ.አ.	1133
+1134 እ.ኤ.አ.	1134
+1135 እ.ኤ.አ.	1135
+1136 እ.ኤ.አ.	1136
+1137 እ.ኤ.አ.	1137
+1138 እ.ኤ.አ.	1138
+1139 እ.ኤ.አ.	1139
+5 እ.ኤ.አ.	5
+1140 እ.ኤ.አ.	1140
+1141 እ.ኤ.አ.	1141
+1142 እ.ኤ.አ.	1142
+1143 እ.ኤ.አ.	1143
+1144 እ.ኤ.አ.	1144
+4 እ.ኤ.አ.	4
+1145 እ.ኤ.አ.	1145
+1146 እ.ኤ.አ.	1146
+1147 እ.ኤ.አ.	1147
+1148 እ.ኤ.አ.	1148
+3 እ.ኤ.አ.	3
+1149 እ.ኤ.አ.	1149
+1150 እ.ኤ.አ.	1150
+1151 እ.ኤ.አ.	1151
+1152 እ.ኤ.አ.	1152
+1153 እ.ኤ.አ.	1153
+2 እ.ኤ.አ.	2
+1154 እ.ኤ.አ.	1154
+1155 እ.ኤ.አ.	1155
+1156 እ.ኤ.አ.	1156
+1157 እ.ኤ.አ.	1157
+1158 እ.ኤ.አ.	1158
+1159 እ.ኤ.አ.	1159
+ቡካረስት	Bucarest
+1160 እ.ኤ.አ.	1160
+1161 እ.ኤ.አ.	1161
+1162 እ.ኤ.አ.	1162
+1163 እ.ኤ.አ.	1163
+1164 እ.ኤ.አ.	1164
+1165 እ.ኤ.አ.	1165
+1166 እ.ኤ.አ.	1166
+1167 እ.ኤ.አ.	1167
+1168 እ.ኤ.አ.	1168
+1169 እ.ኤ.አ.	1169
+1170 እ.ኤ.አ.	1170
+የፕዌርቶ ሪኮ ነጻነት ፓርቲ	Partito Indipendentista Portoricano
+1171 እ.ኤ.አ.	1171
+ቴምስ ወንዝ	Tamigi
+1172 እ.ኤ.አ.	1172
+1173 እ.ኤ.አ.	1173
+ቲራና	Tirana
+1174 እ.ኤ.አ.	1174
+1175 እ.ኤ.አ.	1175
+1176 እ.ኤ.አ.	1176
+1177 እ.ኤ.አ.	1177
+1178 እ.ኤ.አ.	1178
+1179 እ.ኤ.አ.	1179
+1180 እ.ኤ.አ.	1180
+1181 እ.ኤ.አ.	1181
+አህያ	Equus asinus
+1182 እ.ኤ.አ.	1182
+1928 እ.ኤ.አ.	1928
+1183 እ.ኤ.አ.	1183
+1184 እ.ኤ.አ.	1184
+1185 እ.ኤ.አ.	1185
+1186 እ.ኤ.አ.	1186
+1187 እ.ኤ.አ.	1187
+1188 እ.ኤ.አ.	1188
+1189 እ.ኤ.አ.	1189
+1190 እ.ኤ.አ.	1190
+1191 እ.ኤ.አ.	1191
+1192 እ.ኤ.አ.	1192
+1193 እ.ኤ.አ.	1193
+1194 እ.ኤ.አ.	1194
+1195 እ.ኤ.አ.	1195
+1196 እ.ኤ.አ.	1196
+1197 እ.ኤ.አ.	1197
+1198 እ.ኤ.አ.	1198
+1199 እ.ኤ.አ.	1199
+6 እ.ኤ.አ.	6
+ብሉይ ኪዳን	Antico Testamento
+ገና	Natale
+ሶስት ማእዘን	Triangolo
+ስቲቭ ጆብስ	Steve Jobs
+ብራይንግርበርግ	Breinigerberg
+ቩንግ ታው	Vũng Tàu
+ኪሺንው	Chișinău
+የኮምፒውተር፡ጥናት	Informatica
+የተፈጥሮ ቁጥር (ናቹራል ነምበር)	Numero naturale
+የባሕል ጥናት	Sociologia
+አሩባ	Aruba
+ብሩማት	Brumath
+ፔትሮሊየም	Petrolio
+የምድር መጋጠሚያ ውቅር	Coordinate geografiche
+ፍሪድርክ ሺለር	Friedrich Schiller
+ባንክ	Banca
+መትዝ	Metz
+ፔንስልቫኒያ ጀርመንኛ	Lingua tedesca della Pennsylvania
+አየርላንድ	Irlanda (isola)
+ብራድፎርድ	Bradford
+ኤልን	Elne
+1 እ.ኤ.አ.	1
+ሉ ሡን	Lu Xun
+ሴግሬ ወንዝ	Segre (fiume)
+10 እ.ኤ.አ.	10
+20 እ.ኤ.አ.	20
+30 እ.ኤ.አ.	30
+አብካዝያ	Abcasia
+40 እ.ኤ.አ.	40
+9 እ.ኤ.አ.	9
+7 እ.ኤ.አ.	7
+8 እ.ኤ.አ.	8
+12 እ.ኤ.አ.	12
+ዶሚኒክ ኤንግር	Jean-Auguste-Dominique Ingres
+በረዶ	Ghiaccio
+አባታችን ሆይ	Padre nostro
+ሀይቅ	Lago
+ነጭ ሽንኩርት	Allium sativum
+የሰው ልጅ ጥናት	Antropologia
+930 እ.ኤ.አ.	930
+13 እ.ኤ.አ.	13
+985 እ.ኤ.አ.	985
+1122 እ.ኤ.አ.	1122
+981 እ.ኤ.አ.	981
+939 እ.ኤ.አ.	939
+ደቡብ ኦሤትያ	Ossezia del Sud
+ኡላዓን ባዓታር	Ulan Bator
+ኧርነስት ሄሚንጔይ	Ernest Hemingway
+ኤዲንቦሮ	Edimburgo
+አሽጋባት	Aşgabat
+51 እ.ኤ.አ.	51
+ኦክታቭ ሚርቦ	Octave Mirbeau
+ነጭ	Bianco
+ጥቁር	Nero
+814 እ.ኤ.አ.	814
+678 እ.ኤ.አ.	678
+950 እ.ኤ.አ.	950
+679 እ.ኤ.አ.	679
+996 እ.ኤ.አ.	996
+680 እ.ኤ.አ.	680
+37 እ.ኤ.አ.	37
+980 እ.ኤ.አ.	980
+900 እ.ኤ.አ.	900
+1129 እ.ኤ.አ.	1129
+843 እ.ኤ.አ.	843
+690 እ.ኤ.አ.	690
+691 እ.ኤ.አ.	691
+988 እ.ኤ.አ.	988
+692 እ.ኤ.አ.	692
+476 እ.ኤ.አ.	476
+693 እ.ኤ.አ.	693
+ማርሴ	Marsiglia
+694 እ.ኤ.አ.	694
+695 እ.ኤ.አ.	695
+696 እ.ኤ.አ.	696
+697 እ.ኤ.አ.	697
+698 እ.ኤ.አ.	698
+699 እ.ኤ.አ.	699
+700 እ.ኤ.አ.	700
+ሞሽቼና	Moščena
+701 እ.ኤ.አ.	701
+702 እ.ኤ.አ.	702
+ሥነ ቅርስ	Archeologia
+703 እ.ኤ.አ.	703
+ቲማቲም	Solanum lycopersicum
+704 እ.ኤ.አ.	704
+705 እ.ኤ.አ.	705
+ጆርጅ ኤች ቡሽ	George H. W. Bush
+706 እ.ኤ.አ.	706
+68 እ.ኤ.አ.	68
+89 እ.ኤ.አ.	89
+707 እ.ኤ.አ.	707
+708 እ.ኤ.አ.	708
+709 እ.ኤ.አ.	709
+11 እ.ኤ.አ.	11
+710 እ.ኤ.አ.	710
+711 እ.ኤ.አ.	711
+712 እ.ኤ.አ.	712
+713 እ.ኤ.አ.	713
+714 እ.ኤ.አ.	714
+መደብ:ስላቪክ ቋንቋዎች	Lingue slave
+715 እ.ኤ.አ.	715
+716 እ.ኤ.አ.	716
+717 እ.ኤ.አ.	717
+718 እ.ኤ.አ.	718
+ኤንትረና	Entrena
+719 እ.ኤ.አ.	719
+720 እ.ኤ.አ.	720
+721 እ.ኤ.አ.	721
+722 እ.ኤ.አ.	722
+ሴሌና	Selena
+723 እ.ኤ.አ.	723
+724 እ.ኤ.አ.	724
+ሜሪዳ፣ ቬኔዝዌላ	Mérida (Venezuela)
+725 እ.ኤ.አ.	725
+726 እ.ኤ.አ.	726
+አትላንታ	Atlanta
+727 እ.ኤ.አ.	727
+728 እ.ኤ.አ.	728
+729 እ.ኤ.አ.	729
+963 እ.ኤ.አ.	963
+730 እ.ኤ.አ.	730
+ፖድጎሪጻ	Podgorica
+731 እ.ኤ.አ.	731
+962 እ.ኤ.አ.	962
+732 እ.ኤ.አ.	732
+733 እ.ኤ.አ.	733
+997 እ.ኤ.አ.	997
+734 እ.ኤ.አ.	734
+972 እ.ኤ.አ.	972
+735 እ.ኤ.አ.	735
+955 እ.ኤ.አ.	955
+901 እ.ኤ.አ.	901
+736 እ.ኤ.አ.	736
+737 እ.ኤ.አ.	737
+936 እ.ኤ.አ.	936
+738 እ.ኤ.አ.	738
+953 እ.ኤ.አ.	953
+902 እ.ኤ.አ.	902
+739 እ.ኤ.አ.	739
+15 እ.ኤ.አ.	15
+740 እ.ኤ.አ.	740
+14 እ.ኤ.አ.	14
+741 እ.ኤ.አ.	741
+742 እ.ኤ.አ.	742
+17 እ.ኤ.አ.	17
+743 እ.ኤ.አ.	743
+958 እ.ኤ.አ.	958
+744 እ.ኤ.አ.	744
+500 እ.ኤ.አ.	500
+745 እ.ኤ.አ.	745
+150 እ.ኤ.አ.	150
+746 እ.ኤ.አ.	746
+880 እ.ኤ.አ.	880
+747 እ.ኤ.አ.	747
+748 እ.ኤ.አ.	748
+749 እ.ኤ.አ.	749
+870 እ.ኤ.አ.	870
+903 እ.ኤ.አ.	903
+750 እ.ኤ.አ.	750
+751 እ.ኤ.አ.	751
+752 እ.ኤ.አ.	752
+753 እ.ኤ.አ.	753
+987 እ.ኤ.አ.	987
+754 እ.ኤ.አ.	754
+965 እ.ኤ.አ.	965
+755 እ.ኤ.አ.	755
+924 እ.ኤ.አ.	924
+951 እ.ኤ.አ.	951
+932 እ.ኤ.አ.	932
+ዌሊንግተን	Wellington
+23 እ.ኤ.አ.	23
+800 እ.ኤ.አ.	800
+ጂሚ ካርተር	Jimmy Carter
+120 እ.ኤ.አ.	120
+42 እ.ኤ.አ.	42
+967 እ.ኤ.አ.	967
+989 እ.ኤ.አ.	989
+960 እ.ኤ.አ.	960
+969 እ.ኤ.አ.	969
+957 እ.ኤ.አ.	957
+1124 እ.ኤ.አ.	1124
+971 እ.ኤ.አ.	971
+937 እ.ኤ.አ.	937
+992 እ.ኤ.አ.	992
+990 እ.ኤ.አ.	990
+899 እ.ኤ.አ.	899
+975 እ.ኤ.አ.	975
+942 እ.ኤ.አ.	942
+966 እ.ኤ.አ.	966
+1128 እ.ኤ.አ.	1128
+959 እ.ኤ.አ.	959
+973 እ.ኤ.አ.	973
+18 እ.ኤ.አ.	18
+19 እ.ኤ.አ.	19
+16 እ.ኤ.አ.	16
+ላስ ቬጋስ	Las Vegas
+21 እ.ኤ.አ.	21
+26 እ.ኤ.አ.	26
+41 እ.ኤ.አ.	41
+32 እ.ኤ.አ.	32
+33 እ.ኤ.አ.	33
+982 እ.ኤ.አ.	982
+974 እ.ኤ.አ.	974
+976 እ.ኤ.አ.	976
+979 እ.ኤ.አ.	979
+986 እ.ኤ.አ.	986
+919 እ.ኤ.አ.	919
+998 እ.ኤ.አ.	998
+995 እ.ኤ.አ.	995
+977 እ.ኤ.አ.	977
+1125 እ.ኤ.አ.	1125
+ቫሌታ	La Valletta
+934 እ.ኤ.አ.	934
+200 እ.ኤ.አ.	200
+876 እ.ኤ.አ.	876
+875 እ.ኤ.አ.	875
+810 እ.ኤ.አ.	810
+929 እ.ኤ.አ.	929
+882 እ.ኤ.አ.	882
+1127 እ.ኤ.አ.	1127
+940 እ.ኤ.አ.	940
+889 እ.ኤ.አ.	889
+844 እ.ኤ.አ.	844
+912 እ.ኤ.አ.	912
+838 እ.ኤ.አ.	838
+984 እ.ኤ.አ.	984
+874 እ.ኤ.አ.	874
+38 እ.ኤ.አ.	38
+43 እ.ኤ.አ.	43
+127 እ.ኤ.አ.	127
+954 እ.ኤ.አ.	954
+39 እ.ኤ.አ.	39
+24 እ.ኤ.አ.	24
+79 እ.ኤ.አ.	79
+61 እ.ኤ.አ.	61
+104 እ.ኤ.አ.	104
+29 እ.ኤ.አ.	29
+102 እ.ኤ.አ.	102
+866 እ.ኤ.አ.	866
+839 እ.ኤ.አ.	839
+622 እ.ኤ.አ.	622
+918 እ.ኤ.አ.	918
+100 እ.ኤ.አ.	100
+ሊላ ዳውንስ	Lila Downs
+961 እ.ኤ.አ.	961
+570 እ.ኤ.አ.	570
+632 እ.ኤ.አ.	632
+946 እ.ኤ.አ.	946
+835 እ.ኤ.አ.	835
+884 እ.ኤ.አ.	884
+859 እ.ኤ.አ.	859
+832 እ.ኤ.አ.	832
+849 እ.ኤ.አ.	849
+877 እ.ኤ.አ.	877
+878 እ.ኤ.አ.	878
+861 እ.ኤ.አ.	861
+869 እ.ኤ.አ.	869
+968 እ.ኤ.አ.	968
+983 እ.ኤ.አ.	983
+964 እ.ኤ.አ.	964
+1121 እ.ኤ.አ.	1121
+1123 እ.ኤ.አ.	1123
+933 እ.ኤ.አ.	933
+915 እ.ኤ.አ.	915
+970 እ.ኤ.አ.	970
+911 እ.ኤ.አ.	911
+993 እ.ኤ.አ.	993
+991 እ.ኤ.አ.	991
+994 እ.ኤ.አ.	994
+898 እ.ኤ.አ.	898
+944 እ.ኤ.አ.	944
+907 እ.ኤ.አ.	907
+943 እ.ኤ.አ.	943
+945 እ.ኤ.አ.	945
+922 እ.ኤ.አ.	922
+905 እ.ኤ.አ.	905
+941 እ.ኤ.አ.	941
+925 እ.ኤ.አ.	925
+928 እ.ኤ.አ.	928
+948 እ.ኤ.አ.	948
+947 እ.ኤ.አ.	947
+949 እ.ኤ.አ.	949
+926 እ.ኤ.አ.	926
+126 እ.ኤ.አ.	126
+101 እ.ኤ.አ.	101
+105 እ.ኤ.አ.	105
+108 እ.ኤ.አ.	108
+117 እ.ኤ.አ.	117
+115 እ.ኤ.አ.	115
+22 እ.ኤ.አ.	22
+46 እ.ኤ.አ.	46
+25 እ.ኤ.አ.	25
+153 እ.ኤ.አ.	153
+156 እ.ኤ.አ.	156
+31 እ.ኤ.አ.	31
+825 እ.ኤ.አ.	825
+ቫንኩቨር	Vancouver
+301 እ.ኤ.አ.	301
+116 እ.ኤ.አ.	116
+886 እ.ኤ.አ.	886
+330 እ.ኤ.አ.	330
+ኤፍ.ሲ. ግሮኒንገን	Football Club Groningen
+860 እ.ኤ.አ.	860
+842 እ.ኤ.አ.	842
+165 እ.ኤ.አ.	165
+871 እ.ኤ.አ.	871
+893 እ.ኤ.አ.	893
+203 እ.ኤ.አ.	203
+909 እ.ኤ.አ.	909
+222 እ.ኤ.አ.	222
+931 እ.ኤ.አ.	931
+938 እ.ኤ.አ.	938
+917 እ.ኤ.አ.	917
+160 እ.ኤ.አ.	160
+28 እ.ኤ.አ.	28
+ሊቨርፑል፣ እንግሊዝ	Liverpool
+85 እ.ኤ.አ.	85
+88 እ.ኤ.አ.	88
+76 እ.ኤ.አ.	76
+54 እ.ኤ.አ.	54
+477 እ.ኤ.አ.	477
+914 እ.ኤ.አ.	914
+920 እ.ኤ.አ.	920
+913 እ.ኤ.አ.	913
+935 እ.ኤ.አ.	935
+841 እ.ኤ.አ.	841
+አቫታር (ፊልም)	Avatar (film 2009)
+820 እ.ኤ.አ.	820
+906 እ.ኤ.አ.	906
+916 እ.ኤ.አ.	916
+885 እ.ኤ.አ.	885
+168 እ.ኤ.አ.	168
+60 እ.ኤ.አ.	60
+47 እ.ኤ.አ.	47
+836 እ.ኤ.አ.	836
+112 እ.ኤ.አ.	112
+854 እ.ኤ.አ.	854
+862 እ.ኤ.አ.	862
+879 እ.ኤ.አ.	879
+887 እ.ኤ.አ.	887
+770 እ.ኤ.አ.	770
+817 እ.ኤ.አ.	817
+864 እ.ኤ.አ.	864
+863 እ.ኤ.አ.	863
+868 እ.ኤ.አ.	868
+855 እ.ኤ.አ.	855
+818 እ.ኤ.አ.	818
+837 እ.ኤ.አ.	837
+845 እ.ኤ.አ.	845
+166 እ.ኤ.አ.	166
+ሰዓት (የጊዜ አሀድ)	Ora
+ኣተር	Pisum sativum
+የጀርባ አጥንት ያላቸው እንስሳት	Vertebrata
+2016 እ.ኤ.አ.	2016
+ኖቪ ድቩር ክሩለፍስኪ	Nowy Dwór Królewski
+ፋሮኛ	Lingua faroese
+552 እ.ኤ.አ.	552
+አፍሮ እስያዊ ቋንቋዎች	Lingue afro-asiatiche
+ታታርኛ	Lingua tatara
+ዬተቦርይ	Göteborg
+ክብደት	Forza peso
+ኮርንኛ	Lingua cornica
+2017 እ.ኤ.አ.	2017
+2018 እ.ኤ.አ.	2018
+ተምር	Phoenix dactylifera
+መዶሻ	Martello
+ዋሽንግተን	Washington (disambigua)
+ሃይል (ፊዚክስ)	Potenza (fisica)
+መጠነ እንቅፋት	Resistenza elettrica
+ዝቅተኛ ሳክስኛ	Lingua basso-tedesca
+ካርልስታድ	Karlstad (Svezia)
+ሜልንልኬ	Mölnlycke
+600 እ.ኤ.አ.	600
+400 እ.ኤ.አ.	400
+300 እ.ኤ.አ.	300
+ሉዊስ አልቤርቶ ሱዋሬዝ	Luis Suárez (calciatore 1987)
+የምዕራብ-ጀርመናዊ ቋንቋዎች ቤተሠብ	Lingue germaniche occidentali
+እጸ ፋርስ	Cannabis sativa
+ቅርንፉድ	Syzygium aromaticum
+ሄሮዶቶስ	Erodoto
+ወተት ኣንጀት	Abomaso
+ነመድ	Nemed
+ሜልንዳል	Mölndal
+አፋርኛ	Lingua afar
+ክርስታደልፍያን	Cristadelfiani
+አማርኛ	Lingua amarica
+አናፖሊስ	Annapolis
+ሰለሪ	Apium graveolens
+ጎጆሰን	Ko Chosŏn
+36 እ.ኤ.አ.	36
+ፀጉር	Pelo
+መጠነ ዙሪያ	Perimetro
+ጨርቅ	Tessuto
+ውድድር	Derivata
+ኋንግ ዲ	Huang Di
+ከአባ	Kaaba
+ሪፐብሊካን ፓርቲ (አሜሪካ)	Partito Repubblicano (Stati Uniti d'America)
+ሕዝቡን የመራች ነፃነት	La Libertà che guida il popolo
+ዴሞክራቲክ ፓርቲ (አሜሪካ)	Partito Democratico (Stati Uniti d'America)
+የፈረንሣይ ፕሬዚዳንቶች	Presidenti della Repubblica francese
+አውቶስቴሮግራም	Autostereogramma
+815 እ.ኤ.አ.	815
+የምስር አረብኛ	Arabo egiziano
+816 እ.ኤ.አ.	816
+822 እ.ኤ.አ.	822
+840 እ.ኤ.አ.	840
+823 እ.ኤ.አ.	823
+811 እ.ኤ.አ.	811
+771 እ.ኤ.አ.	771
+888 እ.ኤ.አ.	888
+768 እ.ኤ.አ.	768
+አስዩት	Asyūṭ
+851 እ.ኤ.አ.	851
+205 እ.ኤ.አ.	205
+159 እ.ኤ.አ.	159
+107 እ.ኤ.አ.	107
+162 እ.ኤ.አ.	162
+103 እ.ኤ.አ.	103
+802 እ.ኤ.አ.	802
+804 እ.ኤ.አ.	804
+119 እ.ኤ.አ.	119
+118 እ.ኤ.አ.	118
+801 እ.ኤ.አ.	801
+807 እ.ኤ.አ.	807
+806 እ.ኤ.አ.	806
+152 እ.ኤ.አ.	152
+240 እ.ኤ.አ.	240
+218 እ.ኤ.አ.	218
+655 እ.ኤ.አ.	655
+496 እ.ኤ.አ.	496
+238 እ.ኤ.አ.	238
+197 እ.ኤ.አ.	197
+451 እ.ኤ.አ.	451
+775 እ.ኤ.አ.	775
+489 እ.ኤ.አ.	489
+784 እ.ኤ.አ.	784
+661 እ.ኤ.አ.	661
+625 እ.ኤ.አ.	625
+653 እ.ኤ.አ.	653
+904 እ.ኤ.አ.	904
+921 እ.ኤ.አ.	921
+923 እ.ኤ.አ.	923
+1126 እ.ኤ.አ.	1126
+668 እ.ኤ.አ.	668
+636 እ.ኤ.አ.	636
+408 እ.ኤ.አ.	408
+464 እ.ኤ.አ.	464
+410 እ.ኤ.አ.	410
+956 እ.ኤ.አ.	956
+952 እ.ኤ.አ.	952
+658 እ.ኤ.አ.	658
+650 እ.ኤ.አ.	650
+518 እ.ኤ.አ.	518
+70 እ.ኤ.አ.	70
+81 እ.ኤ.አ.	81
+69 እ.ኤ.አ.	69
+87 እ.ኤ.አ.	87
+65 እ.ኤ.አ.	65
+66 እ.ኤ.አ.	66
+67 እ.ኤ.አ.	67
+55 እ.ኤ.አ.	55
+34 እ.ኤ.አ.	34
+44 እ.ኤ.አ.	44
+35 እ.ኤ.አ.	35
+64 እ.ኤ.አ.	64
+504 እ.ኤ.አ.	504
+453 እ.ኤ.አ.	453
+161 እ.ኤ.አ.	161
+169 እ.ኤ.አ.	169
+481 እ.ኤ.አ.	481
+151 እ.ኤ.አ.	151
+155 እ.ኤ.አ.	155
+128 እ.ኤ.አ.	128
+129 እ.ኤ.አ.	129
+463 እ.ኤ.አ.	463
+193 እ.ኤ.አ.	193
+674 እ.ኤ.አ.	674
+687 እ.ኤ.አ.	687
+251 እ.ኤ.አ.	251
+337 እ.ኤ.አ.	337
+786 እ.ኤ.አ.	786
+660 እ.ኤ.አ.	660
+50 እ.ኤ.አ.	50
+260 እ.ኤ.አ.	260
+501 እ.ኤ.አ.	501
+45 እ.ኤ.አ.	45
+491 እ.ኤ.አ.	491
+49 እ.ኤ.አ.	49
+978 እ.ኤ.አ.	978
+ሳይሌሲያን	Lingua slesiana
+221 እ.ኤ.አ.	221
+543 እ.ኤ.አ.	543
+536 እ.ኤ.አ.	536
+230 እ.ኤ.አ.	230
+762 እ.ኤ.አ.	762
+610 እ.ኤ.አ.	610
+787 እ.ኤ.አ.	787
+480 እ.ኤ.አ.	480
+209 እ.ኤ.አ.	209
+202 እ.ኤ.አ.	202
+192 እ.ኤ.አ.	192
+681 እ.ኤ.አ.	681
+819 እ.ኤ.አ.	819
+173 እ.ኤ.አ.	173
+867 እ.ኤ.አ.	867
+865 እ.ኤ.አ.	865
+827 እ.ኤ.አ.	827
+824 እ.ኤ.አ.	824
+847 እ.ኤ.አ.	847
+883 እ.ኤ.አ.	883
+829 እ.ኤ.አ.	829
+813 እ.ኤ.አ.	813
+910 እ.ኤ.አ.	910
+850 እ.ኤ.አ.	850
+808 እ.ኤ.አ.	808
+853 እ.ኤ.አ.	853
+872 እ.ኤ.አ.	872
+873 እ.ኤ.አ.	873
+856 እ.ኤ.አ.	856
+858 እ.ኤ.አ.	858
+831 እ.ኤ.አ.	831
+857 እ.ኤ.አ.	857
+828 እ.ኤ.አ.	828
+826 እ.ኤ.አ.	826
+833 እ.ኤ.አ.	833
+848 እ.ኤ.አ.	848
+834 እ.ኤ.አ.	834
+881 እ.ኤ.አ.	881
+852 እ.ኤ.አ.	852
+163 እ.ኤ.አ.	163
+154 እ.ኤ.አ.	154
+201 እ.ኤ.አ.	201
+803 እ.ኤ.አ.	803
+805 እ.ኤ.አ.	805
+52 እ.ኤ.አ.	52
+532 እ.ኤ.አ.	532
+82 እ.ኤ.አ.	82
+84 እ.ኤ.አ.	84
+73 እ.ኤ.አ.	73
+72 እ.ኤ.አ.	72
+62 እ.ኤ.አ.	62
+71 እ.ኤ.አ.	71
+75 እ.ኤ.አ.	75
+74 እ.ኤ.አ.	74
+83 እ.ኤ.አ.	83
+78 እ.ኤ.አ.	78
+77 እ.ኤ.አ.	77
+90 እ.ኤ.አ.	90
+80 እ.ኤ.አ.	80
+627 እ.ኤ.አ.	627
+456 እ.ኤ.አ.	456
+91 እ.ኤ.አ.	91
+190 እ.ኤ.አ.	190
+109 እ.ኤ.አ.	109
+53 እ.ኤ.አ.	53
+270 እ.ኤ.አ.	270
+688 እ.ኤ.አ.	688
+452 እ.ኤ.አ.	452
+795 እ.ኤ.አ.	795
+አቭርል ለቪን	Avril Lavigne
+465 እ.ኤ.አ.	465
+778 እ.ኤ.አ.	778
+846 እ.ኤ.አ.	846
+830 እ.ኤ.አ.	830
+404 እ.ኤ.አ.	404
+ፕሬዝዳንት	Presidente
+908 እ.ኤ.አ.	908
+896 እ.ኤ.አ.	896
+897 እ.ኤ.አ.	897
+927 እ.ኤ.አ.	927
+63 እ.ኤ.አ.	63
+555 እ.ኤ.አ.	555
+571 እ.ኤ.አ.	571
+86 እ.ኤ.አ.	86
+401 እ.ኤ.አ.	401
+890 እ.ኤ.አ.	890
+533 እ.ኤ.አ.	533
+264 እ.ኤ.አ.	264
+99 እ.ኤ.አ.	99
+415 እ.ኤ.አ.	415
+483 እ.ኤ.አ.	483
+469 እ.ኤ.አ.	469
+462 እ.ኤ.አ.	462
+459 እ.ኤ.አ.	459
+466 እ.ኤ.አ.	466
+402 እ.ኤ.አ.	402
+761 እ.ኤ.አ.	761
+780 እ.ኤ.አ.	780
+675 እ.ኤ.አ.	675
+689 እ.ኤ.አ.	689
+774 እ.ኤ.አ.	774
+759 እ.ኤ.አ.	759
+758 እ.ኤ.አ.	758
+350 እ.ኤ.አ.	350
+782 እ.ኤ.አ.	782
+760 እ.ኤ.አ.	760
+785 እ.ኤ.አ.	785
+783 እ.ኤ.አ.	783
+767 እ.ኤ.አ.	767
+766 እ.ኤ.አ.	766
+211 እ.ኤ.አ.	211
+232 እ.ኤ.አ.	232
+204 እ.ኤ.አ.	204
+188 እ.ኤ.አ.	188
+98 እ.ኤ.አ.	98
+894 እ.ኤ.አ.	894
+891 እ.ኤ.አ.	891
+602 እ.ኤ.አ.	602
+628 እ.ኤ.አ.	628
+892 እ.ኤ.አ.	892
+601 እ.ኤ.አ.	601
+672 እ.ኤ.አ.	672
+682 እ.ኤ.አ.	682
+821 እ.ኤ.አ.	821
+648 እ.ኤ.አ.	648
+686 እ.ኤ.አ.	686
+664 እ.ኤ.አ.	664
+677 እ.ኤ.አ.	677
+640 እ.ኤ.አ.	640
+110 እ.ኤ.አ.	110
+111 እ.ኤ.አ.	111
+137 እ.ኤ.አ.	137
+138 እ.ኤ.አ.	138
+122 እ.ኤ.አ.	122
+140 እ.ኤ.አ.	140
+809 እ.ኤ.አ.	809
+167 እ.ኤ.አ.	167
+665 እ.ኤ.አ.	665
+776 እ.ኤ.አ.	776
+763 እ.ኤ.አ.	763
+769 እ.ኤ.አ.	769
+667 እ.ኤ.አ.	667
+529 እ.ኤ.አ.	529
+777 እ.ኤ.አ.	777
+788 እ.ኤ.አ.	788
+671 እ.ኤ.አ.	671
+772 እ.ኤ.አ.	772
+432 እ.ኤ.አ.	432
+231 እ.ኤ.አ.	231
+237 እ.ኤ.አ.	237
+239 እ.ኤ.አ.	239
+130 እ.ኤ.አ.	130
+226 እ.ኤ.አ.	226
+207 እ.ኤ.አ.	207
+475 እ.ኤ.አ.	475
+454 እ.ኤ.አ.	454
+495 እ.ኤ.አ.	495
+206 እ.ኤ.አ.	206
+468 እ.ኤ.አ.	468
+461 እ.ኤ.አ.	461
+460 እ.ኤ.አ.	460
+194 እ.ኤ.አ.	194
+210 እ.ኤ.አ.	210
+ዳልጋ ኣንበሳ	Caracal caracal
+225 እ.ኤ.አ.	225
+311 እ.ኤ.አ.	311
+220 እ.ኤ.አ.	220
+541 እ.ኤ.አ.	541
+642 እ.ኤ.አ.	642
+313 እ.ኤ.አ.	313
+180 እ.ኤ.አ.	180
+794 እ.ኤ.አ.	794
+587 እ.ኤ.አ.	587
+530 እ.ኤ.አ.	530
+609 እ.ኤ.አ.	609
+497 እ.ኤ.አ.	497
+540 እ.ኤ.አ.	540
+428 እ.ኤ.አ.	428
+548 እ.ኤ.አ.	548
+422 እ.ኤ.አ.	422
+549 እ.ኤ.አ.	549
+457 እ.ኤ.አ.	457
+478 እ.ኤ.አ.	478
+253 እ.ኤ.አ.	253
+467 እ.ኤ.አ.	467
+458 እ.ኤ.አ.	458
+158 እ.ኤ.አ.	158
+157 እ.ኤ.አ.	157
+164 እ.ኤ.አ.	164
+124 እ.ኤ.አ.	124
+113 እ.ኤ.አ.	113
+121 እ.ኤ.አ.	121
+106 እ.ኤ.አ.	106
+551 እ.ኤ.አ.	551
+494 እ.ኤ.አ.	494
+320 እ.ኤ.አ.	320
+242 እ.ኤ.አ.	242
+291 እ.ኤ.አ.	291
+48 እ.ኤ.አ.	48
+ኣጠፋሪስ	Datura stramonium
+97 እ.ኤ.አ.	97
+56 እ.ኤ.አ.	56
+93 እ.ኤ.አ.	93
+57 እ.ኤ.አ.	57
+ሩዋን	Rouen
+503 እ.ኤ.አ.	503
+510 እ.ኤ.አ.	510
+509 እ.ኤ.አ.	509
+474 እ.ኤ.አ.	474
+484 እ.ኤ.አ.	484
+576 እ.ኤ.አ.	576
+493 እ.ኤ.አ.	493
+479 እ.ኤ.አ.	479
+287 እ.ኤ.አ.	287
+407 እ.ኤ.አ.	407
+485 እ.ኤ.አ.	485
+547 እ.ኤ.አ.	547
+546 እ.ኤ.አ.	546
+544 እ.ኤ.አ.	544
+537 እ.ኤ.አ.	537
+535 እ.ኤ.አ.	535
+502 እ.ኤ.አ.	502
+527 እ.ኤ.አ.	527
+ያሬን	Yaren
+508 እ.ኤ.አ.	508
+ገመድ	Corda
+525 እ.ኤ.አ.	525
+613 እ.ኤ.አ.	613
+618 እ.ኤ.አ.	618
+617 እ.ኤ.አ.	617
+608 እ.ኤ.አ.	608
+645 እ.ኤ.አ.	645
+621 እ.ኤ.አ.	621
+606 እ.ኤ.አ.	606
+623 እ.ኤ.አ.	623
+604 እ.ኤ.አ.	604
+603 እ.ኤ.አ.	603
+626 እ.ኤ.አ.	626
+619 እ.ኤ.አ.	619
+634 እ.ኤ.አ.	634
+630 እ.ኤ.አ.	630
+614 እ.ኤ.አ.	614
+505 እ.ኤ.አ.	505
+446 እ.ኤ.አ.	446
+791 እ.ኤ.አ.	791
+557 እ.ኤ.አ.	557
+ካልኩሌተር	Calcolatrice
+656 እ.ኤ.አ.	656
+657 እ.ኤ.አ.	657
+659 እ.ኤ.አ.	659
+651 እ.ኤ.አ.	651
+676 እ.ኤ.አ.	676
+670 እ.ኤ.አ.	670
+652 እ.ኤ.አ.	652
+673 እ.ኤ.አ.	673
+654 እ.ኤ.አ.	654
+647 እ.ኤ.አ.	647
+812 እ.ኤ.አ.	812
+669 እ.ኤ.አ.	669
+792 እ.ኤ.አ.	792
+649 እ.ኤ.አ.	649
+895 እ.ኤ.አ.	895
+756 እ.ኤ.አ.	756
+663 እ.ኤ.አ.	663
+779 እ.ኤ.አ.	779
+662 እ.ኤ.አ.	662
+684 እ.ኤ.አ.	684
+773 እ.ኤ.አ.	773
+757 እ.ኤ.አ.	757
+435 እ.ኤ.አ.	435
+790 እ.ኤ.አ.	790
+437 እ.ኤ.አ.	437
+433 እ.ኤ.አ.	433
+764 እ.ኤ.አ.	764
+426 እ.ኤ.አ.	426
+781 እ.ኤ.አ.	781
+425 እ.ኤ.አ.	425
+429 እ.ኤ.አ.	429
+423 እ.ኤ.አ.	423
+765 እ.ኤ.አ.	765
+235 እ.ኤ.አ.	235
+233 እ.ኤ.አ.	233
+223 እ.ኤ.አ.	223
+224 እ.ኤ.አ.	224
+216 እ.ኤ.አ.	216
+219 እ.ኤ.አ.	219
+254 እ.ኤ.አ.	254
+272 እ.ኤ.አ.	272
+208 እ.ኤ.አ.	208
+175 እ.ኤ.አ.	175
+170 እ.ኤ.አ.	170
+171 እ.ኤ.አ.	171
+172 እ.ኤ.አ.	172
+58 እ.ኤ.አ.	58
+59 እ.ኤ.አ.	59
+139 እ.ኤ.አ.	139
+114 እ.ኤ.አ.	114
+134 እ.ኤ.አ.	134
+135 እ.ኤ.አ.	135
+179 እ.ኤ.አ.	179
+142 እ.ኤ.አ.	142
+96 እ.ኤ.አ.	96
+181 እ.ኤ.አ.	181
+146 እ.ኤ.አ.	146
+145 እ.ኤ.አ.	145
+183 እ.ኤ.አ.	183
+182 እ.ኤ.አ.	182
+184 እ.ኤ.አ.	184
+324 እ.ኤ.አ.	324
+589 እ.ኤ.አ.	589
+521 እ.ኤ.አ.	521
+92 እ.ኤ.አ.	92
+597 እ.ኤ.አ.	597
+329 እ.ኤ.አ.	329
+ክራካው	Cracovia
+133 እ.ኤ.አ.	133
+413 እ.ኤ.አ.	413
+258 እ.ኤ.አ.	258
+259 እ.ኤ.አ.	259
+196 እ.ኤ.አ.	196
+236 እ.ኤ.አ.	236
+789 እ.ኤ.አ.	789
+332 እ.ኤ.አ.	332
+631 እ.ኤ.አ.	631
+487 እ.ኤ.አ.	487
+638 እ.ኤ.አ.	638
+473 እ.ኤ.አ.	473
+176 እ.ኤ.አ.	176
+143 እ.ኤ.አ.	143
+ገብስ ሻይ	Bevanda d'orzo
+643 እ.ኤ.አ.	643
+523 እ.ኤ.አ.	523
+215 እ.ኤ.አ.	215
+148 እ.ኤ.አ.	148
+247 እ.ኤ.አ.	247
+424 እ.ኤ.አ.	424
+641 እ.ኤ.አ.	641
+492 እ.ኤ.አ.	492
+639 እ.ኤ.አ.	639
+256 እ.ኤ.አ.	256
+441 እ.ኤ.አ.	441
+131 እ.ኤ.አ.	131
+191 እ.ኤ.አ.	191
+450 እ.ኤ.አ.	450
+612 እ.ኤ.አ.	612
+635 እ.ኤ.አ.	635
+611 እ.ኤ.አ.	611
+534 እ.ኤ.አ.	534
+488 እ.ኤ.አ.	488
+607 እ.ኤ.አ.	607
+524 እ.ኤ.አ.	524
+282 እ.ኤ.አ.	282
+472 እ.ኤ.አ.	472
+471 እ.ኤ.አ.	471
+490 እ.ኤ.አ.	490
+316 እ.ኤ.አ.	316
+797 እ.ኤ.አ.	797
+511 እ.ኤ.አ.	511
+295 እ.ኤ.አ.	295
+598 እ.ኤ.አ.	598
+አረቢያ	Penisola araba
+303 እ.ኤ.አ.	303
+250 እ.ኤ.አ.	250
+515 እ.ኤ.አ.	515
+512 እ.ኤ.አ.	512
+418 እ.ኤ.አ.	418
+333 እ.ኤ.አ.	333
+294 እ.ኤ.አ.	294
+217 እ.ኤ.አ.	217
+277 እ.ኤ.አ.	277
+578 እ.ኤ.አ.	578
+312 እ.ኤ.አ.	312
+284 እ.ኤ.አ.	284
+283 እ.ኤ.አ.	283
+241 እ.ኤ.አ.	241
+243 እ.ኤ.አ.	243
+262 እ.ኤ.አ.	262
+498 እ.ኤ.አ.	498
+336 እ.ኤ.አ.	336
+334 እ.ኤ.አ.	334
+266 እ.ኤ.አ.	266
+261 እ.ኤ.አ.	261
+470 እ.ኤ.አ.	470
+349 እ.ኤ.አ.	349
+271 እ.ኤ.አ.	271
+275 እ.ኤ.አ.	275
+292 እ.ኤ.አ.	292
+296 እ.ኤ.አ.	296
+345 እ.ኤ.አ.	345
+431 እ.ኤ.አ.	431
+304 እ.ኤ.አ.	304
+550 እ.ኤ.አ.	550
+586 እ.ኤ.አ.	586
+588 እ.ኤ.አ.	588
+554 እ.ኤ.አ.	554
+229 እ.ኤ.አ.	229
+583 እ.ኤ.አ.	583
+265 እ.ኤ.አ.	265
+263 እ.ኤ.አ.	263
+585 እ.ኤ.አ.	585
+582 እ.ኤ.አ.	582
+556 እ.ኤ.አ.	556
+420 እ.ኤ.አ.	420
+280 እ.ኤ.አ.	280
+581 እ.ኤ.አ.	581
+558 እ.ኤ.አ.	558
+302 እ.ኤ.አ.	302
+309 እ.ኤ.አ.	309
+353 እ.ኤ.አ.	353
+335 እ.ኤ.አ.	335
+367 እ.ኤ.አ.	367
+344 እ.ኤ.አ.	344
+245 እ.ኤ.አ.	245
+290 እ.ኤ.አ.	290
+449 እ.ኤ.አ.	449
+308 እ.ኤ.አ.	308
+255 እ.ኤ.አ.	255
+439 እ.ኤ.አ.	439
+319 እ.ኤ.አ.	319
+318 እ.ኤ.አ.	318
+299 እ.ኤ.አ.	299
+419 እ.ኤ.አ.	419
+416 እ.ኤ.አ.	416
+338 እ.ኤ.አ.	338
+310 እ.ኤ.አ.	310
+315 እ.ኤ.አ.	315
+359 እ.ኤ.አ.	359
+360 እ.ኤ.አ.	360
+273 እ.ኤ.አ.	273
+286 እ.ኤ.አ.	286
+288 እ.ኤ.አ.	288
+278 እ.ኤ.አ.	278
+455 እ.ኤ.አ.	455
+577 እ.ኤ.አ.	577
+575 እ.ኤ.አ.	575
+482 እ.ኤ.አ.	482
+486 እ.ኤ.አ.	486
+580 እ.ኤ.አ.	580
+567 እ.ኤ.አ.	567
+564 እ.ኤ.አ.	564
+561 እ.ኤ.አ.	561
+328 እ.ኤ.አ.	328
+325 እ.ኤ.አ.	325
+317 እ.ኤ.አ.	317
+574 እ.ኤ.አ.	574
+566 እ.ኤ.አ.	566
+249 እ.ኤ.አ.	249
+348 እ.ኤ.አ.	348
+442 እ.ኤ.አ.	442
+443 እ.ኤ.አ.	443
+267 እ.ኤ.አ.	267
+244 እ.ኤ.አ.	244
+248 እ.ኤ.አ.	248
+343 እ.ኤ.አ.	343
+562 እ.ኤ.አ.	562
+417 እ.ኤ.አ.	417
+268 እ.ኤ.አ.	268
+590 እ.ኤ.አ.	590
+269 እ.ኤ.አ.	269
+ቬኔትኛ	Lingua veneta
+499 እ.ኤ.አ.	499
+409 እ.ኤ.አ.	409
+405 እ.ኤ.አ.	405
+406 እ.ኤ.አ.	406
+403 እ.ኤ.አ.	403
+414 እ.ኤ.አ.	414
+ቮሮኛ	Lingua võro
+411 እ.ኤ.አ.	411
+412 እ.ኤ.አ.	412
+560 እ.ኤ.አ.	560
+592 እ.ኤ.አ.	592
+የሜዳ አህያ	Zebra
+276 እ.ኤ.አ.	276
+መስጊድ	Moschea
+314 እ.ኤ.አ.	314
+323 እ.ኤ.አ.	323
+366 እ.ኤ.አ.	366
+362 እ.ኤ.አ.	362
+545 እ.ኤ.አ.	545
+531 እ.ኤ.አ.	531
+514 እ.ኤ.አ.	514
+513 እ.ኤ.አ.	513
+539 እ.ኤ.አ.	539
+538 እ.ኤ.አ.	538
+519 እ.ኤ.አ.	519
+516 እ.ኤ.አ.	516
+520 እ.ኤ.አ.	520
+522 እ.ኤ.አ.	522
+528 እ.ኤ.አ.	528
+506 እ.ኤ.አ.	506
+526 እ.ኤ.አ.	526
+507 እ.ኤ.አ.	507
+214 እ.ኤ.አ.	214
+213 እ.ኤ.አ.	213
+212 እ.ኤ.አ.	212
+228 እ.ኤ.አ.	228
+227 እ.ኤ.አ.	227
+149 እ.ኤ.አ.	149
+174 እ.ኤ.አ.	174
+189 እ.ኤ.አ.	189
+199 እ.ኤ.አ.	199
+141 እ.ኤ.አ.	141
+132 እ.ኤ.አ.	132
+ኮርሲካኛ	Lingua corsa
+125 እ.ኤ.አ.	125
+123 እ.ኤ.አ.	123
+147 እ.ኤ.አ.	147
+144 እ.ኤ.አ.	144
+198 እ.ኤ.አ.	198
+178 እ.ኤ.አ.	178
+177 እ.ኤ.አ.	177
+187 እ.ኤ.አ.	187
+195 እ.ኤ.አ.	195
+የአርመኒያ ሰንደቅ ዓላማ	Bandiera dell'Armenia
+186 እ.ኤ.አ.	186
+347 እ.ኤ.አ.	347
+620 እ.ኤ.አ.	620
+624 እ.ኤ.አ.	624
+ኩሻዊ ቋንቋዎች	Lingue cuscitiche
+605 እ.ኤ.አ.	605
+629 እ.ኤ.አ.	629
+616 እ.ኤ.አ.	616
+615 እ.ኤ.አ.	615
+644 እ.ኤ.አ.	644
+646 እ.ኤ.አ.	646
+633 እ.ኤ.አ.	633
+637 እ.ኤ.አ.	637
+436 እ.ኤ.አ.	436
+434 እ.ኤ.አ.	434
+293 እ.ኤ.አ.	293
+427 እ.ኤ.አ.	427
+185 እ.ኤ.አ.	185
+321 እ.ኤ.አ.	321
+327 እ.ኤ.አ.	327
+430 እ.ኤ.አ.	430
+447 እ.ኤ.አ.	447
+569 እ.ኤ.አ.	569
+568 እ.ኤ.አ.	568
+444 እ.ኤ.አ.	444
+ፍሪዩልያን	Lingua friulana
+796 እ.ኤ.አ.	796
+ንሴት	Potenza (matematica)
+798 እ.ኤ.አ.	798
+793 እ.ኤ.አ.	793
+ጋን ቻይንኛ	Lingua gan
+እዤን ደላክሯ	Eugène Delacroix
+685 እ.ኤ.አ.	685
+799 እ.ኤ.አ.	799
+683 እ.ኤ.አ.	683
+274 እ.ኤ.አ.	274
+579 እ.ኤ.አ.	579
+281 እ.ኤ.አ.	281
+306 እ.ኤ.አ.	306
+438 እ.ኤ.አ.	438
+ካሽሚርኛ	Lingua kashmiri
+297 እ.ኤ.አ.	297
+421 እ.ኤ.አ.	421
+298 እ.ኤ.አ.	298
+351 እ.ኤ.አ.	351
+352 እ.ኤ.አ.	352
+355 እ.ኤ.አ.	355
+95 እ.ኤ.አ.	95
+94 እ.ኤ.አ.	94
+594 እ.ኤ.አ.	594
+542 እ.ኤ.አ.	542
+448 እ.ኤ.አ.	448
+445 እ.ኤ.አ.	445
+305 እ.ኤ.አ.	305
+234 እ.ኤ.አ.	234
+565 እ.ኤ.አ.	565
+ጊላኪኛ	Lingua gilaki
+ካነዳኛ	Lingua kannada
+381 እ.ኤ.አ.	381
+385 እ.ኤ.አ.	385
+ካሹብኛ	Lingua casciuba
+ናይሎ ሳህራዊ ቋንቋዎች	Lingue nilo-sahariane
+553 እ.ኤ.አ.	553
+307 እ.ኤ.አ.	307
+584 እ.ኤ.አ.	584
+346 እ.ኤ.አ.	346
+257 እ.ኤ.አ.	257
+መብረቅ	Fulmine
+285 እ.ኤ.አ.	285
+591 እ.ኤ.አ.	591
+289 እ.ኤ.አ.	289
+በርትራንድ ረስል	Bertrand Russell
+የኒካራጓ ምልክት ቋንቋ	Lingua dei segni nicaraguense
+እጅ	Mano
+ዱ ፉ	Du Fu
+563 እ.ኤ.አ.	563
+የአኪሊዮስ ተረከዝ	Tallone di Achille
+252 እ.ኤ.አ.	252
+ናፖሊታንኛ	Lingua napoletana
+595 እ.ኤ.አ.	595
+ኖርማንኛ	Lingua normanna
+246 እ.ኤ.አ.	246
+ኦሞአዊ	Lingue omotiche
+ኦሮምኛ	Lingua oromo
+ቴዮዶር ሮዝቬልት	Theodore Roosevelt
+596 እ.ኤ.አ.	596
+593 እ.ኤ.አ.	593
+357 እ.ኤ.አ.	357
+573 እ.ኤ.አ.	573
+ቴል አቪቭ	Tel Aviv
+ስሜን ሳሚኛ	Lingua sami settentrionale
+ኢሮንኛ	Lingua osseta
+ኔፓል ባሳ	Lingua Nepal Bhasa
+ቫልፓራይሶ	Valparaíso
+ኢካሮስ	Icaro
+559 እ.ኤ.አ.	559
+ሴማዊ ቋንቋዎች	Lingue semitiche
+599 እ.ኤ.አ.	599
+326 እ.ኤ.አ.	326
+341 እ.ኤ.አ.	341
+322 እ.ኤ.አ.	322
+ናስ	Bronzo
+ሆስኒ ሙባረክ	Hosni Mubarak
+ወሓካ	Oaxaca (stato)
+386 እ.ኤ.አ.	386
+ትግርኛ	Lingua tigrina
+ፉናፉቲ	Funafuti
+374 እ.ኤ.አ.	374
+380 እ.ኤ.አ.	380
+ቶክ ፒሲን	Lingua tok pisin
+ፓብሎ ኔሩዳ	Pablo Neruda
+ዋሎንኛ	Lingua vallone
+የምልክት ቋንቋ	Lingua dei segni
+136 እ.ኤ.አ.	136
+ፖርቶፕሪንስ	Port-au-Prince
+ዊናራይኛ	Lingua waray-waray
+ዉ ቻይንኛ	Lingua wu
+ዉድሮው ዊልሰን	Thomas Woodrow Wilson
+ሳቃኛ	Lingua sacha
+ቀርጤስ	Creta
+ሞሾቭጸ	Mošovce
+ዩኒቨርስቲ ኦፍ ኦክስፎርድ	Università di Oxford
+ማሕሙድ አሕማዲኔዣድ	Mahmud Ahmadinejad
+ሲዲ	Compact disc
+አሌክሳንድር ሶልዠኒጽን	Aleksandr Isaevič Solženicyn
+ሴይንት ህሊና ደሴት	Sant'Elena (isola)
+382 እ.ኤ.አ.	382
+342 እ.ኤ.አ.	342
+373 እ.ኤ.አ.	373
+372 እ.ኤ.አ.	372
+ኤጊያን ባህር	Mar Egeo
+አናስታስያ	Anastacia
+ኤፍራጥስ ወንዝ	Eufrate
+ጄምስ ጋርፊልድ	James A. Garfield
+የሊቢያ ሰንደቅ ዓላማ	Bandiera della Libia
+አስርቱ ቃላት	Dieci comandamenti
+ጆሃንስበርግ	Johannesburg
+1990ዎቹ	Anni 1990
+ጆዋን ሮውሊንግ	J. K. Rowling
+ኪንግስተን	Kingston
+ግሥላ	Panthera pardus
+አውራሪስ	Rhinocerotidae
+ሶማሊላንድ	Somaliland
+የስልክ መግቢያ	Prefissi telefonici internazionali
+ሳንቶ ዶሚንጎ	Santo Domingo
+ቴኪክስኪያክ	Tequixquiac
+ዩሊሲስ ግራንት	Ulysses Simpson Grant
+ፓፓያ	Carica papaya
+375 እ.ኤ.አ.	375
+ቤንጃሚን ፍራንክሊን	Benjamin Franklin
+1970ዎቹ	Anni 1970
+ዊሊያም ማኪንሊ	William McKinley
+ጥቅል ጎመን	Brassica oleracea var. capitata
+የአሜሪካ ፕሬዝዳንቶች ዝርዝር	Presidenti degli Stati Uniti d'America
+የዋና ከተሞች ዝርዝር	Lista delle capitali
+ዌብሳይት	Sito web
+ግሮቨር ክሊቭላንድ	Grover Cleveland
+ኩዌት ከተማ	Madinat al-Kuwait
+ሄርበርት ሁቨር	Herbert Hoover
+ዋረን ሃርዲንግ	Warren G. Harding
+387 እ.ኤ.አ.	387
+ሱመር	Sumeri
+ኮሎምቦ	Colombo (città)
+መካከለኛ ቢኮልኛ	Lingue bicolane
+መስኮት	Finestra
+መዲና	Medina
+ቼስተር አርተር	Chester Arthur
+ዋሻ	Grotta
+አካድኛ	Lingua accadica
+ዋይት ሃውስ	Casa Bianca
+ፖሊስ	Polizia
+ጤግሮስ	Tigri
+ዊልያም ሃወርድ ታፍት	William Howard Taft
+ግዕዝ	Lingua ge'ez
+ቤንጃሚን ሀሪሰን	Benjamin Harrison
+ራዘርፎርድ ሄይስ	Rutherford B. Hayes
+ባሩክ ስፒኖዛ	Baruch Spinoza
+ዞራስተር	Zarathustra
+ኢንተርሊንግዌ	Occidental
+ኦመር ሃያም	ʿUmar Khayyām
+ስፖርት ክለብ ኮሪንቺያንስ ፓውሊስታ	Sport Club Corinthians Paulista
+ኢንተርሊንጉዋ	Interlingua (lingua ausiliaria)
+ኢሎካኖ	Lingua ilocana
+ሥነ ውበት	Estetica
+ሆ ቺ ሚን	Ho Chi Minh
+ካልቪን ኩሊጅ	Calvin Coolidge
+ሊጉርኛ	Lingua ligure
+ካፓምፓንጋንኛ	Lingua kapampangan
+ስብስብ	Insieme
+ብርጅታውን	Bridgetown
+ላዲኖ	Lingua giudeo-spagnola
+ሲሊጎ	Siligo
+ሊንጋላ	Lingua lingala
+ማላያላም	Lingua malayalam
+አሃድ ጨረር	Versore
+አፒያ	Apia
+ሴንት ጆንስ፥ አንቲጋ እና ባርቡዳ	Saint John's (Antigua e Barbuda)
+ሮዞ	Roseau
+ሎዥባን	Lingua lojban
+ሃሙራቢ	Hammurabi
+ሞልዶቭኛ	Lingua moldava
+የፖለቲካ ጥናት	Scienza politica
+ማዖሪ ቋንቋ	Lingua māori
+ደቡብ ሚንኛ	Lingua min nan
+ፖርት ሞርስቢ	Port Moresby
+1900ዎቹ	Anni 1900
+ኖቪያል	Novial
+ድረ ገጽ	Pagina web
+በር	Porta
+አራት ማዕዘን	Quadrilatero
+ቮላፒውክ	Volapük
+ሚስማር	Chiodo
+ንጉሥ ሰሎሞን	Salomone
+ሥላሴ	Trinità (cristianesimo)
+ያሁ	Yahoo!
+331 እ.ኤ.አ.	331
+ማሪኡፖል	Mariupol'
+365 እ.ኤ.አ.	365
+379 እ.ኤ.አ.	379
+ዴቪድ ሁም	David Hume
+የ2006 እ.ኤ.አ. ፊፋ የዓለም ዋንጫ	Campionato mondiale di calcio 2006
+ጆን ማይክል ታልበት	John Michael Talbot
+ኦቾሎኒ	Arachis hypogaea
+ቶማስ ሆብስ	Thomas Hobbes
+ገበያ	Mercato
+ካምፖራ ሳን ጆቫኒ	Campora San Giovanni
+እስስት	Chamaeleonidae
+ብሉምፎንቴይን	Bloemfontein
+ቲ.ኤስ. ኤልየት	Thomas Stearns Eliot
+በልጺ	Bălți
+ፖርት ቪላ	Port Vila
+ማቀዝቀዣ	Frigorifero
+ስኳር ድንች	Ipomoea batatas
+ያንጎን	Yangon
+ኅልውነት	Esistenzialismo
+አርተር ሾፐናውር	Arthur Schopenhauer
+አንዤ	Angers
+ቱርኩ	Turku
+ሳው ፓውሉ የእግር ኳስ ክለብ	São Paulo Futebol Clube
+ሃብሃብ	Citrullus lanatus
+አበሳሰል	Cottura
+ላብራዶር	Labrador retriever
+ሱቫ	Suva
+ኑኩአሎፋ	Nukuʻalofa
+በሶብላ	Ocimum basilicum
+አስዋን ግድብ	Diga di Assuan
+ትኩሳት	Febbre
+ፖርት ኦፍ ስፔን	Port of Spain
+የእብድ ውሻ በሽታ	Rabbia
+ሪቻርድ ፋይንማን	Richard Feynman
+መጥረቢያ	Scure
+ቢርኪርካራ	Birchircara
+ኧያፍያትላዮኪውትል	Eyjafjallajökull
+አኮንካጓ	Aconcagua
+ደቂቅ ዘ አካላት	Microrganismo
+ሱሪ	Pantaloni
+ጡብ	Mattone
+ዊል ስሚዝ	Will Smith
+ሞላላ	Ellisse
+መፈንቅል	Leva (fisica)
+መንኮራኩር	Veicolo spaziale
+ሬዳቫሌ	Redavalle
+ማባዛት	Moltiplicazione
+ርብቃ	Rebecca (Bibbia)
+ሎጥ	Lot
+ታክሎባን	Tacloban
+ማይስፔስ	Myspace
+ዳማቫንድ	Damavand
+ዳግማዊ ኒኮላይ	Nicola II di Russia
+አና ማሪያ ዮፐክ	Anna Maria Jopek
+ናንሲ	Nancy
+ሆኒያራ	Honiara
+ሽንት	Urina
+ጸሎት	Preghiera
+አሦር	Assiria
+ቀዳማዊ ኃይለ ሥላሴ	Hailé Selassié
+ካየን	Caen
+የባቢሎን ግንብ	Torre di Babele
+ሲኒማ	Sala cinematografica
+ኖቲንግሃም	Nottingham
+በጀት	Budget
+ባስቴር	Basseterre
+በትረ ሎሚ	Citrus × paradisi
+ኪንግስታውን	Kingstown
+የሠገራ ትቦ ንጣፍ መድማት ወይመ መቁስል (ሄሞሮይድ)	Emorroidi
+ዎሌ ሾይንካ	Wole Soyinka
+ስታንፎርድ ዩኒቨርስቲ	Università di Stanford
+ሚሸል ደ ሞንታኝ	Michel de Montaigne
+ጃንጥላ	Ombrello
+ፊንቄ	Fenici
+የሕንድ ሰንደቅ ዓላማ	Bandiera dell'India
+ዲዮኒሶስ	Dioniso
+ቶኪዳይደስ	Tucidide
+ካስትሪስ	Castries
+ጥራክያ	Tracia
+ዓረፍተ-ነገር	Frase
+ቤርሳቤ	Be'er Sheva
+ሮዛ ፓርክስ	Rosa Parks
+የዮሐንስ ራዕይ	Apocalisse di Giovanni
+ስራ	Lavoro (fisica)
+ቅልጥ አለት	Magma
+ቁጥቋጦ	Arbusto
+ኣደንጓሬ	Phaseolus vulgaris
+ሾጣጣ	Cono
+ጥንታዊ እንግሊዝኛ	Lingua inglese antica
+ሚካኤል ሾሎኮቭ	Michail Aleksandrovič Šolochov
+የፓላንድ ሰንደቅ ዓላማ	Bandiera della Polonia
+የአሜሪካ ሰንደቅ ዓላማ	Bandiera degli Stati Uniti d'America
+እርድ	Curcuma longa
+ኤምፒ3	MP3
+አነር	Leptailurus serval
+ፓሊኪር	Palikir
+ኢቫን ቱርጌኔቭ	Ivan Sergeevič Turgenev
+የጣልያ ሰንደቅ ዓላማ	Bandiera d'Italia
+ግድግዳ	Muro (edilizia)
+ቤሲክ (BASIC)	BASIC
+ኤሌክትሪክ ምህንድስና	Elettrotecnica
+ሩድ	Rodi
+ቁንደ በርበሬ	Piper nigrum
+ኤልብሩስ ተራራ	Monte Elbrus
+ሶፊያ ሮታሩ	Sofija Rotaru
+የጃፓን ሰንደቅ ዓላማ	Bandiera del Giappone
+ኤለን ጆንሰን ሰርሊፍ	Ellen Johnson Sirleaf
+ሸለምጥማጥ	Genetta
+ሩሚ	Gialal al-Din Rumi
+ሴት (ጾታ)	Femmina (biologia)
+የብሪታንያ ሕንድ ውቅያኖስ ግዛት	Territorio britannico dell'oceano Indiano
+ደርቢ	Derby (Regno Unito)
+አንቶን ቫን ሉዊንሁክ	Antoni van Leeuwenhoek
+ሀይድሮካርቦን	Idrocarburi
+አፖሎ ፲፩	Apollo 11
+ኮሌስትሮል	Colesterolo
+ሞንቴርሞሶ	Montehermoso
+ሙሃመድ ዩኑስ	Muhammad Yunus
+የዶሮ ጉንፋን	Influenza aviaria
+ወንድ	Maschio (biologia)
+ክሮኖስ	Crono
+ኦሊቨር ክሮምዌል	Oliver Cromwell
+ጂም ሞሪሰን	Jim Morrison
+ማትሪክስ	Matrice
+ሙቀት	Calore
+ጨረር	Vettore (matematica)
+ቤተ መቅደስ	Tempio
+ታይታኒክ	Titanic (film 1997)
+ቦሌ ዓለም አቀፍ ጥያራ ጣቢያ	Aeroporto di Addis Abeba-Bole
+ተልባ	Linum usitatissimum
+ዘ ዶርስ	The Doors
+እርሾ	Lievito
+ሚካኤል	Arcangelo Michele
+ባህር ዛፍ	Eucalyptus
+ጤሪ አንሪ	Thierry Henry
+ጆህን ከይል	John Cale
+የላኦስ ሰንደቅ ዓላማ	Bandiera del Laos
+ኤሌክትሪክ መስክ	Campo elettrico
+ኤሊ	Testudinidae
+የሆላንድ ሰንደቅ ዓላማ	Bandiera dei Paesi Bassi
+መካነቅርስ እስራኤል	Israel Museum
+ሮበርት ሁክ	Robert Hooke
+የኦስትሪያ ሰንደቅ ዓላማ	Bandiera dell'Austria
+የጣት ቀለበት	Anello (gioiello)
+ሳይንሳዊ ዘዴ	Metodo scientifico
+የ1982 እ.ኤ.አ. ፊፋ የዓለም ዋንጫ	Campionato mondiale di calcio 1982
+የ1986 እ.ኤ.አ. ፊፋ የዓለም ዋንጫ	Campionato mondiale di calcio 1986
+የ1978 እ.ኤ.አ. ፊፋ የዓለም ዋንጫ	Campionato mondiale di calcio 1978
+ዋዝንቢት	Gryllidae
+ሳጉንቶ	Sagunto
+ኤፌሶን	Efeso
+ናዲን ጎርድመር	Nadine Gordimer
+የ2002 እ.ኤ.አ. ፊፋ የዓለም ዋንጫ	Campionato mondiale di calcio 2002
+እባን	Mentha
+339 እ.ኤ.አ.	339
+340 እ.ኤ.አ.	340
+ኔመሕን	Nimega
+354 እ.ኤ.አ.	354
+356 እ.ኤ.አ.	356
+358 እ.ኤ.አ.	358
+ካርሎስ ቬላ	Carlos Vela
+361 እ.ኤ.አ.	361
+363 እ.ኤ.አ.	363
+364 እ.ኤ.አ.	364
+368 እ.ኤ.አ.	368
+369 እ.ኤ.አ.	369
+370 እ.ኤ.አ.	370
+371 እ.ኤ.አ.	371
+መለጠፊያ:Commonscat	Template:Commonscat
+376 እ.ኤ.አ.	376
+377 እ.ኤ.አ.	377
+378 እ.ኤ.አ.	378
+383 እ.ኤ.አ.	383
+384 እ.ኤ.አ.	384
+388 እ.ኤ.አ.	388
+389 እ.ኤ.አ.	389
+390 እ.ኤ.አ.	390
+391 እ.ኤ.አ.	391
+392 እ.ኤ.አ.	392
+393 እ.ኤ.አ.	393
+394 እ.ኤ.አ.	394
+395 እ.ኤ.አ.	395
+396 እ.ኤ.አ.	396
+397 እ.ኤ.አ.	397
+ማጅራት ገትር	Meningite
+398 እ.ኤ.አ.	398
+399 እ.ኤ.አ.	399
+የጀርመን ሰንደቅ ዓላማ	Bandiera della Germania
+ፆታ	Genere (scienze sociali)
+ባላ	Parabola (geometria)
+ማርቲን ሄድጋ	Martin Heidegger
+ዴቪድ ሊቪንግስተን	David Livingstone
+በከራ	Carrucola
+የአልባኒያ ሰንደቅ ዓላማ	Bandiera dell'Albania
+የ1930 እ.ኤ.አ. ፊፋ የዓለም ዋንጫ	Campionato mondiale di calcio 1930
+ሂርካኒያ	Ircania
+ልብስ ስፌት መኪና	Macchina per cucire
+Þ	Þ
+279 እ.ኤ.አ.	279
+440 እ.ኤ.አ.	440
+517 እ.ኤ.አ.	517
+572 እ.ኤ.አ.	572
+ጉዞ (ቱሪዝም)	Turismo
+ኖዮን	Noyon
+የጋብቻ ሥነ-ስርዓት	Nozze
+ዳይር ስትረይትስ	Dire Straits
+ግብጽኛ	Lingua egizia
+ቀጥተኛ ዝምድና	Proporzionalità (matematica)
+አናቶሊያ	Anatolia
+እየሱስ በእስልምና	Gesù nell'islam
+ኢቦላ	Malattia da virus Ebola
+መለጠፊያ:Taxobox	Template:Tassobox
+አበበ ቢቂላ	Abebe Bikila
+ጓጉንቸር	Anura
+ጀኔራል ኤሌክትሪክ	General Electric
+መደብ:አስቂኝ ፊልሞች	Categoria:Film commedia
+መደብ:ፊልሞች	Categoria:Film
+እንቁራሪት	Bufonidae
+የኤሌክትሪክ እምቅ	Potenziale elettrico
+ፒተር ኡስቲኖቭ	Peter Ustinov
+የጀርመን ዳግመኛ መወሐድ	Riunificazione tedesca
+ሃድያኛ	Lingua hadiya
+ኦማር ሀሳን አህመድ አል-በሽር	Omar Hasan Ahmad al-Bashir
+ሙአይ ኪባኪ	Mwai Kibaki
+ባሚር ቶፒ	Bamir Topi
+ሆዜ ኤድዋርዶ ዶስ ሳንቶስ	José Eduardo dos Santos
+ኢሳያስ አፈወርቂ	Isaias Afewerki
+እድሪስ ዴቢ	Idriss Déby
+ግርማ ወልደ ጊዮርጊስ	Girma Wolde Giorgis
+እስማኤል ኦማር ገለህ	Ismail Omar Guelleh
+አሙን	Amon
+ኤድመንድ ሁሠርል	Edmund Husserl
+ፐሽቶ	Lingua pashtu
+ግሪንሊ ካውንቲ፥ አሪዞና	Contea di Greenlee
+ኮኮኒኖ ካውንቲ፥ አሪዞና	Contea di Coconino
+ሒላ ካውንቲ፥ አሪዞና	Contea di Gila
+ፒማ ካውንቲ፥ አሪዞና	Contea di Pima
+ሳንታ ክሩዝ ካውንቲ፥ አሪዞና	Contea di Santa Cruz (Arizona)
+ማሪኮፓ ካውንቲ፥ አሪዞና	Contea di Maricopa
+ግራህም ካውንቲ፥ አሪዞና	Contea di Graham (Arizona)
+ናቫሖ ካውንቲ፥ አሪዞና	Contea di Navajo
+ሞሃቬ ካውንቲ፥ አሪዞና	Contea di Mohave
+እሪያ	Sus scrofa
+ዩማ ካውንቲ፥ አሪዞና	Contea di Yuma (Arizona)
+ያቫፓይ ካውንቲ፥ አሪዞና	Contea di Yavapai
+ፒናል ካውንቲ፥ አሪዞና	Contea di Pinal
+ላ ፓዝ ካውንቲ፥ አሪዞና	Contea di La Paz
+አፓቼ ካውንቲ፥ አሪዞና	Contea di Apache
+ኮቻይስ ካውንቲ፥ አሪዞና	Contea di Cochise
+የሳይንስ ፍልስፍና	Filosofia della scienza
+በለስ	Ficus
+ፍሬገ	Gottlob Frege
+ሄሮይን	Eroina
+ጄረሚ ቤንታም	Jeremy Bentham
+ኪናባሉ	Monte Kinabalu
+ማኒሽቱሹ	Manishtushu
+አዮኒክ ቦንድ	Legame ionico
+ቪቼግዳ ወንዝ	Vyčegda
+እርግጥ	Teorema
+የብርሃን ስብረት	Rifrazione
+ደብረ አራራት	Ararat
+ቶኒ ሞሪሰን	Toni Morrison
+ክዋቻ	Kwacha zambiano
+ሥነ ጥምረት	Combinatoria
+ሲቪል ኢንጂነሪንግ	Ingegneria civile
+ኣንቲቦዲ	Anticorpo
+ጁኖ (ፊልም)	Juno (film)
+ቢስቢ፥ አሪዞና	Bisbee (Arizona)
+ኪንግማን፥ አሪዞና	Kingman (Arizona)
+ውክፔዲያ:ምርጥ ጽሑፎች/ዕጩዎች	Wikipedia:Vetrina/Segnalazioni
+ሳፎርድ፥ አሪዞና	Safford
+ኖጋሌስ፥ አሪዞና	Nogales (Arizona)
+ፍሬንድስ (ተከታታይ ፊልም)	Friends
+ሴንት ጆንስ፥ አሪዞና	St. Johns (Arizona)
+ዩማ፥ አሪዞና	Yuma (Arizona)
+ግሎብ፥ አሪዞና	Globe (Arizona)
+ፍላግስታፍ፥ አሪዞና	Flagstaff (Arizona)
+የ2014 እ.ኤ.አ. ፊፋ የዓለም ዋንጫ	Campionato mondiale di calcio 2014
+የአፍጋኒስታን ሰንደቅ ዓላማ	Bandiera dell'Afghanistan
+ዴቪድ ሳልንጀር	J.D. Salinger
+ሆልብሩክ፥ አሪዞና	Holbrook (Arizona)
+ፕሬስኮት፥ አሪዞና	Prescott (Arizona)
+የኦዞን ንጣፍ	Ozonosfera
+ቼክ	Assegno
+ሬት	Aloe vera
+አጠራቃሚ	Integrale
+ሮቃ	Tamarindus indica
+አና አኽማቶቫ	Anna Andreevna Achmatova
+ባሚያ	Abelmoschus esculentus
+ቻርልተን ሄስተን	Charlton Heston
+ስፐትኒክ	Sputnik 1
+ስፖርት ክለብ ኢንተርናሲዮናል	Sport Club Internacional
+ፐርል በክ	Pearl S. Buck
+ሳንቶስ የእግር ኳስ ክለብ	Santos Futebol Clube
+ቦታፎጎ ዴ ፉትቦል ኤ ሬጋታስ	Botafogo de Futebol e Regatas
+የሶፍትዌር አሠራር	Ingegneria del software
+የውሃ ኡደት	Ciclo dell'acqua
+ኤቲኤም	Automated Teller Machine
+ሽምብራ	Cicer arietinum
+ኖኅ	Noè
+ቆስጣ	Spinacia oleracea
+የኤስቶንያ ሰንደቅ ዓላማ	Bandiera dell'Estonia
+የሊቱዌኒያ ሰንደቅ ዓላማ	Bandiera della Lituania
+የአንዶራ ሰንደቅ ዓላማ	Bandiera di Andorra
+የ፳፻፫ ዓ.ም. የሊቢያ ሕዝባዊ አብዮት	Guerra civile in Libia
+የአውስትራልያ ሰንደቅ ዓላማ	Bandiera dell'Australia
+ኤ.ኤፍ.ሲ. አያክስ	Amsterdamsche Football Club Ajax
+የቱርክ ሰንደቅ ዓላማ	Bandiera della Turchia
+የሃንጋሪ ሰንደቅ ዓላማ	Bandiera dell'Ungheria
+ገብርኤል (መልዐክ)	Arcangelo Gabriele
+ቀንድ	Corno (biologia)
+ጢሮስ	Tiro (città)
+ሳም ዎርቲንግተን	Sam Worthington
+የብራዚል ሰንደቅ ዓላማ	Bandiera del Brasile
+ኦይለር ቁጥር	E (costante matematica)
+ፉለንዶርፍ	Pfullendorf
+የኩሎምብ ህግ	Forza di Coulomb
+ሰላጣ	Lactuca sativa
+ሚኒስትር	Ministro
+ታላቁ አልፍሬድ	Alfredo il Grande
+ፌንጣ	Caelifera
+ጌርዮን	Gerione
+ፖላንድ ኳስ	Polandball
+መለጠፊያ:Cite book	Template:Cita libro
+ክላውድ ሻነን	Claude Shannon
+ሰርጌይ ብሪን	Sergey Brin
+እንቁላል (ምግብ)	Uovo (alimento)
+ኦረንሴ	Ourense
+ቭላንደርኛ	Dialetto fiammingo occidentale
+ኦርክኒ	Isole Orcadi
+የኢንዶኔዥያ ሰንደቅ ዓላማ	Bandiera dell'Indonesia
+ጤቤስ	Tebe (sito archeologico)
+የ1998 እ.ኤ.አ. ፊፋ የዓለም ዋንጫ	Campionato mondiale di calcio 1998
+ማንዴልብሮት	Benoît Mandelbrot
+የ1994 እ.ኤ.አ. ፊፋ የዓለም ዋንጫ	Campionato mondiale di calcio 1994
+ዚፕ	Cerniera lampo
+የጋቦን ሰንደቅ ዓላማ	Bandiera del Gabon
+ሻይ ቅጠል	Camellia sinensis
+አረም	Piante infestanti
+ሊምቡርግኛ	Lingua limburghese
+የሱዳን ሰንደቅ ዓላማ	Bandiera del Sudan
+ሃሪ ፖተር ክፍል አራት (ፊልም)	Harry Potter e il calice di fuoco (film)
+ሃሪ ፖተር ክፍል አምስት (ፊልም)	Harry Potter e l'Ordine della Fenice (film)
+ሃሪ ፖተር ክፍል ሁለት (ፊልም)	Harry Potter e la camera dei segreti (film)
+ሃሪ ፖተር ክፍል አንድ (ፊልም)	Harry Potter e la pietra filosofale (film)
+ሃሪ ፖተር ክፍል ሦስት (ፊልም)	Harry Potter e il prigioniero di Azkaban (film)
+ጦጣ	Hominoidea
+ሞላ	Molla
+የሆንዱራስ ሰንደቅ ዓላማ	Bandiera dell'Honduras
+የጊኒ-ቢሳው ሰንደቅ ዓላማ	Bandiera della Guinea-Bissau
+የናይጀሪያ ሰንደቅ ዓላማ	Bandiera della Nigeria
+የሃይቲ ሰንደቅ ዓላማ	Bandiera di Haiti
+የማላዊ ሰንደቅ ዓላማ	Bandiera del Malawi
+የኡጋንዳ ሰንደቅ ዓላማ	Bandiera dell'Uganda
+የኒጀር ሰንደቅ ዓላማ	Bandiera del Niger
+የሊክተንስታይን ሰንደቅ ዓላማ	Bandiera del Liechtenstein
+የሰሜን ኮርያ ሰንደቅ ዓላማ	Bandiera della Corea del Nord
+የባህማስ ሰንደቅ ዓላማ	Bandiera delle Bahamas
+ሴሚራሚስ	Semiramide
+የባርባዶስ ሰንደቅ ዓላማ	Bandiera di Barbados
+የሌሶቶ ሰንደቅ ዓላማ	Bandiera del Lesotho
+ጻላጊ	Cherokee
+ኬኔት ካውንዳ	Kenneth Kaunda
+1 ቴቲ	Aha (sovrano)
+ኮይኔ ግሪክ	Koinè
+ባሪ ማልዝበርግ	Barry N. Malzberg
+ሊያ ከበደ	Liya Kebede
+አርኖ ወንዝ	Arno
+1 ኢድሪስ	Idris I di Libia
+ጣና ሐይቅ	Lago Tana
+ፎረፎር	Forfora
+ሎጋን	Monte Logan
+ንጥረ እሴት	Valore assoluto
+መሠረተ ልማት	Infrastruttura
+ሳማ	Urtica
+ሄራክሌስ	Eracle
+አቲካ	Attica
+የሜክሲኮ ሰንደቅ ዓላማ	Bandiera del Messico
+የአውሮፓ ሰንደቅ ዓላማ	Bandiera dell'Europa
+አሞራ	Avvoltoio
+የፕላቶ ሪፐብሊክ	La Repubblica (dialogo)
+የሾጣጣ ክፍሎች	Sezione conica
+ሰም	Cera
+ፖርት ኤልሳቤጥ	Port Elizabeth
+ኢማም	Imam
+ኤሌክትሮኒክ ኢንጂኔሪንግ	Ingegneria elettronica
+ዋርነር ብሮስ.	Warner Bros.
+ስቲቭ እርዊን	Steve Irwin
+የኖህ መርከብ	Arca di Noè
+የኢራን ሰንደቅ ዓላማ	Bandiera dell'Iran
+ሰንሊ፣ ዋዝ	Senlis (Oise)
+የቼክ ሪፐብሊክ ሰንደቅ ዓላማ	Bandiera della Repubblica Ceca
+የባንግላዴሽ ሰንደቅ ዓላማ	Bandiera del Bangladesh
+ቋጥኛዊ ይዘት ያላቸው ፕላኔቶች	Pianeta terrestre
+ከበሮ (ድረም)	Batteria (strumento musicale)
+የፓኪስታን ሰንደቅ ዓላማ	Bandiera del Pakistan
+ፖርቶ የእግር ኳስ ክለብ	Futebol Clube do Porto
+የእስራኤል ሰንደቅ ዓላማ	Bandiera di Israele
+ለስተር ፒርሶን	Lester Pearson
+ኤላም	Elam
+የግሪክ ሰንደቅ ዓላማ	Bandiera della Grecia
+ማኪንሌይ ተራራ	Monte McKinley
+ሻርትረ	Chartres
+የቤኒን ሰንደቅ ዓላማ	Bandiera del Benin
+የላትቪያ ሰንደቅ ዓላማ	Bandiera della Lettonia
+የግብፅ ሰንደቅ ዓላማ	Bandiera dell'Egitto
+የባህሬን ሰንደቅ ዓላማ	Bandiera del Bahrein
+ናንጋ ፓርባት	Nanga Parbat
+የአርጀንቲና ሰንደቅ ዓላማ	Bandiera dell'Argentina
+የጊዛ ታላቅ እስፊንክስ	Sfinge di Giza
+አክሮፖሊስ	Acropoli di Atene
+የ1954 እ.ኤ.አ. ፊፋ የዓለም ዋንጫ	Campionato mondiale di calcio 1954
+የቻይና ህዝባዊ ሪፐብሊክ ሰንደቅ ዓላማ	Bandiera della Cina
+የቬት ናም ሰንደቅ ዓላማ	Bandiera del Vietnam
+ድኒስተር ወንዝ	Dnestr
+ማውና ኬያ	Mauna Kea
+ደቡብ ታራዋ	Tarawa Sud
+አለማንኛ	Tedesco alemanno
+ባቄላ	Vicia faba
+መሰቃ	Ironia
+ውሻል	Cuneo (fisica)
+ወሓካ ዴ ዋሬዝ	Oaxaca de Juárez
+ኖሪኩም	Norico
+ሥነ ግራፍ	Teoria dei grafi
+ኤስ.ኤል. ቤንፊካ	Sport Lisboa e Benfica
+የ1938 እ.ኤ.አ. ፊፋ የዓለም ዋንጫ	Campionato mondiale di calcio 1938
+ፖሎክዋኔ	Polokwane
+ቁልፍ	Chiave (serratura)
+ሰባስቲያን አብሪዉ	Sebastián Abreu
+ኪሽ	Kish
+ቡርዥ	Bourges
+የ1950 እ.ኤ.አ. ፊፋ የዓለም ዋንጫ	Campionato mondiale di calcio 1950
+ኤይን ራንድ	Ayn Rand
+የ1990 እ.ኤ.አ. ፊፋ የዓለም ዋንጫ	Campionato mondiale di calcio 1990
+የ1958 እ.ኤ.አ. ፊፋ የዓለም ዋንጫ	Campionato mondiale di calcio 1958
+ኤሌክትሪክ ዑደት	Circuito elettrico
+የቤላሩስ ሰንደቅ ዓላማ	Bandiera della Bielorussia
+ባክትሪያ	Battria
+የ1970 እ.ኤ.አ. ፊፋ የዓለም ዋንጫ	Campionato mondiale di calcio 1970
+የክሮኤሽያ ሰንደቅ ዓላማ	Bandiera della Croazia
+የሉክሰምበርግ ሰንደቅ ዓላማ	Bandiera del Lussemburgo
+ቅኝ ግዛት	Colonia (insediamento)
+ኣብሽ	Trigonella foenum-graecum
+የብርሃን መወላገድ	Diffrazione
+የቻይና አመት መቁጠሪያ	Calendario cinese
+ናሙር	Namur
+የ1966 እ.ኤ.አ. ፊፋ የዓለም ዋንጫ	Campionato mondiale di calcio 1966
+የተባበሩት የዓረብ ግዛቶች ሰንደቅ ዓላማ	Bandiera degli Emirati Arabi Uniti
+የቡርኪና ፋሶ ሰንደቅ ዓላማ	Bandiera del Burkina Faso
+የኒውተን የግስበት ቀመር	Legge di gravitazione universale
+የፊሊፒንስ ሰንደቅ ዓላማ	Bandiera delle Filippine
+የቦሊቪያ ሰንደቅ ዓላማ	Bandiera della Bolivia
+የኡራጓይ ብሔራዊ እግር ኳስ ቡድን	Nazionale di calcio dell'Uruguay
+የጋምቢያ ሰንደቅ ዓላማ	Bandiera del Gambia
+የብርሃን መጠላለፍ	Interferenza (fisica)
+ኦጋዴን	Ogaden
+ዘካርያስ (የመጥምቁ ዮሐንስ አባት)	Zaccaria (Nuovo Testamento)
+ድርው	Dreux
+ፕሪዬኔ	Priene
+ጥርስ (ማሽን)	Ingranaggio
+ቁልቋል	Opuntia ficus-indica
+ዛልፓ	Zalpuwa
+ጎመን	Brassica oleracea
+ታላቅ ክብ	Cerchio massimo
+ትሪቶን	Tritone (mitologia)
+ንግሥት ዘውዲቱ	Zauditù I d'Etiopia
+ካልኩለስ	Calcolo infinitesimale
+ፌሮ	Armatura (edilizia)
+አካድ	Akkad (città)
+ደን	Den
+የሷዴሽ ዝርዝር	Lista di Swadesh
+ራይት ላይቭሊሁድ ኣዋርድ	Right Livelihood Award
+ጃትሮፋ	Jatropha
+የጀርመን እግር ኳስ ማህበር	Federazione calcistica della Germania
+ሊኦፖልድ ሴዳር ሴንጎር	Léopold Sédar Senghor
+ቱል	Toul
+ቺኑዋ አቼቤ	Chinua Achebe
+ጉሎ	Ricinus communis
+ሱፍ	Carthamus tinctorius
+ደስታ	Peste bovina
+ዘይላ	Zeila
+ባምባ	Adansonia digitata
+አልቤር ለብረን	Albert Lebrun
+አኖውን (ፊልም)	Unknown - Senza identità
+ረኔ ኮቲ	René Coty
+ቪንሳን ኦሪዮል	Vincent Auriol
+ፓትሪስ ደ ማክ ማሆን	Patrice de Mac-Mahon
+ቃጫ	Agave sisalana
+ቀጥተኛ ጅረት	Corrente continua
+ጆን ኔፐር	Nepero
+ጊልጋመሽ	Gilgameš
+የሞናኮ ሰንደቅ ዓላማ	Bandiera di Monaco
+የሞሮኮ ሰንደቅ ዓላማ	Bandiera del Marocco
+ጥላ	Ombra
+ዋጋ	Prezzo
+የኮሎምቢያ ሰንደቅ ዓላማ	Bandiera della Colombia
+ጥቅማዊነት	Utilitarismo
+ሳልዝብሪ	Salisbury
+የጋና ሰንደቅ ዓላማ	Bandiera del Ghana
+የ1962 እ.ኤ.አ. ፊፋ የዓለም ዋንጫ	Campionato mondiale di calcio 1962
+መለስ ዜናዊ	Meles Zenawi
+ክንፍ	Ala (aeronautica)
+ክሬዲት ካርድ	Carta di credito
+ጌጣጌጥ	Gioielleria
+ተዳፋት	Piano inclinato
+ሰልፍ	Permutazione
+ጭምብል	Maschera
+ሃሪ ፖተር ክፍል ሰባት (ፊልም)	Harry Potter e i Doni della Morte - Parte 1
+ሃሪ ፖተር ክፍል ስድስት (ፊልም)	Harry Potter e il principe mezzosangue (film)
+የኢትዮጵያ ሰንደቅ ዓላማ	Bandiera dell'Etiopia
+እንክርዳድ	Lolium temulentum
+ጓያ	Lathyrus sativus
+Thaler	Tallero
+ካርታሔና	Cartagena (Spagna)
+የኢራቅ ሰንደቅ ዓላማ	Bandiera dell'Iraq
+የቱኒዚያ ሰንደቅ ዓላማ	Bandiera della Tunisia
+ሊሻሊሾ	Amaranthus caudatus
+ሳርማትያ	Sarmati
+ከነዓን (ጥንታዊ አገር)	Canaan
+እዝራ ፓውንድ	Ezra Pound
+ሶከር ሲቲ	FNB Stadium
+ደብረ ታቦር (ከተማ)	Debre Tabor
+የበርማ ሰንደቅ ዓላማ	Bandiera della Birmania
+ቪንሶን ማሲፍ	Massiccio Vinson
+የሜክሲኮ ብሔራዊ እግር ኳስ ቡድን	Nazionale di calcio del Messico
+አቃቢነት	Capacità elettrica
+ሀቪየር ሄርናንዴዝ ባልካዛር	Javier Hernández
+ኣደስ	Myrtus
+የኢኳዶር ሰንደቅ ዓላማ	Bandiera dell'Ecuador
+የኩዌት ሰንደቅ ዓላማ	Bandiera del Kuwait
+የኦማን ሰንደቅ ዓላማ	Bandiera dell'Oman
+ዶስቡርግ	Doesburg
+የኬንያ ሰንደቅ ዓላማ	Bandiera del Kenya
+ኧሸር	Usher
+የብርሃን ነጸብራቅ	Riflessione (fisica)
+የ1974 እ.ኤ.አ. ፊፋ የዓለም ዋንጫ	Campionato mondiale di calcio 1974
+ያኑስ	Giano (divinità)
+ኤዲንሰን ካቫኒ	Edinson Cavani
+ቁርጭምጭሚት	Caviglia
+ኬብሮን	Hebron
+የጆሮ ጌጥ	Orecchino
+ኦሬክ	Uruk
+መሰላል	Scala (utensile)
+ኤሚል ሉቤ	Émile Loubet
+ክሮማቶግራፊ	Cromatografia
+አርካድያ	Arcadia
+ሪጋ አስረካቢ	Funzione continua
+ፓኖኒያ	Pannonia
+የጆርዳን ሰንደቅ ዓላማ	Bandiera della Giordania
+ጀርም	Microrganismo patogeno
+ቸስተር	Chester
+የሁክ ህግ	Legge di Hooke
+ኔልስፕሩዊት	Nelspruit
+የደቡብ አፍሪካ ብሔራዊ እግር ኳስ ቡድን	Nazionale di calcio del Sudafrica
+ኆኅተ አመክንዮ	Porta logica
+የፓራጓይ ሰንደቅ ዓላማ	Bandiera del Paraguay
+ሄንሪ ጄምስ	Henry James
+ጎልጎታ	Calvario
+የኢኳቶሪያል ጊኒ ሰንደቅ ዓላማ	Bandiera della Guinea Equatoriale
+ቦካ ጁኒየርስ	Club Atlético Boca Juniors
+የላይቤሪያ ሰንደቅ ዓላማ	Bandiera della Liberia
+የእንግሊዝ-ዛንዚባር ጦርነት	Guerra anglo-zanzibariana
+ዲዮዶሮስ ሲኩሉስ	Diodoro Siculo
+አስተዳደር ህግ	Diritto amministrativo
+ስታምፎርድ ብሪጅ (የእግር ኳስ ሜዳ)	Stamford Bridge
+ኃይሌ ገብረ ሥላሴ	Haile Gebrselassie
+የአሜሪካ ታላቅ ማኅተም	Stemma degli Stati Uniti d'America
+የኒካራጓ ሰንደቅ ዓላማ	Bandiera del Nicaragua
+አዙሪት ጉልበት	Forza centripeta
+የጆሜትሪክ ድርድር	Progressione geometrica
+ክኖሦስ	Cnosso
+ጌባል	Biblo
+የቻይና ሪፐብሊክ ሰንደቅ ዓላማ	Bandiera di Taiwan
+ማርጋሬት ሚሸል	Margaret Mitchell
+ሐማት	Hama
+የሞሪሽስ ሰንደቅ ዓላማ	Bandiera di Mauritius
+የኤል ሳልቫዶር ሰንደቅ ዓላማ	Bandiera di El Salvador
+ኬፕ ታውን ስታዲየም	Green Point Stadium
+ጆሞ ኬኒያታ	Jomo Kenyatta
+አቀበት	Gradiente
+ሴቱባል	Setúbal
+ርቢ ስብስብ	Prodotto cartesiano
+መዝናኛ	Intrattenimento
+ሬድየስ	Raggio (geometria)
+ቦቬ	Beauvais
+ነጨሪኸት	Djoser
+ጊሌርሞ ፍራንኮ	Guillermo Franco
+የ2010 እ.ኤ.አ. ፊፋ የዓለም ዋንጫ	Campionato mondiale di calcio 2010
+ጥግ	Limite (matematica)
+ጋኔን	Demone
+ታህታይ ስብስብ	Sottoinsieme
+እልከኝነት	Induttanza
+ስፋት ብዜት	Prodotto vettoriale
+የቶሪኖ ከፈን	Sindone di Torino
+ሆርሄ ፉሲሌ	Jorge Fucile
+የኩላሊት ጠጠር	Nefrolitiasi
+የሩሲያ ሥነ-ፅሁፍ	Letteratura russa
+ፖቶማክ ወንዝ	Potomac (fiume)
+እምነት ጽሁፍ	Testi sacri
+አራስ ወንዝ	Fiume Aras
+የኢትዮጵያ ኦርቶዶክስ ተዋሕዶ ቤተ ክርስቲያን	Chiesa ortodossa etiope
+የሒሳብ ምልክቶች	Glossario della simbologia matematica
+ቲፎን	Tifone (mitologia)
+ኤ.ኤስ. ሞናኮ የእግር ኳስ ክለብ	Association Sportive de Monaco Football Club
+ሱሳ	Susa (Elam)
+ኖርማን ሜይለር	Norman Mailer
+አፖሎ 17	Apollo 17
+ሐቱሳሽ	Ḫattuša
+ካምብሬ	Cambrai
+ታላቬራ ዴ ላ ሬና	Talavera de la Reina
+ጥላ ብዜት	Prodotto scalare
+ሎፍተስ ቨርስፌልድ ስታዲየም	Loftus Versfeld
+አስኳል	Tuorlo
+ድግግሞሽ መከርከም	Modulazione di frequenza
+ፍሪ ስቴት ስታዲየም	Free State Stadium
+ኔልሰን ማንዴላ ቤይ ስታዲየም	Nelson Mandela Bay Stadium
+ቁራ	Corvus crassirostris
+ሩስተንበርግ	Rustenburg
+ሂና	Lawsonia inermis
+አሮን ሞኮኤና	Aaron Mokoena
+1 ሳርጎን	Sargon I
+ንጉስ ፋህድ	Fahd dell'Arabia Saudita
+ከርከሮ	Phacochoerus africanus
+ፊሊፕ ጆንሰን	Philip Johnson
+ቁመት መከርከም	Modulazione di ampiezza
+ኦጋም ጽሕፈት	Alfabeto ogamico
+የመረጃ ኅብረተሠብ	Società dell'informazione
+ሜጋራ	Megara (Attica)
+ሮኒ ጄምስ ዲዮ	Ronnie James Dio
+የሒሳብ ታሪክ	Storia della matematica
+የናውሩ ሰንደቅ ዓላማ	Bandiera di Nauru
+ቀመር ዥብ	Proteles cristatus
+ውህድ ስብስብ	Unione (insiemistica)
+የጋራ ስብስብ	Intersezione (insiemistica)
+የ1773 ዓ.ም. ታላቅ አውሎ ነፋስ	Grande uragano del 1780
+ራፋኤል ማርኬዝ	Rafael Márquez
+ዳሼል ሃሜት	Dashiell Hammett
+ጪ	Qǐ
+ሮዘንቦርግ ቢ.ኬ.	Rosenborg Ballklub
+ፒተር ሞካባ ስታዲየም	Peter Mokaba Stadium
+ምቦምቤላ ስታዲየም	Mbombela Stadium
+የኪርኮፍ ጅረት ህግ	Leggi di Kirchhoff
+ዘንግ	Albero (meccanica)
+የመንግሥት ሃይማኖት	Religione di Stato
+የደበኔ ሳጥን መርህ	Principio dei cassetti
+ክሩዜሮ ስፖርት ክለብ	Cruzeiro Esporte Clube
+ኒፑር	Nippur
+የፐላው ሰንደቅ ዓላማ	Bandiera di Palau
+ሊዜ	Lisieux
+ሚስት	Moglie
+ሥዮንግ-ኑ	Xiongnu
+ቀይ ተኩላ	Canis simensis
+ሚጢሊኒ	Mitilene
+ማዕከላዊ ዋጋ እርግጥ	Teorema di Lagrange
+ዘመነ መሳፍንት	Zemene Mesafint
+ሮያል ባፎኬንግ ስታዲየም	Royal Bafokeng Stadium
+ኮሮር	Koror (città)
+ኬራቲን	Cheratina
+ናርመር	Narmer
+አርጎስ	Argo (Grecia)
+ኩችኔታ	Cuscinetto (meccanica)
+ሐረር	Harar
+ምዕራፍ	Spostamento (fisica)
+ስታንዳርድ ሊዬዥ	Royal Standard de Liège
+ሰንት፣ ፈረንሳይ	Saintes
+ሰቨርስኪ ዶኔትስ ወንዝ	Severskij Donec
+ልውውጠ ሰብል	Rotazione delle colture
+የሻንሺ ምድር መንቀጥቀጥ	Terremoto dello Shaanxi del 1556
+ቤንጎ (ክልል)	Provincia del Bengo
+እርካብ	Staffa (equitazione)
+የአፍሪቃ አንድነት ድርጅት	Organizzazione dell'unità africana
+ዕዝራ	Esdra (Bibbia)
+መላሽ አስረካቢ	Funzione inversa
+ሬሞን ፑዋንካሬ	Raymond Poincaré
+ሴይንት ህሊና፣ አሰንሽንና ትሪስተን ደ ኩና	Sant'Elena, Ascensione e Tristan da Cunha
+ብዕር	Penna stilografica
+ሌምኖስ	Lemno
+መንግስቱ ኃይለ ማርያም	Menghistu Hailè Mariàm
+ነሰብር	Nesebăr
+ድሬዳዋ	Dire Daua
+ስቲቨን ፒየናር	Steven Pienaar
+ዳንኤል አራፕ ሞይ	Daniel Toroitich arap Moi
+አፋር (ክልል)	Regione degli Afar
+ቀይ ሽንኩርት	Allium ascalonicum
+ህሊና	Coscienza morale
+የብርሃን ዋለታ	Polarizzazione della radiazione elettromagnetica
+የኢትዮጵያ ብሄራዊ አርማ	Stemma dell'Etiopia
+ደብረ ታቦር (እስራኤል)	Monte Tabor
+ረኒር	Monte Rainier
+ማርቲን ካሴሬስ	Martín Cáceres
+ሳትያግራሃ	Satyagraha
+ሀቪየር አግዊሬ	Javier Aguirre
+ሣራ	Sara (Bibbia)
+የሾቶኩ ሕግጋት	Costituzione di 17 articoli
+ዧንሡ	Zhuanxu
+የሞንቲ ሖል ዕድል ጥያቄ	Problema di Monty Hall
+ታላቁ ሳርጎን	Sargon di Akkad
+ሞይስያ	Mesia
+ካራን	Harran
+የመጻሕፍት ቤትና የመረጃ ጥናት	Biblioteconomia
+ላፕላስ ሽግግር	Trasformata di Laplace
+የዞራስተር ፍካሬ	Così parlò Zarathustra (Nietzsche)
+ትግራይ ክልል	Regione dei Tigrè
+አሹር (ከተማ)	Assur (sito archeologico)
+ሰርቲፊኬት ኦፍ ዲፖዚት	Certificati di deposito
+ደብረ ታቦር (ዓመት በዓል)	Trasfigurazione di Gesù
+ታላቁ ቲግራኔስ	Tigrane II
+የእጅ አምባር	Braccialetto
+ናምሩድ	Nimrod (Bibbia)
+የጣልያን እግር ኳስ ፌዴሬሽን	Federazione Italiana Giuoco Calcio
+ኦሮሚያ ክልል	Oromia
+ደስና ወንዝ	Desna
+ሶማሌ ክልል	Regione dei Somali
+ስብሰባ	Combinazione
+ቤተ እስራኤል	Falascia
+አማራ (ክልል)	Regione degli Amara
+የአፍሪካ ፈንግል	Tripanosomiasi africana umana
+ሳሞትራቄ	Samotracia
+ደቡብ ብሔሮች ብሔረሰቦችና ሕዝቦች ክልል	Regione delle Nazioni, Nazionalità e Popoli del Sud
+ሚሎ	Millau
+ላንግረ	Langres
+ፋይጦን	Fetonte
+አሞራውያን	Amorrei
+ፈርናንዶ ሙስሌራ	Fernando Muslera
+ብርጕድ	Cinnamomum cassia
+ጨለማ	Oscurità
+ቀጤ ነክ	Perpendicolarità
+ሲ.ኤፍ.አር. ክሉዥ	Fotbal Club CFR 1907 Cluj
+የኢትዮጵያ ብር	Birr etiope
+ኡጉይያ	Ouguiya mauritana
+ከፍታ (ቶፖግራፊ)	Vetta
+ላጋሽ	Lagash
+ኮሎ-ኮሎ	Club Social y Deportivo Colo-Colo
+መንግሥተ ኢትዮጵያ	Impero etiope
+ላሊበላ	Lalibela
+የእስፓንያ የዘውድ እግር ኳስ ፌዴሬሽን	Federazione calcistica della Spagna
+ቤንሻንጉል ጉሙዝ ክልል	Regione Benisciangul-Gumus
+ጋምቤላ ሕዝቦች ክልል	Regione di Gambella
+ቺቸስተር	Chichester
+ጫት	Catha edulis
+ኩዋውቴሞክ ብላንኮ	Cuauhtémoc Blanco
+ሲፊዌ ሻባላላ	Siphiwe Tshabalala
+ጠጣር ጂዎሜትሪ	Geometria solida
+የአውስትራልያ ከተሞች ዝርዝር	Città dell'Australia
+ሎቲ	Loti lesothiano
+2 ሳርጎን	Sargon II
+ካይፈንግ	Kaifeng
+ቲፊናቅ	Neo-tifinagh
+ዎልተር ጋርጋኖ	Walter Gargano
+ካርሎስ ሳልሲዶ	Carlos Salcido
+ቪ ኤች ዲ ኤል	VHDL
+ንዮን	Nyons
+ኤሪዱ	Eridu
+ሚልተን ኦቦቴ	Milton Obote
+3 ቴልጌልቴልፌልሶር	Tiglatpileser III
+ለ ቪጋን፣ ጋርድ	Le Vigan (Gard)
+ክልዩቼቭስካያ ሶፕካ	Ključevskaja Sopka
+ጩፉ	Qufu
+ጣኔዎስ	Tanis (Egitto)
+ቸልምስፎርድ	Chelmsford
+አፋር (ብሔር)	Afar (popolo)
+ሳሮኒክ ወሽመት	Golfo Saronico
+ልዩ ትምህርት	Pedagogia speciale
+«የ1812 መቅድም»	Ouverture 1812
+ቤንጉዌላ (ክልል)	Provincia di Benguela
+ባል	Marito
+አሚልካር ካብራል	Amílcar Cabral
+ሳሞጊትኛ	Lingua samogitica
+ፒኮ ቦሊቫር	Pico Bolívar
+ካትሌጎ ምፌላ	Katlego Mphela
+ጉብጠት	Curvatura
+ማክሲሚሊያኖ ፔሬራ	Maximiliano Pereira
+ቦንጋኒ ኩማሎ	Bongani Khumalo
+ቲሚሽ ወንዝ	Timiș (fiume)
+አልቫሮ ፔሬራ	Álvaro Pereira
+ዲዬጎ ጎዲን	Diego Godín
+ክለብ አትሌቲኮ ኢንዲፔንዲየንቴ	Club Atlético Independiente
+ኩዋንዶ ኩባንጎ	Provincia di Cuando Cubango
+የኢትዮጵያ ዘመን አቆጣጠር	Calendario etiopico
+ካጊሾ ዲክጋኮይ	Kagisho Dikgacoi
+በርናርድ ፓርከር	Bernard Parker
+ፍራንሲስኮ ሀቪየር ሮድሪጌዝ	Francisco Rodríguez
+ሉግ	Lúg
+ሳዲ ካርኖ	Marie François Sadi Carnot
+ክሪስቲነሃምን	Kristinehamn
+ኮኒ ፍራንሲስ	Connie Francis
+ኢቱሜሌንግ ኩኔ	Itumeleng Khune
+ሃሪ ፖተር (ተከታታይ ፊልሞች)	Harry Potter (serie di film)
+የአሦር ነገሥታት ዝርዝር	Sovrani di Assiria
+ሳን ሎሬንዞ ዴ አልማግሮ	Club Atlético San Lorenzo de Almagro
+ፊጌሬንሴ እግር ኳስ ክለብ	Figueirense Futebol Clube
+ጀይ ለኖ	Jay Leno
+ጎንደር ከተማ	Gondar
+የዕውነታ ሠንጠረዥ	Tabella della verità
+መልከ ጼዴቅ	Melchisedec
+ንጉስ ጊንጥ	Horo Scorpione II
+አሪስ የእግር ኳስ ክለብ (ቴሳሎኒኪ)	Podosfairiki Anonymi Etaireia Aris
+አርጀንቲኖስ ጁኒየርስ	Asociación Atlética Argentinos Juniors
+ቲታኖማኪያ	Titanomachia
+ፖል አንደርሰን	Poul Anderson
+ተረችነት	Principio di falsificabilità
+መጽሐፈ ሄኖክ	Libro di Enoch
+የኢትዮጵያ ፕሪሚየር ሊግ	Ethiopian Premier League
+ቢልሃርዝያ	Schistosomiasi
+አንጉን	Anggun
+ጃደን ስሚዝ	Jaden Smith
+ግሬሚዮ ፉት-ቦል ፖርቶ አሌግረንሴ	Grêmio Foot-Ball Porto Alegrense
+ፀፓ	Ḍād
+ኮርትኒ ላቭ	Courtney Love
+ምስስል	Verosimile
+ኮምቦልቻ	Combolcià
+ታሪፋ	Tarifa
+የጄኖቫ ቅዱስ መልክ	Mandylion
+የግብጽ ኖሞች	Nomo (Egitto)
+ቤይታር ጀሩሳሌም የእግር ኳስ ክለብ	Moadon Kaduregel Beitar Yerushalayim
+ሳርጎን	Sargon
+ጢያ	Tiya
+የቡልጋሪያ ሰንደቅ ዓላማ	Bandiera della Bulgaria
+ሰመንካሬ ነብኑኒ	Semenkara
+አተሚክ ሰዓት	Orologio atomico
+ሶበክነፈሩ	Nefrusobek
+ካም	Cam (Bibbia)
+መጽሐፈ ዕዝራ ሱቱኤል	Apocalisse di Esdra
+ዝቋላ	Monte Zuqualla
+ሊቨርፑል	Liverpool (disambigua)
+ሀሪንግተን	Harrington
+ሽፈራው	Moringa oleifera
+ሀዲስ	Hadíth
+ጋሪ	Carretto
+አላህ	Allah
+መልአክ	Angelo
+ቬርኖን፣ ዑር	Vernon (Eure)
+ፉሢ	Fu Hsi
+ጤትፎርድ	Thetford
+ፒኮ ደ ኦሪዛባ	Pico de Orizaba
+ቪዲዮ ኮንፈረስ	Videoconferenza
+ኤድፉ	Edfu
+ሄርኩሌስ ሊቢኩስ	Ercole
+መና	Manna (Bibbia)
+ሄርሚኖን	Herminones
+ጥርኝ	Civettictis civetta
+ሶማሌ (ብሔር)	Somali (gruppo etnico)
+የኩሽ መንግሥት	Kush
+የቴቭኒን እርግጥ	Teorema di Thévenin
+ካረንታን	Carentan
+የውጭ ስብስብ	Insieme complemento
+ኩሜ (ጣልያን)	Cuma
+ሳን ሆዜ ቺናንተኪያ	San José Chinantequilla
+ላርሳ	Larsa
+ቱዴላ	Tudela (Navarra)
+ዳግማዊ ምኒልክ	Menelik II
+የፈረንሳይ እግር ኳስ ፌዴሬሽን	Federazione calcistica della Francia
+ድጂታል ክፍተት	Digital divide
+የወርቃማ ጎል	Golden goal
+የብራዚል እግር ኳስ ኮንፌዴሬሽን	Federazione calcistica del Brasile
+ቅብብል	Composizione di funzioni
+ማሪ	Mari (città)
+ሃሰኩራ ጹነናጋ	Hasekura Tsunenaga
+አንድምታ	Esegesi
+ማሩን	Granata (colore)
+የኢትዮጵያ አየር መንገድ	Ethiopian Airlines
+ሄራክሌውፖሊስ	Eracleopoli
+አልቫሮ ፈርናንዴዝ	Álvaro Fernández
+የሰማያዊ ተራሮች ከተማ	Città di Blue Mountains
+ኤበርስበርግ	Ebersberg
+ማይል	Miglio (unità di misura)
+የዓለም አቀፍ እግር ኳስ ማኅበር	Fédération Internationale de Football Association
+1 ሻምሺ-አዳድ	Shamshi-Adad I
+አዮሊስ	Eolide
+አጋዘን	Tragelaphus buxtoni
+አበንስበርግ	Abensberg
+ሰለሞናዊው ሥርወ መንግሥት	Dinastia Salomonide
+ዋሊያ	Capra walie
+ቬልተንቡርግ ገዳም	Abbazia di Weltenburg
+ዲዬጎ ፎርላን	Diego Forlán
+ዓፄ ቴዎድሮስ	Teodoro II d'Etiopia
+አጥንት	Osso
+ታላቅ የአናባቢ መፈራረቅ	Grande spostamento vocalico
+ሊኩርጉስ (የጥራክያ ንጉሥ)	Licurgo (mitologia)
+ብሮክን ሂል (ከተማ)	Broken Hill
+ሻርል ለ ብረን	Charles Le Brun
+ሳላ (እንስሳ)	Eudorcas thomsonii
+አንታዮስ	Anteo
+አሰልበርህት	Etelberto del Kent
+ዳቢሎስ (ኢስላም)	Iblīs
+በአላህ ስም እጅግ በጣም ሩህሩህ በጣም አዛኝ በሆነው	Basmala
+አሌክሳንድረ ሚየራን	Alexandre Millerand
+ራንጎ (ፊልም)	Rango (film 2011)
+ራስ ዳሸን	Ras Dascian
+አርዠንቶን-ሱር-ክሮይዝ	Argenton-sur-Creuse
+ኩርባ	Coefficiente angolare
+ምጽዋ	Massaua
+የኅሊና ነፃነት	Libertà di pensiero
+ነቀን	Ieracompoli
+ፑንት	Paese di Punt
+ማኑስ	Manno (mitologia)
+ማውሪሺዮ ቪክቶሪኖ	Mauricio Victorino
+ያዕቆብ	Giacobbe
+ኦስካር ፔሬዝ ሮሃስ	Óscar Pérez Rojas
+ጋስቶን ዱሜርግ	Gaston Doumergue
+አሌክስ ሄሊይ	Alex Haley
+ፌሊክስ ፎር	Félix Faure
+ዡል ግሬቪ	Jules Grévy
+2 መንቱሆተፕ	Mentuhotep II
+2 ሓኖ	Annone il Navigatore
+አርማን ፋሊዬር	Armand Fallières
+ኡር-ናሙ	Ur-Nammu
+ናራም-ሲን (አካድ)	Naram-Sin
+ዊሎው ስሚዝ	Willow Smith
+ሲልቪያ ፓንክኸርስት	Sylvia Pankhurst
+ጣይቱ ብጡል	Taitù Batùl
+አራም	Aram (disambigua)
+ካቲ ራይክስ	Kathy Reichs
+ላውሬል ሃሚልተን	Laurell K. Hamilton
+መርሴደስ ላኪ	Mercedes Lackey
+ሌይ ብራኬት	Leigh Brackett
+አና ናጋታ	Anna Nagata
+ንጉጊ ዋ ቲዮንጎ	Ngugi wa Thiong'o
+ጃኒኮሎ	Gianicolo
+ሺካጎ ፋየር እግር ኳስ ክለብ	Chicago Fire Soccer Club
+የፖርቱጋል እግር ኳስ ፌዴሬሽን	Federazione calcistica del Portogallo
+አቫሪስ	Avaris
+ዲዬጎ ፔሬዝ	Diego Fernando Pérez
+ጌራርዶ ቶራዶ	Gerardo Torrado
+ሰባስቲያን ኤጉሬን	Sebastián Eguren
+ኒኮላስ ሎዴሮ	Nicolás Lodeiro
+ፖል ዴሻኔል	Paul Deschanel
+ሲቦኒሶ ጋክሳ	Siboniso Gaxa
+3 መንቱሆተፕ	Mentuhotep III
+ጉዴአ	Gudea
+አኪቫ በን ዮሴፍ	Rabbi Akiva
+1 አንተፍ	Antef I
+ሰባስቲያን ኮአቴስ	Sebastián Coates
+እንዳሁላ	Kalanchoe
+ኮባ	Ensete
+ሸንኖንግ	Shen Nung
+ሹን	Imperatore Shun
+ሪሙሽ	Rimush di Akkad
+4 መንቱሆተፕ	Mentuhotep IV
+2 አንተፍ	Antef II
+ሙሳ ዳዲ ካማራ	Moussa Dadis Camara
+ክርስቲያን ሮድሪጌዝ	Cristian Rodríguez
+ኢግናሲዮ ማሪያ ጎንዛሌዝ	Ignacio González
+ዣን ካዚሚር-ፔሪዬ	Jean Casimir-Perier
+ዮሐንስ ፬ኛ	Giovanni IV d'Etiopia
+ብሩስ ጎልዲንግ	Bruce Golding
+ሪካርዶ ኦሶሪዮ	Ricardo Osorio
+2 ዩባ	Giuba II
+ኤጊዲዮ አሪቫሎ	Egidio Arévalo
+ጋን ዪንግ	Gan Ying
+ሰባስቲያን ፈርናንዴዝ	Sebastián Bruno Fernández
+ጆን ባርት	John Barth
+ሴፖ ማሲሌላ	Tsepo Masilela
+አንድሬስ ስኮቲ	Andrés Scotti
+ፖል ኒኮላስ አጊላር	Paul Aguilar
+2 ፒያንኪ	Pianki
+ኡሩካጊና	Urukagina
+ኤፍሬይን ሁዋሬዝ	Efraín Juárez
+ቴኮ ሞዲሴ	Teko Modise
+ሹልጊ	Shulgi
+ሉጋል-ዛገ-ሲ	Lugalzagesi
+3 አንተፍ	Antef III
+አበበ አረጋይ	Abebe Aregai
+የኢትዮጵያ ሶማሊያ ጦርነት	Guerra dell'Ogaden
+ሮስ ማክዶናልድ	Ross Macdonald
+ሮዛሪዮ ሴንትራል	Club Atlético Rosario Central
+አቤል ሄርናንዴዝ	Abel Hernández
+ኦሮሞ	Oromo
+5ኛው አብጋር	Abgar V
+ሾርዥ	Chorges
+ምጊሞ	MGIMO
+ብሪሜ	Brimeux
+አር ኤል ሲ ዑደት	Circuito RLC
+ሽኮኮ	Procavia capensis
+ማርቲን ሲልቫ	Martín Silva
+አልበሪ	Albury
+ማሽላ	Sorghum vulgare
+መቀሌ	Macallè
+አኒታ	Anitta
+ዠንጊሽ ቾኩሱ	Jengish Chokusu
+ሚስኪቶ	Miskito
+ሬኒልዌ ሌትሾሎኒያኔ	Reneilwe Letsholonyane
+ኤታና	Etana di Kish
+ግራኝ አህመድ	Ahmad ibn Ibrihim al-Ghazi
+ሉካስ ትዋላ	Lucas Thwala
+አቡጊዳ	Alfasillabario
+ቃረህ ኻዎሰሬ	Keur
+ፌርፋክስ ካውንቲ	Contea di Fairfax
+ናራም-ሲን	Naram-Sin (disambigua)
+አዳብ	Adab
+ኹታዊሬ ወጋፍ	Ugaf
+ሻርካሊሻሪ	Shar-kali-sharri
+ኋን ጊሌርሞ ካስቲዮ	Juan Castillo
+አዳማ	Adama
+አሌክሳንድር ሄሊዮስ	Alessandro Helios
+ኤንመርካር	Enmerkar
+በርናርድ ምላሙድ	Bernard Malamud
+አጋ	Agga
+አማር-ሲን	Amar-Sin
+ኤአናቱም	Eannatum
+ኢቢ-ሲን	Ibbi-Sin
+1 ነፈርሆተፕ	Djeregtawy
+ነጋሶ ጊዳዳ	Negasso Gidada
+አዲግራት	Adigrat
+ሹ-ሲን	Shu-Sin
+ሱሙ-አቡም	Sumu-abum
+ፈቃድ	Volontà
+ቀዳማዊ ምኒልክ	Menelik I
+ሲክዮን	Sicione
+ፒጣና	Pithana
+መብረሪያ ስንቅ	Jet pack
+ኢስታይዎን	Istaevones
+ኩሻራ	Kuššara
+ቢታንያ	Bitinia
+ዲዬጎ ሉጋኖ	Diego Lugano
+ሲን-ሙባሊት	Sin-muballit
+ሆር አዊብሬ	Hor I
+ኤሽኑና	Eshnunna
+ነቀምት	Nekemte
+አርዋድ	Arados
+ማሳጌታያውያን	Massageti
+ኡቱ-ኸጛል	Utukhegal
+እያሱ ፭ኛ	Ligg Iasù
+ኒኑርታ-አፒል-ኤኩር	Ninurta-apal-Ekur
+ኤንመባራገሲ	Enmebaragesi
+ሉዊ ላሞር	Louis L'Amour
+ኤንመተና	Entemena
+ዒዛና	Ezanà di Axum
+አድዋ	Adua
+ኡሰርካሬ ኸንጀር	Djedekheperu
+ኃይለማሪያም ደሳለኝ	Haile Mariam Desalegn
+የቤልጅግ የዘውድ እግር ኳስ ማህበር	Federazione calcistica del Belgio
+ሙላቱ አስታጥቄ	Mulatu Astatke
+ጅማ	Gimma
+መሲሊም	Mesilim
+የአፍሪካ ሥነፅሁፍ	Letteratura africana
+ኦሜድላ	Acacia melanoxylon
+ጌሾ	Rhamnus prinoides
+ቁንጫ	Siphonaptera
+አጋታርከስ	Agatarchide di Cnido
+ኃይል	Power
+ሻንግጭዩ	Shangqiu
+አክሊሉ ሀብተ-ወልድ	Aklilu Habte-Wold
+ኮርትኒ	Courtney (disambigua)
+ዐይን	EYE
+ዡ	Xia Zhu
+ጋምላ ኡፕሳላ	Gamla Uppsala
+ዳግዳ	Dagda (divinità)
+ጋስቶን ራሚሬዝ	Gastón Ramírez
+ደብረ አማና	Monti Nur
+የስዊድን እግር ኳስ ማህበር	Federazione calcistica della Svezia
+አርፋክስድ	Arpacsad
+ሪም-ሲን	Rim-Sin
+ሒሚልኮን	Imilcone (navigatore)
+ጆን ግሪንሊፍ ዊቲየር	John Greenleaf Whittier
+ሄንሪ አዳምስ	Henry Brooks Adams
+ክለብ አሜሪካ	Club de Fútbol América
+3 ሶበክሆተፕ	Khutawy
+ዐምደ ጽዮን	Amda Seyon I
+ዳርዳኑስ	Dardano
+ሰጀፋካሬ	Amenemhat VII
+6 አመነምሃት	Sankhibra
+አመኒ ቀማው	Ameny Qemau
+እፃዊ ተዋልዶ	Riproduzione vegetativa
+ፋሲል ግቢ	Fasil Ghebbi
+ባሕር-ዳር	Bahar Dar
+ጀምፓ ላሂሪ	Jhumpa Lahiri
+ማርጋሬት ላንዶን	Margaret Landon
+ማርጋሬት ማረን	Margaret Maron
+ሜርጆሪ ኪናን ሮውሊንግስ	Marjorie Kinnan Rawlings
+ደራርቱ ቱሉ	Derartu Tulu
+ሰዴላ ቡከር ማርሊ	Cedella Booker
+ገብረ መስቀል ላሊበላ	Gebre Mesqel Lalibela
+የስዊዘርላንድ እግር ኳስ ማህበር	Associazione Svizzera di Football
+«የተከሠተው ዕድል»	Destino manifesto
+መሮ	Scalpello
+የኦራፂዮች ቃለ መሐላ	Il giuramento degli Orazi
+አምፖስታ	Amposta
+ታን ሶን ናት ዓለም አቀፍ አውሮፕላን ማረፊያ	Aeroporto Internazionale Tan Son Nhat
+ኤድዊን ቫን ደር ሳር	Edwin van der Sar
+ደራሲ	Autore
+ፓሪስ ሴንት-ጀርሜይን የእግር ኳስ ክለብ	Paris Saint-Germain Football Club
+ሜሉሓ	Melukhkha
+አላማ ኢቅባል	Muhammad Iqbal
+የሞዛምቢክ ሰንደቅ ዓላማ	Bandiera del Mozambico
+ሊኒያር እኩልዮሽ	Equazione lineare
+ሬማገን	Remagen
+ሞፕሶስ	Mopso (mitologia)
+ቢላል	Bilal
+ስቶከራው	Stockerau
+ኬልሃይም	Kelheim
+ጨረቃ ላይ መውጣት	Allunaggio
+የኮሪያ እግር ኳስ ማህበር	Federazione calcistica della Corea del Sud
+ዘንዶ-ነብር	Serpopardo
+ሃማሮዕ	Hammarö
+ክለብ ናስዮናል ዴ ፉትቦል	Club Nacional de Football
+ኢሲን	Isin
+ዔቦር	Eber
+ባየርብሩን	Baierbrunn
+የላይቤሪያ ፕሬዝዳንት	Presidenti della Liberia
+ሚጥሚጣ	Piri piri
+ሜሪማክ ወንዝ	Merrimack
+መሪካሬ	Merikara
+ሳቢዩም	Sabium
+ሱሙላኤል	Sumu-la-El
+አፒል-ሲን	Apil-Sin
+ድልማጥያ	Dalmazia
+የኢትዮጵያ ቡና	Ethiopian Coffee Football Club
+የአሜሪካን ዶላር ኢንዴክስ	US dollar index
+የደማስቆ ሰነድ	Documento di Damasco
+የኢትዮጵያ እግር ኳስ ፌዴሬሽን	Federazione calcistica dell'Etiopia
+ካነሽ	Kültepe
+አለቢዮን	Alebione
+ሮድሪጎ ሙኞዝ	Rodrigo Muñoz
+የኤል ሳልቫዶር እግር ኳስ ፌዴሬሽን	Federazione calcistica di El Salvador
+ኤና አይግኔክ	Enna Aignech
+ጉታውያን	Gutei
+ሰኸተፕካሬ አንተፍ	Sehetepkara
+ሪክ ማላምብሪ	Rick Malambri
+ቲም ላሄይ	Tim LaHaye
+ዎቮካ	Wovoka
+ጆን ዲ ማክዶናልድ	John D. MacDonald
+ሪቻርድ ሩሶ	Richard Russo
+ሔርሆር	Herihor
+ልብነ ድንግል	Dawit II
+ዱዱ	Dudu (sovrano)
+ኆኅተ እና	Porta AND
+ኆኅተ ወይም	Porta OR
+እሽቢ-ኤራ	Ishbi-Erra
+ሚኪ ሌላንድ	Mickey Leland
+ሰኸምሬ ኹታዊ 1 ሶበክሆተፕ	Sekhemra-Khutawy
+ጂዮቫኒ ዶስ ሳንቶስ	Giovani dos Santos
+ኤጲሮስ	Epiro
+የፍርድ ቀን	Giudizio universale (Michelangelo)
+አንሻን	Anshan (Elam)
+ሲክ ሰምፔር ቲራኒስ	Sic semper tyrannis
+ኤበርስሃውዘን	Ebershausen
+ኖይማገን-ድሮን	Neumagen-Dhron
+ትሬቤታ	Trebata
+የቻይና እግር ኳስ ማህበር	Federazione calcistica della Cina
+አልባሴቴ ባሎምፕዬ	Albacete Balompié
+ፒኮ ክሪስቶባል ኮሎን	Picco Cristoforo Colombo
+የጃፓን እግር ኳስ ማህበር	Federazione calcistica del Giappone
+ጠጅ	Tej
+ዳኑቢዮ የእግር ኳስ ክለብ	Danubio Fútbol Club
+ታራ	Terach
+መኮንን እንዳልካቸው	Makonnen Endelkachew
+አንቅቲፊ	Ankhtifi
+ዋህካሬ ቀቲ	Uahkara Kheti
+አክሻክ	Akshak
+ደብረ ዳሞ	Debre Damo
+የቺሌ እግር ኳስ ፌዴሬሽን	Federazione calcistica del Cile
+ክለብ ኦሊምፒያ	Club Olimpia
+ጎልበርን (ከተማ)	Goulburn
+አርሚዳል	Armidale
+ኬሬታሮ እግር ኳስ ክለብ	Querétaro Fútbol Club
+ሴስኖክ (ከተማ)	Cessnock
+የሲሸልስ እግር ኳስ ፌዴሬሽን	Federazione calcistica delle Seychelles
+ልድያ	Lidia
+ኪልቅያ	Cilicia
+የሳዑዲ አረቢያ እግር ኳስ ፌዴሬሽን	Federazione calcistica dell'Arabia Saudita
+የኡዝቤኪስታን እግር ኳስ ፌዴሬሽን	Federazione calcistica dell'Uzbekistan
+የማሌዢያ እግር ኳስ ማህበር	Federazione calcistica della Malesia
+የኪርጊዝ ሪፐብሊክ እግር ኳስ ፌዴሬሽን	Federazione calcistica del Kirghizistan
+ሚስያ	Misia
+ቀበቶ (ማሽን)	Cinghia
+የአረብ ሰው ሠራሽ መንኮራኩር መገናኛ ድርጅት	Arabsat
+አራታ	Aratta
+አርባ ምንጭ	Arba Minch
+ዳ ዩ	Yǔ
+ሹዱሩል	Shu-Turul
+ጉሬዛ	Colobus guereza
+ቬቱሎኒያ	Vetulonia
+ስመንኽካሬ ኢሚረመሻው	Semenkhkara
+ተርቃ	Terqa
+ክለብ አትሌቲኮ ቤላ ቪዝታ	Club Atlético Bella Vista
+የሀረም ጽሕፈቶች	Testi delle piramidi
+ፑዌብላ እግር ኳስ ክለብ	Puebla Fútbol Club
+ኮፕዮር ወንዝ	Chopër
+ፎሮኔዎስ	Foroneo
+የአባይ ሙላቶች	Cateratte del Nilo
+ቆረቆር	Tinea capitis
+የኖርተን እርግጥ	Teorema di Norton
+ፓሪሲ	Parisi (Gallia)
+ዴፖርቲቮ ካሊ	Asociación Deportivo Cali
+ሴንጋን	Sengann mac Dela
+የሲቢሊን መጻሕፍት	Libri sibillini
+ኒኑርታ-ቱኩልቲ-አሹር	Ninurta-tukulti-Assur
+ጆ ላንስዴል	Joe R. Lansdale
+ጨኖ	Cercopithecus mitis
+ዊንድሁክ ሆዜ ኩታኮ ዓለምአቀፍ አውሮፕላን ማረፊያ	Aeroporto Internazionale Hosea Kutako
+ለዝ-አን-ኤኖ	Leuze-en-Hainaut
+ናቪያ	Navia (Spagna)
+ኒዦን	Nijon
+የጎባጣ ርዝመት	Lunghezza di un arco
+ይስሐቅ	Isacco
+ሳካዎች	Saci
+ሶዶ	Soddo
+ሳን ማሪኖ	San Marino (disambigua)
+አርቃ	'Arqa
+ኩሜ (አዮሊስ)	Cuma eolica
+ሐቡር ወንዝ	Khabur
+1 ሃኒባል	Annibale Magone
+ፒዩሽቲ	Piyusti
+ማሮኔያ	Maronia
+የኢትዮጵያ ወረዳዎች	Woreda
+ክሊፍተን፥ አሪዞና	Clifton (Arizona)
+ባንፊልድ አትሌቲክ ክለብ	Club Atlético Banfield
+ክሪስታል ራዲዮ	Radio a galena
+የኢትዮጵያ አየር መንገድ በረራ 409	Volo Ethiopian Airlines 409
+ታራንትኛ	Dialetto tarantino
+ማሪያ ዛል	Maria Saal
+አርሲ ነገሌ	Neghelle
+ባተርስት (ከተማ)	Bathurst (Australia)
+ዱቦ (ከተማ)	Dubbo
+ሴት መሪብሬ	...ib-Seth
+ክለብ አትሌቲኮ ሴሮ	Club Atlético Cerro
+ዲ ኩ	Imperatore Ku
+የኡራጓይ እግር ኳስ ማህበር	Federazione calcistica dell'Uruguay
+ኮራጅ	Pantografo (grafica)
+ርግ ቬዳ	Ṛgveda Saṃhitā
+ሰኸተፒብሬ	Sehetepibra
+ሻሸመኔ	Sciasciamanna
+የሀንጋሪ እግር ኳስ ፌዴሬሽን	Federazione calcistica dell'Ungheria
+ኢናቆስ	Inaco
+ጄምስ ሳሊስ	James Sallis
+ክሪስታቮ ደጋማ	Cristoforo da Gama
+ዳሚቅ-ኢሊሹ	Damiq-ilishu
+ሉዊ ለ ኔን	Louis Le Nain
+ኡኒቨርሲዳድ ዴ ቺሌ ክለብ	Club de Fútbol Profesional de la Universidad de Chile
+Yeghishe Charents	Yeghishe Charents
+የሲቢሊን ራዕዮች	Oracoli sibillini
+አሰላ	Aselle
+ቡሲሪስ	Busiride
+ደብረ ዘይት	Debre Zeyit
+ኡማ	Umma (città)
+አፅትላን	Aztlán
+ዓይንባይን ዝምድና	Relazione di ricorrenza
+ሚካኤል እምሩ	Mikael Imru
+ጎባ	Goba
+ድልሙን	Dilmun
+ባዮና	Baiona
+ባስተርናያውያን	Bastarni
+ደሴ	Dessiè
+ሉጋልባንዳ	Lugalbanda
+ጅጅጋ	Giggiga
+አዋሳ	Auasa
+ሚዳቋ	Sylvicapra grimmia
+ነፈርካሬ ቀቲ	Neferkara III
+ጋምቤላ (ከተማ)	Gambela
+ማጫ	Prezzo della sposa
+ሲ.ኤፍ. ሞንተሬይ	Club de Fútbol Monterrey
+ዳይሬክት ዴቢት	Rapporto interbancario diretto
+ጋምብሪቪዩስ	Gambrinus
+ኪልሜስ አትሌቲኮ ክለብ	Quilmes Atlético Club
+የሆንዱራስ ራስ ገዥ ብሔራዊ እግር ኳስ ፌዴሬሽን	Federazione calcistica dell'Honduras
+ኦልድ ሳሩም	Old Sarum
+አዋሽ ወንዝ	Auash
+ክሎድ ለፌቭር	Claude Lefèbvre
+ሐይክ	Haik d'Armenia
+አዪ ኩዌ አርማህ	Ayi Kwei Armah
+ቤሪክ	Berig
+ታሁሙልኮ	Tajumulco (vulcano)
+ኖያ	Noia (Spagna)
+ሜኖንጉዌ	Menongue
+በርበሬ	Berberé
+ያው	Yao (imperatore)
+ታፋላ	Tafalla
+የ2010 እ.ኤ.አ. ፊፋ የዓለም ዋንጫ ቡድኖች	Convocazioni per il campionato mondiale di calcio 2010
+ደርግ	Derg
+የኢትዮጵያ ነገሥታት	Imperatori d'Etiopia
+የኮሎምቢያ እግር ኳስ ፌዴሬሽን	Federazione calcistica della Colombia
+የደቡብ አፍሪካ እግር ኳስ ማህበር	Federazione calcistica del Sudafrica
+ኒው ዚላንድ እግር ኳስ	Federazione calcistica della Nuova Zelanda
+ተከዜ	Tacazzè
+ጤፍ	Eragrostis tef
+መጽሐፈ ኩፋሌ	Libro dei Giubilei
+ኢትስ ኮምፕሊኬትድ (ፊልም)	È complicato
+ዲፌንሶር ስፖርቲንግ	Defensor Sporting Club
+ጉራጌ	Guraghé (popolo)
+መስ-አኔ-ፓዳ	Mesannepada
+ፍሎረንስ፥ አሪዞና	Florence (Arizona)
+ክሩዝ አዙል	Cruz Azul Fútbol Club
+እስኩቴስ	Scizia
+የአንጎላ ፕሬዝዳንት	Presidente dell'Angola
+ቁና	Tronco (geometria)
+ክለብ ሊበርታድ	Club Libertad
+ወጋኝ አግላይ መርህ	Principio di inclusione ed esclusione
+ያሲዩስ ያኒጌና	Iasione
+ቲግሬስ ዴ ላ ዩ.ኤ.ኤን.ኤል.	Tigres de la Universidad Autónoma de Nuevo León
+ፓርጋ	Parga
+ምድያም	Madian
+አምልኮ	Adorazione
+ካርኑቴስ	Carnuti
+የሜዳ ፍየል	Nanger soemmerringii
+ሴሬሶ ኦሳካ	Cerezo Osaka
+ትንታ	Manovra di Heimlich
+ዘመናዊ ፍልስፍና	Filosofia moderna
+የኮስታ ሪካ እግር ኳስ ፌዴሬሽን	Federazione calcistica della Costa Rica
+ሞንቴቪዴዮ ዋንደረረስ	Montevideo Wanderers Fútbol Club
+በቂና አስፈላጊ	Condizione necessaria e sufficiente
+ነህሲ	Nehesi
+ሆተፒብሬ	Hetepibra
+ነጀሚብሬ	Nedjemibra
+ጥቁር አባይ	Nilo Azzurro
+ረንሰነብ	Renseneb
+ኤናናቱም	En-anna-tum I
+ነብካውሬ ቀቲ	Nebkaura Kheti
+ሮበርት ኢርሊክ	Robert Ehrlich
+ዩፍኒ	Iufeni
+ሰዋጅካሬ	Sewadjkara
+ያዕቆብ-ሃር	Meruserra
+ሰኸምካሬ 5 አመነምሃት	Sankhtawy
+ዲላ	Dila
+ብሬስ	Bres
+ብሬት ሆሊደይ	Brett Halliday
+የፋራን ምድረ በዳ	Deserto di Paran
+የማግ ኢጠ ውግያ	Magh Ithe
+ዛላሉቩ	Zalalövő
+ኦፊር	Ofir
+እርዳታ:ይዞታ	Aiuto:Aiuto
+ፓርከር፥ አሪዞና	Parker (Arizona)
+የቱኒዚያ እግር ኳስ ፌዴሬሽን	Federazione calcistica della Tunisia
+የካሜሩን እግር ኳስ ፌዴሬሽን	Federazione calcistica del Camerun
+ሊንጎናውያን	Lingoni
+ይሁዳዊ-ሮማንስ ቋንቋዎች	Lingue giudeo-romanze
+ጄምስ ኖርማን ሃል	James Norman Hall
+ላ አልሙኒያ ዴ ዶኛ ጎዲና	La Almunia de Doña Godina
+እንጀራ	Enjera
+ፊር ቦልግ	Fir Bolg
+የዑር ንጉሣዊ ጨዋታ	Gioco reale di Ur
+ሣባ (የአረቢያ ግዛት)	Sabei (Yemen)
+የእስክንድርያ ቤተክርስቲያን ፓትርያርኮች	Elenco dei papi della Chiesa ortodossa copta
+ታርዳሖስ	Tardajos
+የኢትዮጵያ ሕዝባዊ ዲሞክራሲያዊ ሪፐብሊክ	Repubblica Popolare Democratica d'Etiopia
+ኩግባው	Kubaba
+ቤናቬንቴ፣ ዛሞራ	Benavente (Spagna)
+ካምቤልታውን	Campbelltown (Australia)
+ክሪያሶስ	Criaso
+ሸዋ	Scioa
+ሴት	Seth (disambigua)
+ሱሳና ሓርፕ	Susana Harp
+ላፈርቲ	R. A. Lafferty
+መሃመድ አማን	Mohammed Aman
+ኢሽሜል ሪድ	Ishmael Reed
+የደም ቧንቧ	Vaso sanguigno
+ችፌ	Eczema
+ኤንመርካርና የአራታ ንጉስ	Enmerkar e il signore di Aratta
+ሰኸምሬኹታዊ ኻውባው	Khaibau
+ኤስቱዲያንቴስ ቴኮስ	Club de Fútbol Estudiantes de la Universidad Autónoma de Guadalajara
+ሁዋቺፓቶ ስፖርት ክለብ	Club Deportivo Huachipato
+ቲቡሮኔስ ሮሆስ ዴ ቬራክሩዝ	Club Deportivo Tiburones Rojos de Veracruz
+ሶሂህ ቡሃሪ	Sahih al-Bukhari
+ቭራሆቪቸ	Vrahovice
+ሚራማር ሚሲዮኔስ	Club Sportivo Miramar Misiones
+ሰናፌ	Senafè
+ኪል	Kil (Svezia)
+ደብረ ማርቆስ	Debra Marcos
+ግራፍተን (ከተማ)	Grafton (Australia)
+የጓቴማላ ብሔራዊ እግር ኳስ ፌዴሬሽን	Federazione calcistica del Guatemala
+የካናዳ እግር ኳስ ማህበር	Federazione calcistica del Canada
+ሐረሪ ሕዝብ ክልል	Regione di Harar
+ቦግዳ ፌንግ	Bogda Feng
+የኢራን እስላማዊ ሪፐብሊክ እግር ኳስ ፌዴሬሽን	Federazione calcistica dell'Iran
+ፐንቻክ ጃያ	Puncak Jaya
+የአንጎላ እግር ኳስ ፌዴሬሽን	Federazione calcistica dell'Angola
+ናምቻ ባርዋ	Namcha Barwa
+ካርቱም ኤርፖርት	Aeroporto Internazionale di Khartum
+ደስታ ዳምጠው	Ras Destà Damtù
+አበሻ ስም	Onomastica abissina
+ሴንትራል ኤስፓኞል	Central Español Fútbol Club
+ዳንኤል ሃንድለር	Daniel Handler
+ራንቢር ካፑር	Ranbir Kapoor
+ኡር-ናንሼ	Ur-Nanshe
+የተጠበሰ ዶሮ	Pollo fritto
+ቆንጣጭ እርግጥ	Teorema del confronto
+የማሊ እግር ኳስ ፌዴሬሽን	Federazione calcistica del Mali
+ሊሙ (የአሦር ማዕረግ)	Limmu
+ኑዋዳ	Nuada
+ፓምባ	Pamba
+የአሞራዎች ጽላት	Stele degli avvoltoi
+ሲማሮን ወንዝ	Cimarron (fiume)
+ሻሰኖን	Chassenon
+ኢንጋይዎን	Ingaevones
+ፕላዛ ኮሎኒያ	Club Plaza Colonia de Deportes
+ሳን ሉዊስ የእግር ኳስ ክለብ	San Luis Fútbol Club
+ክለብ ቲኋና	Club Tijuana Xoloitzcuintles de Caliente
+ካሩም	Karum
+ሊቨርፑል የእግር ኳስ ክለብ	Liverpool Football Club
+ሊቨርፑል የእግር ኳስ ክለብ (ሞንቴቪድዮ)	Liverpool Fútbol Club
+መድፈኛ	Guarnizione
+ኩሽ (የካም ልጅ)	Cush (Bibbia)
+ዖጊጌስ	Ogigo
+የኢትዮጵያ ሕዝቦች አብዮታዊ ዲሞክራሲያዊ ግንባር	Fronte Democratico Rivoluzionario d'Etiopia
+ቶሪ ደሴት	Oileán Thoraigh
+ሚዛናዊ ውጭ ስብስብ	Differenza simmetrica
+ሻውሃው	Shaohao
+ቺ ዮው	Chi You
+የላቲን አሜሪካ ሥነ ፅሁፍ	Letteratura latinoamericana
+ኒኑስ	Nino (re)
+ጢኒስ	Tini (Egitto)
+ታይ ካንግ	Xia Tai Kang
+አራም (ጥንታዊ አገር)	Aram
+የሜክሲኮ እግር ኳስ ፌዴሬሽን	Federazione calcistica del Messico
+ፎሞራውያን	Fomori
+የመርዌ ጽሕፈት	Alfabeto meroitico
+ማርሲ	Marsi (Germani)
+ሥልጣኔና እንጉርጉሮው	Il disagio della civiltà
+ደብረ ብርሃን	Debre Berhan
+ደገሃቡር	Dagabur
+ማንግ	Xia Mang
+ሤ	Xia Xie
+የሩዋንዳ እግር ኳስ ፌዴሬሽን	Federazione calcistica del Ruanda
+ዦንግ ካንግ	Xia Zhong Kang
+ሥያንግ	Xia Xiang
+ሻውካንግ	Xia Shao Kang
+ውክፔዲያ:ኤምባሲ	Wikipedia:Ambasciata
+ቡ ጅያንግ	Xia Bu Jiang
+ኋይ	Xia Huai
+ትርምስ	Dismutazione (matematica)
+የካልኩለስ መሰረታዊ እርግጥ	Teorema fondamentale del calcolo integrale
+ቆፋሪዎቹ	Diggers
+ሸሆኔ	Ungulati
+ፖል ካጋሜ	Paul Kagame
+ኒሳ (አፈ ታሪክ)	Nisa (monte)
+አዲስ አበባ ዩኒቨርስቲ	Università di Addis Abeba
+ዶራዶስ ዴ ሲናሎአ	Club Social y Deportivo Sinaloa
+መተማ	Metemma
+ሊቡርኒያ	Liburnia
+የሷሶን ግዛት	Regno di Soissons
+ጌሤም	Goscen
+አምቦ	Ambo (Etiopia)
+የአርዛፕ ድንጋዮች	Durupınar
+ፍያካ ኬንፊናን	Fiacha Cennfinnán
+ሪናል	Rinnal
+ሩድራይግ	Rudraige mac Dela
+ፎድብገን	Fodbgen
+ጋን ማክ ዴላ	Gann mac Dela
+ኮንኮባር አብራዱዋድ	Conchobar Abradruad
+ቲሪጋን	Tirigan
+ክለብ ኔካክሳ	Club Necaxa
+ዮካይድ ማክ ኤይርክ	Eochaid mac Eirc
+ስላንጋ	Sláine mac Dela
+ፓርጦሎን	Partholón
+ጌናን	Genann
+የኮምፒዩተር አውታር	Rete di computer
+ዶሮ ወጥ	Wat (cucina)
+የጂኦሜትሪክ ዝርዝር	Serie geometrica
+ኤክባሶስ	Ecbaso
+የኢትዮጵያ አየር መንገድ በረራ 961	Volo Ethiopian Airlines 961
+ሐማዚ	Hamazi
+እንዳልካቸው መኮንን	Endelkachew Makonnen
+አቢሜሌክ	Abimelech (Abramo)
+ጨረር ፈንክሽን	Funzione vettoriale
+ሉጋል-አኔ-ሙንዱ	Lugal-Anne-Mundu
+አልቫሮ ራፋኤል ጎንዛሌዝ	Álvaro González
+ጄምስ ሳልተር	James Salter (scrittore)
+ጋውት	Gautr
+ቱዊስኮን	Tuisto
+ቶማስ ሜይን ሬይድ	Thomas Mayne Reid
+መደብ:ጀርመን	Categoria:Germania
+መደብ:ጣልያን	Categoria:Italia
+መደብ:የአሜሪካ ተባባሪ ክፍላገሮች	Categoria:Stati Uniti d'America
+መደብ:ሩስያ	Categoria:Russia
+መደብ:አውስትራልያ	Categoria:Australia
+መደብ:ሜክሲኮ	Categoria:Messico
+መደብ:ሕንድ	Categoria:India
+መደብ:እስራኤል	Categoria:Israele
+መደብ:ደቡባዊ አፍሪቃ	Categoria:Sudafrica
+መደብ:ግብፅ	Categoria:Egitto
+መደብ:አርጀንቲና	Categoria:Argentina
+ቃል (ቃል መግባት)	Promessa
+ማጋን	Magan
+ሌዙ	Xi Ling Shi
+ክሻትሪያ	Kshatriya
+አ ፖብራ ዴ ትሪቬስ	A Pobra de Trives
+ጤዛ (ፊልም)	Teza (film)
+መደብ:አልጄሪያ	Categoria:Algeria
+መደብ:ኦስትሪያ	Categoria:Austria
+መደብ:ኢትዮጵያ	Categoria:Etiopia
+መደብ:ሆላንድ	Categoria:Paesi Bassi
+መደብ:ናይጄሪያ	Categoria:Nigeria
+መደብ:ፖላንድ	Categoria:Polonia
+ጎመንዘር	Brassica carinata
+መደብ:ፖርቱጋል	Categoria:Portogallo
+መደብ:ቬትናም	Categoria:Vietnam
+መደብ:አዕዋፍ	Categoria:Uccelli
+መደብ:አትክልት	Categoria:Piante
+መደብ:ሥነ ሕይወት	Categoria:Biologia
+መደብ:የጥንተ ንጥር ጥናት	Categoria:Chimica
+መደብ:ታሪክ	Categoria:Storia
+መደብ:መልክዐ ምድር	Categoria:Geografia
+መደብ:ሃይማኖት	Categoria:Religione
+መደብ:ስፖርት	Categoria:Sport
+መደብ:ሳይንስ	Categoria:Scienza
+መደብ:መሬት	Categoria:Terra
+ቅዱስ ጊዮርጊስ የእግር ኳስ ቡድን	Saint-George SA
+የሰለሞን ደሴቶች እግር ኳስ ፌዴሬሽን	Federazione calcistica delle Isole Salomone
+የ1934 እ.ኤ.አ. ፊፋ የዓለም ዋንጫ	Campionato mondiale di calcio 1934
+መርየም የእየሱስ (አ.ሰ) እናት	Maryam bint 'Imran
+ሞናርካስ ሞሬሊያ	Club Monarcas Morelia
+ጌራራ	Gerar
+የኅልውና ድንጋጤ	Angoscia
+ግሩምስ	Grums
+ዮቅጣን	Yoqtan
+ፍሬኄናል ዴ ላ ሲዬራ	Fregenal de la Sierra
+ነፃነት	Freedom
+ሁራካን ቡሴዮ	Club Social y Deportivo Huracán Buceo
+ሜዲና ዴ ሪዮ ሴኮ	Medina de Rioseco
+ከርቤ	Commiphora
+ፋሌቅ	Peleg
+ሴሊሴስ	Saelices
+ሞንሬያል ዴ አሪዛ	Monreal de Ariza
+ህያርባስ	Iarba
+ኦሶርኖ ላ ማዮር	Osorno la Mayor
+ጀበና	Jebena
+ያክቢም ሰኻኤንሬ	Sekhaenra Yakebmu
+ግሽጣ	Annona muricata
+የመዋቅር ትንታኔ	Analisi strutturale
+ዊሊያም ማርች	William March
+ኮሶ	Hagenia abyssinica
+ማዴ	Madai
+ሉድ	Lud (Bibbia)
+ኑግ	Guizotia abyssinica
+ለስሊ ኮንግ	Leslie Kong
+ሳላ (የኤቦር አባት)	Sela (Bibbia)
+ሸንኖንግ በንጻው ጂንግ	Shennong Ben Cao Jing
+የቶንጋ እግር ኳስ ማህበር	Federazione calcistica delle Tonga
+ቻርለስ ዊሊየም ኢዘንበርግ	Karl Wilhelm Isenberg
+ሰሜን ተራራ	Monti Semien
+የኢትዮጵያ መልክዐ ምድር	Geografia dell'Etiopia
+መደብ:መንታ መንገዶች	Categoria:Pagine di disambiguazione
+መደብ:ፍልስፍና	Categoria:Filosofia
+መደብ:ክርስትና	Categoria:Cristianesimo
+መደብ:እስልምና	Categoria:Islam
+ቱራስ	Tyras
+የኖህ ልጆች	Figli di Noè
+ሃሮልድ ማክግራዝ	Harold McGrath
+ጎረድ ጎረድ	Gored gored
+ሹቡር	Subartu
+አዳማ ከተማ የእግር ኳስ ክለብ	Adama City Football Club
+ይርጋለም	Irgalem
+አሪንጎ	Aringo
+መቅደላ	Amba Mariam
+የጫካው አምላክ ራስ	Testa di fauno
+ስቲፍነስ ዘዴ	Metodo delle rigidezze
+የማይክል አንጄሎ ስራዎች በከፊል	Opere di Michelangelo
+የአክሱም ሐውልት	Stele di Axum
+መስኪያጝካሸር	Meskiaggasher
+ሚሪና (ሌምኖስ)	Myrina
+መልአክ (Michelangelo)	Angelo reggicandelabro
+የዳንቴ መርከብ	La barca di Dante
+ፍኖተ ሰላም	Finote Selam
+አዳል	Sultanato di Adal
+ዝሆን	Elephantidae
+ሰንሰለት	Catena (meccanica)
+ወልደያ	Ualdia
+የዓለም ሀገራት ባንዲራዎች	Lista di bandiere nazionali
+ቅዱስ ፔትሮኒዮስ (Michelangelo)	San Petronio (Michelangelo)
+ህዝብ	Popolo
+ፍትፍት	Fit-fit
+ኡር-ኑንጋል	Ur-Nungal
+ሽሮ ወጥ	Shiro (cucina eritrea)
+መብራት ኃይል የእግር ኳስ ክለብ	Ethiopian Electric Power Corporation Football Club
+ደብረ ሊባኖስ	Debra Libanos
+ራስ መኮንን	Maconnèn Uoldemicaèl
+ወልወል	Ual Ual
+ክሪስቲያን ስቱዋኒ	Cristhian Stuani
+ፎኪስ	Focide (regione)
+ክትፎ	Kitfo
+እንጦጦ	Monte Entoto
+ሰባትቤት	Lingua sebat bet guraghé
+ሌውኪ	Leuci
+የአካዳውያን ታላቅ መፈንቀል	Grande deportazione degli acadiani
+ጋያነሸጎዋ	Gayanashagowa
+ብሪጋውያን	Brigi
+ሌባ	Furto
+ልዑል	Principe
+ካጌራ ወንዝ	Kagera (fiume)
+ሰሊጥ	Sesamum indicum
+የተፈጥሮ ጭማሪ	Saldo demografico
+ነጋሽ	Aṣḥama ibn Abjar
+ሀብተ ጊዮርጊስ ዲነግዴ	Habte Giyorgis
+መደብ:መዋቅሮች	Categoria:Stub
+መደብ:Wikipedia	Categoria:Wikipedia (enciclopedia)
+መደብ:ባሕል ነክ መዋቅሮች	Categoria:Stub - cultura
+መደብ:ባሕል	Categoria:Cultura
+መደብ:ፈረንጅ አመቶች	Categoria:Anni
+መደብ:አህጉር	Categoria:Continenti
+የሞሮኮ የዘውድ እግር ኳስ ፌዴሬሽን	Federazione calcistica del Marocco
+ሲግቱና	Sigtuna
+ሊቨርፑል፣ አውስትራልያ	Liverpool (Australia)
+በር:መልክዐ ምድር	Portale:Geografia
+በር:ፍልስፍና	Portale:Filosofia
+ነሪካሬ	Nerkara
+አሙ አሆተፕሬ	Aahotepra
+ቼት ሬይሞ	Chet Raymo
+ኢድጋር ሳልተስ	Edgar Saltus
+ጉና	Guna (monte)
+ቂጣ	Kitcha
+ቤቴል	Betel
+በር:ባሕልናኪነት	Portale:Arte
+መደብ:የጀርመን ሰዎች	Categoria:Tedeschi
+መደብ:የአሜሪካ ሰዎች	Categoria:Statunitensi
+መደብ:የኦስትሪያ ሰዎች	Categoria:Austriaci
+መደብ:የፈረንሳይ ሰዎች	Categoria:Francesi
+መደብ:የአሜሪካ ፊልሞች	Categoria:Film statunitensi
+መደብ:የአሜሪካ ሙዚቀኞች	Categoria:Musicisti statunitensi
+መደብ:ጉግል	Categoria:Google
+ዋዛድ	Wadji
+መለጠፊያ:Location map Scotland	Template:Mappa di localizzazione/SCO
+መለጠፊያ:Location map እንግሊዝ	Template:Mappa di localizzazione/ENG
+መደብ:ሕግ	Categoria:Diritto
+መደብ:አገራት	Categoria:Nazioni
+ውክፔዲያ:መጋቢዎች	Wikipedia:Amministratori
+መደብ:የኢትዮጵያ ብሔሮች	Categoria:Gruppi etnici in Etiopia
+መደብ:ሰዎች	Categoria:Persone
+ውክፔዲያ:Bots	Wikipedia:Bot
+የስብስብ ብዛት	Cardinalità
+ውክፔዲያ:ከሁሉ የተፈለጉ አርእስቶች	Wikipedia:Voci fondamentali/Lista1
+መደብ:ሥነ አካል	Categoria:Anatomia
+መደብ:ሕክምና	Categoria:Medicina
+መደብ:የፖለቲካ ጥናት	Categoria:Politica
+መደብ:ትምህርት	Categoria:Educazione
+ግብፅ	Egitto
+አውሶናውያን	Ausoni
+መለጠፊያ:Bot	Template:Bot
+ካናዳ	Canada
+መደብ:ግሪክ	Categoria:Grecia
+መደብ:ስዊድን	Categoria:Svezia
+መደብ:ስሎቫኪያ	Categoria:Slovacchia
+መደብ:Wikipedia:Featured article	Categoria:Voci in vetrina
+መደብ:የአውሮፓ አገራት	Categoria:Stati dell'Europa
+መደብ:አውሮፓ	Categoria:Europa
+መለጠፊያ:Documentation	Template:Man
+ውክፔዲያ:Resolving disputes	Wikipedia:Risoluzione dei conflitti
+መደብ:የአባሎች ልሳናት	Categoria:Utenti per lingua
+ሰውንግ ጀ-ጊ	Sung Jae-gi
+ነጭ አባይ	Nilo Bianco
+በር:ኢንጂኔሪንግ	Portale:Ingegneria
+መለጠፊያ:Softredirect	Template:Soft redirect
+መለጠፊያ:ለማጥፋት	Template:Cancella subito
+በርጊዮን	Dercino
+መደብ:ቋንቋዎች	Categoria:Lingue
+መደብ:የሚሰጥ ስሞች	Categoria:Prenomi
+እርዳታ:Starting a new page	Aiuto:Come scrivere una voce
+መደብ:Noindexed pages	Categoria:Pagine non indicizzate
+መደብ:የማይኖሩ ፋይሎች ያሉባቸው ገጾች	Categoria:Pagine con link a file inesistenti
+ውክፔዲያ:ክፍለ-ዊኪዎች	Aiuto:Namespace
+ሲ.አር. ቫስኮ ደ ጋማ	Club de Regatas Vasco da Gama
+መለጠፊያ:Navbox	Template:Navbox
+ቀረፃ	Registrazione sonora
+የኦርኾን ጽሕፈት	Alfabeto dell'Orhon
+ሃርሌም ሼክ	Harlem shake (danza)
+መለጠፊያ:Tnavbar	Template:Tnavbar
+መለጠፊያ:Clear	Template:Clear
+መለጠፊያ:Col-break	Template:Colonne spezza
+መለጠፊያ:Col-end	Template:Colonne fine
+መደብ:አፍሪቃ	Categoria:Africa
+መደብ:መጽሐፍ ቅዱስ	Categoria:Bibbia
+መለጠፊያ:Babel	Template:Babel
+መለጠፊያ:Commons	Template:Commons
+መለጠፊያ:Link GA	Template:Link VdQ
+መለጠፊያ:Reflist	Template:References
+ውክፔዲያ:Searching	Aiuto:Ricerca
+መለጠፊያ:መዋቅር	Template:S
+መለጠፊያ:User af-1	Template:Utente af-1
+መለጠፊያ:User ar-1	Template:Utente ar-1
+መለጠፊያ:User az	Template:Utente az
+መለጠፊያ:User eo-1	Template:Utente eo-1
+መለጠፊያ:See also	Template:Vedi anche
+መለጠፊያ:User da-2	Template:Utente da-2
+መለጠፊያ:User da	Template:Utente da
+መለጠፊያ:User ca-1	Template:Utente ca-1
+መለጠፊያ:User da-1	Template:Utente da-1
+መለጠፊያ:User eo-3	Template:Utente eo-3
+መለጠፊያ:User de	Template:Utente de
+መለጠፊያ:User de-1	Template:Utente de-1
+መለጠፊያ:User et-1	Template:Utente et-1
+መለጠፊያ:User el	Template:Utente el
+መለጠፊያ:User es	Template:Utente es
+መለጠፊያ:User de-3	Template:Utente de-3
+መለጠፊያ:User en-3	Template:Utente en-3
+መለጠፊያ:User el-1	Template:Utente el-1
+መለጠፊያ:User en-1	Template:Utente en-1
+መለጠፊያ:User en-2	Template:Utente en-2
+መለጠፊያ:User eo-2	Template:Utente eo-2
+መለጠፊያ:User en-4	Template:Utente en-4
+መለጠፊያ:User fi	Template:Utente fi
+መለጠፊያ:User en-0	Template:Utente en-0
+መለጠፊያ:User es-4	Template:Utente es-4
+መለጠፊያ:User en	Template:Utente en
+መለጠፊያ:User de-2	Template:Utente de-2
+መለጠፊያ:User es-1	Template:Utente es-1
+መለጠፊያ:User fa	Template:Utente fa
+መለጠፊያ:User fr-1	Template:Utente fr-1
+መለጠፊያ:User grc-1	Template:Utente grc-1
+መለጠፊያ:User ja-4	Template:Utente ja-4
+መለጠፊያ:User sk	Template:Utente sk
+መለጠፊያ:User fr-2	Template:Utente fr-2
+መለጠፊያ:User tr	Template:Utente tr
+መለጠፊያ:User ja	Template:Utente ja
+መለጠፊያ:User ja-1	Template:Utente ja-1
+መለጠፊያ:User it-1	Template:Utente it-1
+መለጠፊያ:User fr	Template:Utente fr
+መለጠፊያ:User he	Template:Utente he
+መደብ:እስያ	Categoria:Asia
+መደብ:ቺሌ	Categoria:Cile
+መደብ:User uk	Categoria:Utenti uk
+መደብ:ደቡብ አሜሪካ	Categoria:America meridionale
+መደብ:User uk-N	Categoria:Utenti uk-M
+መደብ:እግር ኳስ	Categoria:Calcio
+መለጠፊያ:Mod	Template:Mod
+መለጠፊያ:NowCommons	Template:NowCommons
+መለጠፊያ:User sv	Template:Utente sv
+መለጠፊያ:User it	Template:Utente it
+መለጠፊያ:User uk	Template:Utente uk
+መለጠፊያ:User es-2	Template:Utente es-2
+መለጠፊያ:ሰላምታ	Template:Benvenuto
+መለጠፊያ:Wikipediasister	Template:PaginaPrincipale/Progetti
+መደብ:ጨረቃ	Categoria:Luna
+መደብ:User fr-1	Categoria:Utenti fr-1
+መለጠፊያ:Image label	Template:Etichetta immagine
+መለጠፊያ:የሀገር መረጃ	Template:Stato
+መለጠፊያ:Cite journal	Template:Cita pubblicazione
+መለጠፊያ:Cite news	Template:Cita news
+መለጠፊያ:ምርጥ ፅሑፍ	Template:Vetrina
+መደብ:User en-4	Categoria:Utenti en-4
+መደብ:User en	Categoria:Utenti en
+መደብ:User zh	Categoria:Utenti zh
+መደብ:User zh-N	Categoria:Utenti zh-M
+መደብ:User en-2	Categoria:Utenti en-2
+መለጠፊያ:Infobox	Template:Infobox
+መለጠፊያ:User zh	Template:Utente zh
+መለጠፊያ:User ru-4	Template:Utente ru-4
+መደብ:ግንባታ	Categoria:Edilizia
+መለጠፊያ:Pp-template	Template:Pp-template
+መደብ:ሃሪ ፖተር	Categoria:Harry Potter
+መለጠፊያ:User nl-1	Template:Utente nl-1
+መደብ:የሮሜ ሰዎች	Categoria:Personaggi della storia romana
+መደብ:የሕንድ ፊልሞች	Categoria:Film indiani
+መደብ:ተራሮች	Categoria:Montagne
+መለጠፊያ:User ru	Template:Utente ru
+መደብ:መሪዎች	Categoria:Politici
+መደብ:ሰዎች ነክ መዋቅሮች	Categoria:Stub - biografie
+መደብ:ጸሓፊዎች	Categoria:Scrittori
+መደብ:ዩኒቨርሲቲዎች	Categoria:Università
+መደብ:ናይሎ ሳህራዊ ቋንቋዎች	Categoria:Lingue nilo-sahariane
+መለጠፊያ:User nl	Template:Utente nl
+መለጠፊያ:Image label end	Template:Etichetta immagine fine
+መለጠፊያ:Location map አሜሪካ	Template:Mappa di localizzazione/USA
+መለጠፊያ:Year nav	Template:Anno
+መለጠፊያ:EBS	Template:Pulsante di emergenza bot
+መለጠፊያ:User pl-1	Template:Utente pl-1
+መለጠፊያ:User fr-3	Template:Utente fr-3
+መደብ:ሥዕል	Categoria:Dipinti
+መለጠፊያ:User lt	Template:Utente lt
+መለጠፊያ:User nds-1	Template:Utente nds-1
+መደብ:User ja-N	Categoria:Utenti ja-M
+መደብ:Location map by country templates	Categoria:Template mappa di localizzazione
+መደብ:Essays	Categoria:Saggistica
+መለጠፊያ:መንታ	Template:Disambigua
+መለጠፊያ:User no	Template:Utente no
+መለጠፊያ:መስኮት	Template:Finestra
+መለጠፊያ:Country data ዩክሬን	Template:Naz/UKR
+መለጠፊያ:InterWiki	Template:InterWiki
+መደብ:የእግር ኳስ ተጫዋቾች	Categoria:Calciatori per nazionalità
+መደብ:User az	Categoria:Utenti az
+መደብ:User sk	Categoria:Utenti sk
+መደብ:User eo	Categoria:Utenti eo
+መደብ:User et	Categoria:Utenti et
+መደብ:User fr	Categoria:Utenti fr
+መደብ:User ja	Categoria:Utenti ja
+መደብ:User la	Categoria:Utenti la
+መደብ:User lt	Categoria:Utenti lt
+መደብ:User new	Categoria:Utenti new
+መደብ:User oc	Categoria:Utenti oc
+መደብ:User pt	Categoria:Utenti pt
+መደብ:User sv	Categoria:Utenti sv
+መደብ:User th	Categoria:Utenti th
+መደብ:User cs-3	Categoria:Utenti cs-3
+መደብ:User fr-3	Categoria:Utenti fr-3
+መደብ:User ja-3	Categoria:Utenti ja-3
+መደብ:User tr-3	Categoria:Utenti tr-3
+መደብ:User da-1	Categoria:Utenti da-1
+መደብ:User et-1	Categoria:Utenti et-1
+መደብ:User nl-1	Categoria:Utenti nl-1
+መደብ:User pl-1	Categoria:Utenti pl-1
+መደብ:User tr-1	Categoria:Utenti tr-1
+መደብ:User ar-1	Categoria:Utenti ar-1
+መደብ:User oc-4	Categoria:Utenti oc-4
+መደብ:User da-2	Categoria:Utenti da-2
+መደብ:User fr-2	Categoria:Utenti fr-2
+መደብ:User la-2	Categoria:Utenti la-2
+መደብ:User nl-2	Categoria:Utenti nl-2
+መደብ:User sv-2	Categoria:Utenti sv-2
+መደብ:User cs-N	Categoria:Utenti cs-M
+መደብ:User ko-N	Categoria:Utenti ko-M
+መደብ:User fr-N	Categoria:Utenti fr-M
+መደብ:User it-N	Categoria:Utenti it-M
+መደብ:User lv-N	Categoria:Utenti lv-M
+መደብ:User lt-N	Categoria:Utenti lt-M
+መደብ:User nl-N	Categoria:Utenti nl-M
+መደብ:User new-N	Categoria:Utenti new-M
+መደብ:User no-N	Categoria:Utenti no-M
+መደብ:User ru-N	Categoria:Utenti ru-M
+መደብ:Italy location map templates	Categoria:Template mappa di localizzazione - Regioni d'Italia
+መደብ:የኢትዮጵያ ታሪካዊ ክፍሎች	Categoria:Province dell'Etiopia
+መደብ:User af	Categoria:Utenti af
+መደብ:User af-1	Categoria:Utenti af-1
+መደብ:User am	Categoria:Utenti am
+መደብ:User am-1	Categoria:Utenti am-1
+መደብ:User am-2	Categoria:Utenti am-2
+መደብ:User am-N	Categoria:Utenti am-M
+መደብ:User ar	Categoria:Utenti ar
+መደብ:User az-N	Categoria:Utenti az-M
+መደብ:User ca	Categoria:Utenti ca
+መደብ:User ca-1	Categoria:Utenti ca-1
+መደብ:User cs	Categoria:Utenti cs
+መደብ:User da	Categoria:Utenti da
+መደብ:User sk-N	Categoria:Utenti sk-M
+መደብ:User de	Categoria:Utenti de
+መደብ:User de-2	Categoria:Utenti de-2
+መደብ:User de-3	Categoria:Utenti de-3
+መደብ:User de-4	Categoria:Utenti de-4
+መደብ:User de-N	Categoria:Utenti de-M
+መደብ:User el	Categoria:Utenti el
+መደብ:User el-1	Categoria:Utenti el-1
+መደብ:User el-N	Categoria:Utenti el-M
+መደብ:User en-0	Categoria:Utenti en-0
+መደብ:User en-3	Categoria:Utenti en-3
+መደብ:User en-N	Categoria:Utenti en-M
+መደብ:User eo-1	Categoria:Utenti eo-1
+መደብ:User eo-2	Categoria:Utenti eo-2
+መደብ:User eo-3	Categoria:Utenti eo-3
+መደብ:User eo-N	Categoria:Utenti eo-M
+መደብ:User es	Categoria:Utenti es
+መደብ:User es-1	Categoria:Utenti es-1
+መደብ:User es-2	Categoria:Utenti es-2
+መደብ:User es-3	Categoria:Utenti es-3
+መደብ:User es-4	Categoria:Utenti es-4
+መደብ:User es-N	Categoria:Utenti es-M
+መደብ:User fa	Categoria:Utenti fa
+መደብ:User fa-N	Categoria:Utenti fa-M
+መደብ:User fi	Categoria:Utenti fi
+መደብ:User fi-N	Categoria:Utenti fi-M
+መደብ:User grc	Categoria:Utenti grc
+መደብ:User grc-1	Categoria:Utenti grc-1
+መደብ:User he	Categoria:Utenti he
+መደብ:User he-N	Categoria:Utenti he-M
+መደብ:User pl-N	Categoria:Utenti pl-M
+መደብ:User pt-1	Categoria:Utenti pt-1
+መደብ:User ka-1	Categoria:Utenti ka-1
+መለጠፊያ:User am-1	Template:Utente am-1
+መለጠፊያ:User am-2	Template:Utente am-2
+መደብ:የኢትዮጵያ ባልትና	Categoria:Cucina etiope
+መደብ:User it	Categoria:Utenti it
+መደብ:User it-1	Categoria:Utenti it-1
+መደብ:User ja-1	Categoria:Utenti ja-1
+መደብ:User ka	Categoria:Utenti ka
+መደብ:User ko	Categoria:Utenti ko
+መደብ:User ko-1	Categoria:Utenti ko-1
+መደብ:User ksh	Categoria:Utenti ksh
+መደብ:User ksh-N	Categoria:Utenti ksh-M
+መደብ:User la-1	Categoria:Utenti la-1
+መደብ:User ru-1	Categoria:Utenti ru-1
+ውክፔዲያ:ልሳናት	Wikipedia:Babel
+መደብ:የሆላንድ እግር ኳስ ተጫዋቾች	Categoria:Calciatori olandesi
+መደብ:የፖላንድ ሰዎች	Categoria:Polacchi
+መደብ:User lv	Categoria:Utenti lv
+መደብ:እንግሊዝ	Categoria:Inghilterra
+መደብ:User nds	Categoria:Utenti nds
+መደብ:User nds-1	Categoria:Utenti nds-1
+መደብ:User nds-N	Categoria:Utenti nds-M
+የፎሪየር ሽግግር	Trasformata di Fourier
+መደብ:የአፍሪካ አገራት	Categoria:Stati dell'Africa
+መለጠፊያ:User ko-1	Template:Utente ko-1
+መለጠፊያ:User ru-2	Template:Utente ru-2
+መደብ:User pt-N	Categoria:Utenti pt-M
+መደብ:User ru	Categoria:Utenti ru
+መደብ:User ru-2	Categoria:Utenti ru-2
+መደብ:User ru-3	Categoria:Utenti ru-3
+መደብ:User ru-4	Categoria:Utenti ru-4
+መደብ:User sv-1	Categoria:Utenti sv-1
+መደብ:User sv-N	Categoria:Utenti sv-M
+መደብ:User th-N	Categoria:Utenti th-M
+መደብ:User tr	Categoria:Utenti tr
+መደብ:User tr-N	Categoria:Utenti tr-M
+መደብ:User uk-1	Categoria:Utenti uk-1
+መደብ:User vi	Categoria:Utenti vi
+መደብ:User vi-1	Categoria:Utenti vi-1
+መደብ:User vi-N	Categoria:Utenti vi-M
+መደብ:User wa	Categoria:Utenti wa
+መደብ:User wa-N	Categoria:Utenti wa-M
+መለጠፊያ:Lang	Template:Lang
+መደብ:የአሜሪካ ሰዓሊዎች	Categoria:Pittori statunitensi
+መደብ:ሠዓሊ	Categoria:Pittori
+መደብ:አሪዞና	Categoria:Arizona
+መደብ:የኢትዮጵያ እግር ኳስ ክለቦች	Categoria:Società calcistiche etiopi
+መለጠፊያ:User nds	Template:Utente nds
+መደብ:የኢትዮጵያ ወንዞች	Categoria:Fiumi dell'Etiopia
+መደብ:አንጎላ	Categoria:Angola
+መደብ:ኤርትራ	Categoria:Eritrea
+መደብ:ላይቤሪያ	Categoria:Liberia
+መደብ:ሊቢያ	Categoria:Libia
+መለጠፊያ:ውሕደት	Template:U
+መደብ:ገንዘብ	Categoria:Valute
+መለጠፊያ:User am	Template:Utente am
+መለጠፊያ:User am-3	Template:Utente am-3
+መለጠፊያ:User cs-3	Template:Utente cs-3
+መደብ:ወንዞች	Categoria:Fiumi
+መለጠፊያ:User ko	Template:Utente ko
+መለጠፊያ:User la-2	Template:Utente la-2
+መለጠፊያ:User pt	Template:Utente pt
+መለጠፊያ:User ru-1	Template:Utente ru-1
+መለጠፊያ:User uk-1	Template:Utente uk-1
+መለጠፊያ:User zh-1	Template:Utente zh-1
+መለጠፊያ:User zh-2	Template:Utente zh-2
+መደብ:የግሪክ ሰዎች	Categoria:Greci
+መደብ:የኢትዮጵያ ሰዎች	Categoria:Etiopi
+መደብ:የአርጀንቲና እግር ኳስ ተጫዋቾች	Categoria:Calciatori argentini
+መደብ:የብራዚል እግር ኳስ ተጫዋቾች	Categoria:Calciatori brasiliani
+መደብ:የግብፅ ግድቦች	Categoria:Dighe dell'Egitto
+መደብ:User nl	Categoria:Utenti nl
+መደብ:User no-2	Categoria:Utenti no-2
+መደብ:User no	Categoria:Utenti no
+መደብ:User zh-1	Categoria:Utenti zh-1
+መደብ:User zh-2	Categoria:Utenti zh-2
+መደብ:አርመኒያ	Categoria:Armenia
+መደብ:ሥነ ጥምረት	Categoria:Combinatoria
+መደብ:ፈረንሳዊ ሠዓሊ	Categoria:Pittori francesi
+መደብ:የአሜሪካ መሪዎች	Categoria:Politici statunitensi
+መደብ:የስኮትላንድ ሰዎች	Categoria:Scozzesi
+መደብ:የፈረንሣይ መሪዎች	Categoria:Politici francesi
+መደብ:የጣልያን ሰዎች	Categoria:Filosofi italiani
+መደብ:የኢትዮጵያ እግር ኳስ ተጫዋቾች	Categoria:Calciatori etiopi
+መደብ:ኡራጓያዊ እግር ኳስ ተጫዋቾች	Categoria:Calciatori uruguaiani
+መደብ:ህንዳዊ-አውሮፓዊ ቋንቋዎች	Categoria:Lingue indoeuropee
+መደብ:የፈረንሣይ እግር ኳስ ተጫዋቾች	Categoria:Calciatori francesi
+መደብ:ትሪጎኖሜትሪ	Categoria:Trigonometria
+መደብ:ሥነ ስብስብ	Categoria:Teoria degli insiemi
+መደብ:የአውሮፕላን ማረፊያዎች	Categoria:Aeroporti
+መደብ:የፖላንድ ሳይንቲስቶች	Categoria:Scienziati polacchi
+መደብ:ሳይንቲስቶች	Categoria:Scienziati
+መደብ:መልክዐምድር ነክ መዋቅሮች	Categoria:Stub - geografia
+መደብ:የኢትዮጵያ መልክዐ ምድር	Categoria:Geografia dell'Etiopia
+መደብ:የአሜሪካ ዘፋኞች	Categoria:Cantanti statunitensi
+መደብ:ጃማይካ	Categoria:Giamaica
+መደብ:የደቡብ አፍሪካ እግር ኳስ ተጫዋቾች	Categoria:Calciatori sudafricani
+መደብ:ሜክሲካዊ እግር ኳስ ተጫዋቾች	Categoria:Calciatori messicani
+መደብ:ታሪክ ነክ መዋቅሮች	Categoria:Stub - storia
+መደብ:ሃይማኖት ነክ መዋቅሮች	Categoria:Stub - religione
+መለጠፊያ:User de-4	Template:Utente de-4
+መደብ:የፈረንሣይ ፕሬዚዳንት	Categoria:Presidenti della Repubblica francese
+መደብ:ኡሩጓይ	Categoria:Uruguay
+መደብ:ፍራፍሬ	Categoria:Frutta
+መደብ:ፓርቲዎች	Categoria:Partiti politici
+መደብ:የሰው ልጅ ጥናት	Categoria:Antropologia
+መደብ:ያሁ	Categoria:Yahoo!
+መደብ:የአሜሪካ የጥበብ ሰዎች	Categoria:Artisti statunitensi
+መደብ:የዱር አራዊት	Categoria:Animali
+መደብ:ስፖርት ነክ መዋቅሮች	Categoria:Stub - sport
+መደብ:የሙዚቃ መሣሪያዎች	Categoria:Strumenti musicali
+መደብ:አልባሳት	Categoria:Abbigliamento
+መደብ:ዋና ከተሞች	Categoria:Capitali di stato
+መደብ:ስሜን አፍሪቃ	Categoria:Nordafrica
+መደብ:ሥነ ቅርስ	Categoria:Archeologia
+መደብ:User pl	Categoria:Utenti pl
+መደብ:ሮማንስ ቋንቋዎች	Categoria:Lingue romanze
+መደብ:ቤተሠብ	Categoria:Famiglia
+መደብ:ግራፍ	Categoria:Teoria dei grafi
+መደብ:ስሜን አሜሪካ	Categoria:America settentrionale
+መደብ:ተከታታይ ፊልሞች	Categoria:Serie cinematografiche
+ካሮት	Daucus carota
+መደብ:የአውስትራልያ ከተሞች	Categoria:Città dell'Australia
+መደብ:የጣልያን ከተሞች	Categoria:Città d'Italia
+መደብ:የኢትዮጵያ ተራሮች	Categoria:Montagne dell'Etiopia
+መደብ:ጋብቻ	Categoria:Matrimonio
+መደብ:ስኮትላንድ	Categoria:Scozia
+መደብ:የኢትዮጵያ ቋንቋዎች	Categoria:Lingue dell'Etiopia
+ሐቲ	Hatti (popolo)
+መለጠፊያ:Decadebox	Template:Decennio
+መደብ:ቋንቋ ነክ መዋቅሮች	Categoria:Stub - linguistica
+መደብ:ጥናታዊ ፊልሞች	Categoria:Film documentari
+ታይልቲን	Teltown
+መደብ:ሳይንስ ነክ መዋቅሮች	Categoria:Stub - scienza
+በር:ሒሳብ	Portale:Matematica
+ትሮያኒ፣ ማሶቪያ	Trojany
+ጥገኛ አምክንዮ	Implicazione logica
+መደብ:ኦሞቲክ ቋንቋዎች	Categoria:Lingue omotiche
+መደብ:እንግሊዝኛ	Categoria:Lingua inglese
+ሴኬም	Sichem
+መደብ:የኢትዮጵያ ክልሎች	Categoria:Regioni dell'Etiopia
+ኢማን	Sei articoli di fede
+መደብ:የጠፈር ጉዞ	Categoria:Esplorazione spaziale
+መደብ:ትምህርት ነክ መዋቅሮች	Categoria:Stub - istruzione
+መደብ:የኢትዮጵያ መሪዎች	Categoria:Politici etiopi
+መደብ:ፊፋ የዓለም ዋንጫ	Categoria:Campionati mondiali di calcio
+መደብ:ጀርመናዊ ቋንቋዎች	Categoria:Lingue germaniche
+መደብ:የኢትዮጵያ ሐይቆች	Categoria:Laghi dell'Etiopia
+መለጠፊያ:ያዳምጡ	Template:Multimedia
+መደብ:ሴማዊ ቋንቋዎች	Categoria:Lingue semitiche
+መደብ:የጽህፈት መሳሪያዎች	Categoria:Cancelleria
+መደብ:የመድኃኒት እጽዋት	Categoria:Piante medicinali e officinali
+መደብ:ኬልቲክ ቋንቋዎች	Categoria:Lingue celtiche
+መደብ:ኩሺቲክ ቋንቋዎች	Categoria:Lingue cuscitiche
+መለጠፊያ:Image label begin	Template:Etichetta immagine inizio
+መደብ:የአንጎላ ፕሬዝዳንቶች	Categoria:Presidenti dell'Angola
+ፍድቀል	Fidchell
+መደብ:User en-1	Categoria:Utenti en-1
+መደብ:User de-1	Categoria:Utenti de-1
+መደብ:User da-N	Categoria:Utenti da-M
+መደብ:የእንግሊዝ ከተሞች	Categoria:Città dell'Inghilterra
+መለጠፊያ:MedalGold	Template:MedaglieOro
+መለጠፊያ:MedalBronze	Template:MedaglieBronzo
+መለጠፊያ:MedalSilver	Template:MedaglieArgento
+መለጠፊያ:የኖህ ልጆች	Template:Figli di Noè
+መለጠፊያ:የኢትዮጵያ ከተሞች	Template:Città dell'Etiopia
+መሪብታዊ ቀቲ	Kheti
+ጊዛ ሜዳ	Necropoli di Giza
+መለጠፊያ:Round16	Template:Torneo-ottavi
+ሆዜ ማሪያ ኺሜኔዝ	José Giménez
+ሸሺ መዓይብሬ	Sheshi
+ልዩ:RecentChanges	Speciale:UltimeModifiche
+Module:Citation/CS1	Modulo:Citazione
+መደብ:User ja-4	Categoria:Utenti ja-4
+Module:Navbox	Modulo:Navbox
+የ2014 እ.ኤ.አ. ፊፋ የዓለም ዋንጫ ቡድኖች	Convocazioni per il campionato mondiale di calcio 2014
+ሰኸምካሬ ሶንበፍ	Amenemhat-senebef
+መደብ:የአፍሪቃ ወንዞች	Categoria:Fiumi dell'Africa

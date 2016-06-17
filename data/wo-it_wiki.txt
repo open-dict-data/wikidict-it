@@ -1,0 +1,1480 @@
+Afrig	Africa
+Sapoŋ	Giappone
+Bëj-saalumu Aamerig	America Meridionale
+Noorwees	Norvegia
+Irlaand	Irlanda
+Ongiri	Ungheria
+Ispaañ	Spagna
+Diiwaan yu Bennoo	Stati Uniti d'America
+Belsik	Belgio
+Luksambuur	Lussemburgo
+Suuf	Terra
+Finlaand	Finlandia
+Suweed	Svezia
+Danmaark	Danimarca
+Poloñ	Polonia
+Lituwaani	Lituania
+Itaali	Italia
+Suwis	Svizzera
+Otris	Austria
+Girees	Grecia
+Tirki	Turchia
+Portugaal	Portogallo
+Tugal	Europa
+Asi	Asia
+Bëj-gànnaaru Aamerig	America del Nord
+Goxub Dottub Bëj-saalum	Antartide
+Wikipedia	Wikipedia
+Olaand	Paesi Bassi
+PHP	PHP
+Berlin	Berlino
+Nosukaay	Computer
+Bern	Berna
+Zurich	Zurigo
+Internet	Internet
+Uruguwaay	Uruguay
+Londar	Londra
+Xayra	Il Cairo
+Alegsàndiri	Alessandria d'Egitto
+Pari	Parigi
+Meksik	Messico
+Mbàmbulaanug Atlas	Oceano Atlantico
+Mbàmbulaan Gu-Dal	Oceano Pacifico
+Altine	Lunedì
+Samwie	Gennaio
+Fewirie	Febbraio
+Maars (weer)	Marzo
+Maas	Marte (astronomia)
+Keeñaa	Kenya
+Ecoopi	Etiopia
+Gana	Ghana
+Awril	Aprile
+Mee	Maggio
+Suwe	Giugno
+Sulet	Luglio
+Waxset	Agosto
+Satumbar	Settembre
+Oktoobar	Ottobre
+Nowembar	Novembre
+Disambar	Dicembre
+Talaata	Martedì
+Àllarba	Mercoledì
+Alxames	Giovedì
+Àjjuma	Venerdì
+Gaawu	Sabato
+Dibéer	Domenica
+Gaynde	Panthera leo
+Faraas	Francia
+Esperanto	Lingua esperanto
+Xaj	Canis lupus familiaris
+Nguur-Yu-Bennoo	Regno Unito
+Muus	Felis silvestris catus
+Réewum Popileer bu Siin	Cina
+Wu-faraas	Lingua francese
+Wikbaatukaay	Wikizionario
+Breesil	Brasile
+Riisi	Russia
+Géej	Mare
+São Paulo	San Paolo (Brasile)
+Almaañ	Germania
+Belaarus	Bielorussia
+Islaand	Islanda
+Yàlla	Dio
+Estooni	Estonia
+Benn	1 (numero)
+Ñaar	2 (numero)
+Ñatt	3 (numero)
+Ñent	4 (numero)
+Juroom	5 (numero)
+Tus	0 (numero)
+Letóoni	Lettonia
+Ukreen	Ucraina
+Réewum Cek	Repubblica Ceca
+Eslowaaki	Slovacchia
+Esloweeni	Slovenia
+Wilniyus	Vilnius
+Moldaawi	Moldavia
+Romaani	Romania
+Bulgaari	Bulgaria
+Rom	Roma
+Réewum Maseduwaan	Repubblica di Macedonia
+Albaani	Albania
+Groenlaand	Groenlandia
+Korwaasi	Croazia
+Bosni	Bosnia ed Erzegovina
+Aserbayjaan	Azerbaigian
+Andoor	Andorra
+Ciipër	Cipro
+Jeoorji	Georgia
+Kasakistaan	Kazakistan
+Malt	Malta
+Monaako	Principato di Monaco
+Montenegro	Montenegro
+Watikaa	Città del Vaticano
+San Marino	San Marino
+Burusel	Bruxelles
+Kubaa	Cuba
+Beliis	Belize
+Barbados	Barbados
+Endoneesi	Indonesia
+Afrig gu Bëj-saalum	Sudafrica
+Alseeri	Algeria
+Usbekistaan	Uzbekistan
+Warsaw	Varsavia
+Ndox	Acqua
+Sili	Cile
+Yéesu-kristaa	Gesù
+Merkuur	Mercurio (astronomia)
+Taariix	Storia
+Weenus	Venere (astronomia)
+Kàllaama	Linguaggio
+Yupiter	Giove (astronomia)
+Uraanus	Urano (astronomia)
+Neptuun	Nettuno (astronomia)
+Saytubiddiw	Astronomia
+Singapoor	Singapore
+Xam-xam	Scienza
+Pluton	Plutone (astronomia)
+Liechtenstein	Liechtenstein
+Xareb Àdduna bu Njëkk	Prima guerra mondiale
+Ñaareelu Xareb Àdduna	Seconda guerra mondiale
+Skopje	Skopje
+Linux	Linux
+Xayma	Matematica
+Bahrayni	Bahrein
+Armeeni	Armenia
+Seerbi	Serbia
+Óstraali	Australia
+Jëmm	Fisica
+Arsantin	Argentina
+Peru	Perù
+Kore gu Bëj-gànnaar	Corea del Nord
+Kamboodi	Cambogia
+Alxuraan	Corano
+Lislaam	Islam
+Jubaljana	Lubiana
+Jimbulang bu waa-Brëtaañ	Enciclopedia Britannica
+World Wide Web	World Wide Web
+Jigéen	Donna
+Sofiya	Sofia
+Jant	Sole
+Asamaan	Cielo
+Oseyaani	Oceania
+Nosteg jant	Sistema solare
+Bés	Giorno
+Timoor gu Penku	Timor Est
+Guddi	Notte
+At	Anno
+Oslo	Oslo
+Lisbon	Lisbona
+Way	Musica
+Mosku	Mosca (Russia)
+Cadd	Ciad
+Seland-Gu-Bees	Nuova Zelanda
+End	India
+Tuvalu	Tuvalu
+Tonga	Tonga
+Samowaa	Samoa
+Duni Solomon	Isole Salomone
+Wanuatu	Vanuatu
+Papuwaasi-Gine-Gu-Bees	Papua Nuova Guinea
+Palau	Palau (stato)
+Nauru	Nauru
+Réew yu Bennoo yu Mikronesi	Stati Federati di Micronesia
+Duni Marshall	Isole Marshall
+Kiribati	Kiribati
+Mongoli	Mongolia
+Fiiji	Figi
+Benesuwela	Venezuela
+Amsterdam	Amsterdam
+Rab	Animalia
+Surinaam	Suriname
+Paraguwaay	Paraguay
+Guyaana	Guyana
+Fànn	Arte
+Ekwadoor	Ecuador
+Koloombi	Colombia
+Boliibi	Bolivia
+Tirinidaad ak Tobaago	Trinidad e Tobago
+Gàncax	Plantæ
+Saint Vincent and the Grenadines	Saint Vincent e Grenadine
+Saint Lucia	Santa Lucia (Stato)
+Saint Kitts and Nevis	Saint Kitts e Nevis
+Jamayka	Giamaica
+Grenada	Grenada
+Guwaatemala	Guatemala
+Bahamas	Bahamas
+Ganaar	Gallus gallus domesticus
+Antigua ak Barbuda	Antigua e Barbuda
+Onduras	Honduras
+Dominika	Dominica
+Réewum Dominik	Repubblica Dominicana
+Mbaam	Sus scrofa domesticus
+Mbàmbulaan gu Bëj-gànnaar	Mar Glaciale Artico
+Ayiti	Haiti
+Salbadoor	El Salvador
+Iraan	Iran
+Iraak	Iraq
+Kosta Riika	Costa Rica
+Israayil	Israele
+Panamaa	Panamá
+Yaman	Yemen
+Jordaani	Giordania
+Nikaraaguwa	Nicaragua
+Kirgistaan	Kirghizistan
+Kowet	Kuwait
+Réewum Lawos	Laos
+Libaa	Libano
+Maldiif	Maldive
+Aamerig	America
+Maleesi	Malesia
+Miyanmaar	Birmania
+Nepaal	Nepal
+Omaan	Oman
+Pakistaan	Pakistan
+Kataar	Qatar
+Araabi Sawdit	Arabia Saudita
+Siri Laanka	Sri Lanka
+Siri	Siria
+Tajikistaan	Tagikistan
+Taaywaan	Taiwan
+Taaylaand	Thailandia
+Ceññeer-mbej	Radio (elettronica)
+Turkumenistaan	Turkmenistan
+Imaaraat yu Araab yu Bennoo yi	Emirati Arabi Uniti
+Wiyetnaam	Vietnam
+Kore gu Bëj-saalum	Corea del Sud
+Afganistaan	Afghanistan
+Banglaades	Bangladesh
+Mali	Mali
+Angolaa	Angola
+Butaan	Bhutan
+Tansani	Tanzania
+Filipiin	Filippine
+Réewum Diggu Afrig	Repubblica Centrafricana
+Dottub Bëj-saalum	Polo sud
+Dottub Bëj-gànnaar	Polo nord
+Albert Einstein	Albert Einstein
+Mboq	Giallo
+Togóo	Togo
+Tiniisi	Tunisia
+Saambi	Zambia
+Simbaawee	Zimbabwe
+Bene	Benin
+Botswana	Botswana
+Burkinaa Faaso	Burkina Faso
+Buruundi	Burundi
+Komoor	Comore
+Kongóo-Brasaawiil	Repubblica del Congo
+Kongóo-Kinshasa	Repubblica Democratica del Congo
+Jibuti	Gibuti
+Gineg yamoo	Guinea Equatoriale
+Eritere	Eritrea
+Tibilisi	Tbilisi
+Gaboŋ	Gabon
+Gàmbi	Gambia
+Gine	Guinea
+Gine Bisaawóo	Guinea-Bissau
+Kodiwaar	Costa d'Avorio
+Kamerun	Camerun
+Kap Weert	Capo Verde
+Lesoto	Lesotho
+Libeeria	Liberia
+Libi	Libia
+Madagaskaar	Madagascar
+Malawi	Malawi
+Gànnaar	Mauritania
+Móoris	Mauritius
+Marok	Marocco
+Mosambik	Mozambico
+Namibi	Namibia
+Niseer	Niger
+Charles Darwin	Charles Darwin
+Ugandaa	Uganda
+Ruwandaa	Ruanda
+Saw Tome ak Preesip	São Tomé e Príncipe
+Senegaal	Senegal
+Seysel	Seychelles
+Siraa Leyoon	Sierra Leone
+Somali	Somalia
+Julius Caesar	Gaio Giulio Cesare
+Sudaan	Sudan
+Suwaasilaand	Swaziland
+Kureelu Mbootayu Xeet yi	Organizzazione delle Nazioni Unite
+Melosuuf	Geografia
+Melo	Colore
+Prag	Praga
+Baxa	Blu
+Yanu mbëj	Carica elettrica
+Poortorikoo	Porto Rico
+Mbàmbulaanug End	Oceano Indiano
+Wàll:Xët wu njëkk	Categoria:Categorie
+Koppar	Denaro
+Gunóor	Insecta
+Niccolò Machiavelli	Niccolò Machiavelli
+Uetersen	Uetersen
+Jibraltaar	Gibilterra
+Sagreb	Zagabria
+Astana	Astana
+Aten	Atene
+Bagdad	Baghdad
+Caracas	Caracas
+Wiyen	Vienna
+Kopenagen	Copenaghen
+Stokolm	Stoccolma
+Elsinki	Helsinki
+Dublin	Dublino
+Reykjawik	Reykjavík
+Talin	Tallinn
+Riga	Riga
+Baratislawa	Bratislava
+Budapest	Budapest
+Luksambuur (péy)	Lussemburgo (città)
+Wadus	Vaduz
+Biibël	Bibbia
+San Marino (péy)	Città di San Marino
+Ho Chi Minh City	Ho Chi Minh (città)
+Jàngu Yéesu bu Dëggu bi	Vera Chiesa di Gesù
+Wu-angalteer	Lingua inglese
+Andorra la Vella	Andorra la Vella
+Đồng Hới	Dong Hoi
+Concepción (Ciili)	Concepción (Cile)
+Kiyew	Kiev
+Końskowola	Końskowola
+Xartum	Khartum
+Sharles Degóol	Charles de Gaulle
+Mbëjfepp	Elettrone
+Minsk	Minsk
+Feppsaal	Protone
+Kurów	Kurów
+Feppmaandu	Neutrone
+Mogadisu	Mogadiscio
+Football	Calcio (sport)
+Madrid	Madrid
+Wert	Verde
+Xonq	Rosso
+Safara	Fuoco
+Lourdes	Lourdes
+Niiruw jant	Nebulosa solare
+Rabat	Rabat
+Alse	Algeri
+Dexub Senegaal	Senegal (fiume)
+Tunis	Tunisi
+Tripoli (Libi)	Tripoli
+Jibuti (dëkk)	Gibuti (città)
+Addis-Abeba	Addis Abeba
+Ankara	Ankara
+Asmara	Asmara
+Njamena	N'Djamena
+Nouakchott	Nouakchott
+Belgrad	Belgrado
+Ndakaaru	Dakar
+Banjul	Banjul
+Wàll:Royuwaay	Categoria:Template
+Praia	Praia
+Guyaana gu Faraas	Guyana francese
+Amman	Amman
+Yaunde	Yaoundé
+Malabo	Malabo
+Libarwil	Libreville
+Bangi	Bangui
+Kinshasa	Kinshasa
+Brasawil	Brazzaville
+Bujumbura	Bujumbura
+Kigali	Kigali
+Dodoma	Dodoma
+Nairobi	Nairobi
+Lilongwe	Lilongwe
+Lusaka	Lusaka
+Maputo	Maputo
+Kampala	Kampala
+Luanda	Luanda
+Moroni	Moroni (Comore)
+Antananariwo	Antananarivo
+Arare	Harare
+Wiktoria (Seysel)	Victoria (Seychelles)
+Kër	Casa
+Lonkoyoon	Mappa
+Dex	Fiume
+Osasco	Osasco (San Paolo)
+Curitiba	Curitiba
+Sowwu Afrig	Africa occidentale
+Confucius	Confucio
+Corbin Bleu	Corbin Bleu
+Wàll:Xayma	Categoria:Matematica
+Duni Faarow	Fær Øer
+Géej gu Diggu	Mar Mediterraneo
+Gox	Continente
+Monzón	Monzón
+Weer	Mese
+Mustafa Kemal Atatürk	Mustafa Kemal Atatürk
+Almazán	Almazán
+Jimbulang	Enciclopedia
+Xët wu njëkk	Pagina principale
+Dëgërlukaay	Resistore
+Fattalukaay(mbëj)	Condensatore (elettrotecnica)
+Xiirtalukaay	Induttore
+Tugalasi	Eurasia
+Babilon	Babilonia
+Dunu Aland	Isole Åland
+Betleyem	Betlemme
+Duni Kanaari	Isole Canarie
+Xeltu	Filosofia
+Rap	Rap
+Hebe Camargo	Hebe Camargo
+Sahara gu Sowwu	Sahara Occidentale
+Atali	Adalia
+Wàll:Saytubiddiw	Categoria:Astronomia
+Saara	Deserto del Sahara
+Niels Bohr	Niels Bohr
+Politig	Politica
+Qin Shi Huang	Qin Shi Huang
+Penku gu Diggu	Medio Oriente
+Réew	Stato
+Mbàmbulaan gu Bëj-saalum	Oceano antartico
+Bët	Occhio
+Melentaan	Formicidae
+Simili	Minuto
+Taariixu Itaali	Storia d'Italia
+Mburu	Pane
+Kiswahili	Lingua swahili
+Dereet	Sangue
+Toulouse	Tolosa
+Xam-xamu suuf si ak jawwu ji	Scienze della Terra
+Doj	Roccia
+Jawwu ji	Atmosfera
+Koom-koom	Economia
+Yewwute gu ndefar	Industria
+Wàll:Bulgaari	Categoria:Bulgaria
+Njàngat	Letteratura
+Wàll:Faraas	Categoria:Francia
+Wàll:Woy	Categoria:Musica
+Wàll:Njàngat	Categoria:Letteratura
+.ac	.ac
+Xay	Civiltà
+Gόor	Uomo (genere)
+Tangor	Montagna
+Yay	Deserto
+Ooŋ Koŋ	Hong Kong
+HTML	HTML
+Xarefulwoon	Atomo
+Nosteg doxiin	Sistema operativo
+Baku	Baku
+Mbàmbulaan	Oceano
+Budda	Gautama Buddha
+Premier League	Premier League
+Mohammed	Maometto
+Dunu Falkland	Isole Falkland
+Ronald Reagan	Ronald Reagan
+Gordon Brown	Gordon Brown
+Wàll:Benesuwela	Categoria:Venezuela
+Pitax	Columbidae
+Garab	Albero
+Wuutuloxo	Macchina
+Xibaar	Informazione
+Paj	Medicina
+Saarayego	Sarajevo
+Wàll:Breesil	Categoria:Brasile
+Wàll:Romaani	Categoria:Romania
+Xeet	Elemento chimico
+Kàttan	Energia
+Hip-hop	Hip hop
+Toolu bijjaakon	Campo magnetico
+Dooley ñoddi	Interazione gravitazionale
+Bijjaan	Magnete
+Yolaakon	Liquido
+Féex	Vuoto (fisica)
+Yaatuwaay	Area
+Saa	Secondo
+Cuub	Pittura
+Nataal	Fotografia
+Yatt	Scultura
+Mbëjfeppal	Elettronica
+Dawaanu mbëj	Corrente elettrica
+Baraay	Frequenza
+Soppalikaay	Trasformatore
+Duni Virgin (us)	Isole Vergini americane
+Bëj-saalum-penku Asi	Sud-est asiatico
+Limu réewi àdduna bi	Stati del mondo
+Njëkk-taariix	Preistoria
+Réewum ñaari dex yi	Mesopotamia
+Las Palmasu Kanaari gu Mag	Las Palmas de Gran Canaria
+Arminaat	Calendario
+Xarey jóoñe	Crociata
+Mbëj	Elettricità
+Montserrat	Montserrat (isola)
+Ndajem Berlin	Conferenza di Berlino (1884)
+Adiratig	Mare Adriatico
+Ngiste	Ottica
+Makaaw	Macao
+Soviet Yi Benno	Unione Sovietica
+Queen	Queen
+Royuwaay:Lien AdQ	Template:Link V
+Àdduna	Mondo
+Wikipedia:Pénc mi	Wikipedia:Bar
+Guam	Guam
+Samoa gu Aamerig	Samoa Americane
+Northern Mariana Islands	Isole Marianne Settentrionali
+United States Minor Outlying Islands	Isole minori esterne degli Stati Uniti d'America
+Guwaadalup	Guadalupa
+Martinik	Martinica
+Mayoot	Mayotte
+Reiñõo	Riunione (isola)
+Turks and Caicos Islands	Turks e Caicos
+Manchester United	Manchester United Football Club
+Juróom ñent	9 (numero)
+Bien Hoa	Biên Hòa
+Nha Trang	Nha Trang
+Rafael Correa	Rafael Correa
+Bukarest	Bucarest
+Louvre	Museo del Louvre
+Kureelu tembte bu Poortorikoo	Partito Indipendentista Portoricano
+Tirana	Tirana
+Nowel	Natale
+Breinigerberg	Breinigerberg
+Ségg	Panthera tigris
+Kisinawu	Chișinău
+Xam-xamu nosukaay	Informatica
+Şalom	Şalom
+Aruba	Aruba
+Juróom ñaar	7 (numero)
+Juróom ñett	8 (numero)
+Ayubés	Settimana
+Ngéej	Lago
+Jeexiituwaay bu Orsay	Museo d'Orsay
+Dunu Buwet	Isola Bouvet
+Dun	Isola
+Juróom benn	6 (numero)
+Moshchena	Moščena
+Yamoo	Equatore
+Mérida, Benesuwela	Mérida (Venezuela)
+Podgorika	Podgorica
+Baatukaay	Dizionario
+Bermuda	Bermuda
+Palestiin	Palestina
+Waleta	La Valletta
+Fukk	10 (numero)
+Tene	Acinonyx jubatus
+Looy	Strigiformes
+Angila	Anguilla (isola)
+Waxtu	Ora
+Pichilemu	Pichilemu
+Duni Virgin (angalteer)	Isole Vergini britanniche
+Phan Thiet	Phan Thiết
+Goxub Dottub Bëj-gànnaar	Artide
+Ngóora (jëmm)	Potenza (fisica)
+Ndëgërlu gu mbëj	Resistenza elettrica
+Dendu mbëj	Differenza di potenziale elettrico
+Niccolò Cusano University	Università degli Studi @@@u0026Niccolò Cusano"
+Mbëjtekkaaral	Elettrostatica
+Anet	Anethum graveolens
+Dunu Kook	Isole Cook
+Penku Asi	Asia orientale
+Diggu Asi	Asia centrale
+Bëj-gànnaaru Afrig	Nordafrica
+Bëj-saalumu Afrig	Africa del Sud
+Penku Afrig	Africa orientale
+Diggu Afrig	Africa centrale
+Bëj-saalumu Tugal	Europa meridionale
+Penku Tugal	Europa orientale
+Bëj-gànnaaru Tugal	Europa settentrionale
+Sowwu Tugal	Europa occidentale
+Afritugalasi	Eurafrasia
+Diggu Aamerig	America Centrale
+Maghreb	Maghreb
+Weeri wolof	Calendario islamico
+Ecser	Ecser
+Akas	Acaz
+Polineesi gu Faraas	Polinesia Francese
+Dunu Norfolk	Isola Norfolk
+Dunu Christmas	Isola di Natale
+Arabi	Penisola araba
+Paaka	Coltello
+Pullaar	Lingua fula
+Kaledooni-Gu-Bees	Nuova Caledonia
+Way-dëkk	Popolazione
+Niwe	Niue
+Tus-wu-gaar	Latitudine
+Wolof (làkk)	Lingua wolof
+Gëstubiddiw	Astrologia
+Seent Eleen	Sant'Elena (isola)
+Saint Pierre ak Miquelon	Saint-Pierre e Miquelon
+Njëkk-xaymà	Prefissi telefonici internazionali
+Tequixquiac	Tequixquiac
+Jeoorji gu Bëj-saalum ak Duni Islaand yi Bëj-saalum	Georgia del Sud e Isole Sandwich Meridionali
+Dalub web	Sito web
+Araab	Arabi
+Wallis ak Futuna	Wallis e Futuna
+Pitkeern	Isole Pitcairn
+Ne-ne	Materia (fisica)
+Al Bayda	Beida
+Gaal	Imbarcazione
+Polineesi	Polinesia
+Dunu Kokos	Isole Cocos (Keeling)
+Thanh Hoa	Thanh Hóa
+Siligo	Siligo
+Tus-wu-taxaw	Longitudine
+Dàngin	Gorilla
+Ben Tre	Ben Tre
+Xëtu web	Pagina web
+Tokelau	Tokelau
+Tembte	Indipendenza
+Melaneesi	Melanesia
+Téeméer	100 (numero)
+Campora San Giovanni	Campora San Giovanni
+Besançon	Besançon
+Jinax	Mus (genere)
+Melosuufug Burkinaa Faaso	Geografia del Burkina Faso
+Suraas	Arancione
+Artemis	Artemide
+Esaas	Benzina
+Radio Studio 54 Network	Radio Studio 54 Network
+Tëriinuw nosukaay	Programma (informatica)
+Jëf ya	Atti degli Apostoli
+Bejjenu Afrig	Corno d'Africa
+Fatt-jawwu	Troposfera
+Al Pacino	Al Pacino
+Doolerandu	Meccanica (fisica)
+Sinemaa	Sala cinematografica
+Jum	Razzo
+Daawuda	Davide
+Seere	Shahada
+Liggéey (jëmm)	Lavoro (fisica)
+Penku gu Sori	Estremo Oriente
+Gëwéel	Zona torrida
+Junni	1000 (numero)
+Xaralaymbëj	Elettrotecnica
+Waañ	Cucina (architettura)
+Andare	Andrea apostolo
+Bartelemi	Bartolomeo apostolo
+Melosuufug Alseeri	Geografia dell'Algeria
+Alex Ferguson	Alex Ferguson
+The Doors	The Doors
+Toolu mbëj	Campo elettrico
+Kàttanug imbiku	Energia cinetica
+Mbootaayu Réewi Jullit yi	Organizzazione della cooperazione islamica
+Penku gu Jege	Vicino Oriente
+Royuwaay:Bokktekki	Disambiguazione
+Almasi bi	Messia
+Bànni Israyil	Dodici tribù di Israele
+Aaroona	Aronne
+Anas	Anna (sommo sacerdote)
+Jàngoroy Ebola	Malattia da virus Ebola
+Locri	Locri
+Monaako (péy)	Monaco-Ville
+Wàll:Filmi	Categoria:Film
+Aset	Piatto (stoviglia)
+Truong Tan Sang	Trương Tấn Sang
+Duran Duran	Duran Duran
+Safaanukaay	Alternatore
+Ron-goxu End	Subcontinente indiano
+Diiwaani dott	Regioni polari
+Sahel	Sahel
+Aadama	Adamo
+Doxalukaay bu mbëj	Motore elettrico
+Ametist	Ametista
+Coronel Fabriciano	Coronel Fabriciano
+Junj	Simbolo
+1 Korent	Prima lettera ai Corinzi
+Furset	Forchetta
+Kuddu	Cucchiaio
+Royan	Royan
+Lepton	Leptone
+Bundesliga	Bundesliga
+Dencukaay	File
+Cosaan	Tradizione
+Jéeri ji	Litosfera
+Lëkkalekaay	Collegamento ipertestuale
+Nukleon	Nucleone
+Beril	Berillo
+Xarey àdduna	Guerra mondiale
+Abdulaay Wàdd	Abdoulaye Wade
+Dëgërluwiin	Resistività elettrica
+Yolom-jawwu	Stratosfera
+Melosuufug Tugal	Geografia dell'Europa
+Dawaan bu safaanu	Corrente alternata
+Disc jockey	Disc jockey
+2 Piyeer	Seconda lettera di Pietro
+Heard Island and McDonald Islands	Isole Heard e McDonald
+Jurukaayu mbëj	Generatore elettrico
+Ndombo gu mbëj	Circuito elettrico
+Mamudsu	Mamoudzou
+Afrig gu bëj-saalumu-Sahara	Africa subsahariana
+Sawara	Combustione
+Raaya wu Senegaal	Bandiera del Senegal
+Albaatar	Alabastro
+Diggi-tabaski	Dhu l-Qa'da
+Leopool Sedaar Sengoor	Léopold Sédar Senghor
+Dóox	Ducato (feudo)
+Bennoo gu Almaañ	Unificazione della Germania
+Dawaan bu wéy	Corrente continua
+Digg bu mbëj	Centrale elettrica
+Pachuca de Soto	Pachuca
+Iyon-jawwu	Ionosfera
+Break dancing	Breakdance
+Biti-jawwu	Esosfera
+Asot	Ashdod
+Amiin	Amen
+Amos	Libro di Amos
+Bunt: taariix	Portale:Storia
+Ponki Lislaam	Cinque pilastri dell'Islam
+Toolu mbëjbijjaakon	Campo elettromagnetico
+Xiirtalu	Induttanza
+Mbëjbijjaan	Elettromagnete
+ASP.NET	ASP.NET
+Diiwaanu Ndar	Regione di Saint-Louis
+Ayóoba	Giobbe
+Aakimoo jawwu ji	Esplorazione spaziale
+Dalu Archimède	Principio di Archimede
+Imbraatóor gu Mali	Impero del Mali
+Barnabas	Barnaba apostolo
+Alaaji Omar Fuutiyu TAAL	Al-Ḥāǧǧ ʽUmar
+Tabaski	Dhu l-Hijja
+Armagedon	Armageddon
+Njël	Alba (giorno)
+Ndeyi-koor	Rajab
+Ancos ci Siri	Antiochia di Siria
+Bere	Veria
+Areyopas	Areopago
+Beelsebul	Beelzebub
+Pël	Fulani
+Imbraatóor gu Songaay	Impero Songhai
+Vesoul	Vesoul
+Akayi	Acaia (provincia romana)
+Alisa	Eliseo (profeta)
+Waalo	Waalo
+Imbraatóor gu Gana	Impero del Ghana
+Piipa	Delphinus delphis
+Doxalukaay bu demandoodi	Motore asincrono
+Duusub sin	Onda sinusoidale
+Sudaan (diiwaan)	Sudan (regione)
+Njeexitu joule	Effetto Joule
+Yuusu Nduur	Youssou N'Dour
+Ajara	Agar (Bibbia)
+Wolof (askan)	Wolof
+Amfipolis	Anfipoli
+Turu Way-Dëkk	Etnico (onomastica)
+Baraxlu	Sha'ban
+Ngaté bu digen	Diplodus vulgaris
+Sao Tome (dun)	São Tomé (isola)
+Haj	Hajj
+Arkelawus	Erode Archelao
+Beer	Gorée
+Mboolaay	Società
+Ndar	Saint-Louis (Senegal)
+Yoonu Eŋaca	Via Egnatia
+Rakki-gàmmu	Rabi' II
+Abadon	Abaddon
+Luga	Louga
+Aretas	Areta IV
+Wommat wu mbëj	Conduttanza elettrica
+Jasaan	Pristis pectinata
+Asaf	Asa di Giuda
+Barabas	Barabba
+Agaripa	Erode Agrippa II
+Abel	Abele
+Amon	Amon (re di Giuda)
+Ousmane Sembène	Ousmane Sembène
+Abiyatar	Abiatar
+Apolos	Apollo (Nuovo Testamento)
+Akilas	Aquila di Sinope
+Aristobul	Aristobulo I
+Agabus	Agabo
+Bëer	Argyrosomus regius
+Aloos	Agarwood
+Bitini	Bitinia
+Toq	Tockus
+Sëriñ Saaliwu Mbàkke	Serigne Saliou Mbacké
+Xaaju kol-kol	Emisfero
+Yolet	Viola (colore)
+Ahmadou Bamba	Cheikh Ahmadou Bamba
+Arpagsàdd	Arpacsad
+Ben-yamin	Beniamino (Bibbia)
+Berenis	Berenice di Cilicia
+Arkib	Archippo di Colossi
+Aristàrk	Aristarco di Tessalonica
+Gàmmu	Rabi' I
+Planoise	Planoise
+Anañas	Anania
+Diggi-gàmmu	Safar
+Betsayda	Betsaida
+Andoronikus	Andronico di Pannonia
+Bisub Tabaski	Id al-adha
+Seex Anta Jóob	Cheikh Anta Diop
+Dalmasi	Dalmazia
+Max	Isoptera
+Antipas	Antipa di Pergamo
+Balaam	Balaam
+Wure	Wari
+Ancos ci Pisidi	Antiochia di Pisidia
+Koom-koomu Afrig	Economia dell'Africa
+Diiwaanu Séeju	Regione di Sédhiou
+Baal	Baal
+Cees	Thiès
+Tuubaa	Touba (Senegal)
+Antipataris	Antipatride
+Kori	Shawwal
+Diiwaanu Luga	Regione di Louga
+Diiwaanu Koldaa	Regione di Kolda
+Séeréer	Sérèr
+Asos	Asso (Turchia)
+RMF FM	RMF FM
+Tundi Senegaal	Dipartimenti del Senegal
+Jolof	Impero Wolof
+Melosuufug Afrig	Geografia dell'Africa
+Banda	Plectorhinchus mediterraneus
+Barag	Barac
+Bartime	Bartimeo
+Beliyar	Belial
+Mandinke	Mandingo
+Maami-koor	Jumada II
+Diiwaanu Siggcoor	Regione di Ziguinchor
+Awa	Eva
+Betani	Betania
+Betesda	Piscina di Betzaeta
+Kaasamaas	Casamance
+Swalbard ak Jan Mayen	Svalbard e Jan Mayen
+Santiago Tequixquiac	Santiago Tequixquiac
+Limub njiiti Senegaal yil	Presidenti del Senegal
+Doxalukaay bu demandoo	Motore sincrono
+Diiwaani Senegaal	Regioni del Senegal
+Diiwaanu Kawlax	Regione di Kaolack
+Kawlak	Kaolack
+Diiwaanu Cees	Regione di Thiès
+Diiwaanu Tambaakundaa	Regione di Tambacounda
+Rakkaati-gàmmu	Jumada I
+Nosteg galag	Diritto tributario
+Diiwaanu Njaaréem	Regione di Diourbel
+Diiwaanu Ndakaaru	Regione di Dakar
+Diiwaanu Maatam	Regione di Matam
+Diiwaanu Fatik	Regione di Fatick
+Oiapoque	Oiapoque
+Jurbel	Diourbel
+Wuutuloxo bu mbëj	Macchina elettrica
+Elimas	Elimas
+Podoor	Podor
+Diiwaanu Kéedugu	Regione di Kédougou
+Kajoor	Regno di Cayor
+Diiwaanu Kafrin	Regione di Kaffrine
+Catir	Thyatira
+Wersun	Spondyliosoma cantharus
+Melosuufug Angolaa	Geografia dell'Angola
+Maatam	Matam
+Djibril Dio Mambéty	Djibril Diop Mambéty
+Dùn	Dùn (Saint Kilda)
+Abilen	Abilene (regione storica)
+Bowanerses	Aramaico parlato da Gesù
+Wàll:Almaañ	Categoria:Germania
+Wàll:Itaali	Categoria:Italia
+Wàll:Riisi	Categoria:Russia
+Wàll:Kanadaa	Categoria:Canada
+Wàll:Nguur-Yu-Bennoo	Categoria:Regno Unito
+Wàll:Ispaañ	Categoria:Spagna
+Wàll:Sapoŋ	Categoria:Giappone
+Wàll:Óstraali	Categoria:Australia
+Wàll:Meksik	Categoria:Messico
+Wàll:End	Categoria:India
+Wàll:Araabi Sawdit	Categoria:Arabia Saudita
+Wàll:Israayil	Categoria:Israele
+Wàll:Watikaa	Categoria:Città del Vaticano
+Wàll:Tirki	Categoria:Turchia
+Wàll:Afrig gu Bëj-saalum	Categoria:Sudafrica
+Wàll:Isipt	Categoria:Egitto
+Wàll:Iraan	Categoria:Iran
+Wàll:Arsantin	Categoria:Argentina
+Abba	Abū
+Wàll:Afganistaan	Categoria:Afghanistan
+Wàll:Alseeri	Categoria:Algeria
+Wàll:Banglaades	Categoria:Bangladesh
+Wàll:Kubaa	Categoria:Cuba
+Wàll:Ecoopi	Categoria:Etiopia
+Wàll:Endoneesi	Categoria:Indonesia
+Wàll:Iraak	Categoria:Iraq
+Wàll:Niseeria	Categoria:Nigeria
+Wàll:Poloñ	Categoria:Polonia
+Wàll:Portugaal	Categoria:Portogallo
+Wàll:Kore gu Bëj-saalum	Categoria:Corea del Sud
+Wàll:Sudaan	Categoria:Sudan
+Wàll:Suwis	Categoria:Svizzera
+Wàll:Tansani	Categoria:Tanzania
+Wàll:Ukreen	Categoria:Ucraina
+Wàll:Wiyetnaam	Categoria:Vietnam
+Wàll:Picc	Categoria:Uccelli
+Wàll:Gàncax	Categoria:Piante
+Wàll:Jëmm	Categoria:Fisica
+Wàll:Taariix	Categoria:Storia
+Wàll:Melosuuf	Categoria:Geografia
+Wàll:Diine	Categoria:Religione
+Wàll:Sport	Categoria:Sport
+Wàll:Xam-xam	Categoria:Scienza
+Wàll:Sinemaa	Categoria:Cinema
+Wàll:Suuf	Categoria:Terra
+Wàll:Xibaar	Categoria:Informazione
+Melosuufug Afrig gu Bëj-saalum	Geografia del Sudafrica
+Aana	Anna (profetessa)
+Melosuufug Botswana	Geografia del Botswana
+Mori	Brotula barbata
+Tamxarit	Muharram
+Wàll:Xeltu	Categoria:Filosofia
+Wàll:Lislaam	Categoria:Islam
+Melosuufug Bene	Geografia del Benin
+Mandabi	Il vaglia
+Melosuufug Buruundi	Geografia del Burundi
+Melosuufug Senegaal	Geografia del Senegal
+Tunduw Ndakaaru	Dipartimento di Dakar
+Melosuufug Kamerun	Geografia del Camerun
+Mohammad Mousavi	Mohammad Mousavi
+Ndiiwaani Senegaal	Arrondissement del Senegal
+Benedicta Boccoli	Benedicta Boccoli
+Arimate	Arimatea
+Wolof	Wolof (disambigua)
+Wàll:Junj	Categoria:Stub
+Wàll:Gox yi	Categoria:Continenti
+Bunt:Melosuuf	Portale:Geografia
+Mikroneesi	Micronesia
+Adaramit	Adramittio
+Anna Rita Del Piano	Anna Rita Del Piano
+Royuwaay:M	Template:Tl
+Wàll:Réew	Categoria:Nazioni
+Wàll:Koom-koom	Categoria:Economia
+Wikipedia:Yorkat	Wikipedia:Amministratori
+Wàll:Kasakistaan	Categoria:Kazakistan
+Wikipedia:Bureaucrats	Wikipedia:Burocrati
+Wikipedia:Bot	Wikipedia:Bot
+Wàll:Paj	Categoria:Medicina
+Wàll:Politig	Categoria:Politica
+Wàll:Fànn	Categoria:Arte
+Isipt	Egitto
+Royuwaay:Bot	Template:Bot
+Kanadaa	Canada
+Wàll:Beljik	Categoria:Belgio
+Wàll:Ciipër	Categoria:Cipro
+Wàll:Réewum Cek	Categoria:Repubblica Ceca
+Wàll:Danmaark	Categoria:Danimarca
+Wàll:Estooni	Categoria:Estonia
+Wàll:Finlaand	Categoria:Finlandia
+Wàll:Girees	Categoria:Grecia
+Wàll:Letóoni	Categoria:Lettonia
+Wàll:Islaand	Categoria:Islanda
+Wàll:Luksambuur	Categoria:Lussemburgo
+Wàll:Lituwaani	Categoria:Lituania
+Wàll:Malt	Categoria:Malta
+Wàll:Suweed	Categoria:Svezia
+Wàll:Eslowaaki	Categoria:Slovacchia
+Wàll:Esloweeni	Categoria:Slovenia
+Wàll:Xare	Categoria:Guerre
+Bunt: Xarala	Portale:Scienza e tecnica
+Wàll:Tugal	Categoria:Europa
+Wommatiinu mbëj	Conduttività elettrica
+Wàll:Waa-wikipedia ci làkk-ak-làkk	Categoria:Utenti per lingua
+Sung Jae-gi	Sung Jae-gi
+Royuwaay:Softredirect	Template:Soft redirect
+Royuwaay:Far	Template:Cancella subito
+Wàll:Xarala	Categoria:Tecnologia
+Wàll:Làkk	Categoria:Lingue
+Wàll:Arminaat	Categoria:Calendari
+Wàll:Wikipedia	Categoria:Wikipedia
+Wàll:Barab bu tolluwaay bu njëkk	Categoria:Domini di primo livello
+Wàll:Afrig	Categoria:Africa
+Wàll:Mbëjfeppal	Categoria:Elettronica
+Wàll:Leeral Biibël	Categoria:Bibbia
+Wàll:Weeri at mi	Categoria:Mesi dell'anno
+Royuwaay:Babel	Template:Babel
+Royuwaay:Commons	Template:Commons
+Royuwaay:Lien BA	Template:Link VdQ
+Wàll:Xaralaymbëj	Categoria:Elettrotecnica
+Royuwaay:ANG	Template:AGO
+Royuwaay:Junj	Template:S
+Royuwaay:Jëfandikukat af-1	Template:Utente af-1
+Royuwaay:Jëfandikukat ar-1	Template:Utente ar-1
+Royuwaay:Jëfandikukat eo-1	Template:Utente eo-1
+Royuwaay:Jëfandikukat da	Template:Utente da
+Royuwaay:Jëfandikukat da-1	Template:Utente da-1
+Royuwaay:Jëfandikukat eo-3	Template:Utente eo-3
+Royuwaay:Jëfandikukat eu	Template:Utente eu
+Royuwaay:Jëfandikukat et-1	Template:Utente et-1
+Royuwaay:Jëfandikukat es	Template:Utente es
+Royuwaay:Jëfandikukat en-3	Template:Utente en-3
+Royuwaay:Jëfandikukat el-1	Template:Utente el-1
+Royuwaay:Jëfandikukat en-1	Template:Utente en-1
+Royuwaay:Jëfandikukat en-2	Template:Utente en-2
+Royuwaay:Jëfandikukat eo-2	Template:Utente eo-2
+Royuwaay:Jëfandikukat en-4	Template:Utente en-4
+Royuwaay:Jëfandikukat fi	Template:Utente fi
+Royuwaay:Jëfandikukat en-0	Template:Utente en-0
+Royuwaay:Jëfandikukat es-4	Template:Utente es-4
+Royuwaay:Jëfandikukat en	Template:Utente en
+Royuwaay:Jëfandikukat es-1	Template:Utente es-1
+Royuwaay:Jëfandikukat fr-1	Template:Utente fr-1
+Royuwaay:Jëfandikukat ia-2	Template:Utente ia-2
+Royuwaay:Jëfandikukat hi-1	Template:Utente hi-1
+Royuwaay:Jëfandikukat hu	Template:Utente hu
+Royuwaay:Jëfandikukat id-3	Template:Utente id-3
+Royuwaay:Jëfandikukat io-3	Template:Utente io-3
+Royuwaay:Jëfandikukat it-3	Template:Utente it-3
+Royuwaay:Jëfandikukat ja-4	Template:Utente ja-4
+Royuwaay:Jëfandikukat sk	Template:Utente sk
+Royuwaay:Jëfandikukat tr	Template:Utente tr
+Royuwaay:Jëfandikukat ja	Template:Utente ja
+Royuwaay:Jëfandikukat ja-1	Template:Utente ja-1
+Royuwaay:Jëfandikukat it-1	Template:Utente it-1
+Royuwaay:Jëfandikukat fr	Template:Utente fr
+Wàll:Gunóor	Categoria:Insetti
+Wàll:Moldaawi	Categoria:Moldavia
+Royuwaay:HRV	Template:HRV
+Wàll:Aserbayjaan	Categoria:Azerbaigian
+Wàll:Asi	Categoria:Asia
+Wàll:Ciili	Categoria:Cile
+Wàll:Lesoto	Categoria:Lesotho
+Wàll:Jëfandikukat uk	Categoria:Utenti uk
+Wàll:Jëfandikukat uk-N	Categoria:Utenti uk-M
+Wàll:Maleesi	Categoria:Malesia
+Wàll:Football	Categoria:Calcio
+Royuwaay:Mod	Template:Mod
+Royuwaay:Jëfandikukat sv	Template:Utente sv
+Royuwaay:Jëfandikukat it	Template:Utente it
+Royuwaay:Jëfandikukat uk	Template:Utente uk
+Royuwaay:Jëfandikukat es-2	Template:Utente es-2
+Wàll:Jimbulang	Categoria:Enciclopedie
+Royuwaay:Bataaxalu dalal-jàmm	Template:Benvenuto
+Royuwaay:Weer	Template:Mesi
+Royuwaay:USA	Template:USA
+Royuwaay:ITA	Template:ITA
+Royuwaay:GEO	Template:GEO
+Royuwaay:BOL	Template:BOL
+Royuwaay:MEX	Template:MEX
+Wàll:Jëfandikukat fr-1	Categoria:Utenti fr-1
+Royuwaay:MAR	Template:MAR
+Royuwaay:MDK	Template:MDG
+Royuwaay:SVK	Template:SVK
+Royuwaay:EGY	Template:EGY
+Royuwaay:KGZ	Template:KGZ
+Royuwaay:MYT	Template:MYT
+Royuwaay:Infobox Réew	Template:Stato
+Royuwaay:Max	Template:Max
+Royuwaay:STP	Template:STP
+Royuwaay:VEN	Template:VEN
+Royuwaay:UKR	Template:UKR
+Royuwaay:ROU	Template:ROU
+Royuwaay:TUR	Template:TUR
+Royuwaay:JBT	Template:DJI
+Royuwaay:Jëfandikukat es-0	Template:Utente es-0
+Wàll:Gana	Categoria:Ghana
+Wàll:Jëfandikukat en-4	Categoria:Utenti en-4
+Wàll:Togóo	Categoria:Togo
+Wàll:Jëfandikukat en	Categoria:Utenti en
+Wàll:Jëfandikukat zh	Categoria:Utenti zh
+Wàll:Korwaasi	Categoria:Croazia
+Wàll:Jëfandikukat zh-N	Categoria:Utenti zh-M
+Wàll:Jëfandikukat en-2	Categoria:Utenti en-2
+Royuwaay:Jëfandikukat zh	Template:Utente zh
+Royuwaay:Jëfandikukat ru-4	Template:Utente ru-4
+Royuwaay:Jëfandikukat nl-1	Template:Utente nl-1
+Royuwaay:Jëfandikukat nl-2	Template:Utente nl-2
+Wàll:Jëfandikukat hi	Categoria:Utenti hi
+Royuwaay:Jëfandikukat ru	Template:Utente ru
+Wàll:Aamerig	Categoria:America
+Royuwaay:KPW	Template:CPV
+Adel Gholami	Adel Gholami
+Royuwaay:Jëfandikukat pt-1	Template:Utente pt-1
+Royuwaay:Jëfandikukat pl	Template:Utente pl
+Royuwaay:Jëfandikukat nl	Template:Utente nl
+Royuwaay:TJK	Template:TJK
+Royuwaay:Jëfandikukat no-2	Template:Utente no-2
+Royuwaay:GAN	Template:GHA
+Royuwaay:GAM	Template:GMB
+Royuwaay:IDN	Template:IDN
+Royuwaay:AFB	Template:ZAF
+Royuwaay:CcTLD	Template:CcTLD
+Royuwaay:POL	Template:POL
+Royuwaay:BOA	Template:BWA
+Royuwaay:URY	Template:URY
+Royuwaay:CUB	Template:CUB
+Royuwaay:KMR	Template:CMR
+Royuwaay:KOS	Template:COD
+Royuwaay:BIH	Template:BIH
+Royuwaay:GIN	Template:GIN
+Royuwaay:FIN	Template:FIN
+Wàll:Cuub	Categoria:Pittura
+Royuwaay:CAN	Template:CAN
+Royuwaay:DNK	Template:DNK
+Royuwaay:Jëfandikukat	Template:Pagina utente
+Royuwaay:DEU	Template:DEU
+Royuwaay:BEN	Template:BEN
+Royuwaay:SWE	Template:SWE
+Saeid Marouf	Saeid Marouf
+Royuwaay:Jëfandikukat pl-1	Template:Utente pl-1
+Royuwaay:Jëfandikukat fr-3	Template:Utente fr-3
+Wàll:Tiniisi	Categoria:Tunisia
+Royuwaay:JPN	Template:JPN
+Royuwaay:SOM	Template:SOM
+Royuwaay:VAT	Template:VAT
+Royuwaay:SWL	Template:SWZ
+Wàll:Suti	Categoria:Attrezzi
+Royuwaay:ISL	Template:ISL
+Royuwaay:MOR	Template:MUS
+Royuwaay:COL	Template:COL
+Royuwaay:GIB	Template:GNB
+Royuwaay:ERT	Template:ERI
+Royuwaay:GAR	Template:MRT
+Royuwaay:GAB	Template:GAB
+Royuwaay:IRN	Template:IRN
+Royuwaay:MAL	Template:MLI
+Royuwaay:SUD	Template:SDN
+Royuwaay:NAM	Template:NAM
+Royuwaay:RDA	Template:CAF
+Royuwaay:MKD	Template:MKD
+Royuwaay:GNY	Template:GNQ
+Royuwaay:KOM	Template:COM
+Royuwaay:SAM	Template:ZMB
+Royuwaay:MLW	Template:MWI
+Royuwaay:TAN	Template:TZA
+Royuwaay:KAZ	Template:KAZ
+Royuwaay:NIS	Template:NER
+Royuwaay:KON	Template:COG
+Royuwaay:SMR	Template:SMR
+Royuwaay:PER	Template:PER
+Royuwaay:MOS	Template:MOZ
+Royuwaay:GUY	Template:GUY
+Royuwaay:ECP	Template:ETH
+Royuwaay:NIA	Template:NGA
+Royuwaay:SRB	Template:SRB
+Royuwaay:NIC	Template:NIC
+Royuwaay:LIA	Template:LBR
+Royuwaay:TKM	Template:TKM
+Royuwaay:LIB	Template:LBY
+Royuwaay:LES	Template:LSO
+Royuwaay:BUK	Template:BFA
+Royuwaay:CAD	Template:TCD
+Royuwaay:PRY	Template:PRY
+Royuwaay:ECU	Template:ECU
+Royuwaay:SEY	Template:SYC
+Royuwaay:SIR	Template:SLE
+Royuwaay:LTU	Template:LTU
+Royuwaay:IND	Template:IND
+Royuwaay:Jëfandikukat en-5	Template:Utente en-5
+Wàll:Poortorikoo	Categoria:Porto Rico
+Wàll:Jëfandikukat ja-N	Categoria:Utenti ja-M
+Wàll:Royuwaay jëfëndikookat	Categoria:Template utente
+Royuwaay:CHE	Template:CHE
+Wàll:Suwaasilaand	Categoria:Swaziland
+Wàll:Infobox	Categoria:Template sinottici
+Royuwaay:ATG	Template:ATG
+Royuwaay:GRC	Template:GRC
+Royuwaay:PRT	Template:PRT
+Royuwaay:SIM	Template:ZWE
+Royuwaay:CZE	Template:CZE
+Royuwaay:LVA	Template:LVA
+Royuwaay:AZE	Template:AZE
+Royuwaay:MNE	Template:MNE
+Royuwaay:NLD	Template:NLD
+Royuwaay:GBR	Template:GBR
+Royuwaay:LIE	Template:LIE
+Royuwaay:MDA	Template:MDA
+Royuwaay:KOR	Template:KOR
+Royuwaay:Jëfandikukat it-2	Template:Utente it-2
+Royuwaay:SVN	Template:SVN
+Royuwaay:LBN	Template:LBN
+Royuwaay:FRA	Template:FRA
+Wàll:Mongoli	Categoria:Mongolia
+Royuwaay:Gox	Template:Continenti della Terra
+Royuwaay:Jëfandikukat pt-2	Template:Utente pt-2
+Royuwaay:Jëfandikukat lb-1	Template:Utente lb-1
+Royuwaay:Jëfandikukat fr-4	Template:Utente fr-4
+Royuwaay:Jëfandikukat la-1	Template:Utente la-1
+Wàll:Réewum Maseduwaan	Categoria:Repubblica di Macedonia
+Wàll:Jëfandikukat sk	Categoria:Utenti sk
+Wàll:Jëfandikukat eo	Categoria:Utenti eo
+Wàll:Jëfandikukat et	Categoria:Utenti et
+Wàll:Jëfandikukat fr	Categoria:Utenti fr
+Wàll:Jëfandikukat hu-N	Categoria:Utenti hu-M
+Wàll:Jëfandikukat id	Categoria:Utenti id
+Wàll:Jëfandikukat ia	Categoria:Utenti ia
+Wàll:Jëfandikukat ja	Categoria:Utenti ja
+Wàll:Jëfandikukat la	Categoria:Utenti la
+Wàll:Jëfandikukat li	Categoria:Utenti li
+Wàll:Jëfandikukat pt	Categoria:Utenti pt
+Wàll:Jëfandikukat ro	Categoria:Utenti ro
+Wàll:Jëfandikukat sv	Categoria:Utenti sv
+Wàll:Jëfandikukat sw	Categoria:Utenti sw
+Wàll:Jëfandikukat vo	Categoria:Utenti vo
+Wàll:Jëfandikukat fr-3	Categoria:Utenti fr-3
+Wàll:Jëfandikukat it-3	Categoria:Utenti it-3
+Wàll:Jëfandikukat da-1	Categoria:Utenti da-1
+Wàll:Jëfandikukat et-1	Categoria:Utenti et-1
+Wàll:Jëfandikukat hi-1	Categoria:Utenti hi-1
+Wàll:Jëfandikukat li-1	Categoria:Utenti li-1
+Wàll:Jëfandikukat nl-1	Categoria:Utenti nl-1
+Wàll:Jëfandikukat pl-1	Categoria:Utenti pl-1
+Wàll:Jëfandikukat vo-1	Categoria:Utenti vo-1
+Wàll:Jëfandikukat ar-1	Categoria:Utenti ar-1
+Wàll:Jëfandikukat fr-4	Categoria:Utenti fr-4
+Wàll:Jëfandikukat it-4	Categoria:Utenti it-4
+Wàll:Jëfandikukat fr-2	Categoria:Utenti fr-2
+Wàll:Jëfandikukat ia-2	Categoria:Utenti ia-2
+Wàll:Jëfandikukat it-2	Categoria:Utenti it-2
+Wàll:Jëfandikukat la-2	Categoria:Utenti la-2
+Wàll:Jëfandikukat nl-2	Categoria:Utenti nl-2
+Wàll:Jëfandikukat cs-N	Categoria:Utenti cs-M
+Wàll:Jëfandikukat fr-N	Categoria:Utenti fr-M
+Wàll:Jëfandikukat it-N	Categoria:Utenti it-M
+Wàll:Jëfandikukat lv-N	Categoria:Utenti lv-M
+Wàll:Jëfandikukat li-N	Categoria:Utenti li-M
+Wàll:Jëfandikukat nl-N	Categoria:Utenti nl-M
+Wàll:Jëfandikukat ru-N	Categoria:Utenti ru-M
+Wàll:Jëfandikukat sw-N	Categoria:Utenti sw-M
+Wàll:Jëfandikukat eu-N	Categoria:Utenti eu-M
+Wàll:Jëfandikukat af	Categoria:Utenti af
+Wàll:Jëfandikukat af-1	Categoria:Utenti af-1
+Wàll:Jëfandikukat ar	Categoria:Utenti ar
+Wàll:Jëfandikukat ca	Categoria:Utenti ca
+Wàll:Jëfandikukat cs	Categoria:Utenti cs
+Wàll:Jëfandikukat da	Categoria:Utenti da
+Wàll:Jëfandikukat sk-N	Categoria:Utenti sk-M
+Wàll:Jëfandikukat de	Categoria:Utenti de
+Wàll:Jëfandikukat de-0	Categoria:Utenti de-0
+Wàll:Jëfandikukat de-2	Categoria:Utenti de-2
+Wàll:Jëfandikukat de-3	Categoria:Utenti de-3
+Wàll:Jëfandikukat de-4	Categoria:Utenti de-4
+Wàll:Jëfandikukat de-N	Categoria:Utenti de-M
+Wàll:Jëfandikukat el	Categoria:Utenti el
+Wàll:Jëfandikukat el-1	Categoria:Utenti el-1
+Wàll:Jëfandikukat en-0	Categoria:Utenti en-0
+Wàll:Jëfandikukat en-3	Categoria:Utenti en-3
+Wàll:Jëfandikukat en-N	Categoria:Utenti en-M
+Wàll:Jëfandikukat eo-1	Categoria:Utenti eo-1
+Wàll:Jëfandikukat eo-2	Categoria:Utenti eo-2
+Wàll:Jëfandikukat eo-3	Categoria:Utenti eo-3
+Wàll:Jëfandikukat es	Categoria:Utenti es
+Wàll:Jëfandikukat es-1	Categoria:Utenti es-1
+Wàll:Jëfandikukat es-2	Categoria:Utenti es-2
+Wàll:Jëfandikukat es-3	Categoria:Utenti es-3
+Wàll:Jëfandikukat es-4	Categoria:Utenti es-4
+Wàll:Jëfandikukat es-N	Categoria:Utenti es-M
+Wàll:Jëfandikukat eu	Categoria:Utenti eu
+Wàll:Jëfandikukat fi	Categoria:Utenti fi
+Wàll:Jëfandikukat fi-N	Categoria:Utenti fi-M
+Wàll:Jëfandikukat fr-0	Categoria:Utenti fr-0
+Wàll:Jëfandikukat hu	Categoria:Utenti hu
+Wàll:Jëfandikukat id-3	Categoria:Utenti id-3
+Wàll:Jëfandikukat io	Categoria:Utenti io
+Wàll:Jëfandikukat io-1	Categoria:Utenti io-1
+Wàll:Jëfandikukat io-3	Categoria:Utenti io-3
+Wàll:Jëfandikukat is	Categoria:Utenti is
+Wàll:Jëfandikukat is-1	Categoria:Utenti is-1
+Royuwaay:Jëfandikukat la-3	Template:Utente la-3
+Wàll:Jëfandikukat pt-3	Categoria:Utenti pt-3
+Wàll:Yonenti Lislaam	Categoria:Profeti islamici
+Wàll:Jëfandikukat pl-N	Categoria:Utenti pl-M
+Wàll:Jëfandikukat pt-1	Categoria:Utenti pt-1
+Wàll:Jëfandikukat ka-1	Categoria:Utenti ka-1
+Wàll:Jëfandikukat it	Categoria:Utenti it
+Wàll:Jëfandikukat it-1	Categoria:Utenti it-1
+Wàll:Jëfandikukat ja-1	Categoria:Utenti ja-1
+Wàll:Jëfandikukat ka	Categoria:Utenti ka
+Wàll:Jëfandikukat ko	Categoria:Utenti ko
+Wàll:Jëfandikukat ko-3	Categoria:Utenti ko-3
+Wàll:Jëfandikukat ksh	Categoria:Utenti ksh
+Wàll:Jëfandikukat ksh-N	Categoria:Utenti ksh-M
+Wàll:Jëfandikukat la-1	Categoria:Utenti la-1
+Wàll:Jëfandikukat la-3	Categoria:Utenti la-3
+Wàll:Jëfandikukat lb	Categoria:Utenti lb
+Wàll:Jëfandikukat lb-1	Categoria:Utenti lb-1
+Royuwaay:NOR	Template:NOR
+Royuwaay:BRA	Template:BRA
+Wàll:Jëfandikukat ru-1	Categoria:Utenti ru-1
+Royuwaay:Jëfandikukat sv-1	Template:Utente sv-1
+Wàll:Jëfandikukat lv	Categoria:Utenti lv
+Royuwaay:TNI	Template:TUN
+Wàll:Géej	Categoria:Mari
+Wàll:Angila	Categoria:Anguilla (isola)
+Royuwaay:LUX	Template:LUX
+Wàll:Endustri	Categoria:Industria
+Wàll:Ndox	Categoria:Acqua
+Wàll:Taariixu Aamerig	Categoria:Storia delle Americhe
+Bunt:Diine	Portale:Religioni
+Wàll:Belaarus	Categoria:Bielorussia
+Royuwaay:MCO	Template:MCO
+Royuwaay:Jëfandikukat cs	Template:Utente cs
+Royuwaay:Jëfandikukat ru-2	Template:Utente ru-2
+Royuwaay:Jëfandikukat es-3	Template:Utente es-3
+Royuwaay:Jëfandikukat ko-3	Template:Utente ko-3
+Wàll:Jëfandikukat pt-0	Categoria:Utenti pt-0
+Wàll:Jëfandikukat pt-2	Categoria:Utenti pt-2
+Wàll:Jëfandikukat pt-4	Categoria:Utenti pt-4
+Wàll:Jëfandikukat pt-N	Categoria:Utenti pt-M
+Wàll:Jëfandikukat ro-2	Categoria:Utenti ro-2
+Wàll:Jëfandikukat ru	Categoria:Utenti ru
+Wàll:Jëfandikukat ru-2	Categoria:Utenti ru-2
+Wàll:Jëfandikukat ru-4	Categoria:Utenti ru-4
+Wàll:Jëfandikukat sk-1	Categoria:Utenti sk-1
+Wàll:Jëfandikukat sv-1	Categoria:Utenti sv-1
+Wàll:Jëfandikukat sv-N	Categoria:Utenti sv-M
+Wàll:Jëfandikukat tr	Categoria:Utenti tr
+Wàll:Jëfandikukat tr-N	Categoria:Utenti tr-M
+Wàll:Jëfandikukat yi	Categoria:Utenti yi
+Wàll:Jëfandikukat yi-2	Categoria:Utenti yi-2
+Royuwaay:IRL	Template:IRL
+Royuwaay:ALB	Template:ALB
+Royuwaay:AND	Template:AND
+Royuwaay:ARG	Template:ARG
+Royuwaay:ARM	Template:ARM
+Royuwaay:Jëfandikukat ca	Template:Utente ca
+Royuwaay:BUR	Template:BDI
+Royuwaay:BGR	Template:BGR
+Royuwaay:BHS	Template:BHS
+Royuwaay:BLR	Template:BLR
+Royuwaay:KOD	Template:CIV
+Royuwaay:CYP	Template:CYP
+Wàll:Melosuufug Tugal	Categoria:Geografia dell'Europa
+Royuwaay:Xóotal	Template:Torna a
+Royuwaay:EST	Template:EST
+Royuwaay:RUS	Template:RUS
+Royuwaay:TOG	Template:TGO
+Royuwaay:AUT	Template:AUT
+Royuwaay:CHL	Template:CHL
+Royuwaay:PD-self	Template:PD-Utente
+Royuwaay:CHN	Template:CHN
+Wàll:Angolaa	Categoria:Angola
+Wàll:Bene	Categoria:Benin
+Wàll:Botswana	Categoria:Botswana
+Wàll:Burkinaa Faaso	Categoria:Burkina Faso
+Wàll:Buruundi	Categoria:Burundi
+Wàll:Jibuti	Categoria:Gibuti
+Wàll:Gineg yamoo	Categoria:Guinea Equatoriale
+Wàll:Eritere	Categoria:Eritrea
+Wàll:Gaboŋ	Categoria:Gabon
+Wàll:Gàmbi	Categoria:Gambia
+Wàll:Kamerun	Categoria:Camerun
+Wàll:Keeñaa	Categoria:Kenya
+Wàll:Komoor	Categoria:Comore
+Wàll:Libi	Categoria:Libia
+Wàll:Madagaskaar	Categoria:Madagascar
+Wàll:Malawi	Categoria:Malawi
+Wàll:Marok	Categoria:Marocco
+Wàll:Gànnaar	Categoria:Mauritania
+Wàll:Mosambik	Categoria:Mozambico
+Wàll:Namibi	Categoria:Namibia
+Wàll:Ruwandaa	Categoria:Ruanda
+Royuwaay:IRQ	Template:IRQ
+Wàll:Taariixu senegaal	Categoria:Storia del Senegal
+Wàll:Diiney Senegaal	Categoria:Religione in Senegal
+Wàll:Melosuufug Afrig gu Bëj-saalum	Categoria:Geografia del Sudafrica
+Wàll:Melosuufug Alseeri	Categoria:Geografia dell'Algeria
+Royuwaay:Jëfandikukat la-2	Template:Utente la-2
+Royuwaay:Jëfandikukat pt	Template:Utente pt
+Royuwaay:Jëfandikukat ru-1	Template:Utente ru-1
+Royuwaay:Jëfandikukat sk-1	Template:Utente sk-1
+Royuwaay:Jëfandikukat zh-1	Template:Utente zh-1
+Royuwaay:Jëfandikukat zh-2	Template:Utente zh-2
+Wàll:Saambi	Categoria:Zambia
+Wàll:Senegaal	Categoria:Senegal
+Wàll:Seysel	Categoria:Seychelles
+Wàll:Simbaawee	Categoria:Zimbabwe
+Wàll:Melosuufug Kamerun	Categoria:Geografia del Camerun
+Wàll:Somali	Categoria:Somalia
+Wàll:Cadd	Categoria:Ciad
+Wàll:Ugandaa	Categoria:Uganda
+Wàll:Réewum Diggu Afrig	Categoria:Repubblica Centrafricana
+Wàll:Filipiin	Categoria:Filippine
+Wàll:Jëfandikukat nl	Categoria:Utenti nl
+Wàll:Jëfandikukat no-2	Categoria:Utenti no-2
+Wàll:Jëfandikukat no	Categoria:Utenti no
+Wàll:Jëfandikukat zh-1	Categoria:Utenti zh-1
+Wàll:Jëfandikukat zh-2	Categoria:Utenti zh-2
+Wàll:Doolerandu	Categoria:Meccanica
+Wàll:Armeeni	Categoria:Armenia
+Wàll:Bahrayni	Categoria:Bahrein
+Wàll:Siri	Categoria:Siria
+Wàll:Melosuufug Senegaal	Categoria:Geografia del Senegal
+Wàll:Jeoorji	Categoria:Georgia
+Wàll:Jamayka	Categoria:Giamaica
+Wàll:Kataar	Categoria:Qatar
+Wàll:Maldiif	Categoria:Maldive
+Wàll:Nepaal	Categoria:Nepal
+Wàll:Omaan	Categoria:Oman
+Wàll:Usbekistaan	Categoria:Uzbekistan
+Wàll:Taariixu Tugal	Categoria:Storia dell'Europa
+Wàll:San Marino	Categoria:San Marino
+Wàll:Jordaani	Categoria:Giordania
+Wàll:Nikaraaguwa	Categoria:Nicaragua
+Wàll:Bosni	Categoria:Bosnia ed Erzegovina
+Wàll:Noorwees	Categoria:Norvegia
+Wàll:Paraguwaay	Categoria:Paraguay
+Wàll:Liechtenstein	Categoria:Liechtenstein
+Wàll:Onduras	Categoria:Honduras
+Wàll:Uruguwaay	Categoria:Uruguay
+Wàll:Andoor	Categoria:Andorra
+Wàll:Seerbi	Categoria:Serbia
+Wàll:Salbadoor	Categoria:El Salvador
+Wàll:Ayiti	Categoria:Haiti
+Wàll:Ekwadoor	Categoria:Ecuador
+Wàll:Yaman	Categoria:Yemen
+Wàll:Peru	Categoria:Perù
+Wàll:Boliibi	Categoria:Bolivia
+Wàll:Albaani	Categoria:Albania
+Wàll:Monaako	Categoria:Principato di Monaco
+Wàll:Jén	Categoria:Pesci
+Wàll:Làkki Afrig	Categoria:Lingue dell'Africa
+Wàll:Dëkki Benesuwela	Categoria:Città del Venezuela
+Royuwaay:ESP	Template:ESP
+Wàll:Rab	Categoria:Animali
+Wàll:Nauru	Categoria:Nauru
+Wàll:Antigua ak Barbuda	Categoria:Antigua e Barbuda
+Wàll:Guyaana	Categoria:Guyana
+Wàll:Koloombi	Categoria:Colombia
+Wàll:Hip Hop	Categoria:Hip hop
+Wàll:Alxuraan	Categoria:Corano
+Wàll:Mbëjtekkaaral	Categoria:Elettrostatica
+Wàll:Jëfandikukat pl	Categoria:Utenti pl
+Wàll:Weeri wolof	Categoria:Calendario islamico
+Wàll:Oseyaani	Categoria:Oceania
+Wàll:Montenegro	Categoria:Montenegro
+Wàll:Moto	Categoria:Mezzi di trasporto
+Wàll:Làkki senegaal	Categoria:Lingue del Senegal
+Wàll:Royuwaay raaya réew	Categoria:Template bandierine nazionali
+Ngelaw	Aria
+Wàll:Koom-koomu Afrig	Categoria:Economia dell'Africa
+Royuwaay:UGA	Template:UGA
+Royuwaay:UZB	Template:UZB
+Wàll:Tundi Senegaal	Categoria:Dipartimenti del Senegal
+Trojany	Trojany
+Wàll:Njiiti Senegaal	Categoria:Presidenti del Senegal
+Royuwaay:Jëfandikukat sw	Template:Utente sw
+Royuwaay:Jëfandikukat it-4	Template:Utente it-4
+Royuwaay:RUW	Template:RWA
+Royuwaay:MLT	Template:MLT
+Royuwaay:Kña	Template:KEN
+Royuwaay:JAM	Template:JAM
+Wàll:Wallis ak Futuna	Categoria:Wallis e Futuna
+Wàll:Aakimoo jawwu ji	Categoria:Esplorazione spaziale
+Wàll:Jëfandikukat it-0	Categoria:Utenti it-0
+Wàll:Bés	Categoria:Giorno
+Wàll:Mbëjbijjaakon	Categoria:Elettromagnetismo
+Wàll:Kàttan	Categoria:Energia
+Royuwaay:Precision1	Template:Precision1
+Royuwaay:MNG	Template:MNG
+Royuwaay:BEL	Template:BEL
+Wàll:Melo	Categoria:Colori
+Koor	Ramadan
+Wàll:Jamono	Categoria:Unità di tempo
+Wàll:Nit ñi ci Téere Linjiil	Categoria:Personaggi del Nuovo Testamento
+Wàll:Làkki Niseer-Cóngoo	Categoria:Lingue niger-kordofaniane
+Wàll:Bereb yi ci Téere Linjiil	Categoria:Luoghi del Nuovo Testamento
+Wàll:Njëkk-taariix	Categoria:Preistoria
+Wàll:Saari alxuraan	Categoria:Sure del Corano
+Wàll:Jëfandikukat nl-0	Categoria:Utenti nl-0
+Royuwaay:HUN	Template:HUN
+Wàll:Jëfandikukat ru-0	Categoria:Utenti ru-0
+Wàll:Jëfandikukat es-0	Categoria:Utenti es-0
+Wàll:Jëfandikukat en-1	Categoria:Utenti en-1
+Wàll:Jëfandikukat de-1	Categoria:Utenti de-1
+Wàll:Jëfandikukat da-N	Categoria:Utenti da-M
+Wàll:Taariixu Afrig	Categoria:Storia dell'Africa
+Royuwaay:Jëfandikukat li	Template:Utente li
+Abiya	Abia (nome)
+Fajar	Aurora (giorno)
+Tan	Aegypiinae
+Coreca	Coreca
+Jagleel:Coppite yu mujj	Speciale:UltimeModifiche
+Wàll:Jëfandikukat ja-4	Categoria:Utenti ja-4

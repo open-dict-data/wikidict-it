@@ -1,0 +1,2563 @@
+阿非利加洲	Africa
+日本	Giappone
+挪威	Norvegia
+英格蘭	Inghilterra
+蘇格蘭	Scozia
+愛爾蘭共和國	Irlanda
+匈牙利	Ungheria
+西班牙	Spagna
+美國	Stati Uniti d'America
+比利時	Belgio
+盧森堡	Lussemburgo
+宇宙	Universo
+坤輿	Terra
+死	Morte
+人	Homo sapiens
+華盛頓	George Washington
+芬蘭	Finlandia
+瑞典	Svezia
+丹麥	Danimarca
+波蘭	Polonia
+立陶宛	Lituania
+義大利	Italia
+瑞士	Svizzera
+奧地利	Austria
+希臘共和國	Grecia
+土耳其	Turchia
+啤酒	Birra
+葡萄牙	Portogallo
+歐羅巴洲	Europa
+亞細亞洲	Asia
+南極洲	Antartide
+維基大典	Wikipedia
+荷蘭	Paesi Bassi
+紐約市	New York
+華盛頓哥倫比亞特區	Washington
+柏林	Berlino
+電腦	Computer
+共筆臺	MediaWiki
+倫敦	Londra
+巴黎	Parigi
+安卓	Android
+谷歌	Google Inc.
+墨西哥	Messico
+太平洋	Oceano Pacifico
+熒惑	Marte (astronomia)
+衣索比亞	Etiopia
+迦納	Ghana
+法國	Francia
+世界語	Lingua esperanto
+犬	Canis lupus familiaris
+英國	Regno Unito
+貓	Felis silvestris catus
+中華人民共和國	Cina
+法蘭西語	Lingua francese
+維基爾雅	Wikizionario
+乙醇	Etanolo
+巴西	Brasile
+醇	Alcoli
+俄羅斯	Russia
+光導纖維	Fibra ottica
+正方形	Quadrato
+圓周率	Pi greco
+共筆	Wiki
+魁北克	Québec (provincia)
+維基媒體基金會	Wikimedia Foundation
+威霽彌	Jimmy Wales
+德國	Germania
+白俄羅斯	Bielorussia
+德語	Lingua tedesca
+冰島	Islanda
+愛沙尼亞	Estonia
+鎮星	Saturno (astronomia)
+飛機	Aeroplano
+一	1 (numero)
+二	2 (numero)
+三	3 (numero)
+〇	0 (numero)
+無限	Infinito (matematica)
+拉脫維亞	Lettonia
+烏克蘭	Ucraina
+捷克	Repubblica Ceca
+斯洛伐克	Slovacchia
+羅馬尼亞	Romania
+保加利亞	Bulgaria
+羅馬	Roma
+馬其頓	Repubblica di Macedonia
+格陵蘭	Groenlandia
+哈薩克	Kazakistan
+古巴	Cuba
+印度尼西亞	Indonesia
+莫扎特	Wolfgang Amadeus Mozart
+貝多芬	Ludwig van Beethoven
+南非	Sudafrica
+商博良	Jean-François Champollion
+阿爾及利亞	Algeria
+水	Acqua
+電視	Televisione
+智利	Cile
+耶穌	Gesù
+伽利略	Galileo Galilei
+辰星	Mercurio (astronomia)
+史	Storia
+蘋果公司	Apple
+太白	Venere (astronomia)
+語言	Linguaggio
+愛	Amore
+歲星	Giove (astronomia)
+銀河	Via Lattea
+大霹靂	Big Bang
+天王星	Urano (astronomia)
+英文維基大典	Wikipedia in inglese
+海王星	Nettuno (astronomia)
+新加坡	Singapore
+格致	Scienza
+冥王星	Plutone (astronomia)
+列支敦士登	Liechtenstein
+希特勒	Adolf Hitler
+臉書	Facebook
+第一次世界大戰	Prima guerra mondiale
+第二次世界大戰	Seconda guerra mondiale
+烏邦土	Ubuntu
+數學	Matematica
+拉丁語	Lingua latina
+巴林	Bahrein
+塞爾維亞	Serbia
+月	Luna
+澳大利亞	Australia
+物理	Fisica
+阿根廷	Argentina
+秘魯	Perù
+生物學	Biologia
+朝鮮民主主義人民共和國	Corea del Nord
+柬埔寨	Cambogia
+古蘭經	Corano
+恐龍	Dinosauria
+回教	Islam
+大英百科	Enciclopedia Britannica
+歐羅巴聯盟	Unione europea
+朋友	Amicizia
+馬里亞納海溝	Fossa delle Marianne
+珠穆朗瑪峰	Everest
+拿破崙一世	Napoleone Bonaparte
+恆星	Stella
+日	Sole
+巴斯特	Louis Pasteur
+光年	Anno luce
+大洋洲	Oceania
+太陽系	Sistema solare
+氫	Idrogeno
+氦	Elio
+維基共享	Wikimedia Commons
+鋰	Litio
+鈹	Berillio
+日（曆法）	Giorno
+東帝汶	Timor Est
+夜	Notte
+黑洞	Buco nero
+穀神星	Cerere (astronomia)
+妊神星	Haumea (astronomia)
+鳥神星	Makemake (astronomia)
+鬩神星	Eris (astronomia)
+硼	Boro
+碳	Carbonio
+氮	Azoto
+氧	Ossigeno
+行星	Pianeta
+威尼斯	Venezia
+火影忍者	Naruto
+莫斯科	Mosca (Russia)
+氟	Fluoro
+義大利語	Lingua italiana
+氖	Neon
+鈉	Sodio
+鎂	Magnesio
+鋁	Alluminio
+紐西蘭	Nuova Zelanda
+印度	India
+硅	Silicio
+磷	Fosforo
+鐵	Ferro
+硫	Zolfo
+東	Est
+氯	Cloro
+巴布亞新幾內亞	Papua Nuova Guinea
+莎士比亞	William Shakespeare
+氬	Argon
+鉀	Potassio
+鈣	Calcio (elemento chimico)
+鉛	Piombo
+蒙古國	Mongolia
+鈧	Scandio
+鈦	Titanio
+委內瑞拉	Venezuela
+成吉思汗	Gengis Khan
+釩	Vanadio
+鉻	Cromo
+阿姆斯特丹	Amsterdam
+動物	Animalia
+錳	Manganese
+哥倫比亞	Colombia
+鈷	Cobalto
+鎢	Tungsteno
+鎳	Nichel
+佛教	Buddhismo
+玻利維亞	Bolivia
+銅	Rame
+千里達及托巴哥	Trinidad e Tobago
+植物	Plantæ
+鋅	Zinco
+真菌	Fungi
+牙買加	Giamaica
+夏威夷	Hawaii
+海地	Haiti
+伊朗	Iran
+伊拉克	Iraq
+哥斯大黎加	Costa Rica
+以色列	Israele
+巴拿馬	Panamá
+科威特	Kuwait
+老撾	Laos
+馬爾地夫	Maldive
+亞美利加洲	America
+馬來西亞	Malesia
+緬甸	Birmania
+尼泊爾	Nepal
+阿曼	Oman
+巴基斯坦	Pakistan
+卡達國	Qatar
+沙特阿拉伯	Arabia Saudita
+斯里蘭卡	Sri Lanka
+斯大林	Iosif Stalin
+柏拉圖	Platone
+鎵	Gallio (elemento chimico)
+神奇寶貝	Pokémon
+中華民國	Taiwan
+鍺	Germanio
+泰國	Thailandia
+砒	Arsenico
+硒	Selenio
+溴	Bromo
+鉑	Platino
+越南	Vietnam
+大韓民國	Corea del Sud
+氪	Kripton
+阿富汗	Afghanistan
+江南風	Gangnam Style
+銣	Rubidio
+金	Oro
+蘇彝士運河	Canale di Suez
+孟加拉國	Bangladesh
+蘇格拉底	Socrate
+安哥拉	Angola
+不丹	Bhutan
+汶萊	Brunei
+汞	Mercurio (elemento chimico)
+菲律賓	Filippine
+中非	Repubblica Centrafricana
+鉈	Tallio
+南極	Polo sud
+北極	Polo nord
+牛頓	Isaac Newton
+鍶	Stronzio
+釔	Ittrio
+鉍	Bismuto
+尚比亞	Zambia
+津巴布韋	Zimbabwe
+北京市	Pechino
+南蘇丹	Sudan del Sud
+海參崴	Vladivostok
+波札那	Botswana
+剛果民主共和國	Repubblica Democratica del Congo
+吉布提	Gibuti
+加蓬	Gabon
+甘地	Mahatma Gandhi
+利比亞	Libia
+馬達加斯加	Madagascar
+摩洛哥	Marocco
+莫桑比克	Mozambico
+納米比亞	Namibia
+尼日利亞	Nigeria
+烏干達	Uganda
+索馬里	Somalia
+凱撒	Gaio Giulio Cesare
+蘇丹	Sudan
+斯威士蘭	Swaziland
+鍀	Tecnezio
+天演	Evoluzione
+聯合國	Organizzazione delle Nazioni Unite
+地理學	Geografia
+腦	Cervello
+布拉格	Praga
+銀	Argento
+錫	Stagno (elemento chimico)
+鈾	Uranio
+鈈	Plutonio
+碘	Iodio
+氙	Xeno
+銫	Cesio (elemento chimico)
+鐳	Radio (elemento chimico)
+氡	Radon
+賈坎德邦	Jharkhand
+耶路撒冷	Gerusalemme
+印度洋	Oceano Indiano
+科索沃	Kosovo
+蕭邦	Fryderyk Chopin
+Category:類	Categoria:Categorie
+帕斯卡	Blaise Pascal
+冬	Inverno
+春	Primavera
+夏	Estate
+秋	Autunno
+薩達姆·海珊	Saddam Hussein
+拉登	Osama bin Laden
+西班牙語	Lingua spagnola
+巴赫	Johann Sebastian Bach
+泉幣	Denaro
+奧古斯都	Augusto
+諾基亞	Nokia
+德克薩斯州	Texas
+布宜諾斯艾利斯	Buenos Aires
+東京都	Tokyo
+密西西比河	Mississippi (fiume)
+錫金	Sikkim
+尼爾杭思朗	Neil Armstrong
+斯德哥爾摩	Stoccolma
+墓誌	Epitaffio
+里加	Riga
+聖經	Bibbia
+金邊	Phnom Penh
+真耶穌教會	Vera Chiesa di Gesù
+英語	Lingua inglese
+曼谷	Bangkok
+臺北市	Taipei
+鎇	Americio
+康賽普西翁	Concepción (Cile)
+緬尼托巴	Manitoba
+孔斯科沃拉	Końskowola
+公元二千年	2000
+二〇〇三年	2003
+二〇〇二年	2002
+二〇〇一年	2001
+二〇一二年	2012
+二〇一一年	2011
+二〇一〇年	2010
+二〇〇九年	2009
+二氧化碳	Anidride carbonica
+二〇一三年	2013
+二〇一四年	2014
+二〇一五年	2015
+二〇〇八年	2008
+二〇〇四年	2004
+二〇〇五年	2005
+二〇〇六年	2006
+二〇〇七年	2007
+一氧化碳	Monossido di carbonio
+戴高樂	Charles de Gaulle
+一九九二年	1992
+一九九一年	1991
+一九九〇年	1990
+一九九三年	1993
+一九九四年	1994
+一九九五年	1995
+一九九六年	1996
+可縮放矢量圖形	Scalable Vector Graphics
+萊比錫	Lipsia
+一九九七年	1997
+一九九八年	1998
+一九九九年	1999
+食物	Alimento
+光速	Velocità della luce
+公曆一月一日	1º gennaio
+公曆一月二日	2 gennaio
+公曆一月三日	3 gennaio
+公曆一月四日	4 gennaio
+矮行星	Pianeta nano
+公曆一月五日	5 gennaio
+公曆一月六日	6 gennaio
+電子	Elettrone
+公曆一月七日	7 gennaio
+公曆一月八日	8 gennaio
+公曆一月九日	9 gennaio
+公曆一月十日	10 gennaio
+公曆一月十一日	11 gennaio
+公曆一月十二日	12 gennaio
+公曆一月十三日	13 gennaio
+公曆一月十四日	14 gennaio
+公曆一月十五日	15 gennaio
+工業革命	Rivoluzione industriale
+苯	Benzene
+微軟	Microsoft
+質子	Protone
+庫魯夫	Kurów
+公曆二月五日	5 febbraio
+公曆二月八日	8 febbraio
+化學	Chimica
+中子	Neutrone
+公曆二月廿九日	29 febbraio
+公曆三月十四日	14 marzo
+一九八九年	1989
+一九八八年	1988
+一九八七年	1987
+一九八六年	1986
+一九八五年	1985
+一九八四年	1984
+一九八三年	1983
+一九八二年	1982
+一九八一年	1981
+一九八〇年	1980
+一九七〇年	1970
+一九七一年	1971
+一九七二年	1972
+一九七三年	1973
+一九七四年	1974
+一九七五年	1975
+一九七六年	1976
+一九七七年	1977
+一九七八年	1978
+一九七九年	1979
+一九六九年	1969
+公曆四月五日	5 aprile
+衛星	Satellite naturale
+公曆五月四日	4 maggio
+土衛六	Titano (astronomia)
+一九六八年	1968
+一九六七年	1967
+一九六六年	1966
+一九六五年	1965
+一九六四年	1964
+公曆六月廿日	20 giugno
+公曆七月廿三日	23 luglio
+足球	Calcio (sport)
+一九六三年	1963
+一九六二年	1962
+公曆九月十日	10 settembre
+公曆十二月卅一日	31 dicembre
+公曆十月十日	10 ottobre
+灶神星	4 Vesta
+查理曼	Carlo Magno
+木衛一	Io (astronomia)
+木衛四	Callisto (astronomia)
+木衛二	Europa (astronomia)
+木衛三	Ganimede (astronomia)
+火	Fuoco
+新南威爾士州	Nuovo Galles del Sud
+土衛二	Encelado (astronomia)
+天衛三	Titania (astronomia)
+海衛一	Tritone (astronomia)
+雅加達	Giacarta
+一九六一年	1961
+Category:模板	Categoria:Template
+一九六〇年	1960
+小行星	Asteroide
+日食	Eclissi solare
+二進制	Sistema numerico binario
+阿斯圖里亞斯	Asturie
+維基大典:沙盒	Wikipedia:Pagina delle prove
+卡爾梅克共和國	Calmucchia
+代數學	Algebra
+地圖	Mappa
+阿拉貢自治區	Aragona
+前卅三年	33 a.C.
+硫酸	Acido solforico
+同海機場	Aeroporto di Dong Hoi
+Category:日本史	Categoria:Storia del Giappone
+伯力	Chabarovsk
+Category:越南史	Categoria:Storia del Vietnam
+孔子	Confucio
+莎拉伯恩哈特	Sarah Bernhardt
+Category:伊拉克史	Categoria:Storia dell'Iraq
+南加州大学	University of Southern California
+Category:數學	Categoria:Matematica
+Category:蒙古史	Categoria:Storia della Mongolia
+Category:人造語言	Categoria:Lingue artificiali
+文藝復興	Rinascimento
+歐元	Euro
+美金	Dollaro statunitense
+地中海	Mar Mediterraneo
+遼	Dinastia Liao
+杭州市	Hangzhou
+基督教	Cristianesimo
+Template:亞洲	Template:Asia
+Template:然也	Template:Favorevole
+金朝	Dinastia Jīn
+柏林圍牆	Muro di Berlino
+大陸	Continente
+京	Capitale (città)
+Template:門	Template:Portale
+一九四八年	1948
+艾爾瑪善鎮	Almazán
+黃現璠	Huang Xianfan
+一九四五年	1945
+一九五八年	1958
+日語	Lingua giapponese
+百科全書	Enciclopedia
+維基大典:卷首	Pagina principale
+一九五九年	1959
+Template:正典	Template:Voce di qualità
+電晶體	Transistor
+棒球	Baseball
+奧林匹克運動會	Giochi olimpici
+長江	Fiume Azzurro
+喜瑪拉雅山	Himalaya
+落磯山	Montagne Rocciose
+韃靼斯坦共和國	Tatarstan
+一二六三年	1263
+古斯巴達	Sparta
+埃斯特雷馬杜拉	Estremadura
+安達盧西亞	Andalusia
+麥加	La Mecca
+毛澤東	Mao Tse-tung
+西安市	Xi'an
+拉薩市	Lhasa
+哲學	Filosofia
+Category:速刪候	Categoria:Cancellare subito
+茶	Tè
+馬可·波羅	Marco Polo
+一三六三年	1363
+共產主義	Comunismo
+一三六八年	1368
+迦太基	Cartagine
+大英博物館	British Museum
+巴拉頓湖	Balaton
+蒙庇利埃	Montpellier
+Category:天文	Categoria:Astronomia
+吉他	Chitarra
+同性戀	Omosessualità
+漢堡包	Hamburger
+夸克	Quark (particella)
+高斯	Carl Friedrich Gauss
+一六四四年	1644
+一六四五年	1645
+Category:恒星	Categoria:Stelle
+李白	Li Bai
+伽羅華	Évariste Galois
+政府	Governo
+秦始皇帝	Qin Shi Huang
+秦二世皇帝	Qin Er Shi Huangdi
+中東	Medio Oriente
+漢	Dinastia Han
+漢太祖高皇帝	Gao Zu (imperatore Han)
+漢孝惠皇帝	Hui Di (imperatore Han)
+漢孝景皇帝	Jingdi
+漢世宗孝武皇帝	Han Wudi
+聖女貞德	Giovanna d'Arco
+漢孝成皇帝	Cheng Di
+漢孝哀皇帝	Ai Di
+意理	Ideologia
+帝國主義	Imperialismo
+漢世祖光武皇帝	Liu Xiu
+共和	Repubblica
+國	Stato
+元	Dinastia Yuan
+德意志第三帝國	Germania nazista
+哥倫布	Cristoforo Colombo
+庫克船長	James Cook
+科爾蒂斯	Hernán Cortés
+鄭和	Zheng He
+大堡礁	Grande barriera corallina
+巴拿馬運河	Canale di Panama
+晉	Dinastia Jìn
+黃河	Fiume Giallo
+晉武帝	Wu Di (imperatore Jin)
+隋	Dinastia Sui
+西夏	Dinastia Xia occidentale
+脫氧核酸	DNA
+趙宋	Dinastia Song
+宋徽宗	Hui Zong (imperatore Song)
+宋恭帝	Gong Di
+歐拉	Eulero
+一七七四年	1774
+一七七五年	1775
+一七七六年	1776
+一八六六年	1866
+一八六七年	1867
+一八六八年	1868
+晝	Mattino
+拿破崙二世	Napoleone II di Francia
+砒霜	Ossido arsenioso
+法律	Diritto
+一七九四年	1794
+世界人權宣言	Dichiarazione universale dei diritti umani
+一七九五年	1795
+一七九六年	1796
+漢語	Lingua cinese
+細胞	Cellula
+全球暖化	Riscaldamento globale
+禪宗	Buddhismo Zen
+鼠標	Mouse
+聖奧思定	Agostino d'Ippona
+精靈	Fata
+朊	Proteine
+理則	Logica
+龍捲風	Tromba d'aria
+幾何	Geometria
+語法	Grammatica
+熱帶氣旋	Ciclone tropicale
+計學	Economia
+語言學	Linguistica
+文字	Sistema di scrittura
+阿拉伯字	Alfabeto arabo
+漢字	Carattere cinese
+西里爾字母	Alfabeto cirillico
+孫子兵法	L'arte della guerra
+Category:音樂	Categoria:Musica
+紅樓夢	Il sogno della camera rossa
+Category:法國史	Categoria:Storia della Francia
+哈利波特	Harry Potter
+放手銃	Masturbazione
+法文維基大典	Wikipedia in francese
+死刑	Pena di morte
+人權	Diritti umani
+乳	Latte
+山	Montagna
+沙漠	Deserto
+孫文	Sun Yat-sen
+薩拉丁	Saladino
+阿育王	Ashoka
+阿克巴大帝	Akbar
+香港	Hong Kong
+元天順帝	Ragibagh Khan
+韓戰	Guerra di Corea
+南北戰爭	Guerra di secessione americana
+首爾特別市	Seul
+上海市	Shanghai
+清	Dinastia Qing
+越戰	Guerra del Vietnam
+歐几里得	Euclide
+巴斯克語	Lingua basca
+星座	Costellazione
+拉脫維亞語	Lingua lettone
+原子	Atomo
+宗教	Religione
+朝鮮語	Lingua coreana
+笛卡兒	Cartesio
+官話	Lingua cinese mandarino
+越南語	Lingua vietnamita
+猶太教	Ebraismo
+老子	Laozi
+電鼠	Pikachu
+尼采	Friedrich Nietzsche
+司馬遷	Sima Qian
+斯密亞丹	Adam Smith
+朱熹	Zhu Xi
+廷巴克圖	Timbuctù
+洋	Oceano
+阿奎那	Tommaso d'Aquino
+英王維多利亞	Vittoria del Regno Unito
+釋迦牟尼	Gautama Buddha
+馬丁·路德	Martin Lutero
+儒家	Confucianesimo
+腹	Addome
+陰脈	Vena
+福克蘭群島	Isole Falkland
+陽脈	Arteria
+唐	Dinastia Tang
+威爾斯王妃黛安娜	Diana Spencer
+唐高祖	Gao Zu
+唐太宗	Tai Zong (imperatore Tang)
+唐玄宗	Xuan Zong
+唐德宗	De Zong
+唐順宗	Shun Zong Tang
+唐憲宗	Xian Zong
+小學	Scuola primaria
+明	Dinastia Ming
+明太祖	Zhu Yuanzhang
+明惠宗	Jianwen
+明成祖	Yongle
+明仁宗	Hongxi
+明宣宗	Xuande
+明英宗	Zhengtong
+明代宗	Jingtai
+明憲宗	Chenghua
+明孝宗	Hongzhi
+明武宗	Zhengde
+明世宗	Jiajing
+明穆宗	Longqing
+明神宗	Wanli
+明光宗	Taichang
+明熹宗	Tianqi
+明思宗	Chongzhen
+電漿	Plasma (fisica)
+北斗七星	Grande Carro
+金正日	Kim Jong-il
+元素週期表	Tavola periodica degli elementi
+自殺	Suicidio
+九一一事件	Attentati dell'11 settembre 2001
+電話	Telefono
+梵語	Lingua sanscrita
+化合物	Composto chimico
+算術	Aritmetica
+化學元素	Elemento chimico
+方程	Equazione
+映射	Funzione (matematica)
+角	Angolo
+分子	Molecola
+加速度	Accelerazione
+能量	Energia
+弈	Go (gioco)
+金屬	Metallo
+氣體	Gas
+液體	Liquido
+固體	Solido
+船舶	Nave
+農	Agricoltura
+速度	Velocità
+納米科技	Nanotecnologia
+勾股定理	Teorema di Pitagora
+證明	Dimostrazione matematica
+數	Numero
+複數	Numero complesso
+公斤	Chilogrammo
+公尺	Metro
+大麥	Hordeum vulgare
+繪畫	Pittura
+華爾街	Wall Street
+美國總統	Presidente degli Stati Uniti d'America
+東南亞	Sud-est asiatico
+瀋陽市	Shenyang
+重慶市	Chongqing
+天津市	Tientsin
+武漢市	Wuhan
+史前	Preistoria
+古埃及	Antico Egitto
+白令海峽	Stretto di Bering
+古希臘	Antica Grecia
+傑弗遜	Thomas Jefferson
+希臘文維基大典	Wikipedia in greco
+麥	Triticum
+格里曆	Calendario gregoriano
+拉丁文維基大典	Wikipedia in latino
+麻雀 (棋牌)	Mah Jong
+鹽	Sale
+牛頓（單位）	Newton (unità di misura)
+度量衡	Misurazione
+萬國公制	Sistema internazionale di unità di misura
+集論	Teoria degli insiemi
+哈里發塔	Burj Khalifa
+長城	Grande muraglia cinese
+整數	Numero intero
+球	Sfera
+大憲章	Magna Carta
+阿兹特克	Aztechi
+上塞納省	Hauts-de-Seine
+東羅馬帝國	Impero bizantino
+奧斯曼帝國	Impero ottomano
+國內生產總值	Prodotto interno lordo
+銃	Arma da fuoco
+伊比利半島	Penisola iberica
+坦克	Carro armato
+實數	Numero reale
+楈枒	Cocos nucifera
+桃	Prunus persica
+湘語	Lingua xiang
+冰酪	Gelato
+文胸	Reggiseno
+阿拉伯語	Lingua araba
+本州	Honshū
+四國	Shikoku
+地中海氣候	Clima mediterraneo
+科西嘉	Corsica
+頂級域名	Dominio di primo livello
+斯洛文尼亞語維基大典	Wikipedia in sloveno
+百度	Baidu
+澳門	Macao
+土衛一	Mimas (astronomia)
+土衛四	Dione (astronomia)
+土衛三	Teti (astronomia)
+土衛五	Rea (astronomia)
+廣東省	Guangdong
+廣西壯族自治區	Guangxi
+蘇聯	Unione Sovietica
+香港中文大學	Università Cinese di Hong Kong
+亡神星	90482 Orcus
+塞德娜	90377 Sedna
+孟德斯鳩	Montesquieu
+青馬大橋	Tsing Ma Bridge
+維基大典:卓著	Wikipedia:Vetrina
+Template:Link FA	Template:Link V
+維基大典:會館	Wikipedia:Bar
+釜山廣域市	Pusan
+廣州市	Canton
+蔣中正	Chiang Kai-shek
+南京市	Nanchino
+君士坦丁堡	Costantinopoli
+首爾地鐵	Metropolitana di Seul
+北京大學	Università di Pechino
+清華大學	Università Tsinghua
+烏魯木齊市	Ürümqi
+江蘇省	Jiangsu
+浙江省	Zhejiang
+鄧小平	Deng Xiaoping
+新好男孩	Backstreet Boys
+西藏	Tibet
+西藏自治區	Regione Autonoma del Tibet
+圓	Circonferenza
+歐氏幾何	Spazio euclideo
+周恩來	Zhou Enlai
+中國共產黨	Partito Comunista Cinese
+馮諾曼	John von Neumann
+偽基大典	Uncyclopedia
+公理	Assioma (matematica)
+清聖祖	Kangxi
+朝鮮文維基大典	Wikipedia in coreano
+檀香山	Honolulu
+紋章	Araldica
+曼徹斯特聯足球俱樂部	Manchester United Football Club
+平壤直轄市	Pyongyang
+模 (代數)	Modulo (algebra)
+九	9 (numero)
+清高宗	Qianlong
+蕭伯納	George Bernard Shaw
+黑龍江省	Heilongjiang
+香港島	Hong Kong (isola)
+鹼金屬	Metalli alcalini
+非金屬	Non metallo
+鹵素	Alogeni
+稀有氣體	Gas nobili
+維基大典:正典	Wikipedia:Voci di qualità
+四川省	Sichuan
+舊約	Antico Testamento
+聖誕節	Natale
+三角形	Triangolo
+印歐語系	Lingue indoeuropee
+穆阿邁爾·格達費	Mu'ammar Gheddafi
+獨島	Rocce di Liancourt
+江南區	Distretto di Gangnam
+大田廣域市	Daejeon
+大邱廣域市	Taegu
+仁川國際機場	Aeroporto Internazionale di Seul-Incheon
+仁川廣域市	Incheon
+京畿道	Gyeonggi
+自然數	Numero naturale
+萬國音標字	Alfabeto fonetico internazionale
+河北省	Hebei
+革奴自由文檔許可協議	GNU Free Documentation License
+臺灣	Isola di Formosa
+紐約	New York (disambigua)
+汝矣島	Yoido Island
+公元元年	1
+魯迅	Lu Xun
+八	8 (numero)
+馬德堡半球	Emisferi di Magdeburgo
+主禱文	Padre nostro
+蒜	Allium sativum
+白	Bianco
+黑	Nero
+六九八年	698
+巴爾幹半島	Penisola balcanica
+七二七年	727
+墨索里尼	Benito Mussolini
+四方	Punto cardinale
+十	10 (numero)
+原子序	Numero atomico
+九一八年	918
+公元百年	100
+五七〇年	570
+四時	Stagione
+二二二年	222
+利物浦	Liverpool
+鐵達尼號	RMS Titanic
+五五二年	552
+同位素	Isotopo
+蜚蠊	Blattodea
+功率	Potenza (fisica)
+螢	Lampyridae
+索布語	Lingue sorabe
+一八一二年戰爭	Guerra anglo-americana
+頂點	Vertice (geometria)
+大理國	Regno di Dali
+福岡市	Fukuoka
+建城	Ab Urbe condita
+日本海	Mar del Giappone
+宮古列島	Isole Miyako
+中亞	Asia centrale
+琉球國	Regno delle Ryūkyū
+伽倻	Confederazione di Gaya
+朝鮮國	Dinastia Joseon
+高麗國	Goryeo
+大韓帝國	Impero coreano
+渤海國	Balhae
+高句麗	Koguryŏ
+百濟	Paekje
+新羅	Regno di Silla
+扶餘	Buyeo
+奧匈帝國	Impero austro-ungarico
+吸血鬼日記	The Vampire Diaries
+馬雅	Maya
+印加國	Impero inca
+縣	Contea (suddivisione amministrativa)
+韓非子	Han Fei
+錦州市	Jinzhou
+導數	Derivata
+黃帝	Huang Di
+釣魚臺列嶼	Isole Senkaku
+成都市	Chengdu
+咖啡廳	Caffetteria
+蒲公英	Taraxacum
+雪豹	Panthera uncia
+白話維基大典	Wikipedia in cinese
+二二一年	221
+五四三年	543
+五三六年	536
+二三〇年	230
+二〇二年	202
+一九二年	192
+總統	Presidente
+五五五年	555
+五七一年	571
+滿洲國	Manciukuò
+二三一年	231
+二二五年	225
+三一一年	311
+二二〇年	220
+三一三年	313
+五八七年	587
+五四八年	548
+五四九年	549
+五五一年	551
+五五七年	557
+二二三年	223
+二二四年	224
+二一九年	219
+大運河	Gran Canale
+五八九年	589
+三〇四年	304
+五五〇年	550
+五八六年	586
+五八八年	588
+五五四年	554
+二二九年	229
+五八三年	583
+二六五年	265
+二六三年	263
+五八五年	585
+五八二年	582
+五五六年	556
+四二〇年	420
+二八〇年	280
+五八一年	581
+五五八年	558
+國立臺灣大學	Università Nazionale di Taiwan
+客家語	Lingua hakka
+切羅基語	Lingua cherokee
+羅素悖論	Paradosso di Russell
+五六九年	569
+贛語	Lingua gan
+爪哇語	Lingua giavanese
+司馬光	Sima Guang
+滿語	Lingua mancese
+弧度	Radiante
+五五三年	553
+三〇七年	307
+五八四年	584
+杜甫	Du Fu
+人口	Popolazione
+瓦爾帕萊索	Valparaíso
+青銅	Bronzo
+情報及特殊使命局	Mossad
+尼亞加拉瀑布	Cascate del Niagara
+吳語	Lingua wu
+昭和天皇	Hirohito
+基地組織	Al-Qaida
+穆罕默德二世	Maometto II
+希臘神話	Mitologia greca
+秦	Qin (stato)
+新疆維吾爾族自治區	Xinjiang
+萬國首都全覽	Lista delle capitali
+周	Dinastia Zhou
+形而上學	Metafisica
+白宮	Casa Bianca
+北海道	Hokkaidō
+科科斯（基林）群島	Isole Cocos (Keeling)
+胡志明	Ho Chi Minh
+蘇軾	Su Shi
+明尼阿波利斯	Minneapolis
+集	Insieme
+順化市	Huế
+閩東語	Min dong
+閩南語	Lingua min nan
+離子	Ione
+壯族	Zhuang
+南斯拉夫	Jugoslavia
+長毛象	Mammuthus
+四邊形	Quadrilatero
+三船敏郎	Toshirō Mifune
+線	Retta
+甲烷	Metano
+孫武	Sun Tzu
+中央情報局	Central Intelligence Agency
+語法學	Sintassi
+聯合國安全理事會	Consiglio di sicurezza delle Nazioni Unite
+眼鏡	Occhiali
+火柴	Fiammifero
+多邊形	Poligono
+市場	Mercato
+南海	Mar Cinese Meridionale
+朝鮮世宗	Sejong il Grande
+俳句	Haiku
+黃海	Mar Giallo
+今上天皇	Akihito
+橫濱市	Yokohama
+普魯士	Prussia
+前四年	4 a.C.
+柳州市	Liuzhou
+皇帝	Imperatore
+索契	Soči
+壓強	Pressione
+龍貓	Il mio vicino Totoro
+线粒体	Mitocondrio
+吠陀	Veda
+橢圓	Ellisse
+杠杆	Leva (fisica)
+蟹	Brachyura
+前九十年	90 a.C.
+酸鹼度	PH
+美國革命	Guerra di indipendenza americana
+安徽省	Anhui
+前九十一年	91 a.C.
+忠清北道	Chungcheong Settentrionale
+忠清南道	Chungcheong Meridionale
+內蒙古自治區	Mongolia Interna
+金日成	Kim Il-sung
+慶尚南道	Gyeongsang Meridionale
+慶尚北道	Gyeongsang Settentrionale
+全羅北道	Jeolla Settentrionale
+全羅南道	Jeolla Meridionale
+濟州特別自治道	Jeju-do
+鬱陵島	Ulleungdo
+巴別塔	Torre di Babele
+蔚山廣域市	Ulsan
+光州廣域市	Gwangju
+一元二次方程	Equazione di secondo grado
+李斯特	Franz Liszt
+美式足球	Football americano
+前八十七年	87 a.C.
+哥德爾	Kurt Gödel
+摩爾	Mole
+華國鋒	Hua Guofeng
+烷烴	Alcani
+希爾伯特	David Hilbert
+前九十五年	95 a.C.
+黃金分割	Sezione aurea
+福建省	Fujian
+班夫國家公園	Parco nazionale Banff
+查士丁尼一世	Giustiniano I
+前七十四年	74 a.C.
+慶州市	Gyeongju
+安東市	Andong
+尚州市	Sangju
+阿貝爾·塔斯曼	Abel Tasman
+海南省	Hainan
+功	Lavoro (fisica)
+漢語拼音	Pinyin
+莽原氣候	Savana
+甘肅省	Gansu
+蘇州市	Suzhou
+溫州市	Wenzhou
+無錫市	Wuxi
+湖州市	Huzhou
+紹興市	Shaoxing
+寧波市	Ningbo
+紙鳶	Aquilone
+前二〇一年	201 a.C.
+前二〇二年	202 a.C.
+哈爾濱市	Harbin
+拓撲學	Topologia
+文身	Tatuaggio
+金融學	Finanza
+雲南省	Yunnan
+多項式	Polinomio
+山東省	Shandong
+中南半島	Indocina
+天擇	Selezione naturale
+地質年代	Scala dei tempi geologici
+壟斷	Monopolio
+河南省	Henan
+遼寧省	Liaoning
+席德	El Cid
+刳剔者傑克	Jack lo squartatore
+前一五六年	156 a.C.
+列奧尼達一世	Leonida I
+前一三九年	139 a.C.
+前一二二年	122 a.C.
+前二〇六年	206 a.C.
+西爾門·拉什迪	Salman Rushdie
+前二〇三年	203 a.C.
+化學鍵	Legame chimico
+槍	Lancia (arma)
+前一四一年	141 a.C.
+僧院	Monastero
+白堊紀	Cretacico
+前二〇九年	209 a.C.
+皮薩羅	Francisco Pizarro
+點	Punto (geometria)
+骰子	Dado (gioco)
+吉林省	Jilin (provincia)
+東海	Mar Cinese Orientale
+前二三二年	232 a.C.
+湖南省	Hunan
+青海省	Qinghai
+前一九七年	197 a.C.
+前二〇七年	207 a.C.
+前一八八年	188 a.C.
+矢	Freccia
+前二〇五年	205 a.C.
+鮨	Sushi
+前二〇八年	208 a.C.
+湖北省	Hubei
+山西省	Shanxi
+魔方	Cubo di Rubik
+伊洛瓦底省	Regione di Ayeyarwady
+貴州省	Guizhou
+京都議定書	Protocollo di Kyoto
+聯合國大會	Assemblea generale delle Nazioni Unite
+乙酸	Acido acetico
+安達曼海	Mare delle Andamane
+前二〇四年	204 a.C.
+胡適	Hu Shih
+莊子	Zhuāngzǐ
+清孝欽顯皇后	Cixi
+陝西省	Shaanxi
+Template:共享類	Template:Commonscat
+三八三年	383
+德文維基大典	Wikipedia in tedesco
+拋物線	Parabola (geometria)
+尿素	Urea
+平假名	Hiragana
+波斯文維基大典	Wikipedia in persiano
+質數	Numero primo
+五七二年	572
+南北朝	Dinastie del Nord e del Sud
+吾世	Minecraft
+罷工	Sciopero
+李舜臣汝諧	Yi Sun Sin
+泰國地方	Province della Thailandia
+中華人民共和國地方	Suddivisione amministrativa della Cina
+日本都道府縣	Prefetture del Giappone
+氧化物	Ossido
+合數	Numero composto
+因數	Divisore
+口琴	Armonica a bocca
+朝鮮灣	Baia di Corea
+Template:Taxobox	Template:Tassobox
+繩文時代	Periodo Jōmon
+魔法少女小圓	Puella Magi Madoka Magica
+平行	Parallelismo (geometria)
+極品飛車	Need for Speed
+琉球語	Lingue ryukyuane
+閩語	Lingua min
+江西省	Jiangxi
+阿卜杜拉·本·阿卜杜勒-阿齊茲·沙特	Abd Allah dell'Arabia Saudita
+寧夏回族自治區	Ningsia
+揚州市	Yangzhou
+鎮江市	Zhenjiang
+哈薩克文維基大典	Wikipedia in kazako
+嘉興市	Jiaxing
+金華市	Jinhua
+衢州市	Quzhou
+台州市	Taizhou (Zhejiang)
+舟山市	Zhoushan
+石家莊市	Shijiazhuang
+卡金納答	Kakinada
+珠海	Zhuhai
+韶關市	Shaoguan
+東莞市	Dongguan
+俄羅斯正教會	Chiesa ortodossa russa
+鯢	Andrias davidianus
+空師	Aeronautica militare
+大名	Daimyō
+苗栗縣	Contea di Miaoli
+威氏鷸	Gallinago delicata
+哈布斯堡氏	Casa d'Asburgo
+中央銀行	Banca centrale
+福州市	Fuzhou
+南平市	Nanping
+莆田市	Putian
+三明市	Sanming
+泉州市	Quanzhou
+廈門市	Xiamen
+漳州市	Zhangzhou
+龍岩市	Longyan
+寧德市	Ningde
+西寧市	Xining
+西遊記	Il viaggio in Occidente
+三國演義	Il romanzo dei tre regni
+水滸傳	I Briganti (romanzo)
+鄂州市	Ezhou
+福島縣	Prefettura di Fukushima
+豬油	Strutto
+新竹縣	Contea di Hsinchu
+鞍山市	Anshan
+羅馬治世	Pax romana
+克羅內克	Leopold Kronecker
+康托爾	Georg Cantor
+戴德金	Richard Dedekind
+寒武紀	Cambriano
+十六元數	Sedenione
+神聖羅馬皇帝腓特烈一世	Federico Barbarossa
+前三八七年	387 a.C.
+盲文	Braille
+千葉縣	Prefettura di Chiba
+賽珍珠	Pearl S. Buck
+聯合國秘書長	Segretario generale delle Nazioni Unite
+龐加萊	Henri Poincaré
+西北水道	Passaggio a nord-ovest
+十進制	Sistema numerico decimale
+烯烴	Alcheni
+皇祚	Kimi ga yo
+氣壓	Pressione atmosferica
+箸	Bacchette per il cibo
+南投縣	Contea di Nantou
+標點符號	Punteggiatura
+英格蘭王表	Sovrani d'Inghilterra
+片假名	Katakana
+民之旨	Jana Gana Mana
+臺北一零一	Taipei 101
+化學式	Formula chimica
+波斯	Persia
+群 (代數)	Gruppo (matematica)
+三十六計	Trentasei stratagemmi
+天安門	Tienanmen
+波蘭球	Polandball
+水星領航員	ARIA
+三角函數	Funzione trigonometrica
+六四事件	Protesta di piazza Tienanmen
+趙紫陽	Zhao Ziyang
+胡耀邦	Hu Yaobang
+安樂死	Eutanasia
+姓氏	Cognome
+醛	Aldeidi
+規	Compasso (strumento)
+物質之量	Quantità di sostanza
+平安北道	Nord Pyongan
+咸鏡南道	Sud Hamgyong
+島國	Stato insulare
+華山	Monte Hua
+桃園市	Contea di Taoyuan
+尺規作圖	Costruzioni con riga e compasso
+京都府	Prefettura di Kyoto
+絕對值	Valore assoluto
+羅賓漢	Robin Hood
+表數法	Sistema di numerazione
+大阪府	Prefettura di Osaka
+瑪瑙	Agata (minerale)
+愛媛縣	Prefettura di Ehime
+圓錐曲線	Sezione conica
+海平面	Livello del mare
+羅馬皇帝表	Imperatori romani
+矢量空間	Spazio vettoriale
+距	Distanza (matematica)
+臺灣海峽	Stretto di Formosa
+山口縣	Prefettura di Yamaguchi
+市盈率	Rapporto prezzo-utili
+神奈川縣	Prefettura di Kanagawa
+中國地方	Chūgoku
+長野縣	Prefettura di Nagano
+殷商	Dinastia Shang
+色諾芬	Senofonte
+兵庫縣	Prefettura di Hyōgo
+廣州恆大淘寶蹴鞠會	Guangzhou Evergrande Football Club
+關係 (數學)	Relazione binaria
+等價	Relazione di equivalenza
+主格	Nominativo
+泰國灣	Golfo del Siam
+螳螂	Mantodea
+維基大典:書海	Wikipedia:Fonti librarie
+征夷大將軍	Shōgun
+春節	Capodanno cinese
+切腹	Seppuku
+色盲	Daltonismo
+彰化縣	Contea di Changhua
+阿什莫爾島與卡捷島	Isole Ashmore e Cartier
+農曆	Calendario cinese
+可樂	Cola (bevanda)
+高知縣	Prefettura di Kōchi
+道德經	Daodejing
+萬有引力	Legge di gravitazione universale
+坐標幾何	Geometria analitica
+芬瑟島	Isola di Fraser
+臺南市	Tainan
+與格	Dativo
+滿洲族	Manciù
+義大利半島	Penisola italiana
+袁枚	Yuan Mei
+汽水	Bibita
+天象館	Planetario
+微積分	Calcolo infinitesimale
+岳陽市	Yueyang
+東寧	Regno di Tungning
+李斯	Li Si
+雲林縣	Yunlin
+碗	Ciotola
+全等	Congruenza (geometria)
+義勇軍進行曲	Marcia dei Volontari
+數理物理	Fisica matematica
+紅花	Carthamus tinctorius
+庖人	Cuoco
+大正天皇	Taisho
+毛納洛峰	Mauna Loa
+富牌國際機場	Aeroporto internazionale di Phu Bai
+修道院	Abbazia
+符節	Password
+環 (代數)	Anello (algebra)
+環球小姐	Miss Universo
+香川縣	Prefettura di Kagawa
+曲線	Curva (matematica)
+白求恩	Norman Bethune
+中日戰爭	Guerra sino-giapponese
+平面幾何	Geometria euclidea
+葉問	Yip Man
+基數	Numero cardinale
+二元運算	Operazione binaria
+餘弦定理	Teorema del coseno
+新幹線	Shinkansen
+雙曲線	Iperbole (geometria)
+星際爭霸	StarCraft
+反射	Riflessione (fisica)
+嘉義縣	Contea di Chiayi
+形意拳	Xingyiquan
+近視	Miopia
+代數數	Numero algebrico
+夏后氏	Dinastia Xia
+連續	Funzione continua
+教廷諸屬國	Stato Pontificio
+濟南市	Jinan
+十一月革命	Rivoluzione di novembre
+中國抗日戰爭	Seconda guerra sino-giapponese
+青島市	Tsingtao
+PSP	PlayStation Portable
+葛利斯五八一丙	Gliese 581 c
+官能團	Gruppo funzionale
+世氣公會	Organizzazione meteorologica mondiale
+見即所得	WYSIWYG
+新西班牙代王領	Vicereame della Nuova Spagna
+織田信長	Oda Nobunaga
+向日葵	Helianthus annuus
+南昌市	Nanchang
+玫瑰之名	Il nome della rosa
+幾何原本	Elementi (Euclide)
+米高·哥連斯	Michael Collins (patriota irlandese)
+金本位	Sistema aureo
+直積	Prodotto cartesiano
+艾狄胥	Paul Erdős
+四元數	Quaternione
+長沙市	Changsha
+有機化合物	Composto organico
+明治天皇	Meiji
+源實朝	Minamoto no Sanetomo
+蜉蝣	Ephemeroptera
+伊藤博文	Hirobumi Itō
+絞刑	Impiccagione
+門:史	Portale:Storia
+電極	Elettrodo
+阿拉伯數字	Sistema di numerazione arabo
+股骨	Femore
+子集	Sottoinsieme
+海東青	Falco rusticolus
+日文維基大典	Wikipedia in giapponese
+繁體字	Caratteri cinesi tradizionali
+甲午戰爭	Prima guerra sino-giapponese
+克里希那穆提	Jiddu Krishnamurti
+宦官	Eunuco
+選擇公理	Assioma della scelta
+行星環	Anello planetario
+青藏高原	Altopiano del Tibet
+拓撲空間	Spazio topologico
+古文書	Paleografia
+數學符表	Glossario della simbologia matematica
+錫克金廟	Tempio d'Oro
+查良鏞	Jin Yong
+卡奔塔利亞灣	Golfo di Carpentaria
+度量空間	Spazio metrico
+千分比	Per mille
+交換群	Gruppo abeliano
+高雄市	Kaohsiung
+華盛頓歐文	Washington Irving
+易經	Libro dei Mutamenti
+弩	Balestra (arma)
+渤海	Mare di Bohai
+甑帶瘡	Herpes zoster
+西楚霸王	Xiang Yu
+戰艦	Nave da battaglia
+人魚	Sirena
+海倫公式	Formula di Erone
+昆明市	Kunming
+天氣預報	Previsione meteorologica
+回族	Hui (popolo)
+蘭州市	Lanzhou
+期貨	Futures
+鰂	Sepiida
+林則徐	Lin Zexu
+三國	Tre Regni
+春秋時代	Periodo delle primavere e degli autunni
+戰國	Periodo dei regni combattenti
+名偵探柯南	Detective Conan
+區間	Intervallo (matematica)
+清宣統帝	Pu Yi
+併集	Unione (insiemistica)
+簡化字	Caratteri cinesi semplificati
+合肥市	Hefei
+交集	Intersezione (insiemistica)
+常染色體	Autosoma
+啓	Qǐ
+簡歷	Curriculum vitae
+蝴蝶效應	Effetto farfalla
+豐臣秀吉	Toyotomi Hideyoshi
+假名	Kana
+民律大全	Corpus iuris civilis
+白鱀豚	Lipotes vexillifer
+弦	Corda (geometria)
+平昌郡	Pyeongchang
+泰國國際航空	Thai Airways International
+北九州市	Kitakyūshū
+匈奴	Xiongnu
+孟子	Mencio
+曾國藩	Zeng Guofan
+桂林市	Guilin
+海口市	Haikou
+無機化合物	Composto inorganico
+域 (代數)	Campo (matematica)
+海拔	Altitudine
+挪威廣播公司	Norsk rikskringkasting
+中原	Pianura Centrale (Cina)
+道	Tao
+世界語維基大典	Wikipedia in esperanto
+刺身	Sashimi
+中泰國	Thailandia Centrale
+高錳酸鉀	Permanganato di potassio
+魔鬼之詩篇	I versi satanici
+有序對	Coppia (matematica)
+金屬鍵	Legame metallico
+書面挪威語維基大典	Wikipedia in norvegese
+序數	Numero ordinale (teoria degli insiemi)
+南京大屠殺	Massacro di Nanchino
+吳廷琰	Ngô Đình Diệm
+複式記帳	Partita doppia
+麵	Noodles
+路易斯安那購地案	Acquisto della Louisiana
+扇	Ventaglio
+平安時代	Periodo Heian
+旦	Alba (giorno)
+韓信點兵	Teorema cinese del resto
+梅涅勞斯定理	Teorema di Menelao
+無窮小	Infinitesimo
+屏東縣	Contea di Pingtung
+彰化市	Changhua
+單鏡筒反光相機	Single-lens reflex
+雙城子	Ussurijsk
+張飛	Zhang Fei
+張郃	Zhang He
+張角	Zhang Jiao
+張衡	Zhang Heng
+憲法十七條	Costituzione di 17 articoli
+張遼	Zhang Liao
+張騫	Zhang Qian
+張三丰	Zhang San Feng
+趙	Zhao (stato)
+趙雲	Zhao Yun
+鄭成功	Koxinga
+周瑜	Zhou Yu
+周作人	Zhou Zuoren
+帝顓頊	Zhuanxu
+諸葛誕	Zhuge Dan
+諸葛瑾	Zhuge Jin
+諸葛恪	Zhuge Ke
+諸葛瞻	Zhuge Zhan
+諸葛亮	Zhuge Liang
+慶良間群島	Isole Kerama
+壯學	Zhuangologia
+烏克蘭語維基大典	Wikipedia in ucraino
+阿拉伯文維基大典	Wikipedia in arabo
+金孟加拉	Amar Shonar Bangla
+希伯來文維基大典	Wikipedia in ebraico
+洞里薩湖	Tonle Sap
+賈姆謝德布爾	Jamshedpur
+越南文維基大典	Wikipedia in vietnamita
+負數	Numero negativo
+中醫	Medicina tradizionale cinese
+高松市	Takamatsu
+中華人民共和國憲法	Costituzione della Repubblica popolare cinese
+提格兰二世	Tigrane II
+珠江	Fiume delle Perle
+泰西格致史	Storia della scienza
+五帝	Tre Augusti e Cinque Imperatori
+瑪格麗特一世	Margherita I di Danimarca
+日本國會	Dieta Nazionale del Giappone
+先哥倫布	Civiltà precolombiane
+英聯邦王國	Reame del Commonwealth
+彼得一世島	Isola Pietro I
+十二銅表法	Leggi delle XII tavole
+漢魏武王	Cáo Cāo
+斬首	Decapitazione
+垂直	Perpendicolarità
+無窮集合	Insieme infinito
+冪集	Insieme delle parti
+魚鉤	Amo (pesca)
+齊齊哈爾市	Qiqihar
+椰蟹	Birgus latro
+俄文維基大典	Wikipedia in russo
+平行公理	V postulato di Euclide
+春武里府	Provincia di Chonburi
+西線無戰事	Niente di nuovo sul fronte occidentale
+嘧啶	Pirimidina
+泰王國歌	Phleng Chat
+中國中央電視臺	CCTV (azienda)
+圖蘭朵	Turandot
+巴列維王朝	Dinastia Pahlavi
+天皇	Imperatore del Giappone
+熱帶雨林氣候	Clima equatoriale
+袁世凱	Yuan Shikai
+北海市	Beihai
+袋鼠島	Isola dei Canguri
+君士坦丁堡普世宗主教區	Patriarcato ecumenico di Costantinopoli
+辛普生沙漠	Deserto Simpson
+雷曼兄弟公司	Lehman Brothers
+娜塔莎·北鼎斐	Natasha Bedingfield
+開集	Insieme aperto
+測地線	Geodetica
+塞瓦定理	Teorema di Ceva
+健陀羅	Regno di Gandhāra
+愛爾蘭共和國總統	Capi di Stato d'Irlanda
+內積空間	Spazio prehilbertiano
+金奎植	Kim Kyu sik
+江戶	Edo
+金九	Kim Koo
+泰山	Monte Tai
+荀況	Xunzi
+九江市	Jiujiang
+反氫	Anti-idrogeno
+占婆	Champa
+倒數	Reciproco
+黃道兇賊	Killer dello Zodiaco
+陰陽五行	Wu Xing
+夫妻	Coppia (sociologia)
+盧溝橋事變	Incidente del ponte di Marco Polo
+關羽	Guan Yu
+龜	Testudines
+阮福晪	Bảo Đại
+元 (釋義)	Yuan
+空集	Insieme vuoto
+祖沖之	Zu Chongzhi
+羅馬 (釋義)	Roma (disambigua)
+左氏春秋	Zuo Zhuan
+連通	Grafo connesso
+瀨戶內海	Mare interno di Seto
+自由民主黨	Partito Liberal Democratico (Giappone)
+環	Loop
+利瑪竇	Matteo Ricci
+原富	La ricchezza delle nazioni
+技術分析	Analisi tecnica
+哆啦A夢	Doraemon
+宋卡府	Provincia di Songkhla
+甲米府	Provincia di Krabi
+拉廊府	Provincia di Ranong
+伏羲	Fu Hsi
+宜蘭縣	Contea di Yilan
+九龍	Caolun
+瑪麗·安·尼科爾斯	Mary Ann Nichols
+素叻府	Provincia di Surat Thani
+成本	Costo
+桐艾府	Provincia di Trat
+五代	Cinque dinastie e dieci regni
+瑪麗·簡·凱利	Mary Jane Kelly
+森理世	Riyo Mori
+補集	Insieme complemento
+靖國神社	Santuario Yasukuni
+博他侖府	Provincia di Phatthalung
+鹽田	Salina
+班武里府	Provincia di Prachuap Khiri Khan
+洛坤府	Provincia di Nakhon Si Thammarat
+春蓬府	Provincia di Chumphon
+新北市	Nuova Taipei
+臺中市	Taichung
+漢昭烈皇帝	Liu Bei
+干支	Ciclo sessagesimale
+三國志	Cronache dei Tre Regni
+邁克學搖滾	Michael Learns to Rock
+花蓮縣	Contea di Hualien
+金門縣	Kinmen
+臺東縣	Contea di Taitung
+新竹市	Hsinchu
+嘉義市	Chiayi
+基隆市	Keelung
+副省級市	Città sub-provinciale
+從眾	Argumentum ad judicium
+牢不可破之聯盟	Inno dell'Unione Sovietica
+相似	Similitudine (geometria)
+年號	Niánhào
+大韓高宗	Gojong di Corea
+摩托羅拉	Motorola
+賢哲賽義巴巴	Shirdi Sai Baba
+雪景球	Palla di vetro con neve
+淨土宗	Amidismo
+安妮·查普曼	Annie Chapman
+聖德太子	Umayado
+沈括	Shen Kuo
+內湖區	Distretto di Neihu
+貴金屬	Metallo prezioso
+懿德天皇	Itoku
+史記	Shiji
+早稻田大學	Università di Waseda
+孫吳	Regno Wu
+論語	Dialoghi (Confucio)
+創意公用授權條款	Licenze Creative Commons
+拉臘·杜塔	Lara Dutta
+小野田寬郎	Hiroo Onoda
+清太宗	Huang Taiji
+推古天皇	Suiko
+清德宗	Guangxu
+鎖國	Isolazionismo
+戈登	Charles George Gordon
+清世祖	Shunzhi
+進數	Numero p-adico
+卡拉卡拉敕令	Constitutio Antoniniana
+明智光秀	Akechi Mitsuhide
+綏靖天皇	Suizei
+阮攸	Nguyễn Du
+白居易	Bai Juyi
+吳大帝	Sun Quan
+屈原	Qu Yuan
+魏世祖文皇帝	Cao Pi
+神農	Shen Nung
+小淵惠三	Keizō Obuchi
+帝舜	Imperatore Shun
+安寧天皇	Annei
+發勃耳	Jean-Henri Fabre
+張國榮	Leslie Cheung
+蔣經國	Chiang Ching-kuo
+王維	Wang Wei
+後醍醐天皇	Go-Daigo
+桓武天皇	Kammu
+林彪	Lin Biao
+清世宗	Yongzheng
+呂布	Lü Bu
+鴨脷洲	Ap Lei Chau
+清穆宗	Tongzhi
+韓愈	Han Yu
+王安石	Wang Anshi
+德川吉宗	Tokugawa Yoshimune
+米芾	Mi Fei
+拓撲閉包	Chiusura (topologia)
+閉集	Insieme chiuso
+閉開集	Insieme chiuso-aperto
+曹魏	Regno Wei
+作格	Ergativo
+尖竹汶府	Provincia di Chanthaburi
+陳省身	Shiing-Shen Chern
+第十五屆亞洲運動會	XV Giochi asiatici
+基斯孔哈拉斯	Kiskunhalas
+覆蓋	Ricoprimento
+竭澤而漁	Sovrapesca
+廢藩置縣	Abolizione del sistema han
+通格	Assolutivo
+清仁宗	Jiaqing
+正親町天皇	Ōgimachi
+董卓	Dong Zhuo
+林語堂	Lin Yutang
+杜牧	Du Mu
+孫堅	Sun Jian
+石田三成	Ishida Mitsunari
+大韓純宗	Sunjong di Corea
+婆羅多舞	Bharatanatyam
+歐陽脩	Ouyang Xiu
+清宣宗	Daoguang
+岳飛	Yue Fei
+清文宗	Xianfeng
+北柳府	Provincia di Chachoengsao
+羅勇府	Provincia di Rayong
+柳宗元	Liu Zongyuan
+包拯	Bao Zheng
+新店區	Xindian (città)
+阮景宗	Đồng Khánh
+司馬懿	Sima Yi
+安慶市	Anqing
+安祿山	An Lushan
+六安市	Lu'an
+陳獨秀	Chen Duxiu
+蒂邁歐篇	Timeo (dialogo)
+土城區	Tucheng
+魏 (釋義)	WEI
+藤原定家	Fujiwara no Teika
+夏侯惇	Xiahou Dun
+曹仁	Cao Ren
+坂本龍馬	Sakamoto Ryōma
+王守仁	Wang Shou-jen
+魏烈祖明皇帝	Cao Ruì
+夏侯淵	Xiahou Yuan
+李鴻章	Li Hongzhang
+顧愷之	Gu Kaizhi
+康托爾悖論	Paradosso di Cantor
+中秋	Festa di metà autunno
+梁啟超	Liang Qichao
+霍去病	Huo Qubing
+范仲淹	Fan Zhongyan
+沙繳府	Provincia di Sa Kaeo
+緊集	Spazio compatto
+依善	Thailandia del Nordest
+龐統	Pang Tong
+高順	Gao Shun
+成都雙流國際機場	Aeroporto di Chengdu-Shuangliu
+發翔羽	Penne remiganti
+赤腹蠑螈	Cynops pyrrhogaster
+南陽市	Nanyang
+秋葉原	Akihabara
+徐光啟	Xu Guangqi
+南充市	Nanchong
+藤原道長	Fujiwara no Michinaga
+阮聖祖	Minh Mạng
+戚繼光	Qi Jiguang
+阮出帝	Hàm Nghi
+托勒密定理	Teorema di Tolomeo
+丸龜市	Marugame
+鄧麗君	Teresa Teng
+孫破虜吳夫人	Lady Wu
+明成皇后	Myeongseong di Joseon
+殷墟	Yin Xu
+阮福昭	Thành Thái
+詩經	Shijing
+阮福晃	Duy Tân
+秋瑾	Qiu Jin
+阮簡宗	Kiến Phúc
+阮福昇	Hiệp Hòa
+自斷	Autotomia
+足利義量	Ashikaga Yoshikazu
+戈公省	Provincia di Koh Kong
+效用	Utilità (economia)
+阮翼宗	Tự Đức
+大月氏	Yuezhi
+陳納德	Claire Chennault
+于禁	Yu Jin
+典韋	Dian Wei
+龐德	Pang De
+周公旦	Zhou Gong
+太史慈	Taishi Ci
+阮弘宗	Khải Định
+徐晃	Xu Huang
+商湯	Shang Tang
+噌汁	Zuppa di miso
+樂進	Yue Jin
+偏序	Relazione d'ordine
+康托爾定理	Teorema di Cantor
+新山一國際機場	Aeroporto Internazionale Tan Son Nhat
+和服	Kimono
+遜尼派	Sunnismo
+白翎島	Isola di Baengnyeong
+汝矣島純福音教會	Yoido Full Gospel Church
+哥德巴赫猜想	Congettura di Goldbach
+三國遺事	Samguk Yusa
+坤輿萬國全圖	Carta Geografica Completa di tutti i Regni del Mondo
+三國史記	Samguk Sagi
+國家情報院	National Intelligence Service
+鬱陵郡	Ulleung
+朝鮮漢字	Hanja
+國會議員	Parlamentare
+摩爾體積	Volume molare
+傲遊瀏覽器	Maxthon
+矢圖	Quiver
+復旦大學	Università Fudan
+萌	Moe (slang)
+韓國放送公社	Korean Broadcasting System
+涼宮春日系列	La malinconia di Haruhi Suzumiya
+莎阿南	Shah Alam
+玉山	Yu Shan
+楚	Chu (stato)
+梅爾維爾島	Melville (Australia)
+新	Dinastia Xin
+北太平洋露脊鯨	Eubalaena japonica
+海北藏族自治州	Prefettura autonoma tibetana di Haibei
+中庸	Il giusto mezzo
+中國禮儀之爭	Controversia dei riti cinesi
+鳳凰	Fenghuang
+宋教仁	Song Jiaoren
+真言宗	Buddhismo Shingon
+初音未來	Hatsune Miku
+餛飩	Wonton
+教會羅馬字	Pe̍h-ōe-jī
+滿寵	Man Chong
+超濾法	Ultrafiltrazione
+許褚	Xu Zhu
+錢鍾書	Qian Zhongshu
+帕覺柯	José Emilio Pacheco
+猫眼林克	Link (The Legend of Zelda)
+蘇通長江大橋	Ponte di Sutong
+尼奧寵物	Neopets
+包頭市	Baotou
+大化革新	Editti di riforma di Taika
+平溪區	Pingsi
+三峽區	Sanxia
+永和區	Yonghe
+文天祥	Wen Tianxiang
+壬辰倭亂	Invasioni giapponesi della Corea (1592-1598)
+小行星三千	3000 Leonardo
+軍曹	Keroro
+出雲國	Izumo (provincia)
+花崗岩島	Granite Island
+新界	Nuovi Territori
+八桂學派	Scuola di Bagui
+午餐肉	Spam (carne)
+呂底亞	Lidia
+廬山	Monte Lu
+老撾之歌	Pheng Xat Lao
+夏禹	Yǔ
+藤原氏	Clan Fujiwara
+漢 (釋義)	HAN
+杭思朗	Armstrong
+香港語言學學會粵語拼音方案	Jyutping
+刀	Dao (arma)
+水龍頭	Rubinetto
+子拓撲	Topologia di sottospazio
+廣州地鐵	Metropolitana di Canton
+車裂	Squartamento
+嘉定區	Distretto di Jiading
+金山區	Distretto di Jinshan
+泰國小姐	Miss Thailandia
+性染色體	Eterosoma
+算術基本定理	Teorema fondamentale dell'aritmetica
+存活期	Time to live
+稠密	Insieme denso
+崑曲	Kūnqǔ
+流亡政府	Governo in esilio
+古魯特島	Groote Eylandt
+中文數字	Sistema di numerazione cinese
+天主教輔仁大學	Università Cattolica Fu Jen
+Habanera	L'amour est un oiseau rebelle
+內田蝲蛄	Pacifastacus leniusculus
+龜船	Kobukson
+永樂大典	Enciclopedia Yongle
+諡	Nome postumo
+臺北盆地	Bacino di Taipei
+大東諸島	Isole Daitō
+魏陳思王	Cao Zhi
+恆春丙戌地震	Terremoto del Hengchun del 2006
+李時珍	Li Shizhen
+東沙	Isole Pratas
+王平	Wang Ping
+劉基	Liu Ji
+韓服	Hanbok
+李典	Li Dian
+張良	Zhang Liang
+衛滿	Wiman di Gojoseon
+吳景	Wu Jing
+朝香鳩彥	Yasuhiko Asaka
+劉伯承	Liu Bocheng
+泉蓋蘇文	Yeon Gaesomun
+李陵	Li Ling (generale)
+段祺瑞	Duan Qirui
+臺灣高速鐵路	Ferrovia ad alta velocità di Taiwan
+臺灣問題	Status politico di Taiwan
+劉禹錫	Liu Yü-hsi
+黃興	Huang Xing
+王翦	Wang Jian
+趙括	Zhao Kuo
+大正民主	Democrazia Taishō
+鄭燮	Zheng Xie
+趙奢	Zhao She
+世界新七大奇蹟	Nuove sette meraviglie del mondo
+國立政治大學	Università Nazionale Politica
+平鎮區	Pingzhen
+屏東市	Pingtung
+臺北捷運	Metropolitana di Taipei
+延邊州	Prefettura autonoma coreana di Yanbian
+林紓	Lin Shu
+桃園區	Taoyuan
+中國朝鮮族	Cinesi coreani
+日月潭	Lago Riyue
+色戒	Lussuria - Seduzione e tradimento
+日本雅樂	Gagaku
+清明	Festa di Qingming
+帝嚳	Imperatore Ku
+印地文維基大典	Wikipedia in hindi
+琴	Guqin
+範空間	Spazio normato
+有界	Insieme limitato
+乃蠻	Naiman
+魯	Lu (stato)
+倫敦東隅	East End di Londra
+申 (地支)	Scimmia (zodiaco cinese)
+歐羅巴	Europa (disambigua)
+性	Natura umana
+八元數	Ottetto (matematica)
+廉頗	Lian Po
+春秋	Annali delle primavere e degli autunni
+地級市	Città-prefettura
+泰北	Thailandia del Nord
+黃巾之亂	Rivolta dei Turbanti Gialli
+迴文數	Numero palindromo
+水墨畫	Sumi-e
+威爾斯親王島	Isola Principe di Galles (Australia)
+銀魂	Gintama
+沖繩縣	Prefettura di Okinawa
+餘熵	Entropia residua
+崇明縣	Contea di Chongming
+百度大典	Baidu Baike
+平衡球	Ballance
+基 (拓撲)	Base (topologia)
+帝堯	Yao (imperatore)
+二虎歌	Frère Jacques
+南越	Nanyue
+赤壁之戰	Battaglia di Chibi
+淮揚菜	Cucina Huaiyang
+超複數	Numero ipercomplesso
+奧海鎮	Ojai
+重文	Varianti dei caratteri cinesi
+天下通言	Lingua ausiliaria internazionale
+博者之謬	Fallacia dello scommettitore
+唐裝	Tangzhuang
+古雅典	Antica Atene
+漢傳佛教	Buddhismo cinese
+渭水	Fiume Wei
+阿巴諾湖	Lago Albano
+康熙字典	Dizionario Kangxi
+證明論	Teoria della dimostrazione
+石	Koku
+坂出市	Sakaide
+族 (數學)	Famiglia (matematica)
+李賀	Li He
+卯月紫苑	Shion Uzuki
+仡佬族	Gelao
+中華民國元首	Capi di Stato di Taiwan
+整除	Criteri di divisibilità
+光圈	Rapporto focale
+禮記	Libro dei riti
+內點	Parte interna
+萬葉假名	Man'yōgana
+姣童	Bishōnen
+元朗區	Distretto di Yuen Long
+尚書	Shujing
+雲隙光	Raggi crepuscolari
+康威數	Numero surreale
+喃字	Chữ nôm
+常用漢字	Jōyō kanji
+天命	Mandato del cielo
+周界	Frontiera (topologia)
+漢水	Fiume Han (Cina)
+高昌	Gaochang
+窮奇	Kamaitachi
+陸奧國	Mutsu (provincia)
+東方計劃	Touhou Project
+分液漏斗	Imbuto separatore
+晉國	Stato di Jin (Cina)
+魏	Wei (stato)
+單連通	Spazio semplicemente connesso
+吳	Wu (stato)
+藁人之謬	Argomento dell'uomo di paglia
+弗林德斯島 (塔斯曼尼亞)	Isola Flinders
+坂上田村麻呂	Sakanoue no Tamuramaro
+馬拉浦南	Malappuram
+數學科目分類	Classificazione delle ricerche matematiche
+階乘質數	Primo fattoriale
+伊尹	Yi Yin
+代數 (代數)	Algebra su campo
+羅勇市	Rayong
+儋州市	Danzhou
+維克多港	Victor Harbor
+江陰市	Jiangyin
+固始縣	Contea di Gushi
+馬達納帕利	Madanapalle
+武德	Wude
+卡羅萊納箱龜	Terrapene carolina
+凌遲	Lingchi
+美洲殖民	Storia degli Stati Uniti d'America (periodo coloniale)
+蒙古文字	Scrittura mongola
+燕	Yan (stato)
+日本新字體	Shinjitai
+陸皓東	Lu Haodong
+單于	Chanyu
+元維基	Wikimedia Meta-Wiki
+泉鏡花	Kyōka Izumi
+去衣馳騁	Streaking
+宋	Song (stato)
+燭線	Candlestick
+陳	Chen (stato)
+泰南	Thailandia del Sud
+大學	Grande Studio
+成漢	Cheng Han
+陸游	Lu You
+閣帕岸島	Ko Phangan
+積拓撲	Topologia prodotto
+夢蓮湖	Moraine Lake
+白虎	Tigre Bianca (costellazione cinese)
+祁連山	Qilian Shan
+尚圓王	Shō En
+西班牙小姐	Miss Spagna
+中國共產黨中央政治局	Ufficio politico del Partito Comunista Cinese
+武漢大學	Università di Wuhan
+亞米利加蝲蛄	Procambarus clarkii
+源義仲	Minamoto no Yoshinaka
+尚泰久王	Shō Taikyū
+藏學	Tibetologia
+少皞	Shaohao
+訓讀	Kun'yomi
+子思	Zi Si
+日本舊字體	Kyūjitai
+衛	Wei (stato del Periodo delle primavere e degli autunni)
+人民公社	Comune popolare
+雷峰塔	Pagoda Leifeng
+大日本史	Dainihonshi
+東巴文	Scrittura dongba
+譚嗣同	Tan Sitong
+蘇我馬子	Soga no Umako
+共形場論	Teoria di campo conforme
+霍光	Huo Guang
+零號元素	Neutronio
+九錫	Nove dignità
+維基大典:大使館	Wikipedia:Ambasciata
+周后稷	Houji
+四大文明古國	Culla della civiltà
+曾子	Zeng Zi
+郭嘉	Guo Jia
+分數	Numero razionale
+劍	Jian
+PSYCHO-PASS	Psycho-Pass
+龜甲萬	Kikkoman
+諸葛尚	Zhuge Shang
+古丁尼柏國家公園	Parco nazionale di Quttinirpaaq
+漢服	Hanfu
+乾燥氣候	Aridità
+陳友諒	Chen Youliang
+項梁	Xiang Liang
+野比大雄	Nobita Nobi
+戟	Ji (arma)
+拾穗	Le spigolatrici (Millet)
+西夏文	Scrittura Tangut
+首都圈新都市鐵道筑波快線	Tsukuba Express
+顧城	Gu Cheng
+動物莊園	La fattoria degli animali
+Category:德國史	Categoria:Germania
+Category:俄羅斯聯邦書	Categoria:Russia
+Category:大韓民國書	Categoria:Corea del Sud
+Category:羅馬帝國書	Categoria:Impero romano
+Category:鳥	Categoria:Uccelli
+Category:植物	Categoria:Piante
+Category:物理	Categoria:Fisica
+Category:自然科學	Categoria:Scienze naturali
+Category:化學	Categoria:Chimica
+Category:史部	Categoria:Storia
+Category:群	Categoria:Società
+Category:宗教	Categoria:Religione
+Category:運動	Categoria:Sport
+Category:經部	Categoria:Scienza
+Category:聯合國	Categoria:Nazioni Unite
+Category:地球	Categoria:Terra
+玉龍雪山	Monte Innevato del Drago Jade
+盈不足術	Metodo di falsa posizione in Fibonacci
+道路連通	Spazio connesso
+眼鏡娘	Meganekko
+韓	Han (stato)
+摩靈頓島	Isola Mornington
+桿秤	Stadera
+羅伯特·赫德	Robert Hart, I Baronetto
+桂宮宜仁親王	Principe Katsura
+古羅馬	Civiltà romana
+政令指定都市	Città designata per ordinanza governativa
+甲骨蟾	Toad (software)
+物部氏	Clan Mononobe
+克拉拉·奧斯瓦爾德	Clara Oswald
+聖火降魔錄	Fire Emblem
+不寐	Insonnia
+鉞	Masakari
+Category:釋義	Categoria:Pagine di disambiguazione
+Category:哲學	Categoria:Filosofia
+Category:心理	Categoria:Psicologia
+Category:佛教	Categoria:Buddhismo
+Category:基督教	Categoria:Cristianesimo
+Category:回教	Categoria:Islam
+Category:猶太教	Categoria:Ebraismo
+反氦	Anti-elio
+洋油貓弔詭	Paradosso del gatto imburrato
+嘉當矩陣	Matrice di Cartan
+華東師範大學	East China Normal University
+汝有二牯	Hai due mucche
+量子群	Gruppo quantico
+唐寅	Tang Yin
+馬維力卡拉	Mavelikkara
+平敦盛	Taira no Atsumori
+支謙	Zhī Qiān
+陸機	Lu Ji
+淡水河	Tamsui (fiume)
+兒島明子	Akiko Kojima
+鄰域	Intorno
+夏 (釋義)	XIA
+水筆仔	Kandelia obovata
+準基	Prebase
+Category:殘章	Categoria:Stub
+Category:維基分類	Categoria:Linee guida per le categorie
+Category:維基事	Categoria:Wikipedia (enciclopedia)
+Category:行星	Categoria:Pianeti
+Category:地質	Categoria:Geologia
+明治	Periodo Meiji
+Help:凡例	Aiuto:Tutorial/Modificare
+Template:太陽系	Template:Sistema solare
+春運	Chunyun
+門:子	Portale:Filosofia
+大阪	Osaka (disambigua)
+門:集	Portale:Arte
+Category:小行星帶天體	Categoria:Asteroidi della fascia principale
+Category:美國列傳	Categoria:Statunitensi
+Template:Tl	Template:Tl
+Template:Userbox	Template:Userbox
+Category:網頁瀏覽器	Categoria:Browser
+Category:律法	Categoria:Diritto
+Category:計學	Categoria:Economia
+維基大典:有秩選舉	Wikipedia:Amministratori/Candidati
+Category:醫學	Categoria:Medicina
+Category:政治	Categoria:Politica
+Category:教育	Categoria:Educazione
+Category:藝術	Categoria:Arte
+會計	Contabilità
+密思兒	Egitto
+國務院總理	Primo ministro del Consiglio di Stato della Repubblica Popolare Cinese
+Category:統計	Categoria:Statistica
+Template:Bot	Template:Bot
+加拿大	Canada
+Category:卓著	Categoria:Voci in vetrina
+維	Dimensione
+Category:遊戲	Categoria:Giochi
+門:經	Portale:Scienza e tecnica
+Category:幫助文檔	Categoria:Aiuto
+Template:Documentation	Template:Man
+維基大典:簿之權限	Wikipedia:Livelli di accesso degli utenti
+Category:半保護	Categoria:Pagine semiprotette
+Category:維基提案	Categoria:Sondaggi di Wikipedia
+維基大典:聯繫	Wikipedia:Contatti
+維基大典:市集	Portale:Comunità
+Category:維基社群	Categoria:Comunità
+Category:維基人	Categoria:Utenti per lingua
+Category:維基人 (地方)	Categoria:Utenti per provenienza territoriale
+維基大典:忽略規則	Wikipedia:Non ci sono regole fisse
+維基大典:五柱	Wikipedia:Cinque pilastri
+成在基	Sung Jae-gi
+企業	Business
+Template:Softredirect	Template:Soft redirect
+Template:刪	Template:Cancella subito
+Category:技術	Categoria:Tecnologia
+Category:語言	Categoria:Lingue
+Category:語法	Categoria:Grammatica
+Category:維基大典	Categoria:Wikipedia
+Category:諸語維基大典	Categoria:Edizioni di Wikipedia per lingua
+Category:未索之頁	Categoria:Pagine non indicizzate
+Category:帶壞檔之頁	Categoria:Pagine con link a file inesistenti
+門:卷首	Portale:Portali
+Template:Navbox	Template:Navbox
+Template:捷徑	Template:Abbreviazioni
+Category:時區	Categoria:Fusi orari
+Category:維基大典維護	Categoria:Lavoro sporco
+門:美國史	Portale:Stati Uniti d'America
+防火長城	Great Firewall
+Template:Navbar	Template:Tnavbar
+Template:Unicode	Template:Unicode
+Category:格式模板	Categoria:Template strumenti di layout
+Template:Clear	Template:Clear
+Template:Nowrap	Template:Tutto attaccato
+維基大典:當有之文	Wikipedia:Lista delle voci che tutte le Wikipedie dovrebbero avere
+Category:數	Categoria:Numeri
+Category:書籍	Categoria:Libro
+Template:Wikisource	Template:Wikisource
+Template:Babel	Template:Babel
+Template:共享	Template:Commons
+Template:Link GA	Template:Link VdQ
+Template:Reflist	Template:References
+維基大典:掃興警示	Wikipedia:Trama
+Template:芻文	Template:S
+Template:See also	Template:Vedi anche
+Template:User de	Template:Utente de
+Template:User de-1	Template:Utente de-1
+Template:User es-2	Template:Utente es
+Template:User en-3	Template:Utente en-3
+Template:User en-1	Template:Utente en-1
+Template:User en-2	Template:Utente en-2
+Template:User en-4	Template:Utente en-4
+Template:User en	Template:Utente en
+Template:User de-2	Template:Utente de-2
+Template:User es-1	Template:Utente es-1
+Template:User fr-1	Template:Utente fr-1
+Category:香港大專院校	Categoria:Università a Hong Kong
+Template:User he-2	Template:Utente he-2
+Template:User id-3	Template:Utente id-3
+Template:User sk	Template:Utente sk
+Template:User fr-2	Template:Utente fr-2
+Template:User ja	Template:Utente ja
+Template:User ja-1	Template:Utente ja-1
+Template:User fr	Template:Utente fr
+Category:智利	Categoria:Cile
+Category:廿一世紀	Categoria:XXI secolo
+Category:維護模板	Categoria:Template di servizio
+Category:User uk	Categoria:Utenti uk
+Category:User uk-N	Categoria:Utenti uk-M
+Template:Esoteric	Template:Template complesso
+Template:Mod	Template:Mod
+Template:User uk	Template:Utente uk
+Category:百科全書	Categoria:Enciclopedie
+Template:歡迎	Template:Benvenuto
+Category:User ms	Categoria:Utenti ms
+Template:Ref	Template:Ref
+Category:User fr-1	Categoria:Utenti fr-1
+Template:Wikiquote	Template:Wikiquote
+Template:Image label	Template:Etichetta immagine
+Template:Ja	Template:Ja
+Template:維基諸策	Template:Wikimedia
+Template:大修	Template:WIP
+Template:Es	Template:Es
+Template:Ambox	Template:Avviso
+Template:Hide in print	Template:Non stampare
+Category:美國史	Categoria:Storia degli Stati Uniti d'America
+Template:國	Template:Stato
+Template:Infobox software	Template:Software
+Template:Wide image	Template:Immagine grande
+Template:Military Conflict	Template:Infobox conflitto
+Template:Audio	Template:Link audio
+Template:電玩訊欄	Template:Gamebox
+Template:卓著	Template:Vetrina
+Category:User en-4	Categoria:Utenti en-4
+Category:User en	Categoria:Utenti en
+Category:User zh	Categoria:Utenti zh
+Category:User zh-N	Categoria:Utenti zh-M
+Category:User en-2	Categoria:Utenti en-2
+Category:曲	Categoria:Composizioni musicali
+Template:Infobox	Template:Infobox
+Template:User zh	Template:Utente zh
+Template:Legend	Template:Legenda
+Template:引網	Template:Cita web
+Category:食	Categoria:Alimentazione
+Template:未已之作	Template:In futuro
+Template:Pp-template	Template:Pp-template
+Category:史書	Categoria:Saggi storici
+Template:MongolUnicode	Template:MongolUnicode
+Category:農業	Categoria:Agricoltura
+Category:User ms-N	Categoria:Utenti ms-M
+Template:User ru	Template:Utente ru
+Category:二十世紀	Categoria:XX secolo
+Template:IPA	Template:IPA
+Template:釋義二	Template:Nota disambigua
+Category:東羅馬史	Categoria:Impero bizantino
+Template:Navbox subgroup	Template:Navbox subgroup
+Template:Archive box	Template:Archivio
+Template:Copyvio	Template:ViolazioneCopyright
+Template:元素週期表	Template:Tavola periodica
+Template:天下觀	Template:L
+Template:Image label end	Template:Etichetta immagine fine
+Template:澳大利亞地方	Template:Australia
+Template:Purge	Template:Purga
+Template:土星之衛星	Template:Satelliti di Saturno
+Template:中華人民共和國地方	Template:Province della Cina
+Template:齋	Template:Pagina utente
+Template:User	Template:Utente
+非標準實數	Numero iperreale
+Category:公司	Categoria:Aziende
+Template:User fr-3	Template:Utente fr-3
+Template:Move	Template:Spostare
+Template:Th	Template:Th
+Category:日本地方志	Categoria:Suddivisioni del Giappone
+Category:電腦	Categoria:Computer
+Category:器	Categoria:Attrezzi
+Template:非也	Template:Contrario
+Template:SUL Box	Template:Utente SUL
+Category:複分析	Categoria:Analisi complessa
+Category:User ja-N	Categoria:Utenti ja-M
+Category:茶	Categoria:Tè
+Template:物質狀態	Template:Stati della materia
+Template:釋義	Template:Disambigua
+Category:攝影	Categoria:Fotografia
+Category:天皇本紀	Categoria:Imperatori del Giappone
+Category:朝鮮史	Categoria:Storia della Corea
+Template:User nan	Template:Utente zh-min-nan
+Template:User nan-1	Template:Utente zh-min-nan-1
+Category:佳品	Categoria:Vetrina
+Category:廣州	Categoria:Canton
+Category:建築	Categoria:Architettura
+Category:生物	Categoria:Forme di vita
+Template:De	Template:De
+Template:Infobox person	Template:Bio
+Category:鐵路	Categoria:Ferrovie
+Template:洲	Template:Continenti della Terra
+Template:InterWiki	Template:InterWiki
+大韓民國大統領	Presidenti della Corea del Sud
+Category:金蘭之模	Categoria:Template Wikimedia
+Template:User bg	Template:Utente bg
+Template:User la-1	Template:Utente la-1
+Template:歐洲	Template:Europa
+Category:User yue	Categoria:Utenti yue
+Category:User sk	Categoria:Utenti sk
+Category:User fr	Categoria:Utenti fr
+Category:User id	Categoria:Utenti id
+Category:User ja	Categoria:Utenti ja
+Category:User la	Categoria:Utenti la
+Category:User th	Categoria:Utenti th
+Category:User fr-3	Categoria:Utenti fr-3
+Category:User fr-2	Categoria:Utenti fr-2
+Category:User ja-2	Categoria:Utenti ja-2
+Category:User ko-N	Categoria:Utenti ko-M
+Category:User fr-N	Categoria:Utenti fr-M
+Category:User ru-N	Categoria:Utenti ru-M
+Category:娛樂	Categoria:Intrattenimento
+Category:文字	Categoria:Sistemi di scrittura
+Category:圖像模板	Categoria:Template di avviso immagini
+Category:User bg	Categoria:Utenti bg
+Category:輕小說	Categoria:Light novel
+Category:道教	Categoria:Taoismo
+Category:User bg-N	Categoria:Utenti bg-M
+Category:User sk-N	Categoria:Utenti sk-M
+Category:User de	Categoria:Utenti de
+Category:User de-2	Categoria:Utenti de-2
+Category:User de-N	Categoria:Utenti de-M
+Category:User en-3	Categoria:Utenti en-3
+Category:User en-N	Categoria:Utenti en-M
+Category:User es	Categoria:Utenti es
+Category:User es-1	Categoria:Utenti es-1
+Category:User id-3	Categoria:Utenti id-3
+Template:User ryu-1	Template:Utente ryu-1
+Category:User ryu	Categoria:Utenti ryu
+Category:韓語	Categoria:Lingua coreana
+Category:幾何	Categoria:Geometria
+Category:User ja-1	Categoria:Utenti ja-1
+Category:User ko	Categoria:Utenti ko
+Category:User ko-1	Categoria:Utenti ko-1
+Category:User ko-2	Categoria:Utenti ko-2
+Category:User ksh	Categoria:Utenti ksh
+Category:User ksh-N	Categoria:Utenti ksh-M
+Category:User la-3	Categoria:Utenti la-3
+Category:斯巴達書	Categoria:Sparta
+Category:待譯之文	Categoria:Tradurre
+Category:User ru-1	Categoria:Utenti ru-1
+維基大典:巴别	Wikipedia:Babel
+Template:木星之衛星	Template:Satelliti di Giove
+Category:化合物	Categoria:Composti chimici
+Category:大洋洲史	Categoria:Storia dell'Oceania
+Category:User ms-1	Categoria:Utenti ms-1
+長安	Chang'an
+Category:以嗜好類之維基人	Wikipedia:Wikipediani/Interesse
+Category:廣東省	Categoria:Guangdong
+Category:四川省	Categoria:Sichuan
+Category:遼寧省	Categoria:Liaoning
+Category:陝西省	Categoria:Shaanxi
+Category:安徽省	Categoria:Anhui
+Category:江西省	Categoria:Jiangxi
+Category:江蘇省	Categoria:Jiangsu
+Category:吉林省	Categoria:Jilin
+Category:福建省	Categoria:Fujian
+Category:海南省	Categoria:Hainan
+Category:河北省	Categoria:Hebei
+Category:黑龍江省	Categoria:Heilongjiang
+Category:湖北省	Categoria:Hubei
+Category:地理	Categoria:Geografia fisica
+Category:水	Categoria:Acqua
+Category:美洲史	Categoria:Storia delle Americhe
+Template:提案	Template:Wikibozza
+Category:User nan	Categoria:Utenti zh-min-nan
+Category:User nan-1	Categoria:Utenti zh-min-nan-1
+Category:User nan-N	Categoria:Utenti zh-min-nan-M
+Category:社會科學	Categoria:Scienze sociali
+Template:Zh	Template:Zh
+Template:User ja-2	Template:Utente ja-2
+Template:User ko-1	Template:Utente ko-1
+Template:User ru-2	Template:Utente ru-2
+Template:天王星之衛星	Template:Satelliti di Urano
+Category:User ru	Categoria:Utenti ru
+Category:User ru-2	Categoria:Utenti ru-2
+Category:User ryu-1	Categoria:Utenti ryu-1
+Category:User th-1	Categoria:Utenti th-1
+Category:User yue-1	Categoria:Utenti zh-yue-1
+Category:User yue-N	Categoria:Utenti yue-M
+Template:En	Template:En
+Category:山東省	Categoria:Shandong
+Category:雲南省	Categoria:Yunnan
+Category:浙江省	Categoria:Zhejiang
+Category:青海省	Categoria:Qinghai
+Category:河南省	Categoria:Henan
+Category:湖南省	Categoria:Hunan
+Template:Lang	Template:Lang
+Category:日本文學	Categoria:Letteratura giapponese
+Category:群學	Categoria:Sociologia
+Template:2images	Template:Doppia immagine
+Category:三世紀	Categoria:III secolo
+Category:十七世紀	Categoria:XVII secolo
+Category:七世紀	Categoria:VII secolo
+Category:東羅馬本紀	Categoria:Imperatori bizantini
+Category:門	Categoria:Portali
+Template:Ko	Template:Ko
+Template:粒子	Template:Particelle
+Template:Main	Template:Torna a
+Category:風	Categoria:Venti
+Template:PD-self	Template:PD-Utente
+Template:Chart	Template:Chart
+Category:User zh-0	Categoria:Utenti zh-0
+Category:羅馬共和書	Categoria:Repubblica romana
+Category:希臘史	Categoria:Storia della Grecia
+Category:澳大利亞史	Categoria:Storia dell'Australia
+Category:加拿大史	Categoria:Storia del Canada
+Template:User ko	Template:Utente ko
+Template:User ru-1	Template:Utente ru-1
+Template:User zh-1	Template:Utente zh-1
+Template:User zh-2	Template:Utente zh-2
+Template:User zh-3	Template:Utente zh-3
+Category:中華民國行政區	Categoria:Suddivisioni amministrative di Taiwan
+Category:俄羅斯史	Categoria:Storia della Russia
+Category:中華自治區	Categoria:Regioni autonome della Cina
+Category:羅馬皇帝本紀	Categoria:Imperatori romani
+維基大典:維基聊齋	Wikipedia:Voci insolite
+Category:戲劇	Categoria:Teatro
+Template:中立	Template:Neutrale
+Category:User zh-1	Categoria:Utenti zh-1
+Category:User zh-3	Categoria:Utenti zh-3
+Category:User zh-2	Categoria:Utenti zh-2
+Category:刑法	Categoria:Diritto penale
+Category:酸	Categoria:Acidi
+Category:算法	Categoria:Algoritmi
+Category:一世紀	Categoria:I secolo
+Category:十四世紀	Categoria:XIV secolo
+Category:二世紀	Categoria:II secolo
+Category:四世紀	Categoria:IV secolo
+Category:十八世紀	Categoria:XVIII secolo
+Category:八世紀	Categoria:VIII secolo
+Category:明本紀	Categoria:Imperatori della dinastia Ming
+Category:整數	Categoria:Numeri interi
+Category:香港列傳	Categoria:Hongkonghesi
+Category:印歐語系	Categoria:Lingue indoeuropee
+Category:量子場論	Categoria:Teoria quantistica dei campi
+Category:化學元素	Categoria:Elementi chimici
+Category:日本小說	Categoria:Romanzi giapponesi
+Category:姓氏	Categoria:Cognomi
+Category:朝鮮民主主義人民共和國書	Categoria:Corea del Nord
+Category:英國史	Categoria:Storia del Regno Unito
+Category:中華史	Categoria:Storia della Cina
+Category:臺灣省教育	Categoria:Istruzione a Taiwan
+Category:新聞學	Categoria:Giornalismo
+Category:前二世紀	Categoria:II secolo a.C.
+Category:前三世紀	Categoria:III secolo a.C.
+Category:越南地理志	Categoria:Geografia del Vietnam
+Category:蘇聯書	Categoria:Unione Sovietica
+Category:古羅馬史	Categoria:Antica Roma
+Category:滿洲國志	Categoria:Manciukuo
+Category:前一世紀	Categoria:I secolo a.C.
+Category:反物質	Categoria:Antimateria
+Category:美國總統世家	Categoria:Presidenti degli Stati Uniti d'America
+Category:歐洲史	Categoria:Storia dell'Europa
+Category:魚	Categoria:Pesci
+Category:北京市	Categoria:Pechino
+Category:果	Categoria:Frutta
+Category:天候學	Categoria:Climatologia
+Category:亞洲地理志	Categoria:Geografia dell'Asia
+Category:人類學	Categoria:Antropologia
+Category:作業系統	Categoria:Sistemi operativi
+Category:天演	Categoria:Evoluzione
+Category:動物	Categoria:Animali
+Category:俄羅斯加盟共和國	Categoria:Repubbliche della Russia
+Category:涼宮春日	Categoria:La malinconia di Haruhi Suzumiya
+Category:兵器	Categoria:Armi
+Category:紀年	Categoria:Cronologia
+Category:弦論	Categoria:Teoria delle stringhe
+Category:數學分析	Categoria:Analisi matematica
+Category:樂器	Categoria:Strumenti musicali
+Category:漢字	Categoria:Scrittura cinese
+Category:氣象	Categoria:Meteorologia
+Category:實驗儀器	Categoria:Strumenti di laboratorio
+Category:香港	Categoria:Hong Kong
+Category:PS2遊戲	Categoria:Videogiochi per PlayStation 2
+Category:鹽	Categoria:Sali
+Category:廣西壯族自治區	Categoria:Guangxi
+Category:衣	Categoria:Abbigliamento
+Category:上海市	Categoria:Shanghai
+Category:龜	Categoria:Cheloni
+Category:中華節日	Categoria:Festività nazionali cinesi
+Category:節日	Categoria:Festival
+Category:臺北市	Categoria:Taipei
+Category:書體	Categoria:Caratteri
+Category:古希臘史	Categoria:Antica Grecia
+Category:交通	Categoria:Trasporti
+Category:刑	Categoria:Pene
+Category:玩	Categoria:Giocattoli
+Category:數趣	Categoria:Matematica ricreativa
+Category:漢本紀	Categoria:Imperatori della dinastia Han
+Category:群論	Categoria:Teoria dei gruppi
+Category:數論	Categoria:Teoria dei numeri
+Category:拓撲學	Categoria:Topologia
+Category:疇人	Categoria:Matematici
+Category:雕塑	Categoria:Scultura
+Category:大韓民國大統領世家	Categoria:Presidenti della Corea del Sud
+Category:漢語	Categoria:Lingua cinese
+Category:澳門	Categoria:Macao
+Category:日本文	Categoria:Scrittura giapponese
+Category:日本漢字	Categoria:Kanji
+Category:塔	Categoria:Torri
+便利店	Convenience store
+Category:衛星	Categoria:Satelliti naturali
+Category:數理物理	Categoria:Fisica matematica
+Category:數學史	Categoria:Storia della matematica
+Category:目錄學	Categoria:Bibliografia
+Category:日本世家	Categoria:Clan giapponesi
+Template:依余之見	Template:Commento
+中國 (釋義)	China
+門:數學	Portale:Matematica
+Category:北韓本紀	Categoria:Capi di Stato nordcoreani
+Category:武漢市	Categoria:Wuhan
+Template:User nan-2	Template:Utente zh-min-nan-2
+Category:User lzh-2	Categoria:Utenti lzh-2
+Template:User lzh-2	Template:Utente lzh-2
+Category:代數	Categoria:Algebra
+Category:雅典列傳	Categoria:Ateniesi
+Category:雅典書	Categoria:Antica Atene
+Category:鹼	Categoria:Basi
+Category:橋	Categoria:Ponti
+Category:矮行星	Categoria:Pianeti nani
+Category:地震	Categoria:Terremoti
+Category:東正教會	Categoria:Cristianesimo ortodosso
+Category:電極	Categoria:Elettrodo
+Category:版權	Categoria:Diritto d'autore
+Category:世界語	Categoria:Esperanto
+Category:語法格	Categoria:Casi
+Category:杭州市	Categoria:Hangzhou
+Category:內蒙古自治區	Categoria:Mongolia Interna
+Category:日本年號	Categoria:Ere giapponesi
+Category:西遊記	Categoria:Il viaggio in Occidente
+Category:蘇州市	Categoria:Suzhou
+Category:律史	Categoria:Storia del diritto
+門:化學	Portale:Chimica
+Category:軍事	Categoria:Scienze militari
+Category:泰國報章	Categoria:Quotidiani thailandesi
+Category:有機化學	Categoria:Chimica organica
+Category:船舶	Categoria:Navi
+Category:衡器	Categoria:Strumenti di misura
+Category:兵書	Categoria:Opere letterarie di guerra
+Category:電話	Categoria:Telefonia
+Category:音節文字	Categoria:Sillabari
+Category:臺灣省大專院校	Categoria:Università a Taiwan
+Category:應用科學	Categoria:Tecnologia e scienze applicate
+Category:輿圖學	Categoria:Cartografia
+Category:西安市	Categoria:Xi'an
+Category:行星環	Categoria:Anelli planetari
+Template:Image label begin	Template:Etichetta immagine inizio
+Category:儒家	Categoria:Confucianesimo
+Category:民法	Categoria:Diritto civile
+Category:李代數	Categoria:Algebre di Lie
+Category:寧波市	Categoria:Ningbo
+Category:User lzh	Categoria:Utenti lzh
+Category:在修之文	Categoria:WIP
+Category:方位	Categoria:Punti cardinali
+Category:User en-1	Categoria:Utenti en-1
+Category:User de-1	Categoria:Utenti de-1
+Category:語言標示模	Categoria:Template lingue dei collegamenti esterni
+Category:非洲史	Categoria:Storia dell'Africa
+Category:羅馬共和本紀	Categoria:Consoli repubblicani romani
+Category:國憲	Categoria:Diritto costituzionale
+埃博拉	Virus Ebola
+Template:文白相雜	Template:T
+Template:PD-author	Template:PD-Autore
+Template:User nan-3	Template:Utente zh-min-nan-3
+Template:FZW-Intro	Template:Bar3
+Help:校對	Wikipedia:Verifica delle revisioni
+雨冰	Pioggia congelantesi
+Template:海王星之衛星	Template:Satelliti di Nettuno
+Template:湖北行政區劃	Template:Prefetture Hubei
+潘多拉病毒	Pandoravirus
+Template:User mathematician-2	Utente:Wuzihong/Template:User mathematician-2
+麗水市	Lishui
+如釋冰	Let It Go (Disney)
+Module:Arguments	Modulo:Arguments
+Special:近易	Speciale:UltimeModifiche
+Module:String	Modulo:String
+Module:Navbox	Modulo:Navbox
+Module:Infobox	Modulo:Infobox
+甲午昆明斫殺	Attentato alla stazione ferroviaria di Kunming
+雨傘運動	Proteste in Hong Kong del 2014
+代言 (動漫)	Mascotte

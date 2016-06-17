@@ -1,0 +1,470 @@
+ᐊᑉᕆᖄ	Africa
+ᓃᑉᐊᓐ	Giappone
+ᐊᒥᐊᓕᑲ ᓂᒋᖅ	America Meridionale
+ᓄᕐᒋ/nurgi	Norvegia
+ᓯᐸᐃᓐ	Spagna
+ᐊᒥᐊᓕᑲ	Stati Uniti d'America
+ᓄᓇ	Terra
+ᐄᒃ	Homo sapiens
+ᔫᕐᒋ ᕚᓯᖕᑐᓐ	George Washington
+ᔅᕗᕆᑭ	Svezia
+ᐳᓚᓐᑦ	Polonia
+ᓕᐋᑐᕙ	Lituania
+Italy	Italia
+ᐃᐆᕌᑉ	Europa
+ᐊᓰᐊ	Asia
+ᐊᒥᐊᕆᑲ ᑐᓄᕕᐊᖅ	America del Nord
+ᐅᐃᑭᐱᑎᐊ	Wikipedia
+ᐅᓱᒃ	Pene
+ᐱᕐᓖᓐ	Berlino
+ᖃᕋᓴᐅᔭᖅ	Computer
+ᖃᕆᓴᐅᔭᒃᑯᑦ ᑎᑎᕋᖅᓯᒪᔪᑦ	Internet
+ᐸᕌᒃ ᐅᐹᒪ	Barack Obama
+ᑭᒻᒥᓇᐅᔭᖅ	Mela
+ᒎᒐᓪ	Google Inc.
+ᒦᒃᓰᖂ	Messico
+ᑳᓖᐴᕐᓃᐊ	California
+ᒧᓇᑖᒃ	Lunedì
+ᔭᓐᓄᐊᓕ	Gennaio
+ᕕᐳᐊᕆ	Febbraio
+ᓇᑦᓯᐊᓕᐅᑦ	Marzo
+ᐊᐃᐳᕆᓪ	Aprile
+ᒪᐃ	Maggio
+ᔪᓂ	Giugno
+ᔪᓚᐃ	Luglio
+ᐊᐅᒍᔅ	Agosto
+ᓯᑎᒻᐳᕆ	Settembre
+ᐅᒃᑐᐳᕆ	Ottobre
+ᓄᕕᒻᐳᕆ	Novembre
+ᑎᓯᒻᐳᕆ	Dicembre
+ᐃᓯᐱᕋᓐᑐ	Lingua esperanto
+ᕿᖕᒥᖅ	Canis lupus familiaris
+China	Cina
+ᐅᐃᒍᐃᕐᒥᐅᖅ	Lingua francese
+ᐃᖃᓗᒃ	Pesce
+ᐊᖓᔮᕐᓇᖅᑐᖅ	Bevanda alcolica
+ᐅᓛᓴ	Russia
+ᐊᕐᕕᒃ	Cetacea
+ᐅᐃᑭ	Wiki
+ᐋᓛᐹᒫ	Alabama
+ᑯᐸᐃᒃ	Québec (provincia)
+ᔨᒥ ᐆᐃᓪᔅ	Jimmy Wales
+ᔮᒪᓂ	Germania
+ᑎᖕᒥᓲᖅ	Aeroplano
+ᐊᑭᕋᖅᑑᑎᔪᑦ	Guerra
+ᔅᑏᕕᓐ ᐦᐊᕐᐱᕐ	Stephen Harper
+ᕕᓪᓂᐅᔅ/vilnius	Vilnius
+ᐊᑯᑭᑦᑐᑦ	Groenlandia
+ᖂᐹ/quupaa	Cuba
+ᐄᓅᓯᐊ	Indonesia
+ᓯᓕ	Cile
+ᐱᐅᓕᑦᓯᔨ	Gesù
+ᒥᕐᑰᕆ	Mercurio (astronomia)
+ᖃᐅᔨᓴᕐᓂᖅ ᑎᑎᖅᑲᑎᒍᑦ ᖃᓄᐃᓕᐅᖅᑕᐅᖃᑦᑕᕐᓂᑯᓂᒃ	Storia
+ᕖᓄᔅ	Venere (astronomia)
+ᑕᑯᑦᓱᒍᓱᑉᐳᖅ	Amore
+ᐅᕌᓄᔅ	Urano (astronomia)
+ᓂᑉᑑᓐ	Nettuno (astronomia)
+ᓯᓚᓯᐅᕐᓂᖅ	Astronomia
+ᑉᓘᑐ	Plutone (astronomia)
+ᒧᕆᐊᓪ	Montréal
+ᑕᖅᑭᖅ	Luna
+ᐊᔅᑦᕌᓕᐊ	Australia
+ᐆᒫᑦᓱᓕᕆᓂᖅ/umatsuliriniq	Fisica
+ᐱᕉ	Perù
+ᐆᒪᔅᓱᓯᖃᕐᑐᓕᕆᓂᖅ	Biologia
+ᐊᖏᐋᕐᓂᖅ	Feci
+ᐃᑎᖅ	Ano
+ᐱᕈᖅᑐᓴᔭᖅ/piruqtusajaq	Fiore
+ᓄᓇᓖᑦ	Città
+ᐅᓪᓗᕆᐊᖅ	Stella
+ᓯᕿᓂᖅ	Sole
+ᕿᓚᒃ	Cielo
+ᐅᓯᐋᓂᐊ	Oceania
+ᕿᒥᕐᕈᐊᑦ/qimirruat	Libro
+ᖃᐅ	Giorno
+ᐅᑭᐅᖅ	Anno
+ᑕᑯᑦᓱᒍᓱᑉᐳᖅ ᐊᑯᓐᓂᖓᓐᓂ ᒪᒡᒎᒃ ᐊᖑᑦ	Gay
+ᒨᔅᑯ	Mosca (Russia)
+ᐃᓐᑎᐊ	India
+ᓂᕐᔪᑦ	Animalia
+ᐱᕈᖅᑐᖅ	Plantæ
+ᒫᓵᓲᓰᑦᔅ	Massachusetts
+ᐊ'ᐊ'ᐋᒃ	Gallus gallus domesticus
+ᐃᕉᒃ	Iraq
+ᐊᓛᓯᑲ	Alaska
+ᑉᓘᕇᑖ	Florida
+ᐋᕇᓲᓈ	Arizona
+ᐆᕇᕇᓐ	Oregon
+ᐸᑭᔅᑕᓐ	Pakistan
+ᔪᓚᐃᐅᔅ	Gaio Giulio Cesare
+ᓄᓇᓕᕆᓂᖅ	Geologia
+ᓄᓇᐅᔪᖅ	Geografia
+ᐄᓚᓄᐃᔅ	Illinois
+ᑖᑰᑖ ᑐᓄᕕᐊᖅ	Dakota del Nord
+ᑖᑰᑖ ᓂᒋᖅ	Dakota del Sud
+ᐄᑖᓲ	Idaho
+ᓂᕚᑖ	Nevada
+ᑰᓘᕌᑑ	Colorado
+ᓰᖄᑯ	Chicago
+ᓯᐸᐃᓂᑎᑐᑦ	Lingua spagnola
+ᐋᓯᕙᖅ	Araneae
+ᒪᒪᖅᑐᖅ, ᓰᕐᓇᖅᑐᖅ ᐱᕈᖅᑐᖅ	Frutto
+ᓂᐅ ᐃᐅᕐᒃ	New York (Stato)
+ᐅᓵᐃᐅ	Ohio
+ᐃᐊᐃᑖᓯᓐ/iaitaatsin	Uetersen
+ᐊᐅᒍᔅᒻᐅᔅ	Augusto
+ᐃᓐᑎᐋᓈ	Indiana
+ᑖᒃᓵᔅ	Texas
+ᑳᕉᓖᓈ ᑐᓄᕕᐊᖅ	Carolina del Nord
+ᑳᕉᓖᓈ ᓂᒋᖅ	Carolina del Sud
+ᑑᑭᐅ	Tokyo
+ᒦᓰᓰᐲ (ᐃᓗᐊᓂ)	Mississippi
+ᒦᓃᓲᑖ	Minnesota
+ᐃᐅᕙ	Iowa
+ᐦᐃᓐᑏ	Lingua hindi
+ᓗᐄᓰᐋᓈ	Louisiana
+ᐆᑳᓛᓲᒫ	Oklahoma
+ᔅᑑᒃᓱᓪᒻ/stuukhulm	Stoccolma
+ᖃᓪᓗᓈᑎᑐᑦ	Lingua inglese
+ᐋᓐᑎᐅᕆᔪ	Ontario
+ᐊᑐᕚ/atavaa	Ottawa
+ᓄᓇᑦᓯᐊᖅ	Territori del Nord-Ovest
+ᓄᓇᕗᑦ	Nunavut
+2007	2007
+ᐃᖃᓗᐃᑦ	Iqaluit
+1999	1999
+ᓂᕿ	Alimento
+ᖃᓂᖅ ᖁᐊᔪᖅ	Sesso orale
+ᒪᓪᒧ/malmu	Malmö
+ᐊᔪᒃᑕᖅ	Calcio (sport)
+ᖂᖄ ᑰᓛ	Coca-Cola
+ᒫᑭᓐᓯ ᑰᒃ	Mackenzie
+ᓯᕿᓃᖅᓯᖅᑐᖅ	Eclissi solare
+ᐃᓕᓐᓂᐊᕈᑎᒃᓴᓕᐅᕐᕕᒃ	Scuola
+ᑎᒥ	Anatomia umana
+ᑰᒃ	Fiume
+Kunpusiusi	Confucio
+ᑮᓱᐊ	Lingue quechua
+ᐊᒥᖅ	Pagina principale
+ᐊᓇᐅᓕᒐᖅ	Baseball
+ᐃᓄᒃᑕᐅᑦ	Autobus
+ᐅᓪᓕᐸᑲ	Copriletto
+ᓴᓂᓕᐊᖅᑐᖅ	Rapporto sessuale
+ᐅᑦᓱᒃ	Vagina
+ᐃᓱᒪᓕᐅᕐᓂᖅ	Filosofia
+ᐃᓅᖃᑎᒌᑦ ᐃᓕᖅᑯᓯᖃᑎᒌᒃᑐᑦ	Nazione
+ᑲᐅ ᓂᕿ ᑭᒻᒥᐊᒐᖅ ᕿᖂᔭᖅ	Hamburger
+ᑯᓂᑉᐳᖅ	Bacio
+ᕿᖓᖅ	Naso
+ᐃᔨ	Occhio
+ᑭᒃᑐᕆᐊᖅ	Culicidae
+ᐱᓱᒃᑎ	Mammalia
+ᐊᕿᑦᑐᖅ ᖃᕆᑕᐅᔭᐅᑉ ᑎᑎᕋᕐᕕᖓ	Software
+ᒥᑎᖅ	Anatidae
+ᐊᐳᑦ	Neve
+ᐃᖏᕐᕋᔾᔪᑎᑦ	Trasporto
+ᕝᓛᑎᒥᕐ ᐴᑎᓐ	Vladimir Putin
+ᕿᖂᔭᖅ	Pane
+ᔅᕙᐦᐃᓕᑐᑦ	Lingua swahili
+ᒥᓂ	Pioggia
+ᓴᔪᑉᐱᓛᕗᖅ	Terremoto
+ᓄᕗᔭᖅ	Nuvola
+ᐅᓚᔪᔭᖅ	Tromba d'aria
+ᐅᖄᓯᓕᕆᓂᖅ	Linguistica
+ᐃᓕᓴᐅᑎᒃ	Alfabeto latino
+ᑎᕆᒐᓂᐊᖅ	Volpe
+ᐃᓕᓐᓂᐊᖅᑐᓕᕆᓂᖅ	Educazione
+ᐊᖑᑎ	Uomo (genere)
+ᐃᓄᐃᑎᑦᑐᖅ	Aborto
+ᐃᒻᒧᒃ	Latte
+ᔅᕗᓐᔅᑭᑐᑦ	Lingua svedese
+ᐃᕕᐊᖏᖅ	Mammella
+ᑯᕆᐊᑎᑐᑦ	Lingua coreana
+ᐃᒡᔪᒃ	Testicolo
+ᐅᑲᓕᐊᑦᓯᐊᖅ	Coniglio
+ᐃᒫᓗᒃ	Oceano
+ᖃᐸᒃ	Sperma
+Ronald Reagan	Ronald Reagan
+ᓴᓇᕐᕈᑏᑦ ᐊᑑᑎᖏᑕᓗ ᖃᐅᔨᒪᔭᐅᓂᖓ	Tecnologia
+ᑎᑎᕋᐅᔭᖅ	Ingegneria
+ᐋᔩᖃᑎᒋᖏᖅ	Comunicazione
+ᑖᒃᑎ	Medicina
+ᕿᓚᐅᑦ	Tamburo
+ᐱᕈᕐᓰᓂᖅ ᓂᐅᕐᕈᑎᒃᓴᓕᐊᕆᓪᓗᒋᑦ	Agricoltura
+ᐊᐅᑦᓯᓇᖅᑐᖅ	Abbigliamento
+ᒧᒥᖅᑐᖅ	Danza
+ᓯᕗᓕᐅᖅᐹ ᐊᓪᓚᒍᑎ ᖃᐅᔨᓴᕐᓂᖅ ᑎᑎᖅᑲᑎᒍᑦ ᖃᓄᐃᓕᐅᖅᑕᐅᖃᑦᑕᕐᓂᑯᓂᒃ/sivuliuqpaa allaguti qaujisarniq titiqqatigut qanuiliuqtauqattarnikunik	Preistoria
+ᐊᑎᖅᐳᖅ	Ursidae
+ᑭᒍᑎᓕᕆᔨ	Odontoiatria
+ᑐᓵᓐᖏᓐᓂᖅ	Sordità
+ᐊᓐᓂᐊᒥ ᖃᐅᔨᓴᕐᓂᖅ	Farmaco
+ᐃᒡᓗᕐᔪᐊᑦ ᐋᖅᑭᒃᓯᒪᓂᖏᑦ	Architettura
+ᑭᒍᑎᙳᐊᑦ ᓂᐱᑎᓯᒪᔪᑦ	Ponte
+ᑭᓯᑦᓯᓯᖕᖑᕐᓗᒋᑦ ᐹᓯᔅᓱᑎᔅᓴᑦ	Statistica
+ᓴᕕᒐᐅᔭᖅ/ikumautit	Elettricità
+ᐊᕋᕕ	Lingua araba
+ᑲᓇᑕᒥ ᐊᖓᔪᖅᑳᕐᔪᐊᖅ	Primo ministro
+ᓴᐃᒻᒪᑎ	Bandiera
+ᐊᓪᓛᑦ	Matita
+ᐊᓴᐱ	HIV
+ᐅᐃᑭᐱᑎᐊ:ᐱᐅᔪᖅ ᒪᑉᐱᑕᖅ	Wikipedia:Vetrina
+Template:Link FA	Template:Link V
+ᐅᐃᑭᐱᑎᐊ:ᐹᕐᓂᖅ	Wikipedia:Bar
+ᐋᓐᓂᐊᕐᕕᒃ	Ospedale
+ᓯᑮᑐ	Motoslitta
+ᐃᒥᐊᓗᒃᑕᐃᓕᒪᓂᕐᒧᑦ ᐃᑲᔪᖃᑎᒌᒡᕕᒃ	Alcolisti Anonimi
+ᐊᒪᕈᒃ	Canis lupus
+ᐊᕿᒃᑭᖅ	Lagopus leucura
+ᑐᓴᐅᒪᖃᑦᑕᐅᑎᔾᔪᑎᓂᒃ ᐊᐅᓚᑦᑎᔩᑦ/tusaumaqattautijjutinik aulattijiit	Informatica
+ᒥᓗᑦᓱᑳᒐᖅ	Solanum lycopersicum
+ᑎᒦᑦᕆ ᒥᑦᕖᑎᕝ	Dmitrij Anatol'evič Medvedev
+ᕿᒥᕐᕈᐊᑦ ᐅᓐᓂᖅᑐᖅ ᒥᑦᓯ ᑐᑭᐊ	Dizionario
+ᓖᓚ ᑕᓅᔅ	Lila Downs
+ᐆᑉᓴᓚ/uupsala	Uppsala
+ᐃᐅᑕᐳᕆ	Göteborg
+ᑲᕐᓪᔅᑕᑦ	Karlstad (Svezia)
+ᒧᓪᓐᓕᑭ/ Mölnlycke	Mölnlycke
+ᐳᐃᔨᒃ	Phocidae
+ᑲᓇᑕᒥ ᐃᓄᐃᑦ ᐅᖃᐅᓯᖏᑦ	Lingue eschimo-aleutine
+ᑭᕝᒐᓗᒃ	Ondatra zibethicus
+ᑲᑉᐳᑎᒨᖅᑐᖅ	Potenza elettrica
+ᒧᓪᓐᑕᓪ/Mölndal	Mölndal
+ᓄᔭᐃᑦ	Pelo
+ᐃᓄᒃᑎᑐᑦ	Lingua inuktitut
+ᐸᒥᐅᖅᑑᖅ	Lutra lutra
+ᒥᖏᑎᑕᐅᑎᔪᖅ	Pugilato
+ᖃᕆᑕᐅᔭᕋᓛᖅ ᐊᑕᐅᓯᖅᓯᐅᑦ/qaritaujaralaaq atrausiqsiuit	Microcomputer
+ᓇᓄᖅ	Ursus maritimus
+ᑲᓪᓕᑕᖅ	Fulmine
+ᐊᒡᒐᒃ	Mano
+ᐊᑭᕈᐊᕈᖅ	Foglia
+ᕙᓪᐸᕃᓱ	Valparaíso
+ᖁᖅᓗᕐᓂᖅ	Cascata
+ᓯᐊᙳᓰᖂ	Oaxaca (stato)
+ᐱᓚᒥᔅ	Lingua fiamminga
+ᓯᐅᕋᖅ	Sabbia
+ᑕᕋᖅᑑᑦ	Raggi X
+ᐃᓗ	Grotta
+ᑐᒃᑐᕙᒃ	Alces alces
+ᓇᑕᖅᑯᕐᓇᐃᑦ/nataqqurnait	Grandine
+ᐊᕕᙵᖅ	Mus (genere)
+ᐊᑯᖅ	Baia
+ᑐᒃᑐ	Rangifer tarandus
+ᐃᒥᐊᓗᒃ	Bevanda
+ᔨᓐᓂᐱᕐ ᓗᐱᔅ	Jennifer Lopez
+ᐊᐃᕕᖅ	Odobenus rosmarus
+ᑐᖁᖓᔪᒥᒃ ᖃᐅᔨᓴᕐᓂᖅ	Autopsia
+ᖃᐅᔨᓴᕐᓂᖅ	Ricerca scientifica
+ᓇᐹᖅᑐᖃᕈᓐᓇᙱᑦᑐᖅ	Tundra
+ᑭᒡᒐᕕᒃ	Falco
+ᖃᓪᓗ	Sopracciglio
+ᑕᑦᕿᖅᓯᖅᑐᖅ	Eclissi lunare
+ᐃᓂᖅᑐᐃᒍᑎ	Paura
+ᖁᐱᓪᕈᖅ	Verme
+ᐱᑉᓯ ᑰᓛ	Pepsi-Cola
+ᒥᖅᓱᑎ	Macchina per cucire
+ᓈᕌᔩᖅ	Anura
+ᑎᑎᖅᑲᓕᐅᕈᑦ ᖃᕆᑕᐅᔭᙳᐊᒃᑯᑦ	Videoscrittura
+ᐳᑕᖅ	Piatto (stoviglia)
+ᓯᖓᐃᑦᔪᑎ	Spermatozoo
+ᐆ ᑲᓇᑕ	O Canada
+ᐃᒡᓗ	Iglù
+ᓄᓇᖃᖅᑳᖅᓯᒪᔪᑦ	Popoli indigeni
+ᕿᓐᓄᐊᔪᐊᖅ ᐋᓯᕙᒃ	Kenojuak Ashevak
+ᒪᒃᐱᖅᑕᐅᑦ	Fucile
+ᐃᕙᓗᕕᒃ ᐊᖑᑦ	Culturismo
+ᐃᕐᒥᒡᕕᒃ	Lavatrice
+ᓂᐱᐅᑦ	Colla
+ᕇ ᓕᖏᑏᖂ	One Direction
+ᐃᒥᒐᖅ	Bibita
+ᐆᒥᓱᑦᑐᖅ	Odio (sentimento)
+ᐄᓐᖃ	Qhapaq Inca
+ᑎᒻᒥᕗᖅ/timmivuq	Musca domestica
+ᓂᐱ	Archivio
+ᐅᒃᐱᒃ	Bubo scandiacus
+ᓯᓚᐅᕐᖏᖓ	Escatologia
+ᐃᓄᒃ	Homo
+ᑕᓕᐊᖅ	Orologio da polso
+ᓂᕿᓂᐅᕕᕐᕕᒃ	Supermercato
+ᐅᒥᒻᒪᖅ	Ovibos moschatus
+ᖃᕆᑕᐅᔭᖅ ᐊᒥᓱᓯᐅᑦ	Minicomputer
+ᐊᒥᐃᐅᓕᐅᕈ	Fotocopiatrice
+ᐃᓄᐃᑦ (ᓄᓇᖃᖅᑳᖅᓯᒪᔪᑦ)	Inuit
+ᐅᓪᓛᖅ/ullaaq	Alba (giorno)
+ᖁᐸᓄᐊᕐᔪᐊᖅ	Cyanocitta cristata
+ᐊᑭᖃᙱᑦᑐᒃᑯᑦ ᑕᐅᖅᓰᖃᑦᑕᕐᓂᖅ	Libero scambio
+ᐋᒪᐃᔪᖅ	Ubriachezza
+ᐊᖓᔮᕐᓇᖅᑐᖅ ᓯᓕᙴᑎᕚ ᐅᓪᓛᒃ	Postumi dell'ubriachezza
+ᕕᓯᐸ ᐱᐊᓯᐅ	Piaggio Vespa
+ᐱᓃᐊᔅᐃᕝᒥᕐᒃ	Phineas e Ferb
+ᕕᐅ	Anggun
+ᐅᑲᓕᒃ	Lepus arcticus
+ᐅᖃᖅᑐᖅ	Teoria degli atti linguistici
+ᓄᕐᒃᑲᕆᑦ ᐃᓕᑕᖅᓯᒍᑎ	Segnale di stop
+ᐅᕐᔭᖕ	Årjäng
+ᓇᓂᑦᓯᑰᔭᐃᑦ	Corn flakes
+ᑐᐱᙳᐊᖅ	Pomo d'Adamo
+ᓴᕝᓕ	Säffle
+ᔮᓐ ᒦᐆᕐ	John Muir
+ᐃᓄᐃᑦ ᖃᖓᑦᑕᔪᖏᑦ	Air Inuit
+ᐃᖃᓗᑉᐱᒃ	Salvelinus alpinus
+ᑕᑯᒥᓇᖅᓕᐅᖅᑎᑦ	Artista
+ᐃᑕ	Eda (comune)
+ᔭᐊᒻᐋᕉ	Hammarö
+ᕗᕐᓴᒐ	Forshaga (comune)
+ᓱᓇ	Sunne (comune)
+ᔅᑐᕐᕗᕐᔅ	Storfors (comune)
+ᑐᕐᔅᐳ	Torsby (comune)
+ᒃᕆᔅᑎᓂᔭᒻᓐ	Kristinehamn (comune)
+ᑎᑎᕋᖅᓯᒪᔪᓂᒃ ᓄᓇᓕᓐᓂ ᓄᓇᕗᒻᒥ	Comunità di Nunavut
+ᐊᕐᕕᑲ	Arvika
+ᑐᐱᓚᒃ	Tupilak
+ᑭᑦᑐᕇᓕᑕᖅ	Zanzariera
+ᐃᓄᒃᑦᓯᐊᖅ	Attrattività fisica
+ᒃᓚᐊᐱᑕ/klaipita	Klaipėda
+Pigazzano	Pigazzano
+ᕕᓕᑉᔅᑕᑦ	Filipstad
+ᓴᓐᓇ	Sedna (mitologia)
+ᐊᒡᕗᕐᔅ	Hagfors
+ᑭᓪ	Kil (Svezia)
+ᐊᕿᐊᕈᖅ	Stomaco
+Sonic The Hedgehog	Sonic (serie)
+ᐃᓄᒃᓱᒃ	Inukshuk
+ᐃᓄᒐᙳᐊᖅ	Falange (anatomia)
+ᓄᓇᕕᒃ	Nunavik
+ᐅᖓᕙ ᑲᖏᖅᓗᒃ	Baia di Ungava
+ᒦᓰᓰᐲ	Mississippi (disambigua)
+ᓐᓂᓗᐱᔅ'ᐊᕐ	Agnes Monica
+Category:ᑲᓇᑕ	Categoria:Canada
+ᕿᑭᖅᑖᓗᒃ	Regione di Qikiqtaaluk
+Category:ᐱᕈᖅᑐᖅ/piruqtuq	Categoria:Piante
+Category:ᖃᐅᔨᓴᕐᓃᑦ	Categoria:Scienza
+ᒡᕈᒻᔅ	Grums
+ᒧᓐᒃᕗᕐᔅ	Munkfors
+ᓯᑎᒐᖅ	Cuccia
+ᐃᑖᖏᔭᖅᑐᖅ	Polluzione
+ᓂᕿᑦᓯᐊᕙᓕᕆᓂᖅ	Nutrizione
+ᑎᑎᕋᐅᓯᖅᑐᖅ ᓄᑖᖅ	Sillabario inuktitut
+Category:ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ	Categoria:Stub
+Category:ᐊᖏᔪᖅ ᒥᕗᒃ	Categoria:Continenti
+Category:ᐃᓅᖃᑎᒌᑦ ᐃᓕᖅᑯᓯᖃᑎᒌᒃᑐᑦ	Categoria:Nazioni
+ᐅᐃᑭᐱᑎᐊoikipitia:ᑐᑭᓕᐅᖅᐹinuluriji	Wikipedia:Amministratori
+ᐅᐃᑭᐱᑎᐊ:Bots	Wikipedia:Bot
+Category:ᖃᕆᓴᐅᔭᒃᑯᑦ ᑎᑎᕋᖅᓯᒪᔪᑦ	Categoria:Internet
+Category:ᐃᓕᓐᓂᐊᖅᑐᓕᕆᓂᖅ/ilinniaqtuliriniq	Categoria:Educazione
+ᑯᓇᔅ/kunas	Kaunas
+ᐅᐃᑭᐱᑎᐊ:Sock puppetry	Wikipedia:Utenze multiple
+Template:Bot	Template:Bot
+ᑲᓇᑕ	Canada
+Category:ᔅᕗᕆᑭ	Categoria:Svezia
+Template:Documentation	Template:Man
+Category:Babel	Categoria:Utenti per lingua
+ᐅᐃᑭᐱᑎᐊ:ᓇᐃᑦᑐᒥᒃ ᐅᖃᓕᒫᕐᕕᒃ	Aiuto:Abbozzo
+Template:Softredirect	Template:Soft redirect
+Template:ᓂᐸᖅᑎᐹ	Template:Cancella subito
+Category:ᐅᖃᕐᕕᐅᑎᔪᑦ	Categoria:Lingue
+Category:ᐅᐃᑭᐱᑎᐊ	Categoria:Wikipedia
+Category:ᑕᒃᕿᒃ	Categoria:Mesi dell'anno
+Template:Babel	Template:Babel
+Template:Commons	Template:Commons
+Template:Reflist	Template:References
+Template:Stub	Template:S
+Template:Mod	Template:Mod
+Template:Ai	Template:Benvenuto
+Category:User fr-1	Categoria:Utenti fr-1
+Template:Lang-ar	Template:Arabo
+Category:User en-4	Categoria:Utenti en-4
+Category:User en	Categoria:Utenti en
+Category:User en-2	Categoria:Utenti en-2
+Category:User hi	Categoria:Utenti hi
+Template:IPA	Template:IPA
+Category:ᖃᕋᓴᐅᔭᖅ	Categoria:Computer
+Category:User ja-N	Categoria:Utenti ja-M
+Template:InterWiki	Template:InterWiki
+Category:User simple	Categoria:Utenti simple
+Category:User az	Categoria:Utenti az
+Category:User be	Categoria:Utenti be
+Category:User hr	Categoria:Utenti hr
+Category:User eo	Categoria:Utenti eo
+Category:User et	Categoria:Utenti et
+Category:User fr	Categoria:Utenti fr
+Category:User gl	Categoria:Utenti gl
+Category:User ia	Categoria:Utenti ia
+Category:User ja	Categoria:Utenti ja
+Category:User sv	Categoria:Utenti sv
+Category:User fr-3	Categoria:Utenti fr-3
+Category:User cs-1	Categoria:Utenti cs-1
+Category:User da-1	Categoria:Utenti da-1
+Category:User et-1	Categoria:Utenti et-1
+Category:User gl-1	Categoria:Utenti gl-1
+Category:User hi-1	Categoria:Utenti hi-1
+Category:User ar-1	Categoria:Utenti ar-1
+Category:User be-2	Categoria:Utenti be-2
+Category:User da-2	Categoria:Utenti da-2
+Category:User fr-2	Categoria:Utenti fr-2
+Category:User ia-2	Categoria:Utenti ia-2
+Category:User cs-N	Categoria:Utenti cs-M
+Category:User fr-N	Categoria:Utenti fr-M
+Category:User it-N	Categoria:Utenti it-M
+Category:User af	Categoria:Utenti af
+Category:User af-1	Categoria:Utenti af-1
+Category:User als	Categoria:Utenti als
+Category:User als-1	Categoria:Utenti als-1
+Category:User ar	Categoria:Utenti ar
+Category:User ast	Categoria:Utenti ast
+Category:User ast-1	Categoria:Utenti ast-1
+Category:User az-N	Categoria:Utenti az-M
+Category:User bar	Categoria:Utenti bar
+Category:User bg	Categoria:Utenti bg
+Category:User bg-1	Categoria:Utenti bg-1
+Category:User ca	Categoria:Utenti ca
+Category:User ca-1	Categoria:Utenti ca-1
+Category:User cs	Categoria:Utenti cs
+Category:User da	Categoria:Utenti da
+Category:User de	Categoria:Utenti de
+Category:User de-2	Categoria:Utenti de-2
+Category:User de-3	Categoria:Utenti de-3
+Category:User de-N	Categoria:Utenti de-M
+Category:User en-3	Categoria:Utenti en-3
+Category:User en-N	Categoria:Utenti en-M
+Category:User eo-1	Categoria:Utenti eo-1
+Category:User eo-2	Categoria:Utenti eo-2
+Category:User eo-3	Categoria:Utenti eo-3
+Category:User es	Categoria:Utenti es
+Category:User es-1	Categoria:Utenti es-1
+Category:User es-2	Categoria:Utenti es-2
+Category:User es-4	Categoria:Utenti es-4
+Category:User es-N	Categoria:Utenti es-M
+Category:User eu	Categoria:Utenti eu
+Category:User eu-4	Categoria:Utenti eu-4
+Category:User fa	Categoria:Utenti fa
+Category:User fa-1	Categoria:Utenti fa-1
+Category:User fa-N	Categoria:Utenti fa-M
+Category:User fi	Categoria:Utenti fi
+Category:User fi-N	Categoria:Utenti fi-M
+Category:User grc	Categoria:Utenti grc
+Category:User grc-1	Categoria:Utenti grc-1
+Category:User gsw	Categoria:Utenti gsw
+Category:User hr-1	Categoria:Utenti hr-1
+Category:ᐊᓯᐊᙳᑐᖅ ᐃᓄᐃᑦ (ᓄᓇᖃᖅᑳᖅᓯᒪᔪᑦ)/inuit (nunaqaqqaaqsimajut)	Categoria:Inuit
+Category:User pt-4	Categoria:Utenti pt-4
+Category:User sv-1	Categoria:Utenti sv-1
+Category:User sv-N	Categoria:Utenti sv-M
+Category:User tr	Categoria:Utenti tr
+Category:User tr-N	Categoria:Utenti tr-M
+Category:User wa	Categoria:Utenti wa
+Category:User wa-N	Categoria:Utenti wa-M
+Template:Lang	Template:Lang
+Category:User no-1	Categoria:Utenti no-1
+Category:User no	Categoria:Utenti no
+Category:ᓄᓇᕗᑦ/nunavut	Categoria:Nunavut
+Category:ᓯᓚᕐᔪᐊᒥᐅᑦ	Categoria:Animali
+Category:User simple-2	Categoria:Utenti simple-2
+Category:ᐃᖏᕐᕋᔾᔪᑎᑦ/ingirrajjutit	Categoria:Trasporti
+Category:User es-0	Categoria:Utenti es-0
+Category:User en-1	Categoria:Utenti en-1
+Category:User de-1	Categoria:Utenti de-1
+Category:User da-N	Categoria:Utenti da-M
+ᑕᕐᕋᓕᑭᑖᖅ	Farfalla
+Special:RecentChanges	Speciale:UltimeModifiche

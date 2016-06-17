@@ -1,0 +1,520 @@
+Afirka	Africa
+Japan	Giappone
+Norway	Norvegia
+Ireland	Irlanda
+Hungariya	Ungheria
+An Spàinn	Spagna
+Amurika	Stati Uniti d'America
+Beljik	Belgio
+Luksamburg	Lussemburgo
+Duniya	Terra
+Yan-adam	Homo sapiens
+Finland	Finlandia
+Sweden	Svezia
+Denmark	Danimarca
+Poland	Polonia
+Lithuania	Lituania
+Italiya	Italia
+Switzerland	Svizzera
+Austriya	Austria
+Greek	Grecia
+Turkiyya	Turchia
+Portugal	Portogallo
+Turai	Europa
+Asiya	Asia
+Amirka ta Arewa	America del Nord
+Wikipedia	Wikipedia
+Berlin	Berlino
+Airbus	Airbus
+Na'ura	Computer
+Yanar gizo	Internet
+Barack Obama	Barack Obama
+Pariis	Parigi
+Kenya	Kenya
+Ethiopia	Etiopia
+Zaki	Panthera leo
+Faransa	Francia
+Esperanto	Lingua esperanto
+Kare	Canis lupus familiaris
+Birtaniya	Regno Unito
+Kyanwa	Felis silvestris catus
+Sin	Cina
+Kifi	Pesce
+Rasha	Russia
+Teku	Mare
+São Paulo	San Paolo (Brasile)
+Jamus	Germania
+Iceland	Islanda
+Istoniya	Estonia
+Jirgin sama	Aeroplano
+Ɗaya	1 (numero)
+Biyu	2 (numero)
+Uku	3 (numero)
+Huɗu	4 (numero)
+Biyar	5 (numero)
+Laitfiya	Lettonia
+Ukraniya	Ucraina
+Kazech	Repubblica Ceca
+Slofakiya	Slovacchia
+Sloveniya	Slovenia
+MOldufiniya	Moldavia
+Romainiya	Romania
+Bulgairiya	Bulgaria
+Masadoiniya	Repubblica di Macedonia
+Albaniya	Albania
+Kroatiya	Croazia
+Azerbaijan	Azerbaigian
+Andorra	Andorra
+Cyprus	Cipro
+Georgia (country)	Georgia
+Kazakystan	Kazakistan
+Malta	Malta
+Monaco	Principato di Monaco
+Montenegro	Montenegro
+Vatican	Città del Vaticano
+San Marino	San Marino
+Indonesiya	Indonesia
+Afirka ta kudu	Sudafrica
+Aljeriya	Algeria
+Uzbekistan	Uzbekistan
+Ruwa	Acqua
+Chile	Cile
+Isa Almasihu	Gesù
+Singafora	Singapore
+Ilmi	Scienza
+Liechtenstein	Liechtenstein
+Hitler	Adolf Hitler
+Facebook	Facebook
+Baharain	Bahrein
+Armeniya	Armenia
+Serbiya	Serbia
+Wata	Luna
+Santanbul	Istanbul
+Asturaliya	Australia
+Koriya ta Arewa	Corea del Nord
+Kambodiya	Cambogia
+Musulunci	Islam
+Rana	Sole
+Angela Merkel	Angela Merkel
+Timor-Leste	Timor Est
+Duniyoyi	Pianeta
+Cadi	Ciad
+Indiya	India
+Mangolia	Mongolia
+Dabba	Animalia
+Shuka	Plantæ
+Kaza	Gallus gallus domesticus
+Jersey	Baliato di Jersey
+Aladu	Sus scrofa domesticus
+Iran	Iran
+Irak	Iraq
+Isra'ila	Israele
+Yemen	Yemen
+Jordan	Giordania
+Kyrgystan	Kirghizistan
+Kuwait	Kuwait
+Laos	Laos
+Lebanon	Libano
+Maldives	Maldive
+Maleziya	Malesia
+Myanmar	Birmania
+Nepal	Nepal
+Oman	Oman
+Pakistan	Pakistan
+Qatar	Qatar
+Saudiyya	Arabia Saudita
+Sri Lanka	Sri Lanka
+Siriya	Siria
+Tajikistan	Tagikistan
+Thailand	Thailandia
+Turkmenistan	Turkmenistan
+Taraiyar larabawa	Emirati Arabi Uniti
+Vietnam	Vietnam
+Koriya ta Kudu	Corea del Sud
+Da Simpsons	I Simpson
+Afghanistan	Afghanistan
+Bangladash	Bangladesh
+Mali	Mali
+Angola	Angola
+Bhutan	Bhutan
+Brunei	Brunei
+Filipin	Filippine
+Togo	Togo
+Benin	Benin
+Botswana	Botswana
+Burkina faso	Burkina Faso
+Burundi	Burundi
+Jamhuriyar dimokuradiyya Kwango	Repubblica Democratica del Congo
+Gine	Guinea
+Kameru	Camerun
+Libya	Libia
+Muritaniya	Mauritania
+Nijar	Niger
+Nijeriya	Nigeria
+Uganda	Uganda
+Senegal	Senegal
+Julius Caesar	Gaio Giulio Cesare
+Sudan	Sudan
+Majalisar Ɗinkin Duniya	Organizzazione delle Nazioni Unite
+Kofi Annan	Kofi Annan
+Montevideo	Montevideo
+Augustus	Augusto
+Gibraltar	Gibilterra
+Mota	Autovettura
+Buenos Aires	Buenos Aires
+Abarba	Ananas comosus
+Zinedine Yazid Zidane	Zinédine Zidane
+Baibûl	Bibbia
+Gaskiyan Cocin Isa	Vera Chiesa di Gesù
+Concepción, Chile	Concepción (Cile)
+Końskowola	Końskowola
+Maciji	Serpentes
+Kimiya	Chimica
+Lima	Lima
+Santiago de Chile	Santiago del Cile
+Osasco	Osasco (San Paolo)
+Dong Hoi Filin	Aeroporto di Dong Hoi
+Curitiba	Curitiba
+Confucius	Confucio
+Kiristancìì	Cristianesimo
+Nahiya	Continente
+Tsuntsu	Aves
+Main Page	Pagina principale
+Saratov	Saratov
+Bus	Autobus
+Åland	Isole Åland
+Makkah	La Mecca
+Canary Islands	Isole Canarie
+Category:Candidates for speedy deletion	Categoria:Cancellare subito
+Sahara	Deserto del Sahara
+Kyautar Nobel	Premio Nobel
+Sauro	Culicidae
+Raƙumi	Camelus
+Ƙudan zuma	Anthophila
+Margaret Thatcher	Margaret Thatcher
+Nelson Mandela	Nelson Mandela
+Category:Fàransà	Categoria:Francia
+Hakkokin Yan-adam	Diritti umani
+Hong Kong	Hong Kong
+Rio de Janeiro	Rio de Janeiro
+Addini	Religione
+Muhammad	Maometto
+Isle of Man	Isola di Man
+Ronald Reagan	Ronald Reagan
+Fernando Alonso	Fernando Alonso
+Bishiya	Albero
+APACHE	Apache HTTP Server
+Lissafi	Numero
+Masara	Zea mays
+Ƙasashen Duniya	Stati del mondo
+Dabbar beya	Ursidae
+Kurãme	Sordità
+Polio	Poliomielite
+Makaman nukiliya	Arma nucleare
+Macau	Macao
+Raƙumin dawa	Giraffa camelopardalis
+Template:Link FA	Template:Link V
+Wikipedia:Community Portal	Wikipedia:Bar
+Jimina	Struthio camelus
+Tara	9 (numero)
+Jaki	Equus asinus
+Tuje	Otididae
+Jamhuriyar Sin	Isola di Formosa
+Bakwai	7 (numero)
+Takwas	8 (numero)
+Dabbar rendiya	Cervidae
+Tafarnuwa	Allium sativum
+Shida	6 (numero)
+Moshchena	Moščena
+Selena	Selena
+Goma	10 (numero)
+Guernsey	Guernsey
+Kahuhu	Upupa epops
+Kyankyaso	Blattodea
+Galantoyi	Ciconia ciconia
+Kada	Crocodylia
+Kurciya	Streptopelia
+Zaƙami	Datura stramonium
+Hausawa	Hausa (popolo)
+Mošovce	Mošovce
+Benazir Bhutto	Benazir Bhutto
+Mahmoud Ahmadinejad	Mahmud Ahmadinejad
+Dokokin nan goma	Dieci comandamenti
+Damisa	Panthera pardus
+Ido	Lingua ido
+Larabawa	Arabi
+Madinah	Medina
+Gyaɗa	Arachis hypogaea
+Ɗari	100 (numero)
+Hawainiya	Chamaeleonidae
+Firinji	Frigorifero
+Khomeini	Ruhollah Khomeyni
+Ɗaɗɗoya	Ocimum basilicum
+Zirin Gaza	Striscia di Gaza
+Radio Studio 54 Network	Radio Studio 54 Network
+Ashirin	20 (numero)
+Arbaʼin	40 (numero)
+Palestin autonomija	Autorità Nazionale Palestinese
+Talatin	30 (numero)
+Dubu	1000 (numero)
+Desmond Tutu	Desmond Tutu
+Villeneuve-d'Ascq	Villeneuve-d'Ascq
+Tsibirin Bermuda	Triangolo delle Bermude
+Dabgi	Orycteropus afer
+Kotun Shari'ar Miyagun Laifuka	Corte penale internazionale
+Template:Commonscat	Template:Commonscat
+Afirnawan Amirka	Afroamericano
+Ƙwayoyin cuta na Ebola	Malattia da virus Ebola
+Hausa	Lingua hausa
+Ali Khamenei	Ali Khamenei
+Sao Vang Filin	Aeroporto di Sao Vang
+Sittin	60 (numero)
+Tsamiya	Tamarindus indica
+Kuɓewa	Abelmoschus esculentus
+Rogo	Manihot esculenta
+Karkandan	Diceros bicornis
+Cutar murar aladu	Pandemia influenzale del 2009
+Umaru Musa Yar'Adua	Umaru Yar'Adua
+Abbott (bakin dutse)	Abbot (cratere)
+Abbe (bakin dutse)	Abbe (cratere)
+Tattalin arzikin duniya	Crisi finanziaria
+Dila	Canis aureus
+Balbela	Bubulcus ibis
+Rimi	Ceiba pentandra
+Ashuwaki	Salvadora persica
+Zamfara	Zamfara
+Zariya	Zaria
+Blair Adams	Blair Adams
+Zirman	Ricinus communis
+Kuka	Adansonia digitata
+Ɓauna	Syncerus caffer
+Alkama	Triticum aestivum
+Kwari	Musca domestica
+Gweba	Psidium guajava
+Zabo	Numididae
+Dage	Mellivora capensis
+Herzegovina	Erzegovina
+CFA franc ( sefar yammaci Afirka)	Franco CFA
+Kaduna	Kaduna
+Gwaggon biri	Papio anubis
+Boko Haram	Boko Haram
+Jaffna	Jaffna
+Maiduguri	Maiduguri
+Afifiya	Testudines
+Gwaza	Colocasia esculenta
+Soso	Luffa
+Zogale	Moringa oleifera
+Casaʼin	90 (numero)
+Jibda	Civettictis civetta
+Ƙirƙa	Chlorocebus aethiops
+Batsiya	Ourebia ourebi
+43 (adadan)	43 (numero)
+Zawo	Gymnarchus niloticus
+Barewa	Eudorcas rufifrons
+Shamuwa	Ciconia abdimii
+Kanya	Diospyros mespiliformis
+Dadis Mousa Camara	Moussa Dadis Camara
+Mayen kifi	Ceryle rudis
+Agadez	Agadez
+Mazo	Tragelaphus scriptus
+Adnan Ahmed	Adnan Ahmed
+Marek Grechuta	Marek Grechuta
+Jan baki	Quelea quelea
+Baƙurna	Cephalophus rufilatus
+Kumurci	Naja nigricollis
+Matiyu	Vangelo secondo Matteo
+Kwara	Kwara
+Julia Savicheva	Julija Stanislavovna Savičeva
+Gwamki	Hippotragus equinus
+Tan Son Nhat Filin	Aeroporto Internazionale Tan Son Nhat
+Babba da jaka	Leptoptilos crumenifer
+Labarin kasa na Nijeriya	Geografia della Nigeria
+Waaken Santanbul	Cajanus cajan
+Carki	Buphagus
+Jihar Katsina	Katsina (stato)
+Danya	Sclerocarya birrea
+Kano	Kano (stato)
+Ybe	Yobe (stato)
+Tamanin	80 (numero)
+Sabaʼin	70 (numero)
+Hamsin	50 (numero)
+Yanyawa	Vulpes pallida
+Wushi-wushi	Dendrocygna bicolor
+Ƙirinjijiya	Dendrocygna viduata
+Gada	Sylvicapra grimmia
+Da Nang Filin	Aeroporto Internazionale di Da Nang
+Yankan Allah	Amadina fasciata
+VietJet Air	VietJet Air
+Bill Adams (footballer born 1902)	Bill Adams
+51 (adadan)	51 (numero)
+Ca Mau Filin	Aeroporto di Cà Mau
+Help:Contents	Aiuto:Aiuto
+Alan A'Court	Alan A'Court
+Zakaran ƙeƙuwa	Vanellus tectus
+Hankaka	Corvus albus
+C. W. Alcock	Charles Alcock
+Sisita	Uraeginthus bengalus
+Compton (bakin dutse)	Compton (cratere)
+Shaun Barker	Shaun Barker
+Jetstar Pacific Airlines	Jetstar Pacific Airlines
+Aya	Cyperus esculentus
+Tom Baddeley	Thomas Baddeley
+Category:Turkiyya	Categoria:Turchia
+Category:Afirka ta kudu	Categoria:Sudafrica
+Category:Nijeriya	Categoria:Nigeria
+Category:Vietnam	Categoria:Vietnam
+Category:Tsuntsu	Categoria:Uccelli
+Category:Shuka	Categoria:Piante
+Category:Addini	Categoria:Religione
+Category:Duniya	Categoria:Terra
+Gafiya	Cricetomys gambianus
+Karfasa	Tilapia
+LGBT hakkin a Afrika	Diritti LGBT in Africa
+Tommy Banks (footballer)	Tommy Banks
+Albert Adomah	Albert Adomah
+Riɗi	Sesamum indicum
+Albert Aldridge	Albert Aldridge
+Category:Stubs	Categoria:Stub
+ESB Villeneuve-d'Ascq	Entente Sportive Basket Villeneuve d'Ascq-Lille Métropole
+Alan Ainscow	Alan Ainscow
+Charles Adcock	Charles Adcock
+Craig Alcock	Craig Alcock
+Template:Tl	Template:Tl
+Template:Userbox	Template:Userbox
+Adebayo Akinfenwa	Adebayo Akinfenwa
+Steve Banks	Steve Banks
+Category:Ƙasā̀shē	Categoria:Nazioni
+Wikipedia:Administrators	Wikipedia:Amministratori
+Wikipedia:Vital 100	Wikipedia:Voci fondamentali/Lista1
+Misra	Egitto
+Template:Bot	Template:Bot
+Kanada	Canada
+Category:Slovakia	Categoria:Slovacchia
+Category:Tūrai	Categoria:Europa
+Template:Documentation	Template:Man
+Wikipedia:Community portal	Portale:Comunità
+Category:User languages	Categoria:Utenti per lingua
+Sung Jae-ki	Sung Jae-gi
+Template:Softredirect	Template:Soft redirect
+Template:Delete	Template:Cancella subito
+Category:Wikipedia	Categoria:Wikipedia
+Wikipedia:General disclaimer	Wikipedia:Avvertenze generali
+Template:Navbox	Template:Navbox
+Template:=	Template:=
+Template:Navbar	Template:Tnavbar
+Template:Unicode	Template:Unicode
+Template:Col-break	Template:Colonne spezza
+Template:Col-end	Template:Colonne fine
+Wikipedia:Vital articles	Wikipedia:Lista delle voci che tutte le Wikipedie dovrebbero avere
+Category:Afirka	Categoria:Africa
+Category:Adadan	Categoria:Numeri
+Template:Babel	Template:Babel
+Template:Reflist	Template:References
+Tommy Baldwin	Tommy Baldwin
+Template:Stub	Template:S
+Template:User af-1	Template:Utente af-1
+Template:User als-1	Template:Utente als-1
+Template:User ar-1	Template:Utente ar-1
+Template:User ast-1	Template:Utente ast-1
+Template:User az	Template:Utente az
+Template:See also	Template:Vedi anche
+Template:User da-2	Template:Utente da-2
+Template:User da	Template:Utente da
+Template:User ca-1	Template:Utente ca-1
+Template:User be-2	Template:Utente be-2
+Template:User da-1	Template:Utente da-1
+Template:User cs-1	Template:Utente cs-1
+Template:User bg-1	Template:Utente bg-1
+Template:User de	Template:Utente de
+Template:User de-1	Template:Utente de-1
+Template:User el	Template:Utente el
+Template:User de-3	Template:Utente de-3
+Template:User en-3	Template:Utente en-3
+Template:User el-1	Template:Utente el-1
+Template:User en-1	Template:Utente en-1
+Template:User en-2	Template:Utente en-2
+Template:User en-4	Template:Utente en-4
+Template:User en	Template:Utente en
+Template:User de-2	Template:Utente de-2
+Template:User tr-2	Template:Utente tr-2
+Template:User tr	Template:Utente tr
+Category:Asiya	Categoria:Asia
+Category:User uk	Categoria:Utenti uk
+Category:User uk-N	Categoria:Utenti uk-M
+Template:Mod	Template:Mod
+Template:User uk	Template:Utente uk
+Template:ITA	Template:ITA
+Template:Image label	Template:Etichetta immagine
+Template:Ambox	Template:Avviso
+Template:Infobox Country	Template:Stato
+Template:Cite journal	Template:Cita pubblicazione
+Category:User en-4	Categoria:Utenti en-4
+Category:User en	Categoria:Utenti en
+Category:User en-2	Categoria:Utenti en-2
+Template:Infobox	Template:Infobox
+Template:Cite web	Template:Cita web
+Template:Pp-template	Template:Pp-template
+Template:IPA	Template:IPA
+Category:Amurika	Categoria:America
+Template:MONTHNAME	Template:MONTHNAME
+Template:Image label end	Template:Etichetta immagine fine
+Template:Purge	Template:Purga
+Template:Sportivo	Template:Sportivo
+Kungiyar Agaji Ta Red Cross Ta Duniya	Comitato internazionale della Croce Rossa
+Template:Image label small	Template:Etichetta immagine piccola
+Template:Disambig	Template:Disambigua
+Category:User az	Categoria:Utenti az
+Category:User be	Categoria:Utenti be
+Category:User cs-1	Categoria:Utenti cs-1
+Category:User da-1	Categoria:Utenti da-1
+Category:User ar-1	Categoria:Utenti ar-1
+Category:User be-2	Categoria:Utenti be-2
+Category:User da-2	Categoria:Utenti da-2
+Category:User tr-2	Categoria:Utenti tr-2
+Category:User af	Categoria:Utenti af
+Category:User af-1	Categoria:Utenti af-1
+Category:User als	Categoria:Utenti als
+Category:User als-1	Categoria:Utenti als-1
+Category:User ar	Categoria:Utenti ar
+Category:User ast	Categoria:Utenti ast
+Category:User ast-1	Categoria:Utenti ast-1
+Category:User az-N	Categoria:Utenti az-M
+Category:User bar	Categoria:Utenti bar
+Category:User bg	Categoria:Utenti bg
+Category:User bg-1	Categoria:Utenti bg-1
+Category:User ca	Categoria:Utenti ca
+Category:User ca-1	Categoria:Utenti ca-1
+Category:User cs	Categoria:Utenti cs
+Category:User da	Categoria:Utenti da
+Category:User de	Categoria:Utenti de
+Category:User de-2	Categoria:Utenti de-2
+Category:User de-3	Categoria:Utenti de-3
+Category:User el	Categoria:Utenti el
+Category:User el-1	Categoria:Utenti el-1
+Category:User el-N	Categoria:Utenti el-M
+Category:User en-3	Categoria:Utenti en-3
+Category:User en-N	Categoria:Utenti en-M
+Category:User tr	Categoria:Utenti tr
+Category:User tr-N	Categoria:Utenti tr-M
+Category:Bishiya	Categoria:Alberi
+Category:Kudi	Categoria:Valute
+Category:Ingila kwallon kafa players	Categoria:Calciatori inglesi
+Category:Kifi	Categoria:Pesci
+Category:Amfani	Categoria:Frutta
+Category:Dabba	Categoria:Animali
+Kabewa	Cucurbita pepo
+Iska	Aria
+Template:FULLROOTPAGENAME	Template:FULLROOTPAGENAME
+Template:Flag	Template:Bandiera
+Trojany	Trojany
+Template:Image label begin	Template:Etichetta immagine inizio
+Template:Ns has subpages	Template:Ns has subpages
+Category:User en-1	Categoria:Utenti en-1
+Category:User de-1	Categoria:Utenti de-1
+Category:User da-N	Categoria:Utenti da-M
+Template:Start date	Template:Start date
+Malan boɗe ido	Farfalla
+Special:RecentChanges	Speciale:UltimeModifiche
+Module:Citation/CS1	Modulo:Citazione
+Module:Infobox	Modulo:Infobox
+Adam Armstrong (footballer)	Adam Armstrong
